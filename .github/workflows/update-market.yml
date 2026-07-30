@@ -20,7 +20,7 @@ jobs:
           cache: pip
           cache-dependency-path: requirements-data.txt
       - run: pip install -r requirements-data.txt
-      - run: python scripts/build_static_data.py
+      - run: PYTHONPATH=. python scripts/build_static_data.py
       - name: 保存最新行情
         run: |
           git config user.name "quant-update-bot"
