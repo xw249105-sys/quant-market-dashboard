@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03 04:18",
+  "updated_at": "2026-08-03 07:46",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 3216,
@@ -9463,19 +9463,43 @@
       "name": "银行ETF天弘",
       "type": "ETF",
       "alias": "银行ETF天弘"
+    },
+    {
+      "symbol": "561450",
+      "name": "红利低波50ETF华泰柏瑞",
+      "type": "ETF",
+      "alias": "红利低波50ETF华泰柏瑞"
+    },
+    {
+      "symbol": "561400",
+      "name": "畜牧养殖ETF鑫元",
+      "type": "ETF",
+      "alias": "畜牧养殖ETF鑫元"
+    },
+    {
+      "symbol": "159087",
+      "name": "化工ETF万家",
+      "type": "ETF",
+      "alias": "化工ETF万家"
+    },
+    {
+      "symbol": "159079",
+      "name": "价值ETF兴全",
+      "type": "ETF",
+      "alias": "价值ETF兴全"
     }
   ],
   "assets": [
     {
       "symbol": "300750",
-      "date": "2026-07-30",
-      "price": 401.88,
+      "date": "2026-07-31",
+      "price": 395.3,
       "score": 80,
       "signal": "分批买入观察",
-      "buy_low": 386.248,
-      "buy_high": 401.88,
-      "stop_loss": 370.616,
-      "target": 448.776,
+      "buy_low": 379.748,
+      "buy_high": 395.3,
+      "stop_loss": 364.196,
+      "target": 441.956,
       "risk": "中",
       "reasons": [
         "收盘价站上 MA20",
@@ -9490,18 +9514,17 @@
     },
     {
       "symbol": "159915",
-      "date": "2026-07-30",
-      "price": 3.27,
-      "score": 28,
+      "date": "2026-07-31",
+      "price": 3.368,
+      "score": 20,
       "signal": "回避/考虑减仓",
-      "buy_low": 3.086,
-      "buy_high": 3.27,
-      "stop_loss": 2.902,
-      "target": 3.823,
+      "buy_low": 3.18,
+      "buy_high": 3.368,
+      "stop_loss": 2.992,
+      "target": 3.932,
       "risk": "高",
       "reasons": [
         "中长期均线多头",
-        "RSI 偏低，存在超跌特征",
         "成交量高于 20 日均量"
       ],
       "name": "创业板ETF",
@@ -9510,179 +9533,179 @@
   ],
   "news": [
     {
-      "time": "16:49",
-      "title": "中国地震局启动四级应急响应 现场工作队赶赴震区",
+      "time": "44:41",
+      "title": "7月新能源车企销量分化 年度目标完成进度拉开差距",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829199768.html"
+      "url": "https://finance.eastmoney.com/a/202608033829208284.html"
     },
     {
-      "time": "05:46",
-      "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
+      "time": "44:00",
+      "title": "生态环境法典实施进入倒计时 赋能绿色产业升级倒逼企业转型",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829199512.html"
+      "url": "https://finance.eastmoney.com/a/202608033829208461.html"
     },
     {
-      "time": "53:43",
-      "title": "美国参议院筹款委员会发布融资立法草案的文本",
+      "time": "42:12",
+      "title": "谷歌地球紧急叫停AI生图：虚构场景可叠加卫星图散播假信息",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829198796.html"
+      "url": "https://finance.eastmoney.com/a/202608033829226459.html"
     },
     {
-      "time": "42:31",
-      "title": "四川宜宾市高县发生3.3级地震",
+      "time": "40:00",
+      "title": "国产存储器厂商加速“进击”市场",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829198586.html"
+      "url": "https://finance.eastmoney.com/a/202608033829188080.html"
     },
     {
-      "time": "19:47",
-      "title": "以军空袭加沙致18人死亡",
+      "time": "39:16",
+      "title": "C919起落架系统重要供应商利勃海尔航空上海工业厂房项目奠基",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829197824.html"
+      "url": "https://finance.eastmoney.com/a/202608033829226352.html"
     },
     {
-      "time": "08:34",
-      "title": "普睿司曼即将收购美国电气设备制造商安科",
+      "time": "39:16",
+      "title": "特朗普证实美日联合干预日元汇率 再提珍珠港",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829197541.html"
+      "url": "https://finance.eastmoney.com/a/202608033829226220.html"
     },
     {
-      "time": "59:07",
-      "title": "摩根大通：将美联储加息时间的预期提前至少半年",
+      "time": "39:00",
+      "title": "QFII二季度调仓呈现“头部化”特征 外资机构纷纷看好中国AI产业链",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829197234.html"
+      "url": "https://finance.eastmoney.com/a/202608033829187073.html"
     },
     {
-      "time": "42:54",
-      "title": "据报道 阿斯利康与百时美施贵宝就制药业巨额交易进行洽谈",
+      "time": "37:00",
+      "title": "首饰金与投资金价差扩大并未抑制“悦己消费”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829196839.html"
+      "url": "https://finance.eastmoney.com/a/202608033829187392.html"
     },
     {
-      "time": "31:44",
-      "title": "全球资金再平衡 港股凭估值性价比获得青睐",
+      "time": "36:55",
+      "title": "美军称对伊朗海上封锁仍在继续",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829191917.html"
+      "url": "https://finance.eastmoney.com/a/202608033829225939.html"
     },
     {
-      "time": "19:20",
-      "title": "极致行情拷问定力 基金经理反思“受迫交易”",
+      "time": "35:00",
+      "title": "高端算力价格持续上行 多家上市公司布局“词元工厂”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829190858.html"
+      "url": "https://finance.eastmoney.com/a/202608033829187532.html"
     },
     {
-      "time": "05:09",
-      "title": "7月股票型ETF“吸金”近4800亿元 创月度历史纪录",
+      "time": "34:00",
+      "title": "建设银行成为公募托管“一哥”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829190771.html"
+      "url": "https://finance.eastmoney.com/a/202608033829187887.html"
     },
     {
-      "time": "48:55",
-      "title": "巴西劳工党正式确认卢拉为总统候选人",
+      "time": "33:00",
+      "title": "多家银行重启发行5年期大额存单",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829194790.html"
+      "url": "https://finance.eastmoney.com/a/202608033829187280.html"
     },
     {
-      "time": "20:27",
-      "title": "伊朗重申霍尔木兹海峡不会恢复至战前状态",
+      "time": "32:40",
+      "title": "A股限售股解禁一览：136.37亿元市值限售股今日解禁",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829190654.html"
+      "url": "https://finance.eastmoney.com/a/202608033829226036.html"
     },
     {
-      "time": "10:50",
-      "title": "委内瑞拉与多米尼加决定逐步恢复外交关系",
+      "time": "32:02",
+      "title": "联想控股：预计上半年归属于公司权益持有人的净利润同比增长不低于186%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829189220.html"
+      "url": "https://finance.eastmoney.com/a/202608033829225730.html"
     },
     {
-      "time": "54:51",
-      "title": "阿拉格齐：伊朗与阿曼谈判接近完成",
+      "time": "31:00",
+      "title": "AI巨额投入正被重新定价",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829186219.html"
+      "url": "https://finance.eastmoney.com/a/202608033829187443.html"
     },
     {
-      "time": "50:27",
-      "title": "巴基斯坦西北部发生爆炸致14人死亡",
+      "time": "28:47",
+      "title": "阿斯利康据悉同百时美施贵宝洽谈合并",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829185371.html"
+      "url": "https://finance.eastmoney.com/a/202608033829225169.html"
     },
     {
-      "time": "42:58",
-      "title": "养老基金收益稳增彰显耐心资本力量",
+      "time": "28:00",
+      "title": "金融工具嵌入集采 医药企业竞争逻辑正被改写",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829184544.html"
+      "url": "https://finance.eastmoney.com/a/202608033829188594.html"
     },
     {
-      "time": "27:45",
-      "title": "创纪录！股票型ETF一个月净流入近4800亿元",
+      "time": "27:00",
+      "title": "三重守护托起我国“空调用电自由”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608023829181785.html"
+      "url": "https://finance.eastmoney.com/a/202608033829188645.html"
     },
     {
-      "time": "01:31",
-      "title": "摩根士丹利最新研判：AI投资进入“半场休整” 关注两大新主线",
+      "time": "26:00",
+      "title": "国产智能机器人全球爆单的启示",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608023829176875.html"
+      "url": "https://finance.eastmoney.com/a/202608033829189060.html"
     },
     {
-      "time": "47:36",
-      "title": "比亚迪、上汽集团、长城汽车......7月销量出炉",
+      "time": "24:00",
+      "title": "证券日报：卖方研究不能将流量凌驾于专业之上",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608023829174692.html"
+      "url": "https://finance.eastmoney.com/a/202608033829189390.html"
     },
     {
-      "time": "34:53",
-      "title": "过去三个月 日本减持了960亿美元的美国国债",
+      "time": "20:47",
+      "title": "公募鏖战主动ETF 5万亿ETF市场全新增长引擎启动在即",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608023829182356.html"
+      "url": "https://finance.eastmoney.com/a/202608033829205724.html"
     },
     {
-      "time": "22:59",
-      "title": "查实作弊 河南通报“三支一扶”案件核查结果 相关负责人停职",
+      "time": "19:50",
+      "title": "极致押注赛道放大波动 公募配置应回归长期价值本源",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608023829182269.html"
+      "url": "https://finance.eastmoney.com/a/202608033829196097.html"
     },
     {
-      "time": "05:31",
-      "title": "证监会对多家券商开出罚单 投行业务继续严监管",
+      "time": "18:57",
+      "title": "暑期文旅新业态“热力全开” 文体商旅融合释放新动能",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608023829179463.html"
+      "url": "https://finance.eastmoney.com/a/202608033829195951.html"
     },
     {
-      "time": "03:17",
-      "title": "中国广电：下半年要以光纤改造提升网络承载能力和业务供给水平 支撑多屏专属视听服务与融合产品矩阵",
+      "time": "18:47",
+      "title": "华天科技：近年来存储产品封测业务规模稳步扩大",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608023829180661.html"
+      "url": "https://finance.eastmoney.com/a/202608033829223988.html"
     },
     {
-      "time": "54:02",
-      "title": "持续发酵 欧足联或将投票罢免因凡蒂诺",
+      "time": "17:01",
+      "title": "AI应用赛道迎底部修复 多只主题基金单日涨幅超10%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608023829176461.html"
+      "url": "https://finance.eastmoney.com/a/202608033829195417.html"
     },
     {
       "time": "06-05",
