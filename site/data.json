@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03 20:45",
+  "updated_at": "2026-08-04 04:47",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 3216,
@@ -9491,221 +9491,203 @@
   ],
   "assets": [
     {
-      "symbol": "300750",
-      "date": "2026-07-31",
-      "price": 395.3,
+      "symbol": "159920",
+      "date": "2026-08-03",
+      "price": 1.535,
       "score": 80,
       "signal": "分批买入观察",
-      "buy_low": 379.748,
-      "buy_high": 395.3,
-      "stop_loss": 364.196,
-      "target": 441.956,
-      "risk": "中",
+      "buy_low": 1.509,
+      "buy_high": 1.535,
+      "stop_loss": 1.483,
+      "target": 1.613,
+      "risk": "低",
       "reasons": [
         "收盘价站上 MA20",
-        "中长期均线多头",
+        "MA20 高于 MA60",
         "RSI 位于健康区间",
         "MACD 位于信号线上方",
-        "成交量高于 20 日均量",
-        "20 日动量为正"
+        "20 日动量为正",
+        "近期波动可控"
       ],
-      "name": "宁德时代",
+      "name": "恒生ETF",
       "action": "可在参考区间小仓分批观察，不宜一次满仓"
-    },
-    {
-      "symbol": "159915",
-      "date": "2026-07-31",
-      "price": 3.368,
-      "score": 20,
-      "signal": "回避/考虑减仓",
-      "buy_low": 3.18,
-      "buy_high": 3.368,
-      "stop_loss": 2.992,
-      "target": 3.932,
-      "risk": "高",
-      "reasons": [
-        "中长期均线多头",
-        "成交量高于 20 日均量"
-      ],
-      "name": "创业板ETF",
-      "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "40:39",
-      "title": "科创板一晚连发31份回购增持公告 年内回购金额上限超百亿",
+      "time": "32:29",
+      "title": "道明：干预势头可能短暂推动美元/日元跌至153",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829997529.html"
+      "url": "https://finance.eastmoney.com/a/202608043830165047.html"
     },
     {
-      "time": "40:06",
-      "title": "韩国芯片独角兽DeepX估值飙升4倍至22亿美元",
+      "time": "29:10",
+      "title": "Palantir美股盘后涨超10%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829998065.html"
+      "url": "https://finance.eastmoney.com/a/202608043830164881.html"
     },
     {
-      "time": "38:55",
-      "title": "鼎龙股份：拟1亿元至2亿元回购公司股份",
+      "time": "10:58",
+      "title": "SNAP第二季度营收16亿美元 高于市场预期",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829997755.html"
+      "url": "https://finance.eastmoney.com/a/202608043830163535.html"
     },
     {
-      "time": "37:40",
-      "title": "江苏无锡通报牛蛙涉嫌抗生素超标：快检结果为阴性 正深入调查",
+      "time": "07:34",
+      "title": "Diamondback Energy二季度调整后每股收益（EPS）为6.48美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829997479.html"
+      "url": "https://finance.eastmoney.com/a/202608043830163285.html"
     },
     {
-      "time": "36:36",
-      "title": "哈塞特：近期报告中的通胀数据表现优异",
+      "time": "07:18",
+      "title": "Palantir二季度调整后每股收益（EPS）为0.41美元 分析师预期0.35美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829996792.html"
+      "url": "https://finance.eastmoney.com/a/202608043830162760.html"
     },
     {
-      "time": "36:26",
-      "title": "高乐股份：全资子公司签订31.95亿元算力服务合同",
+      "time": "07:03",
+      "title": "Palantir 2026年Q2营收19.3亿美元 高于市场预期",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829994367.html"
+      "url": "https://finance.eastmoney.com/a/202608043830163026.html"
     },
     {
-      "time": "35:18",
-      "title": "*ST大立：8月5日起撤销退市风险警示 股票简称变更为“大立科技”",
+      "time": "06:06",
+      "title": "安森美半导体二季度调整后每股收益（EPS）为0.74美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829996691.html"
+      "url": "https://finance.eastmoney.com/a/202608043830162974.html"
     },
     {
-      "time": "32:43",
-      "title": "维萨以24亿美元现金收购以色列网络安全公司Biocatch",
+      "time": "00:52",
+      "title": "纳斯达克中国金龙指数收涨0.75%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829994491.html"
+      "url": "https://finance.eastmoney.com/a/202608043830161678.html"
     },
     {
-      "time": "30:52",
-      "title": "中国内地量子领域规格最高会议在深举办",
+      "time": "00:33",
+      "title": "纳指涨超2%、七巨头指数创3月31日以来最佳单日表现 谷歌总市值超过苹果升至全球第二、亚马逊再创新高",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829979527.html"
+      "url": "https://finance.eastmoney.com/a/202608043830161742.html"
     },
     {
-      "time": "30:23",
-      "title": "布鲁克菲尔德完成橡树资本收购案",
+      "time": "33:50",
+      "title": "美国参议院领袖达成两党协议",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829979174.html"
+      "url": "https://finance.eastmoney.com/a/202608043830161492.html"
     },
     {
-      "time": "21:47",
-      "title": "美银上调爱彼迎目标价",
+      "time": "32:00",
+      "title": "中微公司上半年净利润预增逾2.8倍",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829975223.html"
+      "url": "https://finance.eastmoney.com/a/202608043830158540.html"
     },
     {
-      "time": "13:06",
-      "title": "摩根士丹利预计云计算支出将激增至1.2万亿美元",
+      "time": "15:11",
+      "title": "走差异化“出海”路径 资管机构抢筹港股基石投资",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829969087.html"
+      "url": "https://finance.eastmoney.com/a/202608043830159961.html"
     },
     {
-      "time": "10:40",
-      "title": "Strategy披露上周出售1,637枚比特币 价值超1.02亿美元",
+      "time": "11:01",
+      "title": "全美25州提起诉讼 反对美政府最新关税措施",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829967652.html"
+      "url": "https://finance.eastmoney.com/a/202608043830160644.html"
     },
     {
-      "time": "09:42",
-      "title": "中证协：券商不得因过度追求短期利润、业务扩张放松流动性管理",
+      "time": "04:44",
+      "title": "美国财政部公布可交易债务融资预估",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829967714.html"
+      "url": "https://finance.eastmoney.com/a/202608043830160596.html"
     },
     {
-      "time": "08:48",
-      "title": "波罗的海干散货运价指数涨4.06%",
+      "time": "04:30",
+      "title": "在岸人民币兑美元较上周五夜盘收盘跌35点",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829966534.html"
+      "url": "https://finance.eastmoney.com/a/202608043830160413.html"
     },
     {
-      "time": "07:12",
-      "title": "比特币硬件钱包Coldcard爆随机数漏洞 约1.1亿美元比特币被盗",
+      "time": "54:45",
+      "title": "伊朗称 除伊朗航线外不会允许任何其他霍尔木兹海峡航线通行",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829964762.html"
+      "url": "https://finance.eastmoney.com/a/202608043830160132.html"
     },
     {
-      "time": "02:44",
-      "title": "摩根士丹利下调Circle目标价",
+      "time": "43:15",
+      "title": "泽连斯基签署总统令 解除多名乌克兰驻外大使职务",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829964356.html"
+      "url": "https://finance.eastmoney.com/a/202608043830158375.html"
     },
     {
-      "time": "59:59",
-      "title": "特朗普家族支持的比特币矿企二季度亏损5715万美元 持币量增至8000枚",
+      "time": "31:43",
+      "title": "国际原油期货结算价收跌",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829961664.html"
+      "url": "https://finance.eastmoney.com/a/202608043830158229.html"
     },
     {
-      "time": "57:26",
-      "title": "纳斯达克100指数期货回吐日内全部涨幅",
+      "time": "30:05",
+      "title": "美银称若美联储说不清如何抗通胀方案美国国债就会重拾跌势",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829959355.html"
+      "url": "https://finance.eastmoney.com/a/202608043830158182.html"
     },
     {
-      "time": "56:59",
-      "title": "美光科技盘前跌幅扩大至5%",
+      "time": "17:36",
+      "title": "美国总统特朗普称 石油公司赚得太多",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829958997.html"
+      "url": "https://finance.eastmoney.com/a/202608043830157341.html"
     },
     {
-      "time": "56:15",
-      "title": "久吾高科：拟以2000万元至4000万元回购公司股份",
+      "time": "06:19",
+      "title": "特朗普：霍尔木兹海峡可能最迟明天就会重新开放",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829961013.html"
+      "url": "https://finance.eastmoney.com/a/202608043830155753.html"
     },
     {
-      "time": "55:38",
-      "title": "运达股份：拟投资建设丰镇市53万千瓦工业园区绿色供电项目（一期）",
+      "time": "59:51",
+      "title": "特朗普称 与伊朗的谈判现在正在进行中",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829961334.html"
+      "url": "https://finance.eastmoney.com/a/202608043830155410.html"
     },
     {
-      "time": "55:34",
-      "title": "ST任子行：撤销其他风险警示 股票将于8月5日复牌",
+      "time": "59:12",
+      "title": "Mousterian Corporation与三星重工业签署工程合同",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829961257.html"
+      "url": "https://finance.eastmoney.com/a/202608043830155550.html"
     },
     {
-      "time": "53:30",
-      "title": "阳光电源：拟5亿元-10亿元回购股份",
+      "time": "54:45",
+      "title": "AI热潮持续 新兴市场ETF单周吸金创2月以来新高",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829958758.html"
+      "url": "https://finance.eastmoney.com/a/202608043830155334.html"
     },
     {
-      "time": "48:33",
-      "title": "礼来公司Olomorasib获得美国FDA授予的突破性疗法认定",
+      "time": "50:07",
+      "title": "特朗普称 对美国、以色列与伊朗冲突的解决方案进展非常顺利",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608033829953733.html"
+      "url": "https://finance.eastmoney.com/a/202608043830155223.html"
     },
     {
       "time": "06-05",
