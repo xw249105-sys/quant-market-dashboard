@@ -8,10 +8,19 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: market-update-and-pages
+  cancel-in-progress: true
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
       - uses: actions/setup-python@v6
@@ -28,3 +37,12 @@ jobs:
           git add site/data.json
           git diff --cached --quiet || git commit -m "data: update market signals"
           git push
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v4
