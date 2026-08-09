@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 01:59",
+  "updated_at": "2026-08-10 03:54",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 3216,
@@ -9557,13 +9557,13 @@
     {
       "symbol": "300750",
       "date": "2026-08-07",
-      "price": 388.68,
+      "price": 388.07,
       "score": 60,
       "signal": "持有/等待确认",
-      "buy_low": 374.726,
-      "buy_high": 388.68,
-      "stop_loss": 360.773,
-      "target": 430.541,
+      "buy_low": 374.103,
+      "buy_high": 388.07,
+      "stop_loss": 360.136,
+      "target": 429.971,
       "risk": "中",
       "reasons": [
         "收盘价站上 MA20",
@@ -9573,9 +9573,99 @@
       ],
       "name": "宁德时代",
       "action": "暂不追买，等待趋势与成交量进一步确认"
+    },
+    {
+      "symbol": "159915",
+      "date": "2026-08-07",
+      "price": 3.586,
+      "score": 55,
+      "signal": "持有/等待确认",
+      "buy_low": 3.416,
+      "buy_high": 3.586,
+      "stop_loss": 3.246,
+      "target": 4.096,
+      "risk": "高",
+      "reasons": [
+        "收盘价站上 MA20",
+        "中长期均线多头",
+        "RSI 位于健康区间",
+        "MACD 位于信号线上方"
+      ],
+      "name": "创业板ETF",
+      "action": "暂不追买，等待趋势与成交量进一步确认"
     }
   ],
   "news": [
+    {
+      "time": "41:12",
+      "title": "也门军方发言人表示 胡塞武装已恢复对莫哈港的导弹和无人机袭击",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608103836020684.html"
+    },
+    {
+      "time": "40:52",
+      "title": "外资机构看好亚洲市场结构性增长机遇",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608103836015995.html"
+    },
+    {
+      "time": "35:48",
+      "title": "CIBC（加拿大帝国商业银行）将埃尔多拉多黄金公司（Eldorado Gold）的评级上调至“跑赢大盘” 目标价为75.25加元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608103836020515.html"
+    },
+    {
+      "time": "25:56",
+      "title": "匈牙利央行重申对匈牙利政府为满足加入欧元区条件所做的努力的支持 并称这将有利于该国经济发展",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608103836020467.html"
+    },
+    {
+      "time": "11:07",
+      "title": "“流动性+业绩”双重催化 布局海外科技股 QDII基金规模提升",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608103836015287.html"
+    },
+    {
+      "time": "51:55",
+      "title": "意大利海工集团（Italian Sea Group）启动竞标程序以寻找新投资者 不可撤销报价的竞标程序将由司法专员监督",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608103836019487.html"
+    },
+    {
+      "time": "39:46",
+      "title": "美国国家气象局已向纽约市发布高温预警 将持续至周一",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608103836019590.html"
+    },
+    {
+      "time": "28:45",
+      "title": "医药基金大幅“回血” 公募持仓降至冰点后迎市场反弹",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608103836014094.html"
+    },
+    {
+      "time": "18:12",
+      "title": "挪威Gassco公司将Gullfaks气田（每日840万立方米）的停产检修延长一天",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608103836019346.html"
+    },
+    {
+      "time": "10:00",
+      "title": "涨价是国产大模型走向成熟的必答题",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608103836011838.html"
+    },
     {
       "time": "54:24",
       "title": "美国西北部河流径流量维持在历史均值的83%",
@@ -9680,76 +9770,6 @@
       "source": "东方财富",
       "category": "财经",
       "url": "https://finance.eastmoney.com/a/202608093836005343.html"
-    },
-    {
-      "time": "05:48",
-      "title": "美国纽约一船只倾覆致2人死亡",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608093836003947.html"
-    },
-    {
-      "time": "00:06",
-      "title": "“白海豚”已减弱为强热带风暴",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608093836003743.html"
-    },
-    {
-      "time": "55:07",
-      "title": "伊媒说议会国家安全委员会批准霍尔木兹海峡安全纲要",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608093836000370.html"
-    },
-    {
-      "time": "31:24",
-      "title": "埃及、土耳其外交部就地区安全安排进行了磋商",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608093835992139.html"
-    },
-    {
-      "time": "30:11",
-      "title": "叙利亚与俄罗斯就两处俄军事基地达成谅解备忘录",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608093835990757.html"
-    },
-    {
-      "time": "21:26",
-      "title": "宇树科技周一申购 中一签能赚多少钱？海外合约已溢价近3倍",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608093835981339.html"
-    },
-    {
-      "time": "11:21",
-      "title": "下周资本市场大事提醒：中国7月金融数据或将下周公布 美国7月CPI数据揭晓",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608093835985926.html"
-    },
-    {
-      "time": "00:28",
-      "title": "受台风“白海豚”影响 浙江运河水系发生今年第1号洪水",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608093835984054.html"
-    },
-    {
-      "time": "42:35",
-      "title": "受台风“白海豚”影响 上海地铁临时运营调整",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608093835978880.html"
-    },
-    {
-      "time": "36:06",
-      "title": "美国白宫经济顾问哈塞特：看到通胀数据正在迅速下降",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608093835974536.html"
     },
     {
       "time": "06-05",
