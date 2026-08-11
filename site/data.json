@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11 06:22",
+  "updated_at": "2026-08-11 08:05",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 3216,
@@ -7,44 +7,44 @@
   },
   "indices": [
     {
-      "name": "深证成指",
-      "price": 14311.01,
-      "change": 1.42
-    },
-    {
-      "name": "创业板指",
-      "price": 3563.12,
-      "change": 1.35
-    },
-    {
-      "name": "纳斯达克",
-      "price": 26690.62,
-      "change": 1.3
-    },
-    {
-      "name": "上证指数",
-      "price": 3940.04,
-      "change": 1.02
-    },
-    {
-      "name": "标普500",
-      "price": 7757.64,
-      "change": 0.62
+      "name": "日经225",
+      "price": 66970.22,
+      "change": 2.08
     },
     {
       "name": "恒生指数",
-      "price": 25668.03,
-      "change": 0.54
+      "price": 25937.49,
+      "change": 1.05
+    },
+    {
+      "name": "上证指数",
+      "price": 3966.59,
+      "change": 0.67
+    },
+    {
+      "name": "深证成指",
+      "price": 14316.96,
+      "change": 0.04
+    },
+    {
+      "name": "标普500",
+      "price": 7753.11,
+      "change": -0.06
     },
     {
       "name": "道琼斯",
-      "price": 54036.93,
-      "change": 0.28
+      "price": 53975.98,
+      "change": -0.11
     },
     {
-      "name": "日经225",
-      "price": 65606.71,
-      "change": -0.12
+      "name": "纳斯达克",
+      "price": 26605.36,
+      "change": -0.32
+    },
+    {
+      "name": "创业板指",
+      "price": 3537.21,
+      "change": -0.73
     }
   ],
   "sectors": {
@@ -9603,179 +9603,179 @@
   ],
   "news": [
     {
-      "time": "18:29",
-      "title": "金融产品网络营销新规9月底起实施 保险业提前摸排整治账号端乱象",
+      "time": "04:00",
+      "title": "千问推出办公助理付费服务：三档套餐 一年最高1499元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837023263.html"
+      "url": "https://finance.eastmoney.com/a/202608103836975497.html"
     },
     {
-      "time": "16:59",
-      "title": "多重稳市信号释放 资本市场着力强韧性、提信心",
+      "time": "01:11",
+      "title": "韩国KOSPI指数开盘下跌0.9%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113836994959.html"
+      "url": "https://finance.eastmoney.com/a/202608113837209717.html"
     },
     {
-      "time": "13:00",
-      "title": "我国对原产于墨西哥和美国的进口碧根果实施临时反倾销措施",
+      "time": "57:02",
+      "title": "机器狗上路还有多远？行业标准正在制定中",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608103836949462.html"
+      "url": "https://finance.eastmoney.com/a/202608103836560420.html"
     },
     {
-      "time": "11:08",
-      "title": "基辅遭遇弹道导弹袭击 乌多地发布防空警报",
+      "time": "55:22",
+      "title": "《煤炭工业发展“十五五”规划》印发 矿井智能化改造迎来发展窗口期",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837021873.html"
+      "url": "https://finance.eastmoney.com/a/202608113837171355.html"
     },
     {
-      "time": "09:38",
-      "title": "美联储9月加息25个基点的概率为51.2%",
+      "time": "54:33",
+      "title": "韩国互联网巨头NAVER通过风投基金向Anthropic投资100亿韩元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837021113.html"
+      "url": "https://finance.eastmoney.com/a/202608113837209380.html"
     },
     {
-      "time": "01:31",
-      "title": "周二亚太早盘 道琼斯指数期货跌0.01%",
+      "time": "53:22",
+      "title": "美国科技公司循环融资或吹大产业泡沫",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837018158.html"
+      "url": "https://finance.eastmoney.com/a/202608113837015548.html"
     },
     {
-      "time": "54:30",
-      "title": "当地时间11日零时30分至36分 基辅响起两轮强烈的持续爆炸声",
+      "time": "52:02",
+      "title": "美国国债快步走向隐性违约",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837014732.html"
+      "url": "https://finance.eastmoney.com/a/202608113837016894.html"
     },
     {
-      "time": "49:00",
-      "title": "Hims&Hers表示公司正在对BPC-157肽进行测试",
+      "time": "51:01",
+      "title": "暑期文博热撬动消费新增量",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837014481.html"
+      "url": "https://finance.eastmoney.com/a/202608113837017050.html"
     },
     {
-      "time": "45:49",
-      "title": "欧债收益率集体上涨 英国10年期国债收益率涨6.7个基点",
+      "time": "50:01",
+      "title": "下班后来AI夜校充电",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837014252.html"
+      "url": "https://finance.eastmoney.com/a/202608113837020976.html"
     },
     {
-      "time": "42:47",
-      "title": "四川宜宾市高县发生3.9级地震 震源深度5公里",
+      "time": "49:02",
+      "title": "银行午休不是客户员工二选一",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837013053.html"
+      "url": "https://finance.eastmoney.com/a/202608113837017371.html"
     },
     {
-      "time": "38:39",
-      "title": "周二（8月11日）重点关注财经事件和经济数据",
+      "time": "48:57",
+      "title": "多瑙河水位回升 匈牙利保克什核电站逐步恢复供电",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837012939.html"
+      "url": "https://finance.eastmoney.com/a/202608113837155274.html"
     },
     {
-      "time": "36:34",
-      "title": "特朗普称美军实际控制霍尔木兹",
+      "time": "47:21",
+      "title": "央行“十五五”改革发展规划出炉 加快完善中央银行制度",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837012153.html"
+      "url": "https://finance.eastmoney.com/a/202608113837007421.html"
     },
     {
-      "time": "24:28",
-      "title": "Fermi盘后大涨34% 公司签订数据中心项目租赁协议",
+      "time": "46:59",
+      "title": "近12个月法国企业破产数量超7万家",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837010815.html"
+      "url": "https://finance.eastmoney.com/a/202608113837007138.html"
     },
     {
-      "time": "20:11",
-      "title": "乌克兰考虑通过摩尔多瓦铁路运输谷物",
+      "time": "46:01",
+      "title": "中国人工智能模型在澳受关注",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837010244.html"
+      "url": "https://finance.eastmoney.com/a/202608113837004559.html"
     },
     {
-      "time": "18:35",
-      "title": "现货黄金涨1.10% 现货白银涨3.20%",
+      "time": "45:09",
+      "title": "巴西“养老蓝海”待挖掘",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837010342.html"
+      "url": "https://finance.eastmoney.com/a/202608113837006456.html"
     },
     {
-      "time": "17:59",
-      "title": "富时中国A50指数期货夜盘收跌0.23%",
+      "time": "44:15",
+      "title": "中物联：7月份中国电商物流指数为111.2点",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837009828.html"
+      "url": "https://finance.eastmoney.com/a/202608113837138658.html"
     },
     {
-      "time": "15:22",
-      "title": "哥伦比亚总统：强震已致111死87伤",
+      "time": "44:12",
+      "title": "控通胀还是稳增长：欧洲央行左右为难",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837009623.html"
+      "url": "https://finance.eastmoney.com/a/202608113837006293.html"
     },
     {
-      "time": "13:58",
-      "title": "美航客机遭鸟击后返航",
+      "time": "43:01",
+      "title": "券商债券投顾业务迎新规 单券持仓设25%红线",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837008796.html"
+      "url": "https://finance.eastmoney.com/a/202608113837006036.html"
     },
     {
-      "time": "09:41",
-      "title": "巨力索具：需补税及滞纳金约702万元 此前曾因信披误导性陈述被罚",
+      "time": "42:23",
+      "title": "摩根士丹利启动“美国创新基础设施计划” 目标促成1.5万亿美元投融资等活动",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608103836875016.html"
+      "url": "https://finance.eastmoney.com/a/202608113837105845.html"
     },
     {
-      "time": "08:50",
-      "title": "IBM在加拿大发行了27.5亿美元的票据",
+      "time": "40:23",
+      "title": "百济神州与Revolution Medicines达成临床开发及区域商业化合作",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837008688.html"
+      "url": "https://finance.eastmoney.com/a/202608113837088689.html"
     },
     {
-      "time": "08:32",
-      "title": "兆易创新大动作！子公司出资1亿美元认购私募基金份额",
+      "time": "38:23",
+      "title": "伊朗总统称近日与最高领袖会谈七八个小时：他“健康状况很好”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608103836867724.html"
+      "url": "https://finance.eastmoney.com/a/202608113837082269.html"
     },
     {
-      "time": "08:13",
-      "title": "JBS第二季度调整后EBITDA为14.3亿美元",
+      "time": "38:05",
+      "title": "明星新股密集上市 多家银行上线“打新理财”专区",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837008183.html"
+      "url": "https://finance.eastmoney.com/a/202608113837023811.html"
     },
     {
-      "time": "05:28",
-      "title": "“两连板”先导基电提示风险：无磷化铟衬底相关业务收入 曾因转型半导体平台受到关注",
+      "time": "36:33",
+      "title": "实探北京二手房市场：咨询带看升温 区域存在分化",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608103836863055.html"
+      "url": "https://finance.eastmoney.com/a/202608113837024548.html"
     },
     {
-      "time": "04:13",
-      "title": "净利暴增715倍！江波龙上半年大赚超105亿 大基金在内多个股东减持",
+      "time": "35:35",
+      "title": "A股游戏公司上半年业绩分化明显 出海成为增长核心引擎",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608103836948958.html"
+      "url": "https://finance.eastmoney.com/a/202608113837024351.html"
     },
     {
-      "time": "03:43",
-      "title": "美股三大指数集体收跌",
+      "time": "34:23",
+      "title": "CoreWeave完成26亿美元AI基础设施贷款融资",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608113837008338.html"
+      "url": "https://finance.eastmoney.com/a/202608113837053753.html"
     },
     {
       "time": "06-05",
