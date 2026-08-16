@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 01:02",
+  "updated_at": "2026-08-17 03:11",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 3216,
@@ -9565,13 +9565,13 @@
     {
       "symbol": "159915",
       "date": "2026-08-14",
-      "price": 3.633,
+      "price": 3.645,
       "score": 70,
       "signal": "持有/等待确认",
-      "buy_low": 3.488,
-      "buy_high": 3.633,
-      "stop_loss": 3.344,
-      "target": 4.067,
+      "buy_low": 3.5,
+      "buy_high": 3.645,
+      "stop_loss": 3.356,
+      "target": 4.079,
       "risk": "中",
       "reasons": [
         "收盘价站上 MA20",
@@ -9584,56 +9584,15 @@
       "action": "暂不追买，等待趋势与成交量进一步确认"
     },
     {
-      "symbol": "600519",
-      "date": "2026-08-14",
-      "price": 1340.5,
-      "score": 65,
-      "signal": "持有/等待确认",
-      "buy_low": 1313.423,
-      "buy_high": 1340.5,
-      "stop_loss": 1286.346,
-      "target": 1421.731,
-      "risk": "中",
-      "reasons": [
-        "收盘价站上 MA20",
-        "MA20 高于 MA60",
-        "RSI 位于健康区间",
-        "20 日动量为正",
-        "近期波动可控"
-      ],
-      "name": "贵州茅台",
-      "action": "暂不追买，等待趋势与成交量进一步确认"
-    },
-    {
-      "symbol": "300750",
-      "date": "2026-08-14",
-      "price": 393.9,
-      "score": 60,
-      "signal": "持有/等待确认",
-      "buy_low": 382.992,
-      "buy_high": 393.9,
-      "stop_loss": 372.084,
-      "target": 426.624,
-      "risk": "中",
-      "reasons": [
-        "收盘价站上 MA20",
-        "RSI 位于健康区间",
-        "MACD 位于信号线上方",
-        "20 日动量为正"
-      ],
-      "name": "宁德时代",
-      "action": "暂不追买，等待趋势与成交量进一步确认"
-    },
-    {
       "symbol": "159920",
       "date": "2026-08-14",
-      "price": 1.48,
+      "price": 1.479,
       "score": 50,
       "signal": "谨慎观望",
-      "buy_low": 1.46,
-      "buy_high": 1.48,
-      "stop_loss": 1.439,
-      "target": 1.541,
+      "buy_low": 1.459,
+      "buy_high": 1.479,
+      "stop_loss": 1.438,
+      "target": 1.54,
       "risk": "低",
       "reasons": [
         "MA20 高于 MA60",
@@ -9646,6 +9605,62 @@
     }
   ],
   "news": [
+    {
+      "time": "53:08",
+      "title": "多米尼克·勒布朗将于美国东部时间周日下午4:30与美国贸易代表格里尔举行视频会议",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608173842583261.html"
+    },
+    {
+      "time": "25:18",
+      "title": "AI语料短缺瓶颈凸显 数据基建新机遇有望释放",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608173842580633.html"
+    },
+    {
+      "time": "11:00",
+      "title": "多家银行助力落地全市场首单非金融企业自贸离岸债",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608173842575554.html"
+    },
+    {
+      "time": "54:08",
+      "title": "AI助盲眼镜产业化提速 政策加持企业布局",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608173842578180.html"
+    },
+    {
+      "time": "35:48",
+      "title": "理性看待明星科技股IPO的弃购现象",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608173842573331.html"
+    },
+    {
+      "time": "30:02",
+      "title": "美国据悉已就针对巴西法官德莫赖斯的新制裁措施展开讨论",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608173842578253.html"
+    },
+    {
+      "time": "21:58",
+      "title": "暑期档票房已突破百亿元 今年暑期档口碑驱动票房的特征愈发显著",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608173842573462.html"
+    },
+    {
+      "time": "11:00",
+      "title": "今年A股再融资规模已超过4700亿元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608173842575432.html"
+    },
     {
       "time": "52:00",
       "title": "云南连夜通报：开展调查！",
@@ -9764,62 +9779,6 @@
       "source": "东方财富",
       "category": "财经",
       "url": "https://finance.eastmoney.com/a/202608163842534178.html"
-    },
-    {
-      "time": "55:42",
-      "title": "微信下架多部违规微短剧并处置违规小程序",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608163842534081.html"
-    },
-    {
-      "time": "44:15",
-      "title": "知情官员：海湾盟友对美沮丧情绪持续上升",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608163842531580.html"
-    },
-    {
-      "time": "39:38",
-      "title": "伊朗称美军已被驱逐不得进入海峡",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608163842529857.html"
-    },
-    {
-      "time": "49:31",
-      "title": "伊朗军方：对每名入境美国军人悬赏50亿土曼",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608163842527825.html"
-    },
-    {
-      "time": "46:17",
-      "title": "民调：德国联盟党支持率跌至近5年来新低",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608163842527718.html"
-    },
-    {
-      "time": "46:16",
-      "title": "伊朗称逮捕或消灭美军者将获奖励",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608163842526511.html"
-    },
-    {
-      "time": "44:16",
-      "title": "中信建投：恒生科技指数或将迎来首次重大调整",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608163842526680.html"
-    },
-    {
-      "time": "38:16",
-      "title": "伊朗方面消息称 伊朗央行行长赫马蒂访问伊拉克进行会谈",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608163842526457.html"
     },
     {
       "time": "06-05",
