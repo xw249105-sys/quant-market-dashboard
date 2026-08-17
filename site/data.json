@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 03:46",
+  "updated_at": "2026-08-18 05:44",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 3216,
@@ -9592,11 +9592,165 @@
   ],
   "news": [
     {
+      "time": "33:12",
+      "title": "特朗普：伊朗“不会达成我认为必要的那种协议”",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843641234.html"
+    },
+    {
+      "time": "26:32",
+      "title": "委内瑞拉强震已致6438人死亡",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843640927.html"
+    },
+    {
+      "time": "24:27",
+      "title": "美国和加拿大的贸易谈判据悉因汽车关税问题陷入僵局",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843641184.html"
+    },
+    {
+      "time": "19:08",
+      "title": "巴西国家石油公司高管称：亚马孙河口钻井迄今已耗资约3亿美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843640248.html"
+    },
+    {
+      "time": "16:15",
+      "title": "富时中国A50指数期货夜盘收跌0.23%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843640031.html"
+    },
+    {
+      "time": "12:43",
+      "title": "锂矿龙头利润暴增1076%！融捷股份年内股价涨逾四成",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608173843418195.html"
+    },
+    {
+      "time": "04:20",
+      "title": "人均超550万元！寒武纪124名员工股权激励即将到账",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608173843560226.html"
+    },
+    {
+      "time": "01:40",
+      "title": "“十五五”油气规划首提氢能储运体系",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608173843573567.html"
+    },
+    {
+      "time": "57:53",
+      "title": "伊朗官员：已为美国履行谅解备忘录设定最后期限",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608173843573656.html"
+    },
+    {
+      "time": "56:24",
+      "title": "5万亿新型电网 如何撑起“算力+绿电”新未来？",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608173843571138.html"
+    },
+    {
+      "time": "55:46",
+      "title": "科创板半年报亮点纷呈 “硬科技”释放强劲增长动能",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843625768.html"
+    },
+    {
+      "time": "44:34",
+      "title": "宇树科技将于8月19日上市 上半年营收11.52亿元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608173843517159.html"
+    },
+    {
+      "time": "34:31",
+      "title": "美国国家航空航天局表示：选择多家公司提供有效载荷处理服务",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843638467.html"
+    },
+    {
+      "time": "23:51",
+      "title": "半年翻7倍！Anthropic“年化营收”据传已突破650亿美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843637990.html"
+    },
+    {
+      "time": "14:48",
+      "title": "日本、英国6月抛售美国国债",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843637454.html"
+    },
+    {
+      "time": "13:47",
+      "title": "美方官员据悉提议仅扣除美国专属价值含量来减免加拿大汽车15%的关税 但加方官员要求扣除全部北美价值含量",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843637595.html"
+    },
+    {
+      "time": "00:10",
+      "title": "纳指收跌0.3% 存储、光通信板块逆势走强",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843636439.html"
+    },
+    {
+      "time": "41:14",
+      "title": "巴斯家族据悉将出售其剩余湖人队的股份给库什纳和艾格",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843636252.html"
+    },
+    {
+      "time": "38:22",
+      "title": "据报道，Anthropic按当前业务表现计算的年化营收有望突破650亿美元，较去年底的水平攀升逾六倍",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843636123.html"
+    },
+    {
+      "time": "36:46",
+      "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843635958.html"
+    },
+    {
+      "time": "30:04",
+      "title": "美元指数17日下跌",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843635789.html"
+    },
+    {
       "time": "25:42",
       "title": "国际油价17日上涨",
       "source": "东方财富",
       "category": "财经",
       "url": "https://finance.eastmoney.com/a/202608183843635495.html"
+    },
+    {
+      "time": "24:15",
+      "title": "华尔街神秘顶部指标再度亮灯？顶流私募被曝重启上市进程",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608183843635576.html"
     },
     {
       "time": "19:45",
@@ -9611,160 +9765,6 @@
       "source": "东方财富",
       "category": "财经",
       "url": "https://finance.eastmoney.com/a/202608183843630932.html"
-    },
-    {
-      "time": "45:02",
-      "title": "美国企业蓝筹债8月发行规模创历史新高",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843629738.html"
-    },
-    {
-      "time": "32:07",
-      "title": "上期所原油期货2609合约夜盘收涨4.91% 报596.50元人民币/桶",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843626684.html"
-    },
-    {
-      "time": "26:10",
-      "title": "一艘阿联酋油轮在霍尔木兹海峡被拦截",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843624558.html"
-    },
-    {
-      "time": "20:17",
-      "title": "伊朗表示 没有情报表明针对伊拉克库尔德斯坦的袭击是从伊朗境内发动的",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843624398.html"
-    },
-    {
-      "time": "16:48",
-      "title": "特朗普称不寻求延长与伊朗的谅解备忘录",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843621861.html"
-    },
-    {
-      "time": "15:01",
-      "title": "特朗普重申宣布霍尔木兹海峡为美国领土的“想法”",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843622154.html"
-    },
-    {
-      "time": "14:25",
-      "title": "美国30年期国债收益率突破5.31% 创下19年来新高",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843621619.html"
-    },
-    {
-      "time": "10:53",
-      "title": "特朗普谈及英国首相时称，认为他将开放北海",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843621514.html"
-    },
-    {
-      "time": "04:45",
-      "title": "特朗普表示 伊朗不会达成他认为必要的协议",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843621476.html"
-    },
-    {
-      "time": "58:51",
-      "title": "城堡证券：美债收益率飙升反映美联储政策风险 下次利率会议结果难料",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843621261.html"
-    },
-    {
-      "time": "57:08",
-      "title": "特朗普谈及阿曼表示 认为他们表现得不怎么样",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843621356.html"
-    },
-    {
-      "time": "47:23",
-      "title": "国际油价持续走高",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843621137.html"
-    },
-    {
-      "time": "47:00",
-      "title": "资金回笼承压 数据孤岛待破 统一标准缺位 地下管网见“智”更强“规”",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843617284.html"
-    },
-    {
-      "time": "22:46",
-      "title": "美联储隔夜逆回购协议（RRP）周一使用规模为25.5亿美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843620472.html"
-    },
-    {
-      "time": "22:24",
-      "title": "布油期货涨破90美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843620554.html"
-    },
-    {
-      "time": "16:22",
-      "title": "纳斯达克100指数转跌 抹去此前0.5%的涨幅",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843620285.html"
-    },
-    {
-      "time": "15:03",
-      "title": "抛售潮继续冲击长期美债 30年期收益率升至近二十年最高水平",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843620186.html"
-    },
-    {
-      "time": "10:10",
-      "title": "美国能源部长赖特表示 中东石油流量尚未完全恢复正常",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843618131.html"
-    },
-    {
-      "time": "53:01",
-      "title": "LME三个月期锡收盘下跌424美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843615348.html"
-    },
-    {
-      "time": "40:32",
-      "title": "伊朗官员称已为美设定最后期限",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843614756.html"
-    },
-    {
-      "time": "27:22",
-      "title": "美国战略石油储备的原油库存上周下降约530万桶",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843613161.html"
-    },
-    {
-      "time": "25:52",
-      "title": "马克·沃尔特（Mark Walter）和托德·伯利（Todd Boehly）据悉正就出售切尔西股份进行谈判",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183843613215.html"
     },
     {
       "time": "06-05",
