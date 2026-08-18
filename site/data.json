@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 01:50",
+  "updated_at": "2026-08-19 03:44",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 3216,
@@ -9658,6 +9658,153 @@
   ],
   "news": [
     {
+      "time": "23:10",
+      "title": "债券ETF规模首超9000亿元 固收被动投资加速提质扩容",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844959912.html"
+    },
+    {
+      "time": "21:21",
+      "title": "委内瑞拉GDP2026年第二季度同比增长7.14%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844968761.html"
+    },
+    {
+      "time": "12:03",
+      "title": "特朗普据悉考虑向加拿大提供关税豁免",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844968437.html"
+    },
+    {
+      "time": "11:10",
+      "title": "特朗普本周将对FDA最高职位的候选人进行面试",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844968589.html"
+    },
+    {
+      "time": "09:46",
+      "title": "世卫组织总干事谭德塞表示 刚果（金）的埃博拉疫情仍然是国际关注的公共卫生紧急事件",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844967049.html"
+    },
+    {
+      "time": "03:42",
+      "title": "美加关税谈判进入最后关头 特朗普政府淡化达成协议预期",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844967151.html"
+    },
+    {
+      "time": "01:57",
+      "title": "恒生指数主连夜盘收跌0.30%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844966929.html"
+    },
+    {
+      "time": "55:21",
+      "title": "加元兑美元下跌0.3%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844961352.html"
+    },
+    {
+      "time": "48:28",
+      "title": "通胀、赤字与AI融资齐袭 多国长期主权债收益率升至十余年高位",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844961248.html"
+    },
+    {
+      "time": "41:48",
+      "title": "以军持续打击加沙地带 巴方称袭击致多人死伤",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844968668.html"
+    },
+    {
+      "time": "33:54",
+      "title": "比利时东部大规模野火初步得到控制",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844958252.html"
+    },
+    {
+      "time": "19:48",
+      "title": "俄罗斯黑海港口附近至少五艘粮船遇袭 粮食供应风险升温",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844956662.html"
+    },
+    {
+      "time": "16:40",
+      "title": "美国天然气期货日内涨超3%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844956515.html"
+    },
+    {
+      "time": "12:30",
+      "title": "美股存储板块跌幅扩大 闪迪跌超10%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844956376.html"
+    },
+    {
+      "time": "11:06",
+      "title": "OpenAI：暂时放缓扩展速度 包括将对最新部署模型的强化学习训练暂停两周",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844956175.html"
+    },
+    {
+      "time": "03:15",
+      "title": "优步据称以每股6.62美元的价格出售7200万股Aurora股票",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844955585.html"
+    },
+    {
+      "time": "58:29",
+      "title": "罗素2000指数跌幅扩大至1.1%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844955451.html"
+    },
+    {
+      "time": "56:31",
+      "title": "伊朗外长：近期冲突表明未设美军基地的国家受损害更小",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844955037.html"
+    },
+    {
+      "time": "48:47",
+      "title": "美国柴油利润飙升至每桶100美元以上 创历史新高",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844952393.html"
+    },
+    {
+      "time": "31:09",
+      "title": "厄瓜多尔外交官巴基角逐下一任联合国秘书长",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844954851.html"
+    },
+    {
+      "time": "20:37",
+      "title": "美联储隔夜逆回购协议（RRP）周二使用规模为1.55亿美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608193844954554.html"
+    },
+    {
       "time": "12:50",
       "title": "美国体育媒体巨头ESPN的创始人比尔·拉斯穆森去世",
       "source": "东方财富",
@@ -9684,153 +9831,6 @@
       "source": "东方财富",
       "category": "财经",
       "url": "https://finance.eastmoney.com/a/202608193844953624.html"
-    },
-    {
-      "time": "53:49",
-      "title": "LME期铜收跌171美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193844952267.html"
-    },
-    {
-      "time": "43:02",
-      "title": "Anthropic的IPO前信贷额度预计将超越100亿美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193844951984.html"
-    },
-    {
-      "time": "36:59",
-      "title": "阿联酋国防部称探测到两枚从伊朗发射的弹道导弹",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193844951327.html"
-    },
-    {
-      "time": "35:26",
-      "title": "欧洲股市录得去年年末以来最长连跌 成交量接近年内最低水平",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193844951437.html"
-    },
-    {
-      "time": "25:48",
-      "title": "纳斯达克中国金龙指数跌幅扩大",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193844950377.html"
-    },
-    {
-      "time": "10:11",
-      "title": "镇海股份：实控人拟变更为张文龙",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193844949090.html"
-    },
-    {
-      "time": "06:42",
-      "title": "同惠电子：公司在精密阻抗测量领域拥有长期技术积淀",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193844947631.html"
-    },
-    {
-      "time": "06:38",
-      "title": "志高机械：6319.19万股限售股8月21日解禁",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193844948158.html"
-    },
-    {
-      "time": "06:35",
-      "title": "乔路铭：2760万股限售股8月24日解禁",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193844947461.html"
-    },
-    {
-      "time": "06:32",
-      "title": "秋乐种业：公司经营情况及内外部经营环境未发生重大变化",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193844947874.html"
-    },
-    {
-      "time": "06:27",
-      "title": "迪尔化工：将逐步推动熔盐项目建设及产能释放",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193844947533.html"
-    },
-    {
-      "time": "06:22",
-      "title": "雷特科技：上半年净利润同比下降28.39%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193844948615.html"
-    },
-    {
-      "time": "53:51",
-      "title": "西藏珠峰：2026年半年度净利润同比增长18.03%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183844944410.html"
-    },
-    {
-      "time": "45:10",
-      "title": "委内瑞拉2026年第二季度工业产出较2025年同期增长70%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183844943483.html"
-    },
-    {
-      "time": "43:52",
-      "title": "安道麦A：2026年半年度净利润4.33亿元 同比扭亏为盈",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183844943171.html"
-    },
-    {
-      "time": "42:37",
-      "title": "昊华能源：2026年半年度净利润同比增长66.14%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183844943297.html"
-    },
-    {
-      "time": "39:46",
-      "title": "美国银行力挺英伟达目标价看至350美元 称AI生态投资风险被市场夸大",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183844942267.html"
-    },
-    {
-      "time": "35:15",
-      "title": "恒天然发布的数据显示 8月18日全球乳品贸易（GDT）拍卖价格指数上涨2.3%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183844941154.html"
-    },
-    {
-      "time": "33:52",
-      "title": "小米集团ADR现下跌4%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183844940835.html"
-    },
-    {
-      "time": "32:50",
-      "title": "国际油价短线拉升至盘中高点",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183844940023.html"
-    },
-    {
-      "time": "29:54",
-      "title": "美银调查：基金经理股票配置升至近五年最高 空头几乎绝迹",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608183844939229.html"
     },
     {
       "time": "06-05",
