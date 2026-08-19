@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 05:45",
+  "updated_at": "2026-08-20 07:03",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 3216,
@@ -9577,6 +9577,24 @@
       "name": "科创机械ETF嘉实",
       "type": "ETF",
       "alias": "科创机械ETF嘉实"
+    },
+    {
+      "symbol": "517230",
+      "name": "云计算ETF永赢",
+      "type": "ETF",
+      "alias": "云计算ETF永赢"
+    },
+    {
+      "symbol": "159073",
+      "name": "粮食ETF汇添富",
+      "type": "ETF",
+      "alias": "粮食ETF汇添富"
+    },
+    {
+      "symbol": "158012",
+      "name": "云计算ETF南方",
+      "type": "ETF",
+      "alias": "云计算ETF南方"
     }
   ],
   "assets": [
@@ -9619,9 +9637,148 @@
       ],
       "name": "恒生ETF",
       "action": "当前不建议新开仓，优先控制风险"
+    },
+    {
+      "symbol": "600519",
+      "date": "2026-08-19",
+      "price": 1307.88,
+      "score": 50,
+      "signal": "谨慎观望",
+      "buy_low": 1281.171,
+      "buy_high": 1307.88,
+      "stop_loss": 1254.463,
+      "target": 1388.006,
+      "risk": "中",
+      "reasons": [
+        "MA20 高于 MA60",
+        "RSI 位于健康区间",
+        "20 日动量为正",
+        "近期波动可控"
+      ],
+      "name": "贵州茅台",
+      "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
+    {
+      "time": "58:06",
+      "title": "友邦保险上半年净利润42.9亿美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846759389.html"
+    },
+    {
+      "time": "48:13",
+      "title": "乌克兰基辅市长称该市遭袭已致1死4伤",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846758459.html"
+    },
+    {
+      "time": "46:07",
+      "title": "南海热带低压向偏西方向移动 “沙德尔”向北偏西方向移动",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846758392.html"
+    },
+    {
+      "time": "41:27",
+      "title": "科创债发行持续扩容提质",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846754455.html"
+    },
+    {
+      "time": "28:16",
+      "title": "周四你需要知道的隔夜全球要闻：美国财政部出手缓解长债抛售压力 黄金、比特币大幅上涨 标普500指数终结三连跌；美国公共债务首次突破40万亿美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846756939.html"
+    },
+    {
+      "time": "23:04",
+      "title": "上下游冷暖不一 上市铝企上半年业绩分化",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846732251.html"
+    },
+    {
+      "time": "22:15",
+      "title": "财富管理转型与股东回报双向发力 多家券商上半年营收净利双增",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846732346.html"
+    },
+    {
+      "time": "16:47",
+      "title": "激活民间投资 财政金融一揽子政策将发力",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846733379.html"
+    },
+    {
+      "time": "09:03",
+      "title": "联合国警告：以色列定居点计划威胁“两国方案”",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846752578.html"
+    },
+    {
+      "time": "05:18",
+      "title": "哥伦比亚强震已致314人死亡",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846749833.html"
+    },
+    {
+      "time": "04:07",
+      "title": "美联储9月维持利率不变的概率为67.3%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846752054.html"
+    },
+    {
+      "time": "01:16",
+      "title": "周四亚太早盘 道琼斯指数期货涨0.01%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846749762.html"
+    },
+    {
+      "time": "01:08",
+      "title": "美媒：美军开展秘密行动在霍尔木兹海峡打通运油航道",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846744817.html"
+    },
+    {
+      "time": "58:36",
+      "title": "澳大利亚黄金矿业公司Northern Star预计2027财年黄金产量为150万至165万盎司",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846744914.html"
+    },
+    {
+      "time": "58:25",
+      "title": "特朗普称掌握可严厉制裁伊朗措施",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846744035.html"
+    },
+    {
+      "time": "51:43",
+      "title": "富国：美国扩大回购是“豪赌”短端利率会走低",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846743812.html"
+    },
+    {
+      "time": "44:11",
+      "title": "牙买加中央银行将贷款利率维持在5.5%的水平",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846743678.html"
+    },
     {
       "time": "39:14",
       "title": "谷歌表示 Waymo将Gemini集成到定制无人驾驶出租车Ojai中",
@@ -9677,125 +9834,6 @@
       "source": "东方财富",
       "category": "财经",
       "url": "https://finance.eastmoney.com/a/202608203846739937.html"
-    },
-    {
-      "time": "41:27",
-      "title": "花旗称贝森特出手令美元付出代价 建议客户采用策略加以应对",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846739877.html"
-    },
-    {
-      "time": "26:51",
-      "title": "现货白银涨超5%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846739221.html"
-    },
-    {
-      "time": "16:29",
-      "title": "Webull第二季度调整后净利润为4320万美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846738759.html"
-    },
-    {
-      "time": "12:07",
-      "title": "国际油价19日上涨",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846738451.html"
-    },
-    {
-      "time": "01:42",
-      "title": "美国公共债务首次突破40万亿美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846737785.html"
-    },
-    {
-      "time": "01:24",
-      "title": "纳斯达克中国金龙指数收涨1.52%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846737685.html"
-    },
-    {
-      "time": "00:34",
-      "title": "纳指小幅收涨 存储、光通信板块下挫",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846737538.html"
-    },
-    {
-      "time": "58:36",
-      "title": "Hudson River Trading第二季度交易收入达到创纪录的114亿美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846736987.html"
-    },
-    {
-      "time": "51:19",
-      "title": "美元指数19日大幅下跌",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846736877.html"
-    },
-    {
-      "time": "43:31",
-      "title": "特朗普称美国人不必担心债券市场",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846736781.html"
-    },
-    {
-      "time": "41:29",
-      "title": "美联储纪要“鹰声”不小：许多官员保留加息选项 AI借贷风险也被盯上",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846736531.html"
-    },
-    {
-      "time": "32:55",
-      "title": "特朗普表示 可能和加拿大达成协议",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846737137.html"
-    },
-    {
-      "time": "30:23",
-      "title": "OpenAI的CFO称该公司将于2027年或更早上市",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846736321.html"
-    },
-    {
-      "time": "29:21",
-      "title": "恒生指数主连夜盘收涨0.94%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846736162.html"
-    },
-    {
-      "time": "27:50",
-      "title": "LME期镍涨2.26%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846736283.html"
-    },
-    {
-      "time": "24:52",
-      "title": "美国据悉开展行动通过霍尔木兹海峡运输石油",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846736054.html"
-    },
-    {
-      "time": "22:06",
-      "title": "厄瓜多尔情报机构负责人在肯尼亚直升机事故中死亡",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846735669.html"
     },
     {
       "time": "06-05",
