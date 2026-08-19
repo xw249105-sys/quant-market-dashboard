@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 01:45",
+  "updated_at": "2026-08-20 03:39",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 3216,
@@ -9623,6 +9623,132 @@
   ],
   "news": [
     {
+      "time": "22:06",
+      "title": "厄瓜多尔情报机构负责人在肯尼亚直升机事故中死亡",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846735669.html"
+    },
+    {
+      "time": "12:38",
+      "title": "特朗普表示 希望看到利率下降",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846734728.html"
+    },
+    {
+      "time": "10:20",
+      "title": "现货黄金涨破4500美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846734695.html"
+    },
+    {
+      "time": "07:51",
+      "title": "SpaceX据悉曾尝试收购AI编程初创公司Cognition",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846735452.html"
+    },
+    {
+      "time": "54:30",
+      "title": "俄副总理：俄罗斯已开始进口燃料",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846735153.html"
+    },
+    {
+      "time": "51:58",
+      "title": "伊朗央行行长：目前尚未有任何被冻结的资金解冻",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846735522.html"
+    },
+    {
+      "time": "50:20",
+      "title": "美联储会议纪要：与会者强调联邦基金利率是关键政策工具",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846730886.html"
+    },
+    {
+      "time": "45:57",
+      "title": "沃什提出将FOMC每年的政策会议次数从八次减少到六次",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846730621.html"
+    },
+    {
+      "time": "38:42",
+      "title": "美军称已使65艘商船改变航线",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846730561.html"
+    },
+    {
+      "time": "33:42",
+      "title": "AI芯片初创公司Fractile据悉正以65亿美元估值进行融资洽谈",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846730485.html"
+    },
+    {
+      "time": "30:10",
+      "title": "印度政府对大宗食糖消费者实施库存持有限制",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846729189.html"
+    },
+    {
+      "time": "20:39",
+      "title": "花旗建议买入20年期美国国债 称增加回购预示着收益率见顶",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846728068.html"
+    },
+    {
+      "time": "17:58",
+      "title": "优步、VERNE和小马智行在克罗地亚萨格勒布推出自动驾驶出行服务",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846728111.html"
+    },
+    {
+      "time": "11:26",
+      "title": "NASA与Katalyst Space因在轨救援航天器技术问题",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846727893.html"
+    },
+    {
+      "time": "02:25",
+      "title": "美联储7月28-29日会议纪要：多数与会者支持维持利率不变 但有数人赞成加息",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846727682.html"
+    },
+    {
+      "time": "57:52",
+      "title": "美国20年期国债中标收益率5.204% 高于发行前交易水平",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846727555.html"
+    },
+    {
+      "time": "52:00",
+      "title": "英伟达据悉正与其AI数据供应商Mercor商讨融资事宜",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846727244.html"
+    },
+    {
+      "time": "47:17",
+      "title": "特朗普称可能在“某个时候”恢复与伊朗谈判",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846726930.html"
+    },
+    {
       "time": "36:39",
       "title": "巴西央行表示 截至8月14日当月 巴西资金净流入总额为15.04亿美元",
       "source": "东方财富",
@@ -9635,6 +9761,13 @@
       "source": "东方财富",
       "category": "财经",
       "url": "https://finance.eastmoney.com/a/202608203846725351.html"
+    },
+    {
+      "time": "12:35",
+      "title": "美国财政部20年期国债拍卖得标利率为5.204%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608203846725010.html"
     },
     {
       "time": "08:24",
@@ -9663,139 +9796,6 @@
       "source": "东方财富",
       "category": "财经",
       "url": "https://finance.eastmoney.com/a/202608203846722468.html"
-    },
-    {
-      "time": "45:21",
-      "title": "实探亚宠展“黑科技” 多家A股公司亮相",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846717855.html"
-    },
-    {
-      "time": "35:05",
-      "title": "印尼东努沙登加拉省区域发生5.7级地震",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846717958.html"
-    },
-    {
-      "time": "26:18",
-      "title": "墨西哥主要股指涨幅扩大至1%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846717494.html"
-    },
-    {
-      "time": "20:13",
-      "title": "加拿大总理卡尼表示 加拿大正朝着与美国达成贸易协议迈进 谈判已取得显著进展",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846716519.html"
-    },
-    {
-      "time": "14:28",
-      "title": "特朗普提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846715368.html"
-    },
-    {
-      "time": "11:20",
-      "title": "中概股上涨",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846713771.html"
-    },
-    {
-      "time": "10:13",
-      "title": "现货铂金扩大涨幅至5.31%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846713280.html"
-    },
-    {
-      "time": "03:10",
-      "title": "国际贵金属涨幅持续扩大",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608203846711394.html"
-    },
-    {
-      "time": "59:43",
-      "title": "凯大催化：2026半年度净利润同比增长80.59%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193846711669.html"
-    },
-    {
-      "time": "57:47",
-      "title": "比特币暴涨引发全网超13亿美元爆仓 多数为空头仓位被强平",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193846714364.html"
-    },
-    {
-      "time": "56:25",
-      "title": "Strategy涨超14% 比特币一度突破6.9万美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193846709935.html"
-    },
-    {
-      "time": "55:34",
-      "title": "中国西电：2026年半年度净利润同比增长15.03%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193846709627.html"
-    },
-    {
-      "time": "47:07",
-      "title": "阿拉丁：2026年半年度净利润同比增长138.58%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193846707145.html"
-    },
-    {
-      "time": "47:03",
-      "title": "思瑞浦：2026年半年度净利润同比增长368.52%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193846707388.html"
-    },
-    {
-      "time": "45:47",
-      "title": "我国首次实现火箭陆地回收有何重要意义？专家解读：中国航天发射的成本有望降低70%以上",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193846707433.html"
-    },
-    {
-      "time": "45:13",
-      "title": "华阳集团：2026年半年度净利润同比增长17.55%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193846706515.html"
-    },
-    {
-      "time": "40:34",
-      "title": "长源电力：2026年半年度净利润同比增长82.39%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193846703289.html"
-    },
-    {
-      "time": "38:49",
-      "title": "江淮汽车：2026年半年度净亏损7.49亿元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193846703752.html"
-    },
-    {
-      "time": "38:45",
-      "title": "恒瑞医药：变更公司董事会秘书",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608193846704376.html"
     },
     {
       "time": "06-05",
