@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24 03:13",
+  "updated_at": "2026-08-24 05:00",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -7,44 +7,44 @@
   },
   "indices": [
     {
-      "name": "标普500",
-      "price": 7715.54,
-      "change": 0.31
-    },
-    {
-      "name": "道琼斯",
-      "price": 53454.1,
-      "change": 0.21
-    },
-    {
-      "name": "纳斯达克",
-      "price": 26340.7,
-      "change": 0.19
+      "name": "创业板指",
+      "price": 3545.58,
+      "change": 1.43
     },
     {
       "name": "恒生指数",
-      "price": 25495.07,
-      "change": 0.09
+      "price": 26009.46,
+      "change": 1.21
     },
     {
-      "name": "上证指数",
-      "price": 3894.42,
-      "change": -2.4
-    },
-    {
-      "name": "日经225",
-      "price": 65326.42,
-      "change": -3.16
+      "name": "道琼斯",
+      "price": 53277.01,
+      "change": 0.98
     },
     {
       "name": "深证成指",
-      "price": 13890.15,
-      "change": -5.01
+      "price": 14094.17,
+      "change": 0.87
     },
     {
-      "name": "创业板指",
-      "price": 3473.49,
-      "change": -6.26
+      "name": "标普500",
+      "price": 7674.37,
+      "change": 0.43
+    },
+    {
+      "name": "纳斯达克",
+      "price": 26180.45,
+      "change": 0.43
+    },
+    {
+      "name": "上证指数",
+      "price": 3905.2,
+      "change": 0.04
+    },
+    {
+      "name": "日经225",
+      "price": 66016.36,
+      "change": -0.3
     }
   ],
   "sectors": {
@@ -9642,25 +9642,118 @@
   "assets": [
     {
       "symbol": "159915",
-      "date": "2026-08-20",
-      "price": 3.495,
-      "score": 45,
-      "signal": "谨慎观望",
-      "buy_low": 3.375,
-      "buy_high": 3.495,
-      "stop_loss": 3.255,
-      "target": 3.854,
+      "date": "2026-08-21",
+      "price": 3.56,
+      "score": 70,
+      "signal": "持有/等待确认",
+      "buy_low": 3.438,
+      "buy_high": 3.56,
+      "stop_loss": 3.316,
+      "target": 3.926,
       "risk": "中",
       "reasons": [
+        "收盘价站上 MA20",
         "中长期均线多头",
         "RSI 位于健康区间",
-        "MACD 位于信号线上方"
+        "MACD 位于信号线上方",
+        "20 日动量为正"
       ],
       "name": "创业板ETF",
-      "action": "当前不建议新开仓，优先控制风险"
+      "action": "暂不追买，等待趋势与成交量进一步确认"
+    },
+    {
+      "symbol": "159920",
+      "date": "2026-08-21",
+      "price": 1.524,
+      "score": 65,
+      "signal": "持有/等待确认",
+      "buy_low": 1.505,
+      "buy_high": 1.524,
+      "stop_loss": 1.486,
+      "target": 1.581,
+      "risk": "低",
+      "reasons": [
+        "收盘价站上 MA20",
+        "MA20 高于 MA60",
+        "RSI 位于健康区间",
+        "20 日动量为正",
+        "近期波动可控"
+      ],
+      "name": "恒生ETF",
+      "action": "暂不追买，等待趋势与成交量进一步确认"
     }
   ],
   "news": [
+    {
+      "time": "44:08",
+      "title": "特朗普据悉将于9月12日、13日到访爱尔兰",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608243850446952.html"
+    },
+    {
+      "time": "26:30",
+      "title": "刚果民主共和国表示 确诊埃博拉病例数已升至5514例 其中死亡2642例",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608243850446686.html"
+    },
+    {
+      "time": "24:00",
+      "title": "资金借道宽基ETF布局科技成长 科创50ETF单周吸金逾43亿元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608243850444020.html"
+    },
+    {
+      "time": "04:13",
+      "title": "公募基金上半年经营数据陆续出炉 费率改革影响显现 头部稳固中部加速洗牌",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608243850442598.html"
+    },
+    {
+      "time": "51:15",
+      "title": "伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608243850446531.html"
+    },
+    {
+      "time": "47:12",
+      "title": "加拿大驻美大使：加美贸易谈判破裂原因涉及多项议题",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608243850446448.html"
+    },
+    {
+      "time": "44:09",
+      "title": "公募抱团科技股风光不再 基金经理转寻高赔率洼地",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608243850443960.html"
+    },
+    {
+      "time": "24:09",
+      "title": "俄国防部：击落269架乌克兰无人机",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608243850445246.html"
+    },
+    {
+      "time": "21:14",
+      "title": "市场潜力大出海空间广 生物医药价值重估在路上",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608243850442972.html"
+    },
+    {
+      "time": "11:22",
+      "title": "人工智能开源社区Hugging Face据称目前正收到多份并购提议 潜在交易价值达到130亿美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608243850445195.html"
+    },
     {
       "time": "05:14",
       "title": "几内亚首都一垃圾填埋场垮塌造成至少30人死亡",
@@ -9765,76 +9858,6 @@
       "source": "东方财富",
       "category": "财经",
       "url": "https://finance.eastmoney.com/a/202608243850423832.html"
-    },
-    {
-      "time": "54:16",
-      "title": "中际旭创：2027年1.6T和800G的订单需求相较2026年仍保持快速增长",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608233850421595.html"
-    },
-    {
-      "time": "53:06",
-      "title": "中际旭创：公司的产品价格降幅相对理性",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608233850421763.html"
-    },
-    {
-      "time": "52:38",
-      "title": "1块牛排串起1条买全球进口链 全球好物加速进入中国购物车",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608233850419885.html"
-    },
-    {
-      "time": "42:40",
-      "title": "“亚太广播联盟机械人(机器人)大赛”在香港举行",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608233850415448.html"
-    },
-    {
-      "time": "37:34",
-      "title": "全国鸡肉价格连涨两周 我国鸡肉产品出口大增",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608233850414143.html"
-    },
-    {
-      "time": "31:22",
-      "title": "“紫檀”造成广西10条河流15个站超警 紧急转移安置8087人",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608233850412128.html"
-    },
-    {
-      "time": "17:33",
-      "title": "突尼斯附近海域非法移民船倾覆已致11人死亡",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608233850407329.html"
-    },
-    {
-      "time": "08:41",
-      "title": "叙利亚、以色列官员据悉于周日举行会晤以缓和紧张局势",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608233850407028.html"
-    },
-    {
-      "time": "50:49",
-      "title": "明尼阿波利斯联储行长尼尔·卡什卡里表示：很难知道美债收益率上升的更大驱动因素",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608233850404498.html"
-    },
-    {
-      "time": "42:41",
-      "title": "王毅会见约旦副首相兼外交大臣萨法迪",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608233850404988.html"
     },
     {
       "time": "06-05",
