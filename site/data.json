@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 05:49",
+  "updated_at": "2026-08-26 07:37",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -9649,38 +9649,83 @@
       "name": "有色ETF工银",
       "type": "ETF",
       "alias": "有色ETF工银"
+    },
+    {
+      "symbol": "158000",
+      "name": "港股通金融ETF鹏华",
+      "type": "ETF",
+      "alias": "港股通金融ETF鹏华"
     }
   ],
   "assets": [
     {
       "symbol": "159920",
       "date": "2026-08-25",
-      "price": 1.494,
-      "score": 40,
+      "price": 1.498,
+      "score": 50,
       "signal": "谨慎观望",
-      "buy_low": 1.475,
-      "buy_high": 1.494,
-      "stop_loss": 1.456,
-      "target": 1.552,
+      "buy_low": 1.479,
+      "buy_high": 1.498,
+      "stop_loss": 1.46,
+      "target": 1.556,
       "risk": "低",
       "reasons": [
         "MA20 高于 MA60",
         "RSI 位于健康区间",
+        "20 日动量为正",
         "近期波动可控"
       ],
       "name": "恒生ETF",
       "action": "当前不建议新开仓，优先控制风险"
     },
     {
-      "symbol": "600519",
+      "symbol": "300750",
       "date": "2026-08-25",
-      "price": 1305.15,
+      "price": 376.73,
+      "score": 45,
+      "signal": "谨慎观望",
+      "buy_low": 366.652,
+      "buy_high": 376.73,
+      "stop_loss": 356.574,
+      "target": 406.964,
+      "risk": "中",
+      "reasons": [
+        "MA20 高于 MA60",
+        "RSI 位于健康区间",
+        "成交量高于 20 日均量"
+      ],
+      "name": "宁德时代",
+      "action": "当前不建议新开仓，优先控制风险"
+    },
+    {
+      "symbol": "159915",
+      "date": "2026-08-25",
+      "price": 3.419,
       "score": 40,
       "signal": "谨慎观望",
-      "buy_low": 1279.9,
-      "buy_high": 1305.15,
-      "stop_loss": 1254.65,
-      "target": 1380.9,
+      "buy_low": 3.308,
+      "buy_high": 3.419,
+      "stop_loss": 3.197,
+      "target": 3.752,
+      "risk": "中",
+      "reasons": [
+        "中长期均线多头",
+        "RSI 位于健康区间",
+        "20 日动量为正"
+      ],
+      "name": "创业板ETF",
+      "action": "当前不建议新开仓，优先控制风险"
+    },
+    {
+      "symbol": "600519",
+      "date": "2026-08-25",
+      "price": 1304.0,
+      "score": 40,
+      "signal": "谨慎观望",
+      "buy_low": 1278.615,
+      "buy_high": 1304.0,
+      "stop_loss": 1253.23,
+      "target": 1380.155,
       "risk": "低",
       "reasons": [
         "MA20 高于 MA60",
@@ -9689,201 +9734,183 @@
       ],
       "name": "贵州茅台",
       "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "300750",
-      "date": "2026-08-25",
-      "price": 380.05,
-      "score": 35,
-      "signal": "谨慎观望",
-      "buy_low": 370.116,
-      "buy_high": 380.05,
-      "stop_loss": 360.183,
-      "target": 409.851,
-      "risk": "中",
-      "reasons": [
-        "MA20 高于 MA60",
-        "RSI 位于健康区间"
-      ],
-      "name": "宁德时代",
-      "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "33:23",
-      "title": "美国国务卿鲁比奥据悉于近日告知多位外国对口官员，“目前”预计美国不会对伊朗发起新的打击，美国对伊朗从打击转向制裁",
+      "time": "35:22",
+      "title": "投资加码带动业绩释放 电力设备储能产业链迎周期回暖",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853532562.html"
+      "url": "https://finance.eastmoney.com/a/202608263853540788.html"
     },
     {
-      "time": "30:14",
-      "title": "德勤因涉嫌就业歧视将支付2150万美元和解金",
+      "time": "34:31",
+      "title": "伊朗称霍尔木兹海峡临时航线谅解达成 仅限商船通行",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853532498.html"
+      "url": "https://finance.eastmoney.com/a/202608263853566441.html"
     },
     {
-      "time": "29:06",
-      "title": "周三（8月26日）重点关注财经事件和经济数据",
+      "time": "33:02",
+      "title": "敢投成立数月的具身智能企业 险资的“稳健”人设变了吗",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853532218.html"
+      "url": "https://finance.eastmoney.com/a/202608263853540327.html"
     },
     {
-      "time": "15:33",
-      "title": "富时中国A50指数期货夜盘收涨0.21%",
+      "time": "32:06",
+      "title": "SpaceX将斥资1000亿美元在美路易斯安那州建星舰发射场",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853529386.html"
+      "url": "https://finance.eastmoney.com/a/202608263853556157.html"
     },
     {
-      "time": "00:15",
-      "title": "里士满联储主席巴尔金表示 美国债务问题终将面临清算",
+      "time": "32:00",
+      "title": "绿色算力开启“双向奔赴”新范式",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853528517.html"
+      "url": "https://finance.eastmoney.com/a/202608263853461724.html"
     },
     {
-      "time": "53:10",
-      "title": "美国API原油库存增加420万桶 之前一周减少32.8万桶",
+      "time": "31:41",
+      "title": "A股限售股解禁一览：14.66亿元市值限售股今日解禁",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853527915.html"
+      "url": "https://finance.eastmoney.com/a/202608263853555629.html"
     },
     {
-      "time": "50:11",
-      "title": "美国疾控中心（CDC）表示 5月1日至8月24日期间 美国共报告17,180例实验室确诊的圆孢子虫病病例",
+      "time": "31:00",
+      "title": "土地市场延续“点状高热” 核心城市高溢价地块频出",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853529542.html"
+      "url": "https://finance.eastmoney.com/a/202608263853462418.html"
     },
     {
-      "time": "34:28",
-      "title": "伊朗外交部副部长加里巴巴迪表示 如果美国继续对伊朗实施新制裁 伊朗将公布针对美国利益的新措施",
+      "time": "30:00",
+      "title": "生猪价格“磨底”回升 8月以来涨超7.5%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853525866.html"
+      "url": "https://finance.eastmoney.com/a/202608263853462590.html"
     },
     {
-      "time": "33:12",
-      "title": "美国国家飓风中心（NHC）表示 预计拉拉（Lala）将在数日内减弱为后热带气旋",
+      "time": "29:00",
+      "title": "四川长虹披露半年报净利润同比增超228%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853525954.html"
+      "url": "https://finance.eastmoney.com/a/202608263853460592.html"
     },
     {
-      "time": "17:05",
-      "title": "布油期货跌幅扩大至5.75%",
+      "time": "27:00",
+      "title": "友邦保险集团管理层详解下阶段增长与投资逻辑",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853521879.html"
+      "url": "https://finance.eastmoney.com/a/202608263853460995.html"
     },
     {
-      "time": "13:38",
-      "title": "据伊朗方面消息 伊朗与阿曼力争在60天内达成霍尔木兹海峡永久通道方案",
+      "time": "26:00",
+      "title": "传统药企积极拥抱AI谋求“弯道超车”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853521312.html"
+      "url": "https://finance.eastmoney.com/a/202608263853460684.html"
     },
     {
-      "time": "06:54",
-      "title": "ZOOM第二财季营收12.8亿美元",
+      "time": "25:00",
+      "title": "钾肥与锂盐双主业协同共振 盐湖股份上半年净利润同比增长137.88%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853512025.html"
+      "url": "https://finance.eastmoney.com/a/202608263853460852.html"
     },
     {
-      "time": "03:35",
-      "title": "台风“紫檀”在广东省徐闻县沿海再次登陆",
+      "time": "24:00",
+      "title": "中国燃气董事会主席、总裁刘明辉：AI浪潮下燃气行业打响转型“突围战”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853508135.html"
+      "url": "https://finance.eastmoney.com/a/202608263853461049.html"
     },
     {
-      "time": "03:16",
-      "title": "财捷第四财季净营收为43.5亿美元",
+      "time": "23:00",
+      "title": "供需格局变化 钴产业链升级正当时",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853510634.html"
+      "url": "https://finance.eastmoney.com/a/202608263853461692.html"
     },
     {
-      "time": "02:13",
-      "title": "纳斯达克中国金龙指数收涨1.11%",
+      "time": "22:00",
+      "title": "国有大行AIC“组团”现身长存控股股东名单",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853510133.html"
+      "url": "https://finance.eastmoney.com/a/202608263853462322.html"
     },
     {
-      "time": "01:08",
-      "title": "纳指收涨0.66% 光通信、存储板块走强",
+      "time": "21:02",
+      "title": "新基金经理上任就亏了30%！基金换人 投资者该不该跑？",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853505126.html"
+      "url": "https://finance.eastmoney.com/a/202608253853355935.html"
     },
     {
-      "time": "56:02",
-      "title": "国际油价跌幅扩大",
+      "time": "20:02",
+      "title": "订单充沛彰显产业韧性 向投资者传递积极信号",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853502813.html"
+      "url": "https://finance.eastmoney.com/a/202608263853466436.html"
     },
     {
-      "time": "40:26",
-      "title": "贡沃尔（Gunvor）据悉正在洽谈以超过10亿美元收购海恩斯维尔（Haynesville）页岩资产",
+      "time": "18:06",
+      "title": "苹果折叠屏手机面世在即 相关概念股提前异动",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853492547.html"
+      "url": "https://finance.eastmoney.com/a/202608263853466672.html"
     },
     {
-      "time": "29:43",
-      "title": "国际油价25日显著下跌",
+      "time": "17:00",
+      "title": "OpenAI数据中心项目高管克里斯·马龙已离职",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853484822.html"
+      "url": "https://finance.eastmoney.com/a/202608263853553733.html"
     },
     {
-      "time": "25:47",
-      "title": "古巴谴责美国延长对古实施经济封锁",
+      "time": "16:09",
+      "title": "险资“潜伏”硬科技IPO 超30家机构借道PE密集卡位",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853478139.html"
+      "url": "https://finance.eastmoney.com/a/202608263853467068.html"
     },
     {
-      "time": "19:57",
-      "title": "美元指数25日下跌",
+      "time": "15:23",
+      "title": "“最小赞助商”仅花5000元 解码苏超实现“长红”的背后逻辑",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853477916.html"
+      "url": "https://finance.eastmoney.com/a/202608263853468235.html"
     },
     {
-      "time": "17:35",
-      "title": "OpenAI数据中心负责人Chris Malone据悉已离职",
+      "time": "14:06",
+      "title": "向天图强启新程 文昌按下商业航天发展“快进键”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853477515.html"
+      "url": "https://finance.eastmoney.com/a/202608263853467882.html"
     },
     {
-      "time": "04:04",
-      "title": "“叙利亚民主力量”宣布解散 全面整合进国家机构",
+      "time": "12:48",
+      "title": "提高科技叙事“阈值” 基金经理勾勒“九月攻略”路线图",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853477612.html"
+      "url": "https://finance.eastmoney.com/a/202608263853476516.html"
     },
     {
-      "time": "03:32",
-      "title": "恒生指数主连夜盘收涨0.38%",
+      "time": "09:46",
+      "title": "葛卫东家族连续加仓3D打印龙头",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853477213.html"
+      "url": "https://finance.eastmoney.com/a/202608253853317220.html"
     },
     {
-      "time": "01:38",
-      "title": "富兰克林邓普顿：英伟达股东不只看漂亮业绩 资本部署细节更受关注",
+      "time": "08:46",
+      "title": "高技术产业加速吸引外资 “投资中国”热度不减",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853477160.html"
+      "url": "https://finance.eastmoney.com/a/202608263853476731.html"
     },
     {
       "time": "06-05",
