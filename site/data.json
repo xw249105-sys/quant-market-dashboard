@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 03:51",
+  "updated_at": "2026-08-26 05:49",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -9711,6 +9711,139 @@
   ],
   "news": [
     {
+      "time": "33:23",
+      "title": "美国国务卿鲁比奥据悉于近日告知多位外国对口官员，“目前”预计美国不会对伊朗发起新的打击，美国对伊朗从打击转向制裁",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853532562.html"
+    },
+    {
+      "time": "30:14",
+      "title": "德勤因涉嫌就业歧视将支付2150万美元和解金",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853532498.html"
+    },
+    {
+      "time": "29:06",
+      "title": "周三（8月26日）重点关注财经事件和经济数据",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853532218.html"
+    },
+    {
+      "time": "15:33",
+      "title": "富时中国A50指数期货夜盘收涨0.21%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853529386.html"
+    },
+    {
+      "time": "00:15",
+      "title": "里士满联储主席巴尔金表示 美国债务问题终将面临清算",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853528517.html"
+    },
+    {
+      "time": "53:10",
+      "title": "美国API原油库存增加420万桶 之前一周减少32.8万桶",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853527915.html"
+    },
+    {
+      "time": "50:11",
+      "title": "美国疾控中心（CDC）表示 5月1日至8月24日期间 美国共报告17,180例实验室确诊的圆孢子虫病病例",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853529542.html"
+    },
+    {
+      "time": "34:28",
+      "title": "伊朗外交部副部长加里巴巴迪表示 如果美国继续对伊朗实施新制裁 伊朗将公布针对美国利益的新措施",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853525866.html"
+    },
+    {
+      "time": "33:12",
+      "title": "美国国家飓风中心（NHC）表示 预计拉拉（Lala）将在数日内减弱为后热带气旋",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853525954.html"
+    },
+    {
+      "time": "17:05",
+      "title": "布油期货跌幅扩大至5.75%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853521879.html"
+    },
+    {
+      "time": "13:38",
+      "title": "据伊朗方面消息 伊朗与阿曼力争在60天内达成霍尔木兹海峡永久通道方案",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853521312.html"
+    },
+    {
+      "time": "06:54",
+      "title": "ZOOM第二财季营收12.8亿美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853512025.html"
+    },
+    {
+      "time": "03:35",
+      "title": "台风“紫檀”在广东省徐闻县沿海再次登陆",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853508135.html"
+    },
+    {
+      "time": "03:16",
+      "title": "财捷第四财季净营收为43.5亿美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853510634.html"
+    },
+    {
+      "time": "02:13",
+      "title": "纳斯达克中国金龙指数收涨1.11%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853510133.html"
+    },
+    {
+      "time": "01:08",
+      "title": "纳指收涨0.66% 光通信、存储板块走强",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853505126.html"
+    },
+    {
+      "time": "56:02",
+      "title": "国际油价跌幅扩大",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853502813.html"
+    },
+    {
+      "time": "40:26",
+      "title": "贡沃尔（Gunvor）据悉正在洽谈以超过10亿美元收购海恩斯维尔（Haynesville）页岩资产",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853492547.html"
+    },
+    {
+      "time": "29:43",
+      "title": "国际油价25日显著下跌",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202608263853484822.html"
+    },
+    {
       "time": "25:47",
       "title": "古巴谴责美国延长对古实施经济封锁",
       "source": "东方财富",
@@ -9751,139 +9884,6 @@
       "source": "东方财富",
       "category": "财经",
       "url": "https://finance.eastmoney.com/a/202608263853477160.html"
-    },
-    {
-      "time": "54:53",
-      "title": "美政府称若肯尼迪中心无法获准翻修 或考虑拆除",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853477759.html"
-    },
-    {
-      "time": "31:19",
-      "title": "阿曼外交大臣称有望很快宣布霍尔木兹海峡临时航道安排",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853477880.html"
-    },
-    {
-      "time": "30:46",
-      "title": "上期所原油期货2610合约夜盘收跌3.8%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853475176.html"
-    },
-    {
-      "time": "30:19",
-      "title": "美国民主党人敦促沃什维持联邦公开市场委员会每年8次会议的例行安排",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853475236.html"
-    },
-    {
-      "time": "22:31",
-      "title": "英伟达周三将发布业绩 分析师料营收增速继续领先大多数同行",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853474829.html"
-    },
-    {
-      "time": "12:38",
-      "title": "古特雷斯呼吁安理会采取措施保护世界粮食安全",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853474655.html"
-    },
-    {
-      "time": "02:35",
-      "title": "巴拉圭中央银行将关键利率维持在5.5%不变",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853474335.html"
-    },
-    {
-      "time": "02:23",
-      "title": "美移民执法局7月逮捕近5万名移民 创特朗普第二任期单月新高",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853474262.html"
-    },
-    {
-      "time": "47:34",
-      "title": "Pucobre与智利国家铜业公司围绕8.7亿美元智利铜项目组建合资公司",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853474159.html"
-    },
-    {
-      "time": "40:02",
-      "title": "美国芝商所宣布美国锌期货完成首笔成交",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853474089.html"
-    },
-    {
-      "time": "38:18",
-      "title": "港股IPO“科技”含量足 各路资金“抢筹”基石投资",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853472133.html"
-    },
-    {
-      "time": "25:28",
-      "title": "巴西、美国将于8月31日讨论关税问题",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853472940.html"
-    },
-    {
-      "time": "21:00",
-      "title": "美国得州野火蔓延超200平方公里 农村地区居民被疏散",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853471270.html"
-    },
-    {
-      "time": "17:20",
-      "title": "美联储隔夜逆回购协议（RRP）周二使用规模为4.05亿美元（交易对手6家）",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853471070.html"
-    },
-    {
-      "time": "05:45",
-      "title": "美国财政部拍卖690亿美元两年期国债 得标利率4.204%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853469273.html"
-    },
-    {
-      "time": "05:28",
-      "title": "沪铜夜盘收涨0.50%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853469361.html"
-    },
-    {
-      "time": "04:03",
-      "title": "美军AI系统被指致伊朗小学遭袭 日本仍计划引入引争议",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853469023.html"
-    },
-    {
-      "time": "54:43",
-      "title": "LME三个月期铜期货收盘上涨76美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853465740.html"
-    },
-    {
-      "time": "46:44",
-      "title": "日本推动AI军事应用 美相关企业加速进入日防务市场",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608263853457039.html"
     },
     {
       "time": "06-05",
