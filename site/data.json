@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31 16:44",
+  "updated_at": "2026-09-01 05:31",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -7,44 +7,44 @@
   },
   "indices": [
     {
-      "name": "日经225",
-      "price": 66405.56,
-      "change": 0.41
-    },
-    {
-      "name": "恒生指数",
-      "price": 25584.79,
-      "change": 0.07
-    },
-    {
-      "name": "道琼斯",
-      "price": 53559.99,
-      "change": -0.02
-    },
-    {
       "name": "上证指数",
-      "price": 3952.18,
-      "change": -0.11
-    },
-    {
-      "name": "标普500",
-      "price": 7711.76,
-      "change": -0.25
-    },
-    {
-      "name": "纳斯达克",
-      "price": 26402.42,
-      "change": -0.52
+      "price": 3986.3,
+      "change": 0.86
     },
     {
       "name": "深证成指",
-      "price": 13953.07,
-      "change": -0.68
+      "price": 14015.0,
+      "change": 0.44
     },
     {
       "name": "创业板指",
-      "price": 3424.4,
-      "change": -1.41
+      "price": 3438.68,
+      "change": 0.42
+    },
+    {
+      "name": "恒生指数",
+      "price": 25566.99,
+      "change": -0.07
+    },
+    {
+      "name": "纳斯达克",
+      "price": 26370.89,
+      "change": -0.12
+    },
+    {
+      "name": "日经225",
+      "price": 66311.93,
+      "change": -0.14
+    },
+    {
+      "name": "标普500",
+      "price": 7686.14,
+      "change": -0.33
+    },
+    {
+      "name": "道琼斯",
+      "price": 53185.9,
+      "change": -0.7
     }
   ],
   "sectors": {
@@ -9702,14 +9702,14 @@
   "assets": [
     {
       "symbol": "159915",
-      "date": "2026-08-28",
-      "price": 3.443,
+      "date": "2026-08-31",
+      "price": 3.456,
       "score": 40,
       "signal": "谨慎观望",
-      "buy_low": 3.339,
-      "buy_high": 3.443,
-      "stop_loss": 3.235,
-      "target": 3.755,
+      "buy_low": 3.352,
+      "buy_high": 3.456,
+      "stop_loss": 3.249,
+      "target": 3.767,
       "risk": "中",
       "reasons": [
         "中长期均线多头",
@@ -9718,221 +9718,183 @@
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "159920",
-      "date": "2026-08-28",
-      "price": 1.503,
-      "score": 40,
-      "signal": "谨慎观望",
-      "buy_low": 1.484,
-      "buy_high": 1.503,
-      "stop_loss": 1.466,
-      "target": 1.559,
-      "risk": "低",
-      "reasons": [
-        "MA20 高于 MA60",
-        "RSI 位于健康区间",
-        "近期波动可控"
-      ],
-      "name": "恒生ETF",
-      "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "600519",
-      "date": "2026-08-28",
-      "price": 1297.4,
-      "score": 40,
-      "signal": "谨慎观望",
-      "buy_low": 1274.378,
-      "buy_high": 1297.4,
-      "stop_loss": 1251.356,
-      "target": 1366.466,
-      "risk": "低",
-      "reasons": [
-        "MA20 高于 MA60",
-        "RSI 位于健康区间",
-        "近期波动可控"
-      ],
-      "name": "贵州茅台",
-      "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "40:38",
-      "title": "巨人网络今日大宗交易折价成交475.2万股 成交额1.22亿元",
+      "time": "13:56",
+      "title": "报道：沙特油轮在霍尔木兹海峡南部航道遭拦截",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860122233.html"
+      "url": "https://finance.eastmoney.com/a/202609013860543621.html"
     },
     {
-      "time": "38:29",
-      "title": "丰原药业：全资子公司获富马酸伏诺拉生片药品注册证书",
+      "time": "01:00",
+      "title": "北京首个外卖包装新规今日起正式实施",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860121493.html"
+      "url": "https://finance.eastmoney.com/a/202609013860542162.html"
     },
     {
-      "time": "38:29",
-      "title": "财政部：1-7月国有企业利润总额25089.9亿元 同比增长0.6%",
+      "time": "58:33",
+      "title": "半导体 增长动能强劲 业绩与技术进步齐飞",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860119521.html"
+      "url": "https://finance.eastmoney.com/a/202609013860532673.html"
     },
     {
-      "time": "35:30",
-      "title": "英特尔美股盘前上涨1.7%",
+      "time": "40:43",
+      "title": "极端天气致以色列多地供水受影响",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860119377.html"
+      "url": "https://finance.eastmoney.com/a/202609013860541413.html"
     },
     {
-      "time": "34:03",
-      "title": "香港7月零售销售额同比增长4.5%",
+      "time": "36:41",
+      "title": "洲际交易所表示 自10月5日交易日起 美国洲际交易所期货市场将挂牌金融型天然气凝析液等期货与期权合约 供市场交易",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860117889.html"
+      "url": "https://finance.eastmoney.com/a/202609013860541359.html"
     },
     {
-      "time": "33:35",
-      "title": "在岸人民币兑美元收盘报6.7198",
+      "time": "16:36",
+      "title": "法律文件显示 苹果称在针对OpenAI的商业秘密案件中 被告利用苹果专有信息训练人工智能智能体",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860116826.html"
+      "url": "https://finance.eastmoney.com/a/202609013860540640.html"
     },
     {
-      "time": "33:19",
-      "title": "阿曼原油十月官方售价为每桶87.84美元",
+      "time": "06:36",
+      "title": "美国总统特朗普谈及委内瑞拉表示 该国如何应对石油输出国组织 由他们自己决定",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860117990.html"
+      "url": "https://finance.eastmoney.com/a/202609013860540061.html"
     },
     {
-      "time": "30:00",
-      "title": "中国人保副总裁：投资长鑫科技回报超20倍 目前已储备一批优质项目",
+      "time": "02:59",
+      "title": "纳斯达克中国金龙指数收跌2.19%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860116791.html"
+      "url": "https://finance.eastmoney.com/a/202609013860539190.html"
     },
     {
-      "time": "26:32",
-      "title": "友好集团：副总经理刘欢因个人原因辞职",
+      "time": "01:20",
+      "title": "美股三大指数集体收跌",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860116395.html"
+      "url": "https://finance.eastmoney.com/a/202609013860538880.html"
     },
     {
-      "time": "23:47",
-      "title": "希音股票在香港暗盘市场下跌16%",
+      "time": "52:23",
+      "title": "美国总统特朗普重申利率过高",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860106882.html"
+      "url": "https://finance.eastmoney.com/a/202609013860536851.html"
     },
     {
-      "time": "20:33",
-      "title": "伊朗总统称绝不会任由敌人侵略",
+      "time": "44:57",
+      "title": "国际油价8月31日上涨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860101629.html"
+      "url": "https://finance.eastmoney.com/a/202609013860536760.html"
     },
     {
-      "time": "18:32",
-      "title": "《牛来》延长上映至10月4日",
+      "time": "44:12",
+      "title": "美元指数8月31日下跌",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860099261.html"
+      "url": "https://finance.eastmoney.com/a/202609013860536667.html"
     },
     {
-      "time": "16:43",
-      "title": "深圳：支持各类社会主体在境外办展",
+      "time": "43:36",
+      "title": "亚马逊：联邦贸易委员会的指控从根本上误解了广告商的运作模式",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860099675.html"
+      "url": "https://finance.eastmoney.com/a/202609013860536358.html"
     },
     {
-      "time": "16:32",
-      "title": "力拓寻求第四季度在日本收取每吨310美元的铝价溢价",
+      "time": "38:15",
+      "title": "伊朗军方：绝不容忍任何侵略行为",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860099385.html"
+      "url": "https://finance.eastmoney.com/a/202609013860538483.html"
     },
     {
-      "time": "15:56",
-      "title": "日本2027财年预算申请预计总额或将达143万亿日元",
+      "time": "35:27",
+      "title": "美国卫生部长表示 最新一批医药定价协议包含用于生产回流的196亿美元资金",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860099555.html"
+      "url": "https://finance.eastmoney.com/a/202609013860535967.html"
     },
     {
-      "time": "13:31",
-      "title": "与Crypto.com关联的借贷平台遭黑客攻击",
+      "time": "23:52",
+      "title": "纳斯达克中国金龙指数扩大跌幅至2%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860099755.html"
+      "url": "https://finance.eastmoney.com/a/202609013860534185.html"
     },
     {
-      "time": "12:41",
-      "title": "海光信息联合腾讯云开源项目Cube Sandbox完成深度联合适配调优",
+      "time": "21:05",
+      "title": "民调显示 特朗普支持率维持在33% 创下其政治生涯最低水平",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860097384.html"
+      "url": "https://finance.eastmoney.com/a/202609013860536918.html"
     },
     {
-      "time": "11:45",
-      "title": "黑芝麻智能上半年营收4.58亿元 同比增长81.3%",
+      "time": "20:02",
+      "title": "美国防部称将提升“爱国者”导弹和“萨德”系统产能",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860098766.html"
+      "url": "https://finance.eastmoney.com/a/202609013860531021.html"
     },
     {
-      "time": "10:41",
-      "title": "上海医药：磷酸芦可替尼片获得批准生产",
+      "time": "09:18",
+      "title": "美国总统特朗普宣布新的药品定价协议；九家制药公司承诺低价销售，目前已有26家企业签署参与该计划，覆盖制药市场90%份额",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860097178.html"
+      "url": "https://finance.eastmoney.com/a/202609013860530811.html"
     },
     {
-      "time": "10:16",
-      "title": "8月31日港股收盘：恒指跌0.07% 恒生科技指数涨0.32%",
+      "time": "06:18",
+      "title": "商务部等七部门：培育形成绿色消费、智能消费、健康消费等十万亿级市场",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860096233.html"
+      "url": "https://finance.eastmoney.com/a/202609013860534885.html"
     },
     {
-      "time": "09:32",
-      "title": "景嘉微：有部分产品已随供应链变化做出调价",
+      "time": "05:12",
+      "title": "美国联邦贸易委员会表示 联邦贸易委员会与 22 个州总检察长指控亚马逊在其数字广告竞价定价中隐瞒不公平收费",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860097034.html"
+      "url": "https://finance.eastmoney.com/a/202609013860530364.html"
     },
     {
-      "time": "07:41",
-      "title": "润都股份：获苯磺酸左氨氯地平原料药上市批准",
+      "time": "04:18",
+      "title": "恒指期货夜盘收跌0.42%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860097228.html"
+      "url": "https://finance.eastmoney.com/a/202609013860530264.html"
     },
     {
-      "time": "05:40",
-      "title": "8月31日全国碳市场收盘价97.90元/吨 较前一日下跌0.61%",
+      "time": "00:12",
+      "title": "美国向炼油商批准自2017年以来最高水平的生物燃料豁免",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860095478.html"
+      "url": "https://finance.eastmoney.com/a/202609013860530434.html"
     },
     {
-      "time": "02:32",
-      "title": "日产与本田将统一软件定义车辆的电子控制单元标准",
+      "time": "57:39",
+      "title": "美国环保署宣布延长2025合规年度可再生燃料标准合规报告截止日期",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860091423.html"
+      "url": "https://finance.eastmoney.com/a/202609013860530541.html"
     },
     {
-      "time": "59:48",
-      "title": "软银旗下能源公司SB Energy据悉已向OpenAI授出55亿美元认股权证",
+      "time": "55:42",
+      "title": "多米尼加共和国将关键利率维持在5.25%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202608313860089074.html"
+      "url": "https://finance.eastmoney.com/a/202609013860530669.html"
     },
     {
       "time": "06-05",
