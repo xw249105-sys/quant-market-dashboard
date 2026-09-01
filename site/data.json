@@ -1,16 +1,11 @@
 {
-  "updated_at": "2026-09-01 15:53",
+  "updated_at": "2026-09-02 03:27",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
     "down": 4924
   },
   "indices": [
-    {
-      "name": "纳斯达克",
-      "price": 26370.89,
-      "change": -0.12
-    },
     {
       "name": "日经225",
       "price": 66215.34,
@@ -23,18 +18,23 @@
     },
     {
       "name": "标普500",
-      "price": 7686.14,
-      "change": -0.33
+      "price": 7629.64,
+      "change": -0.74
     },
     {
       "name": "道琼斯",
-      "price": 53185.9,
-      "change": -0.7
+      "price": 52763.57,
+      "change": -0.79
     },
     {
       "name": "恒生指数",
-      "price": 25336.85,
-      "change": -0.9
+      "price": 25329.73,
+      "change": -0.93
+    },
+    {
+      "name": "纳斯达克",
+      "price": 26104.67,
+      "change": -1.01
     },
     {
       "name": "深证成指",
@@ -9707,20 +9707,38 @@
   ],
   "assets": [
     {
-      "symbol": "159915",
-      "date": "2026-08-31",
-      "price": 3.456,
+      "symbol": "600519",
+      "date": "2026-09-01",
+      "price": 1299.56,
       "score": 40,
       "signal": "谨慎观望",
-      "buy_low": 3.352,
-      "buy_high": 3.456,
-      "stop_loss": 3.249,
-      "target": 3.767,
+      "buy_low": 1276.404,
+      "buy_high": 1299.56,
+      "stop_loss": 1253.249,
+      "target": 1369.027,
+      "risk": "低",
+      "reasons": [
+        "MA20 高于 MA60",
+        "RSI 位于健康区间",
+        "近期波动可控"
+      ],
+      "name": "贵州茅台",
+      "action": "当前不建议新开仓，优先控制风险"
+    },
+    {
+      "symbol": "159915",
+      "date": "2026-09-01",
+      "price": 3.412,
+      "score": 30,
+      "signal": "回避/考虑减仓",
+      "buy_low": 3.31,
+      "buy_high": 3.412,
+      "stop_loss": 3.208,
+      "target": 3.718,
       "risk": "中",
       "reasons": [
         "中长期均线多头",
-        "RSI 位于健康区间",
-        "20 日动量为正"
+        "RSI 位于健康区间"
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
@@ -9728,179 +9746,179 @@
   ],
   "news": [
     {
-      "time": "48:52",
-      "title": "黄金牛市未完待续？分析师：目标冲上2万美元 因美联储无力对抗通胀！",
+      "time": "05:55",
+      "title": "富国银行加入摩根大通行列 对美股后市表现持谨慎看法",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861456946.html"
+      "url": "https://finance.eastmoney.com/a/202609023861878333.html"
     },
     {
-      "time": "48:00",
-      "title": "芯瑞达：积极、审慎关注产业链上下游的并购实例与机会",
+      "time": "01:49",
+      "title": "恒指期货夜盘收跌0.01% 报25169.51点",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861458433.html"
+      "url": "https://finance.eastmoney.com/a/202609023861878181.html"
     },
     {
-      "time": "45:25",
-      "title": "去年全国社保基金投资收益超3900亿元",
+      "time": "01:16",
+      "title": "欧洲天然气期货价格升至2023年以来最高水平",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861456884.html"
+      "url": "https://finance.eastmoney.com/a/202609023861878084.html"
     },
     {
-      "time": "44:58",
-      "title": "现货白银向下触及66美元/盎司",
+      "time": "59:57",
+      "title": "伊朗方面称已向美基地发射导弹和无人机",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861455212.html"
+      "url": "https://finance.eastmoney.com/a/202609023861877936.html"
     },
     {
-      "time": "43:53",
-      "title": "大藤峡水利枢纽累计发电量突破300亿度",
+      "time": "52:36",
+      "title": "布伦特原油期货结算价为每桶94.65美元 上涨4.16美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861456457.html"
+      "url": "https://finance.eastmoney.com/a/202609023861876750.html"
     },
     {
-      "time": "42:00",
-      "title": "美联物业：8月香港一手住宅成交1090宗环比升34% 亿元豪宅成交已超去年全年",
+      "time": "52:12",
+      "title": "伊朗重要能源枢纽港遭美军袭击",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861454622.html"
+      "url": "https://finance.eastmoney.com/a/202609023861876617.html"
     },
     {
-      "time": "40:40",
-      "title": "中国银行、建设银行、成都银行、江苏银行均创历史新高",
+      "time": "42:08",
+      "title": "委内瑞拉议员投票支持与美国达成能源协议",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861453030.html"
+      "url": "https://finance.eastmoney.com/a/202609023861876548.html"
     },
     {
-      "time": "39:26",
-      "title": "现货黄金失守4420美元/盎司",
+      "time": "40:41",
+      "title": "墨西哥主要股指下跌1.5%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861452773.html"
+      "url": "https://finance.eastmoney.com/a/202609023861876447.html"
     },
     {
-      "time": "38:02",
-      "title": "美元/日元连续第三个交易日突破160关口",
+      "time": "32:57",
+      "title": "美国原油期货结算价为每桶90.22美元 上涨4.46美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861452144.html"
+      "url": "https://finance.eastmoney.com/a/202609023861876379.html"
     },
     {
-      "time": "35:06",
-      "title": "郭明錤：英伟达重启推理预填充优化芯片Rubin CPX项目",
+      "time": "30:58",
+      "title": "上期所原油期货2610合约夜盘收涨7.93% 报687.70元人民币/桶",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861449074.html"
+      "url": "https://finance.eastmoney.com/a/202609023861876062.html"
     },
     {
-      "time": "34:43",
-      "title": "宝泰隆：宝泰隆三矿获批为正式矿井",
+      "time": "29:36",
+      "title": "Meta CEO扎克伯格表示 各国不应限制开放权重AI模型",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861450979.html"
+      "url": "https://finance.eastmoney.com/a/202609023861875115.html"
     },
     {
-      "time": "34:02",
-      "title": "尖峰集团：子公司获甲基多巴原料药上市批准",
+      "time": "25:34",
+      "title": "伊朗多地再次传出爆炸声",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861448672.html"
+      "url": "https://finance.eastmoney.com/a/202609023861873722.html"
     },
     {
-      "time": "31:36",
-      "title": "英国30年期国债收益率达到1998年以来的最高水平",
+      "time": "25:21",
+      "title": "据报道 伊朗向敌方位置发射导弹和无人机",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861447277.html"
+      "url": "https://finance.eastmoney.com/a/202609023861875268.html"
     },
     {
-      "time": "27:49",
-      "title": "昊铂埃安BU 8月销量36383辆",
+      "time": "23:17",
+      "title": "据美国纽约联储数据 上个交易日（8月31日）担保隔夜融资利率（SOFR）报3.68%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861445248.html"
+      "url": "https://finance.eastmoney.com/a/202609023861873928.html"
     },
     {
-      "time": "27:32",
-      "title": "法国德希尼布能源公司股价上涨6.3%",
+      "time": "15:45",
+      "title": "据报道 美军对伊朗东南部的吉罗夫特机场发动了袭击",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861445733.html"
+      "url": "https://finance.eastmoney.com/a/202609023861873291.html"
     },
     {
-      "time": "25:51",
-      "title": "宜家1500多款商品将降价15%至25% 主要集中在欧洲市场",
+      "time": "11:41",
+      "title": "美国众议院通过避免政府停摆的临时拨款法案",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861444719.html"
+      "url": "https://finance.eastmoney.com/a/202609023861872827.html"
     },
     {
-      "time": "24:54",
-      "title": "法国场外交易日前基准电价上涨7.3%",
+      "time": "05:44",
+      "title": "钯金期货日内跌4% 现报1323.06美元/盎司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861444939.html"
+      "url": "https://finance.eastmoney.com/a/202609023861872479.html"
     },
     {
-      "time": "21:17",
-      "title": "英国近月天然气价格上涨5.15%",
+      "time": "05:21",
+      "title": "美国总统特朗普表示 与伊朗达成的协议毫无价值 已经给了伊朗很多机会",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861441415.html"
+      "url": "https://finance.eastmoney.com/a/202609023861872343.html"
     },
     {
-      "time": "20:47",
-      "title": "俄强调美在日部署中导系统不可接受",
+      "time": "57:20",
+      "title": "美国众议院已获得足够票数",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861440456.html"
+      "url": "https://finance.eastmoney.com/a/202609023861872160.html"
     },
     {
-      "time": "18:59",
-      "title": "日本内阁官房长官：将审查财政规模 控制年度日本国债发行量",
+      "time": "53:41",
+      "title": "216国道抢通作业推进至吉隆口岸泥石流灾害核心区",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861440344.html"
+      "url": "https://finance.eastmoney.com/a/202609023861871718.html"
     },
     {
-      "time": "18:11",
-      "title": "魅族回应手机涨价",
+      "time": "48:21",
+      "title": "伊朗武装部队将让美国付出沉重代价",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861438762.html"
+      "url": "https://finance.eastmoney.com/a/202609023861871827.html"
     },
     {
-      "time": "12:50",
-      "title": "习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话",
+      "time": "44:45",
+      "title": "意大利8月预算赤字达123亿欧元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861432035.html"
+      "url": "https://finance.eastmoney.com/a/202609023861871448.html"
     },
     {
-      "time": "12:28",
-      "title": "三部门：企业应采取必要措施确保车联网及自动驾驶相关信息收集、使用、保护及数据跨境传输等各类数据处理活动合规",
+      "time": "40:10",
+      "title": "WTI原油突破90美元/桶，为7月下旬以来首次，日内涨超5%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861435344.html"
+      "url": "https://finance.eastmoney.com/a/202609023861871569.html"
     },
     {
-      "time": "11:32",
-      "title": "交易所制定L2行情使用规范 严禁“绕道抢跑”",
+      "time": "31:33",
+      "title": "标普全球考虑将数据平台CapitalIQ以数十亿美元估值进行分拆",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861432555.html"
+      "url": "https://finance.eastmoney.com/a/202609023861871195.html"
     },
     {
-      "time": "11:09",
-      "title": "南向资金净买入额达80亿港元",
+      "time": "29:59",
+      "title": "特朗普称伊朗若报复将遭更猛烈打击",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609013861432427.html"
+      "url": "https://finance.eastmoney.com/a/202609023861870366.html"
     },
     {
       "time": "06-05",
