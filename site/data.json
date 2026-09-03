@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04 03:20",
+  "updated_at": "2026-09-04 06:39",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -7,44 +7,44 @@
   },
   "indices": [
     {
-      "name": "日经225",
-      "price": 66215.34,
-      "change": -0.15
-    },
-    {
-      "name": "上证指数",
-      "price": 3979.89,
-      "change": -0.16
-    },
-    {
-      "name": "标普500",
-      "price": 7629.64,
-      "change": -0.74
+      "name": "纳斯达克",
+      "price": 26584.06,
+      "change": 1.4
     },
     {
       "name": "道琼斯",
-      "price": 52763.57,
-      "change": -0.79
+      "price": 53686.11,
+      "change": 1.18
     },
     {
-      "name": "恒生指数",
-      "price": 25329.73,
-      "change": -0.93
-    },
-    {
-      "name": "纳斯达克",
-      "price": 26104.67,
-      "change": -1.01
+      "name": "标普500",
+      "price": 7747.71,
+      "change": 1.06
     },
     {
       "name": "深证成指",
-      "price": 13872.38,
-      "change": -1.02
+      "price": 13625.12,
+      "change": 0.1
+    },
+    {
+      "name": "上证指数",
+      "price": 3942.09,
+      "change": 0.02
     },
     {
       "name": "创业板指",
-      "price": 3393.43,
-      "change": -1.32
+      "price": 3312.54,
+      "change": 0.01
+    },
+    {
+      "name": "日经225",
+      "price": 64214.48,
+      "change": -0.17
+    },
+    {
+      "name": "恒生指数",
+      "price": 25213.31,
+      "change": -0.39
     }
   ],
   "sectors": {
@@ -9782,179 +9782,179 @@
   ],
   "news": [
     {
-      "time": "05:50",
-      "title": "大众汽车ADR上涨4%",
+      "time": "16:41",
+      "title": "8000亿元新型政策性金融工具“开闸”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864446829.html"
+      "url": "https://finance.eastmoney.com/a/202609043864444648.html"
     },
     {
-      "time": "02:10",
-      "title": "Crusoe与Jane Street签署价值约130亿美元的云计算协议",
+      "time": "12:17",
+      "title": "现货白银向下跌破67美元/盎司 日内下跌0.01%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864446688.html"
+      "url": "https://finance.eastmoney.com/a/202609043864474042.html"
     },
     {
-      "time": "01:17",
-      "title": "恒指期货夜盘收涨1.12%",
+      "time": "00:00",
+      "title": "周五你需要知道的隔夜全球要闻",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864446416.html"
+      "url": "https://finance.eastmoney.com/a/202609043864473074.html"
     },
     {
-      "time": "53:30",
-      "title": "以色列总理称能推翻伊朗政权",
+      "time": "54:58",
+      "title": "据报道：日本金融厅将加强对银行海外分支机构的检查",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864446332.html"
+      "url": "https://finance.eastmoney.com/a/202609043864467727.html"
     },
     {
-      "time": "51:16",
-      "title": "大众汽车表示：公司集团范围内将调整员工规模 涉及削减约5万个岗位",
+      "time": "54:37",
+      "title": "翻倍半导体牛股 拿下逾15亿元大单",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864446275.html"
+      "url": "https://finance.eastmoney.com/a/202609033864407919.html"
     },
     {
-      "time": "49:57",
-      "title": "布伦特原油期货结算价为每桶95.52美元 下跌11美分",
+      "time": "53:43",
+      "title": "阿根廷8月汽车产量39381辆 8月汽车销量为39,068辆",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864446160.html"
+      "url": "https://finance.eastmoney.com/a/202609043864467944.html"
     },
     {
-      "time": "44:50",
-      "title": "国际足联指责欧足联抹黑因凡蒂诺",
+      "time": "52:13",
+      "title": "算力大单来了！五倍“大牛股”签订超9亿元算力租赁协议",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864446031.html"
+      "url": "https://finance.eastmoney.com/a/202609033864422020.html"
     },
     {
-      "time": "38:35",
-      "title": "伊拉克国家石油营销组织SOMO表示：伊拉克8月石油出口量为7300万桶 为伊朗战争以来最高水平",
+      "time": "48:04",
+      "title": "千亿封测龙头长电科技拟定增募资不超65亿元 加码先进封装和存储封测等",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864445865.html"
+      "url": "https://finance.eastmoney.com/a/202609033864364626.html"
     },
     {
-      "time": "32:52",
-      "title": "美国原油期货结算价为每桶91.30美元 上涨29美分",
+      "time": "46:58",
+      "title": "俄乌双方均对和平前景作出乐观表态 芝加哥小麦期货大跌逾4%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864445966.html"
+      "url": "https://finance.eastmoney.com/a/202609033864412173.html"
     },
     {
-      "time": "32:06",
-      "title": "上期所原油期货夜盘收跌1.78% 报678.60元人民币/桶",
+      "time": "44:26",
+      "title": "韩国产业部长官表示：计划在9月内公布首个对美投资项目",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864445540.html"
+      "url": "https://finance.eastmoney.com/a/202609043864465657.html"
     },
     {
-      "time": "30:28",
-      "title": "以色列防长威胁让伊朗回到石器时代",
+      "time": "40:56",
+      "title": "国际货币基金组织表示：IMF工作组将于2026年9月10日至23日访问斯里兰卡",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864445445.html"
+      "url": "https://finance.eastmoney.com/a/202609043864464078.html"
     },
     {
-      "time": "24:51",
-      "title": "美国副总统万斯表示：美联储应该降低利率",
+      "time": "38:34",
+      "title": "长存控股IPO迎新进展！",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864444188.html"
+      "url": "https://finance.eastmoney.com/a/202609033864422361.html"
     },
     {
-      "time": "13:35",
-      "title": "美国副总统万斯表示:针对伊朗的主要作战行动早已结束",
+      "time": "37:39",
+      "title": "美国佛罗里达州一小飞机坠毁 致两人死亡",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864441848.html"
+      "url": "https://finance.eastmoney.com/a/202609043864463944.html"
     },
     {
-      "time": "03:22",
-      "title": "多国从美国运回黄金 专家：美元体系面临信任危机",
+      "time": "26:54",
+      "title": "据相关文件显示：美国联邦通信委员会请求美国法院驳回迪士尼提起的诉讼",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864440655.html"
+      "url": "https://finance.eastmoney.com/a/202609043864462896.html"
     },
     {
-      "time": "03:09",
-      "title": "OpenAI发布GPT-6 Astra模型 并增设网络安全防护机制",
+      "time": "14:44",
+      "title": "SpaceXAI推出面向企业的GrokBot 企业客户可免费试用两周",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864440785.html"
+      "url": "https://finance.eastmoney.com/a/202609043864461468.html"
     },
     {
-      "time": "51:07",
-      "title": "美国副总统万斯表示：美国纳税人也将从委内瑞拉石油交易中受益",
+      "time": "57:33",
+      "title": "OpenAI发布地球最强大模型GPT-6 并宣告“欢迎来到AGI时代”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864440287.html"
+      "url": "https://finance.eastmoney.com/a/202609043864458327.html"
     },
     {
-      "time": "43:37",
-      "title": "谷歌发布面向Kotlin 1.0 的Google生成式人工智能软件开发工具包",
+      "time": "47:29",
+      "title": "尼日利亚发生非法装卸石油制品事件 致约40人死亡",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864439650.html"
+      "url": "https://finance.eastmoney.com/a/202609043864454363.html"
     },
     {
-      "time": "38:20",
-      "title": "美众院法案打压抵制以色列的大学",
+      "time": "40:26",
+      "title": "美国证券交易委员会提议废除 “付费游说” 规则",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864439457.html"
+      "url": "https://finance.eastmoney.com/a/202609043864452390.html"
     },
     {
-      "time": "35:05",
-      "title": "泽连斯基称美方将在莫斯科和基辅分别举行会谈",
+      "time": "30:30",
+      "title": "腾讯音乐完成10亿美元票据发行定价",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864439332.html"
+      "url": "https://finance.eastmoney.com/a/202609043864451021.html"
     },
     {
-      "time": "22:49",
-      "title": "现货钯金日内大涨6% 现报1427.25美元/盎司",
+      "time": "27:15",
+      "title": "美司法部施压各州扩大上报非法移民信息",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864439289.html"
+      "url": "https://finance.eastmoney.com/a/202609043864451172.html"
     },
     {
-      "time": "19:50",
-      "title": "美军近日袭击致伊朗18死142伤",
+      "time": "22:11",
+      "title": "Adobe任命阿尼尔·查克拉瓦蒂为首席执行官",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864439143.html"
+      "url": "https://finance.eastmoney.com/a/202609043864450756.html"
     },
     {
-      "time": "18:51",
-      "title": "中国地震台网正式测定：09月04日01时04分在青海海西州直辖区（北纬37.84度，东经95.59度）发生5.1级地震 震源深度10千米",
+      "time": "20:42",
+      "title": "Lululemon下调全年利润和销售预期后 盘后股价下跌18%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864439058.html"
+      "url": "https://finance.eastmoney.com/a/202609043864450846.html"
     },
     {
-      "time": "17:58",
-      "title": "美联储隔夜逆回购协议（RRP）周四使用规模为7.02亿美元（交易对手4家） 上个交易日报5.25亿美元",
+      "time": "19:52",
+      "title": "Lululemon预计全年净营收103.5亿-105亿美元 此前预期110亿-111.5亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864438986.html"
+      "url": "https://finance.eastmoney.com/a/202609043864450617.html"
     },
     {
-      "time": "10:17",
-      "title": "尼泊尔泥石流灾害遇难人数升至1290人",
+      "time": "16:55",
+      "title": "美军称对伊海上封锁已使87艘商船改变航向",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864438048.html"
+      "url": "https://finance.eastmoney.com/a/202609043864450327.html"
     },
     {
-      "time": "09:34",
-      "title": "中国地震台网自动测定：09月04日01时04分在青海海西州直辖区附近（北纬37.86度，东经95.46度）发生5.1级左右地震",
+      "time": "06:50",
+      "title": "花旗维持2026年第四季度布伦特油价预测为70美元/桶 2027年为65美元/桶",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609043864438179.html"
+      "url": "https://finance.eastmoney.com/a/202609043864450289.html"
     },
     {
       "time": "06-05",
