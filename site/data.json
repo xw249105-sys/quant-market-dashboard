@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08 04:01",
+  "updated_at": "2026-09-08 06:54",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -9782,11 +9782,165 @@
   ],
   "news": [
     {
+      "time": "22:53",
+      "title": "中央气象台发布暴雨蓝色预警 局地有雷暴大风等强对流天气",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867174166.html"
+    },
+    {
+      "time": "20:29",
+      "title": "公募9月首周调研逾1400次 科技赛道关注度提升",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867149456.html"
+    },
+    {
+      "time": "13:38",
+      "title": "美联储9月加息概率为60.4%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867168635.html"
+    },
+    {
+      "time": "12:29",
+      "title": "原油期货维持涨幅 标普500期货走低",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867170235.html"
+    },
+    {
+      "time": "08:37",
+      "title": "美国家运输安全委员会：冲出跑道的波音货机黑匣子已找到",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867167032.html"
+    },
+    {
+      "time": "02:08",
+      "title": "布伦特原油期货涨幅扩大至1% 报97.375美元/桶",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867161518.html"
+    },
+    {
+      "time": "00:00",
+      "title": "周二你需要知道的隔夜全球要闻",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867164418.html"
+    },
+    {
+      "time": "57:04",
+      "title": "美国南方司令部表示：美军在东太平洋击沉一艘供油船只",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867160372.html"
+    },
+    {
+      "time": "38:35",
+      "title": "连续4个月下降 日本外汇储备8月降幅刷新纪录",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867157744.html"
+    },
+    {
+      "time": "21:38",
+      "title": "离岸人民币兑美元报6.7092元，较上周五纽约尾盘跌12点",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867156637.html"
+    },
+    {
+      "time": "19:25",
+      "title": "富时A50期指连续夜盘收跌0.12% 报14651点",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867156089.html"
+    },
+    {
+      "time": "13:52",
+      "title": "美军称对伊海上封锁已使94艘商船改变航向",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867155547.html"
+    },
+    {
+      "time": "04:00",
+      "title": "“高中签率”新股今日申购 发行价为4.39元/股",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867155193.html"
+    },
+    {
+      "time": "55:24",
+      "title": "纽约尾盘：现货黄金跌0.58% 报4404.30美元/盎司",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867155048.html"
+    },
+    {
+      "time": "49:51",
+      "title": "芬兰完成芬俄边境围栏系统建设 未来或扩建",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867152585.html"
+    },
+    {
+      "time": "30:56",
+      "title": "阿尔及利亚北部发生交通事故 造成至少10人死亡",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867152620.html"
+    },
+    {
+      "time": "23:38",
+      "title": "印尼多座机场因火山喷发关闭 影响逾34万旅客",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867152340.html"
+    },
+    {
       "time": "51:14",
       "title": "道琼斯指数期货最终跌0.62%",
       "source": "东方财富",
       "category": "财经",
       "url": "https://finance.eastmoney.com/a/202609083867152122.html"
+    },
+    {
+      "time": "43:36",
+      "title": "扎波罗热核电站外部供电已恢复",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867152067.html"
+    },
+    {
+      "time": "29:39",
+      "title": "美元指数7日下跌",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867151988.html"
+    },
+    {
+      "time": "18:53",
+      "title": "欧洲四大电信巨头密谋组团 拟竞标卫星频谱挑战马斯克星链",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867151684.html"
+    },
+    {
+      "time": "16:17",
+      "title": "OpenAI首席科学家称AI或很快迈入自我进化阶段 期望业界自愿放缓开发",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867151825.html"
+    },
+    {
+      "time": "14:17",
+      "title": "卡塔尔LNG运输船罕见尝试驶出霍尔木兹海峡 出口恢复信号增强",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609083867151539.html"
     },
     {
       "time": "02:07",
@@ -9801,160 +9955,6 @@
       "source": "东方财富",
       "category": "财经",
       "url": "https://finance.eastmoney.com/a/202609083867151249.html"
-    },
-    {
-      "time": "52:30",
-      "title": "墨西哥央行设定比索官方汇率为1美元兑16.9237比索",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867150993.html"
-    },
-    {
-      "time": "31:43",
-      "title": "上期所原油期货夜盘收涨1.73%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867148937.html"
-    },
-    {
-      "time": "31:36",
-      "title": "上期所原油期货夜盘收涨1.73% 报700.40元人民币/桶",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867150871.html"
-    },
-    {
-      "time": "25:40",
-      "title": "两部门发文进一步规范汽车企业供应商账期管理",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867147020.html"
-    },
-    {
-      "time": "24:09",
-      "title": "央行精细化操作呵护9月资金面",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609073867055521.html"
-    },
-    {
-      "time": "11:35",
-      "title": "哈马斯：以色列清理加沙废墟旨在抹除“战争罪证”",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867148860.html"
-    },
-    {
-      "time": "09:08",
-      "title": "中期分红密集落地 红利板块跑出超额收益",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867141237.html"
-    },
-    {
-      "time": "54:49",
-      "title": "英首相与美总统通电话 讨论俄乌冲突等议题",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867146424.html"
-    },
-    {
-      "time": "41:26",
-      "title": "中国地震台网正式测定：09月08日01时31分在云南昭通市巧家县（北纬27.01度，东经103.40度）发生4.0级地震",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867145898.html"
-    },
-    {
-      "time": "40:07",
-      "title": "伊朗公布一款新型导弹",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867145782.html"
-    },
-    {
-      "time": "17:57",
-      "title": "多重因素叠加 西班牙食品价格上涨",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867136369.html"
-    },
-    {
-      "time": "17:20",
-      "title": "从内容到模式 中国微短剧落地美国",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867134573.html"
-    },
-    {
-      "time": "01:23",
-      "title": "夜盘期货收盘",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867130774.html"
-    },
-    {
-      "time": "52:10",
-      "title": "LME期铜收涨94美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867115379.html"
-    },
-    {
-      "time": "49:57",
-      "title": "欧洲顶级运营商洽谈成立卫星直连手机合资企业",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867102698.html"
-    },
-    {
-      "time": "36:41",
-      "title": "“8·28”楼市新政落地十天 多个热点城市楼市“躁动” 有开发商宣布收回折扣",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609073867045040.html"
-    },
-    {
-      "time": "20:32",
-      "title": "文件显示 纬创GDS发行价为每份58.88美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867083661.html"
-    },
-    {
-      "time": "16:30",
-      "title": "英国国王称哈里夫妇在英期间将以“私人身份”活动",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083867068541.html"
-    },
-    {
-      "time": "57:27",
-      "title": "泛欧交易所8月股票衍生品成交量环比减少13.7%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609073867053562.html"
-    },
-    {
-      "time": "56:20",
-      "title": "德国政府据悉正与该国两家国有能源公司就天然气储存援助事宜进行磋商",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609073867053640.html"
-    },
-    {
-      "time": "53:11",
-      "title": "美总统特使称美代表团访俄乌取得“实质性进展”",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609073867049521.html"
-    },
-    {
-      "time": "44:25",
-      "title": "以军空袭黎南部致至少11人丧生",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609073867046374.html"
     },
     {
       "time": "06-05",
