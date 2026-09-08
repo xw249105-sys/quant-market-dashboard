@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09 03:29",
+  "updated_at": "2026-09-09 06:47",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -13,8 +13,8 @@
     },
     {
       "name": "纳斯达克",
-      "price": 26437.48,
-      "change": -0.26
+      "price": 26421.41,
+      "change": -0.32
     },
     {
       "name": "恒生指数",
@@ -22,24 +22,24 @@
       "change": -0.38
     },
     {
-      "name": "标普500",
-      "price": 7682.31,
-      "change": -0.47
-    },
-    {
       "name": "深证成指",
       "price": 13703.21,
       "change": -0.52
     },
     {
-      "name": "道琼斯",
-      "price": 52834.24,
-      "change": -1.09
+      "name": "标普500",
+      "price": 7673.52,
+      "change": -0.58
     },
     {
       "name": "创业板指",
       "price": 3359.72,
       "change": -1.15
+    },
+    {
+      "name": "道琼斯",
+      "price": 52786.07,
+      "change": -1.18
     },
     {
       "name": "日经225",
@@ -9838,179 +9838,179 @@
   ],
   "news": [
     {
-      "time": "15:14",
-      "title": "英国国家空中交通管理局表示：系统故障现已解决 现正常运营",
+      "time": "30:33",
+      "title": "特朗普：加拿大产品将被排除出美国政府采购计划",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868448980.html"
+      "url": "https://finance.eastmoney.com/a/202609093868477062.html"
     },
     {
-      "time": "01:59",
-      "title": "美国7月份消费者信贷环比增加180.62亿美元，预估增加113.4亿美元",
+      "time": "29:53",
+      "title": "美军称摧毁5艘伊朗原油运输船",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868448216.html"
+      "url": "https://finance.eastmoney.com/a/202609093868476636.html"
     },
     {
-      "time": "56:40",
-      "title": "标普500指数跌至盘中低点，因伊朗哈尔克地区传出爆炸声",
+      "time": "25:29",
+      "title": "8月大消费赛道机构调研热度升温",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868447688.html"
+      "url": "https://finance.eastmoney.com/a/202609093868438484.html"
     },
     {
-      "time": "35:16",
-      "title": "上期所原油期货夜盘收涨1.62% 报714.70元人民币/桶",
+      "time": "16:31",
+      "title": "多地将有暴雨大暴雨 中央气象台继续发布蓝色预警",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868446622.html"
+      "url": "https://finance.eastmoney.com/a/202609093868472911.html"
     },
     {
-      "time": "34:00",
-      "title": "美国原油期货结算价为每桶93.03美元 上涨1.55美元",
+      "time": "15:34",
+      "title": "美联储9月加息概率为59.4%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868446421.html"
+      "url": "https://finance.eastmoney.com/a/202609093868472860.html"
     },
     {
-      "time": "21:07",
-      "title": "美官员称美军一架水下无人机在中东发生故障",
+      "time": "04:26",
+      "title": "WTI原油期货涨幅扩大至1% 报94.287美元/桶",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868444279.html"
+      "url": "https://finance.eastmoney.com/a/202609093868466484.html"
     },
     {
-      "time": "12:35",
-      "title": "武契奇：塞尔维亚将于10月25日举行议会选举",
+      "time": "00:02",
+      "title": "周三你需要知道的隔夜全球要闻",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868442634.html"
+      "url": "https://finance.eastmoney.com/a/202609093868468542.html"
     },
     {
-      "time": "11:51",
-      "title": "美国金融科技公司Ramp正在洽谈新一轮融资 估值600亿美元",
+      "time": "51:51",
+      "title": "美军回应无人潜航器被伊朗捕获：系“故障设备”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868443949.html"
+      "url": "https://finance.eastmoney.com/a/202609093868465920.html"
     },
     {
-      "time": "52:45",
-      "title": "欧盟石油协调小组称目前不存在石油供应安全的紧迫担忧",
+      "time": "46:24",
+      "title": "加拿大总理动员全民“上场”应对加美贸易战",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868439171.html"
+      "url": "https://finance.eastmoney.com/a/202609093868464242.html"
     },
     {
-      "time": "48:58",
-      "title": "铜价上涨“冲击波” AI算力引爆全球“抢铜”大战",
+      "time": "36:16",
+      "title": "美国财政部扩大国债回购在即 华尔街料单次规模最高100亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868438851.html"
+      "url": "https://finance.eastmoney.com/a/202609093868463284.html"
     },
     {
-      "time": "31:36",
-      "title": "第二届埃及国际航展在阿拉曼开幕",
+      "time": "28:30",
+      "title": "美国财长贝森特：可以用美国的资产负债表服务外交政策",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868438195.html"
+      "url": "https://finance.eastmoney.com/a/202609093868463065.html"
     },
     {
-      "time": "23:01",
-      "title": "厄瓜多尔警方查获约4吨毒品",
+      "time": "17:55",
+      "title": "富时A50期指连续夜盘收涨0.10% 报14578点",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868437740.html"
+      "url": "https://finance.eastmoney.com/a/202609093868461228.html"
     },
     {
-      "time": "14:38",
-      "title": "人工智能初创公司Cognition称其融资额超过20亿美元",
+      "time": "10:12",
+      "title": "英法加领导人发表联合声明谴责以色列扩张定居点",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868437144.html"
+      "url": "https://finance.eastmoney.com/a/202609093868459119.html"
     },
     {
-      "time": "09:00",
-      "title": "SpaceX或迎124亿美元被动买盘 指数调仓将成股价新催化剂",
+      "time": "08:49",
+      "title": "特朗普指示政府采购剔除加拿大产品",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868437459.html"
+      "url": "https://finance.eastmoney.com/a/202609093868459247.html"
     },
     {
-      "time": "03:48",
-      "title": "美国财政部拍卖580亿美元三年期国债",
+      "time": "01:09",
+      "title": "智利央行维持关键利率在4.5%不变 符合预期",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868436457.html"
+      "url": "https://finance.eastmoney.com/a/202609093868457294.html"
     },
     {
-      "time": "02:36",
-      "title": "沙特阿拉伯吉赞地区已启动警报",
+      "time": "57:52",
+      "title": "纽约尾盘 现货黄金跌1.06%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868435314.html"
+      "url": "https://finance.eastmoney.com/a/202609093868457083.html"
     },
     {
-      "time": "50:20",
-      "title": "英特尔涨幅扩大至10%",
+      "time": "56:31",
+      "title": "沙特两大石油通道同时受阻 数据显示欧佩克8月产量骤降",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868434838.html"
+      "url": "https://finance.eastmoney.com/a/202609093868457177.html"
     },
     {
-      "time": "45:05",
-      "title": "9天5板！百亿牛股公告提示风险！股价年内大涨近70% 上半年营收净利双降",
+      "time": "55:41",
+      "title": "第80届联大闭幕 孟加拉国外长就任下届联大主席",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868422651.html"
+      "url": "https://finance.eastmoney.com/a/202609093868456919.html"
     },
     {
-      "time": "29:12",
-      "title": "高通首席财务官表示 除亚马逊之外 公司与另一家超大规模企业保持着紧密合作",
+      "time": "40:59",
+      "title": "美国国家航空航天局（NASA）征集方案 以加速月面技术研发",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868433368.html"
+      "url": "https://finance.eastmoney.com/a/202609093868455976.html"
     },
     {
-      "time": "27:09",
-      "title": "高通称智能手机市场正处于本轮周期低点",
+      "time": "33:18",
+      "title": "美官员透露美军打击哈尔克岛附近伊朗目标",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868433229.html"
+      "url": "https://finance.eastmoney.com/a/202609093868454922.html"
     },
     {
-      "time": "24:32",
-      "title": "纳斯达克中国金龙指数跌超2%",
+      "time": "30:33",
+      "title": "外贸延续两位数增长 技术优势形成坚韧支撑",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868431815.html"
+      "url": "https://finance.eastmoney.com/a/202609093868450638.html"
     },
     {
-      "time": "08:35",
-      "title": "爱尔兰媒体监管机构已根据《网络安全守则》对X展开调查",
+      "time": "18:32",
+      "title": "欧盟称以色列扩张约旦河西岸定居点破坏“两国方案”前景",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868426044.html"
+      "url": "https://finance.eastmoney.com/a/202609093868454097.html"
     },
     {
-      "time": "01:42",
-      "title": "康农种业：已完全具备对东南亚、非洲等地区的杂交玉米种子供应条件",
+      "time": "13:56",
+      "title": "花旗集团最快将于今年 为日本企业提供跨境汇款服务",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609093868422867.html"
+      "url": "https://finance.eastmoney.com/a/202609093868454378.html"
     },
     {
-      "time": "59:43",
-      "title": "同力股份：目前除部分特殊市场外 其余海外市场均全面推进",
+      "time": "09:39",
+      "title": "伊朗军方警告：将袭击科威特及巴林港口油轮 船员需立即撤离",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083868423090.html"
+      "url": "https://finance.eastmoney.com/a/202609093868453569.html"
     },
     {
-      "time": "57:51",
-      "title": "中诚咨询：拟回购50万至100万股",
+      "time": "04:35",
+      "title": "美元指数8日下跌",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609083868420131.html"
+      "url": "https://finance.eastmoney.com/a/202609093868453740.html"
     },
     {
       "time": "06-05",
@@ -10190,7 +10190,7 @@
   ],
   "health": {
     "partial_failures": [
-      "板块: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "板块: HTTPSConnectionPool(host='17.push2.eastmoney.com', port=443): Read timed out. (read timeout=15)"
     ]
   }
 }
