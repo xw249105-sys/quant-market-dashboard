@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10 03:20",
+  "updated_at": "2026-09-10 06:38",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -9762,81 +9762,190 @@
   "assets": [
     {
       "symbol": "600519",
-      "date": "2026-09-08",
-      "price": 1309.3,
-      "score": 55,
-      "signal": "持有/等待确认",
-      "buy_low": 1288.951,
-      "buy_high": 1309.3,
-      "stop_loss": 1268.601,
-      "target": 1370.348,
+      "date": "2026-09-09",
+      "price": 1290.88,
+      "score": 50,
+      "signal": "谨慎观望",
+      "buy_low": 1270.121,
+      "buy_high": 1290.88,
+      "stop_loss": 1249.361,
+      "target": 1353.158,
       "risk": "低",
       "reasons": [
-        "收盘价站上 MA20",
         "MA20 高于 MA60",
         "RSI 位于健康区间",
+        "成交量高于 20 日均量",
         "近期波动可控"
       ],
       "name": "贵州茅台",
-      "action": "暂不追买，等待趋势与成交量进一步确认"
-    },
-    {
-      "symbol": "159920",
-      "date": "2026-09-08",
-      "price": 1.486,
-      "score": 40,
-      "signal": "谨慎观望",
-      "buy_low": 1.467,
-      "buy_high": 1.486,
-      "stop_loss": 1.448,
-      "target": 1.543,
-      "risk": "低",
-      "reasons": [
-        "MA20 高于 MA60",
-        "RSI 位于健康区间",
-        "近期波动可控"
-      ],
-      "name": "恒生ETF",
       "action": "当前不建议新开仓，优先控制风险"
     },
     {
       "symbol": "159915",
-      "date": "2026-09-08",
-      "price": 3.376,
-      "score": 30,
+      "date": "2026-09-09",
+      "price": 3.373,
+      "score": 20,
       "signal": "回避/考虑减仓",
-      "buy_low": 3.285,
-      "buy_high": 3.376,
-      "stop_loss": 3.194,
-      "target": 3.649,
+      "buy_low": 3.283,
+      "buy_high": 3.373,
+      "stop_loss": 3.192,
+      "target": 3.645,
       "risk": "中",
       "reasons": [
-        "中长期均线多头",
         "RSI 位于健康区间"
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "300750",
-      "date": "2026-09-08",
-      "price": 335.49,
-      "score": 23,
-      "signal": "回避/考虑减仓",
-      "buy_low": 325.281,
-      "buy_high": 335.49,
-      "stop_loss": 315.071,
-      "target": 366.118,
-      "risk": "中",
-      "reasons": [
-        "RSI 偏低，存在超跌特征",
-        "成交量高于 20 日均量"
-      ],
-      "name": "宁德时代",
-      "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
+    {
+      "time": "00:01",
+      "title": "周四你需要知道的隔夜全球要闻",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869712428.html"
+    },
+    {
+      "time": "40:33",
+      "title": "美国能源部长赖特：霍尔木兹海峡原油日流量略低于1100万桶",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869702946.html"
+    },
+    {
+      "time": "36:08",
+      "title": "纽约尾盘 现货黄金涨1.02%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869702827.html"
+    },
+    {
+      "time": "31:06",
+      "title": "伊朗方面称格什姆岛传出爆炸声",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869702319.html"
+    },
+    {
+      "time": "20:33",
+      "title": "特朗普专机应急滑梯因误操作弹出",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869699683.html"
+    },
+    {
+      "time": "09:25",
+      "title": "美国交通部成立新的太空工作组",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869697898.html"
+    },
+    {
+      "time": "02:54",
+      "title": "OpenAI切断Adobe及其他合作方在图片产品内投放广告的权限",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869697390.html"
+    },
+    {
+      "time": "48:40",
+      "title": "美国石油协会数据显示：上周美国API原油库存减少30万桶 之前一周减少260万桶",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869696576.html"
+    },
+    {
+      "time": "40:45",
+      "title": "摩根大通给予SK海力士超配评级 目标价245美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869694843.html"
+    },
+    {
+      "time": "39:08",
+      "title": "中方强调政治外交是伊核问题出路",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869694695.html"
+    },
+    {
+      "time": "28:28",
+      "title": "美国能源部长赖特表示：当前炼油行业面临的问题比原油本身更为严峻",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869694216.html"
+    },
+    {
+      "time": "20:57",
+      "title": "加拿大能源运输龙头Enbridge将以25.5亿美元现金收购能源服务商Tallgrass的原油业务",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869693979.html"
+    },
+    {
+      "time": "16:30",
+      "title": "美国国会预算办公室估计8月预算赤字1680亿美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869693297.html"
+    },
+    {
+      "time": "15:46",
+      "title": "摩托罗拉表示：董事会批准将股票回购计划规模扩大20亿美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869692617.html"
+    },
+    {
+      "time": "03:31",
+      "title": "纳斯达克中国金龙指数收跌2.09%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869691854.html"
+    },
+    {
+      "time": "00:40",
+      "title": "美股三大指数集体收跌 存储、光通信板块逆市上涨",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869691497.html"
+    },
+    {
+      "time": "42:19",
+      "title": "特朗普称伊朗战争中期选举后结束",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869689846.html"
+    },
+    {
+      "time": "28:47",
+      "title": "美元指数9日上涨",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869687436.html"
+    },
+    {
+      "time": "28:08",
+      "title": "惠誉评级显示：关税升级凸显加拿大风险 短期影响有限",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869686321.html"
+    },
+    {
+      "time": "22:10",
+      "title": "刚果（金）埃博拉疫情累计确诊病例超6700例",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869686233.html"
+    },
+    {
+      "time": "17:24",
+      "title": "Meta正式入局个人AI代理赛道 Muse可替用户购物、预约、填表",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609103869686114.html"
+    },
     {
       "time": "05:52",
       "title": "人工智能公司Anthropic：已确认一起发生于2026年1月的第四起安全事件 涉及Claude Opus 4.6的早期版本",
@@ -9864,153 +9973,6 @@
       "source": "东方财富",
       "category": "财经",
       "url": "https://finance.eastmoney.com/a/202609103869684971.html"
-    },
-    {
-      "time": "58:28",
-      "title": "布伦特原油期货结算价为每桶101.21美元 上涨3.29美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869684746.html"
-    },
-    {
-      "time": "55:27",
-      "title": "特朗普：可能与俄罗斯举行双边会晤",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869684249.html"
-    },
-    {
-      "time": "47:16",
-      "title": "沙特称南部多地再遭胡塞武装袭击",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869682712.html"
-    },
-    {
-      "time": "45:25",
-      "title": "科创投资浮盈集中释放 上市券商回应业绩成色与可持续性",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869677578.html"
-    },
-    {
-      "time": "36:48",
-      "title": "美国总统特朗普表示：中期选举一结束 伊朗战事将立即终结",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869680451.html"
-    },
-    {
-      "time": "34:30",
-      "title": "美国原油期货结算价为每桶96.05美元 上涨3.02美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869680382.html"
-    },
-    {
-      "time": "33:38",
-      "title": "上期所原油期货夜盘收涨7.00% 报773.10元人民币/桶",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869680233.html"
-    },
-    {
-      "time": "24:33",
-      "title": "iPhone Duo国行售价15999元起 10月16日开启预售",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869680048.html"
-    },
-    {
-      "time": "17:25",
-      "title": "苹果iPhone Duo起售价为1999美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869679877.html"
-    },
-    {
-      "time": "15:36",
-      "title": "苹果表示：A20 Pro芯片上的全新显示引擎将为iPhone Duo提供支持",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869679648.html"
-    },
-    {
-      "time": "05:39",
-      "title": "iPhone Duo 的显示屏是iPhone 有史以来尺寸最大的屏幕",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869679553.html"
-    },
-    {
-      "time": "04:41",
-      "title": "苹果发布Apple Watch Series 12和Ultra 4",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869679419.html"
-    },
-    {
-      "time": "55:59",
-      "title": "苹果发布折叠款iPhone 命名为iPhone Duo",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869677673.html"
-    },
-    {
-      "time": "50:04",
-      "title": "OpenAI智能体被曝借十余站点秘密传信 公司对此沉默数月",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869678087.html"
-    },
-    {
-      "time": "41:41",
-      "title": "苹果推出AirPods 5 售价999元起",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869676532.html"
-    },
-    {
-      "time": "33:31",
-      "title": "苹果iPhone 18 Pro将于9月12日开始接受订单 发货将于9月18日开始",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869673989.html"
-    },
-    {
-      "time": "32:27",
-      "title": "苹果公布iPhone 18 Pro系列价格",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869673872.html"
-    },
-    {
-      "time": "20:56",
-      "title": "苹果股价跌至盘中低点 下挫1.5%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869673558.html"
-    },
-    {
-      "time": "20:11",
-      "title": "纽约铜价、伦敦铜价双双创历史新高",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869672527.html"
-    },
-    {
-      "time": "19:31",
-      "title": "美联储隔夜逆回购协议（RRP）周三使用规模为4.32亿美元（交易对手6家） 上个交易日报6.26亿美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869672829.html"
-    },
-    {
-      "time": "16:31",
-      "title": "苹果发布基于2纳米制程技术的A20 Pro芯片",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609103869671716.html"
     },
     {
       "time": "06-05",
