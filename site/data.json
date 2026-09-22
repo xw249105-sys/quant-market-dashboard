@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22 08:55",
+  "updated_at": "2026-09-22 15:47",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -9863,199 +9863,223 @@
   ],
   "assets": [
     {
-      "symbol": "600519",
-      "date": "2026-09-21",
-      "price": 1254.77,
-      "score": 25,
-      "signal": "回避/考虑减仓",
-      "buy_low": 1237.371,
-      "buy_high": 1254.77,
-      "stop_loss": 1219.973,
-      "target": 1306.966,
+      "symbol": "159915",
+      "date": "2026-09-22",
+      "price": 3.42,
+      "score": 75,
+      "signal": "分批买入观察",
+      "buy_low": 3.34,
+      "buy_high": 3.42,
+      "stop_loss": 3.261,
+      "target": 3.659,
+      "risk": "中",
+      "reasons": [
+        "收盘价站上 MA20",
+        "RSI 位于健康区间",
+        "MACD 位于信号线上方",
+        "成交量高于 20 日均量",
+        "20 日动量为正",
+        "近期波动可控"
+      ],
+      "name": "创业板ETF",
+      "action": "可在参考区间小仓分批观察，不宜一次满仓"
+    },
+    {
+      "symbol": "159920",
+      "date": "2026-09-22",
+      "price": 1.473,
+      "score": 50,
+      "signal": "谨慎观望",
+      "buy_low": 1.455,
+      "buy_high": 1.473,
+      "stop_loss": 1.437,
+      "target": 1.527,
       "risk": "低",
       "reasons": [
         "MA20 高于 MA60",
+        "RSI 位于健康区间",
+        "成交量高于 20 日均量",
         "近期波动可控"
       ],
-      "name": "贵州茅台",
+      "name": "恒生ETF",
       "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "51:16",
-      "title": "国寿养老：商业养老金存量规模突破千亿元",
+      "time": "43:09",
+      "title": "天津1宗涉宅用地5.68亿元底价成交",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880650649.html"
+      "url": "https://finance.eastmoney.com/a/202609223881226960.html"
     },
     {
-      "time": "51:03",
-      "title": "不能甩锅给AI！美财长：OpenAI黑客事故应追责企业管理层",
+      "time": "43:00",
+      "title": "欧盟与菲律宾贸易协定有望在未来几个月内达成",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880650990.html"
+      "url": "https://finance.eastmoney.com/a/202609223881226350.html"
     },
     {
-      "time": "50:18",
-      "title": "中国石化集团公司党组召开会议 强调要大力推进智能化升级",
+      "time": "42:07",
+      "title": "外交部：愿同东盟各国落实好“自贸区3.0版”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880650442.html"
+      "url": "https://finance.eastmoney.com/a/202609223881224774.html"
     },
     {
-      "time": "47:25",
-      "title": "两市融资余额增加141.71亿元",
+      "time": "41:57",
+      "title": "北京昌平1宗宅地17亿元底价成交",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880650140.html"
+      "url": "https://finance.eastmoney.com/a/202609223881225851.html"
     },
     {
-      "time": "47:25",
-      "title": "9月22日投资避雷针：上交所再发通报 将持续对沈鼓集团密切关注 依规采取自律监管措施",
+      "time": "40:55",
+      "title": "智谱GLM-5.3-Flash调用量增长73%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880648980.html"
+      "url": "https://finance.eastmoney.com/a/202609223881225238.html"
     },
     {
-      "time": "42:02",
-      "title": "汇洲智能：“齐重AI1+4项目”首批产品已进入实际业务验证",
+      "time": "40:48",
+      "title": "美版IPhone 18 Pro Max被爆未采用苹果自研C2芯片",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880648649.html"
+      "url": "https://finance.eastmoney.com/a/202609223881224923.html"
     },
     {
-      "time": "41:59",
-      "title": "韩元兑美元上涨0.8%",
+      "time": "39:34",
+      "title": "佰维存储：OEC产品目前正在与客户合作开发6.4TNPO的光引擎封装 预计2026年第四季度完成研发",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880650012.html"
+      "url": "https://finance.eastmoney.com/a/202609223881223017.html"
     },
     {
-      "time": "40:22",
-      "title": "英伟达支持的AI制药公司Iambic提交美国IPO申请",
+      "time": "37:53",
+      "title": "上海物贸：副总经理郑斌因工作变动离任",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880648540.html"
+      "url": "https://finance.eastmoney.com/a/202609223881223164.html"
     },
     {
-      "time": "39:38",
-      "title": "太空生物医药加速产业化 中科宇航与广州国家实验室携手“上天”",
+      "time": "37:44",
+      "title": "Muse大火 扎克伯格身价一日暴涨近1700亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609213880287917.html"
+      "url": "https://finance.eastmoney.com/a/202609223881221939.html"
     },
     {
-      "time": "38:22",
-      "title": "机构：2026上半年全球AI眼镜出货量同比大增263%",
+      "time": "37:12",
+      "title": "美元兑日元连续第三个交易日上涨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880648012.html"
+      "url": "https://finance.eastmoney.com/a/202609223881221513.html"
     },
     {
-      "time": "38:20",
-      "title": "减肥药巨头诺和诺德本轮调整 裁掉了1.3万个岗位",
+      "time": "33:54",
+      "title": "现货白银跌破65美元/盎司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609213880315953.html"
+      "url": "https://finance.eastmoney.com/a/202609223881219920.html"
     },
     {
-      "time": "37:30",
-      "title": "飞行汽车盼商业化落地 监管沙盒机制引关注",
+      "time": "32:55",
+      "title": "福建战新领航股权投资基金成立 出资额10亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609213880307110.html"
+      "url": "https://finance.eastmoney.com/a/202609223881221062.html"
     },
     {
-      "time": "36:04",
-      "title": "AI深度嵌入世界技能大赛 劳动力市场需求正在改变",
+      "time": "29:50",
+      "title": "Stifel维持甲骨文“买入”评级 Project Jupiter数据中心建设进度升至26%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609213880305992.html"
+      "url": "https://finance.eastmoney.com/a/202609223881216066.html"
     },
     {
-      "time": "33:53",
-      "title": "国盛证券：四季度政策密集期叠加厄尔尼诺 关注种业板块",
+      "time": "29:08",
+      "title": "南向资金净买入额达100亿港元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880647573.html"
+      "url": "https://finance.eastmoney.com/a/202609223881215854.html"
     },
     {
-      "time": "33:53",
-      "title": "中信证券：先进制造顶层定调 算力建设景气加速",
+      "time": "28:08",
+      "title": "7万块英伟达芯片 亚美尼亚赫拉兹丹数据中心冲刺欧洲最大算力集群",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880647449.html"
+      "url": "https://finance.eastmoney.com/a/202609223881214424.html"
     },
     {
-      "time": "33:37",
-      "title": "结束缄默期！美联储官员怎么看加息？鹰派跃跃欲试",
+      "time": "28:03",
+      "title": "AI4S企业龙讯旷腾获亿元融资",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880542456.html"
+      "url": "https://finance.eastmoney.com/a/202609223881215048.html"
     },
     {
-      "time": "31:28",
-      "title": "AI芯片功耗陡峭攀升 金刚石散热行业有望迎来产业化元年",
+      "time": "28:03",
+      "title": "阿里云将扩大灵骏真武超节点算力服务范围",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880626636.html"
+      "url": "https://finance.eastmoney.com/a/202609223881214811.html"
     },
     {
-      "time": "30:22",
-      "title": "暂停数据中心并网后 美国得克萨斯州再下令暂停环境监管审批",
+      "time": "27:12",
+      "title": "比特币引领加密货币市值重回3万亿美元以上",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880646310.html"
+      "url": "https://finance.eastmoney.com/a/202609223881214298.html"
     },
     {
-      "time": "30:15",
-      "title": "智能体技术走向成熟 算力需求有望呈指数级增长",
+      "time": "25:28",
+      "title": "外交部：中方一贯反对没有国际法依据、没有联合国安理会授权的非法单边制裁",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880630236.html"
+      "url": "https://finance.eastmoney.com/a/202609223881212315.html"
     },
     {
-      "time": "29:04",
-      "title": "ARM、英特尔等多只芯片股大涨超10% 服务器CPU迈入量价齐升周期",
+      "time": "24:34",
+      "title": "外交部：中方愿同美方一道 丰富中美建设性战略稳定关系内涵",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880629033.html"
+      "url": "https://finance.eastmoney.com/a/202609223881212037.html"
     },
     {
-      "time": "28:54",
-      "title": "大航跃迁：首飞箭“跃迁一号”研制全面提速 目标2027年首飞",
+      "time": "24:02",
+      "title": "外交部：各方应该共同推动人工智能开放、包容、普惠、向善发展",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880646276.html"
+      "url": "https://finance.eastmoney.com/a/202609223881211981.html"
     },
     {
-      "time": "28:54",
-      "title": "官宣！沃尔沃汽车CEO换人！李书福：对他充满信心",
+      "time": "24:00",
+      "title": "首创住房租赁（北京）有限公司成立 注册资本30亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609213880302871.html"
+      "url": "https://finance.eastmoney.com/a/202609223881212640.html"
     },
     {
-      "time": "28:29",
-      "title": "韩国寻求确保对美投资年度上限为200亿美元",
+      "time": "23:59",
+      "title": "海关总署署长孙梅君会见巴西税务总局局长巴雷里尼亚斯",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880646056.html"
+      "url": "https://finance.eastmoney.com/a/202609223881212888.html"
     },
     {
-      "time": "26:27",
-      "title": "“奶酪女王”柴琇辞去妙可蓝多全部职务：上市10年 这位创始人是如何从董事长兼总经理变为股东一名的？",
+      "time": "23:00",
+      "title": "超3.1亿元消费券 全国国庆文化和旅游消费月启动",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880643662.html"
+      "url": "https://finance.eastmoney.com/a/202609223881210342.html"
     },
     {
-      "time": "25:58",
-      "title": "中信建投：人形机器人关注T链产品发布及量产进展 把握核心供应商布局机会",
+      "time": "21:38",
+      "title": "前8个月熊猫债券累计发行已超2000亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223880644822.html"
+      "url": "https://finance.eastmoney.com/a/202609223881211710.html"
     },
     {
       "time": "06-05",
