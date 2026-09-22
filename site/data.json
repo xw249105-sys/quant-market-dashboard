@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22 15:47",
+  "updated_at": "2026-09-23 03:47",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -7,44 +7,44 @@
   },
   "indices": [
     {
-      "name": "纳斯达克",
-      "price": 27122.09,
-      "change": 2.26
-    },
-    {
-      "name": "标普500",
-      "price": 7764.7,
-      "change": 1.49
-    },
-    {
       "name": "日经225",
       "price": 65018.95,
       "change": 1.38
     },
     {
+      "name": "纳斯达克",
+      "price": 27269.66,
+      "change": 0.54
+    },
+    {
       "name": "恒生指数",
-      "price": 25042.71,
-      "change": 1.18
+      "price": 25087.75,
+      "change": 0.18
+    },
+    {
+      "name": "标普500",
+      "price": 7775.46,
+      "change": 0.14
     },
     {
       "name": "上证指数",
-      "price": 3949.91,
-      "change": 0.97
+      "price": 3952.13,
+      "change": 0.06
     },
     {
       "name": "创业板指",
-      "price": 3399.59,
-      "change": 0.8
-    },
-    {
-      "name": "道琼斯",
-      "price": 52048.83,
-      "change": 0.71
+      "price": 3399.93,
+      "change": 0.01
     },
     {
       "name": "深证成指",
-      "price": 13730.02,
-      "change": 0.65
+      "price": 13723.74,
+      "change": -0.05
+    },
+    {
+      "name": "道琼斯",
+      "price": 51947.74,
+      "change": -0.19
     }
   ],
   "sectors": {
@@ -9907,179 +9907,179 @@
   ],
   "news": [
     {
-      "time": "43:09",
-      "title": "天津1宗涉宅用地5.68亿元底价成交",
+      "time": "35:31",
+      "title": "现货白银价格涨超2%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881226960.html"
+      "url": "https://finance.eastmoney.com/a/202609233881628776.html"
     },
     {
-      "time": "43:00",
-      "title": "欧盟与菲律宾贸易协定有望在未来几个月内达成",
+      "time": "31:55",
+      "title": "据伊朗方面消息：伊朗外长在联合国大会期间与美国总统特使威特科夫会晤",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881226350.html"
+      "url": "https://finance.eastmoney.com/a/202609233881628638.html"
     },
     {
-      "time": "42:07",
-      "title": "外交部：愿同东盟各国落实好“自贸区3.0版”",
+      "time": "28:45",
+      "title": "特朗普称：古巴形势不太乐观",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881224774.html"
+      "url": "https://finance.eastmoney.com/a/202609233881628553.html"
     },
     {
-      "time": "41:57",
-      "title": "北京昌平1宗宅地17亿元底价成交",
+      "time": "25:16",
+      "title": "在岸人民币兑美元较周一夜盘收盘跌52点",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881225851.html"
+      "url": "https://finance.eastmoney.com/a/202609233881628341.html"
     },
     {
-      "time": "40:55",
-      "title": "智谱GLM-5.3-Flash调用量增长73%",
+      "time": "02:48",
+      "title": "泽连斯基：已准备好与俄罗斯实现能源停火",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881225238.html"
+      "url": "https://finance.eastmoney.com/a/202609233881628266.html"
     },
     {
-      "time": "40:48",
-      "title": "美版IPhone 18 Pro Max被爆未采用苹果自研C2芯片",
+      "time": "48:35",
+      "title": "也门胡塞武装称多地遭沙特空袭 致人员伤亡",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881224923.html"
+      "url": "https://finance.eastmoney.com/a/202609233881628088.html"
     },
     {
-      "time": "39:34",
-      "title": "佰维存储：OEC产品目前正在与客户合作开发6.4TNPO的光引擎封装 预计2026年第四季度完成研发",
+      "time": "31:46",
+      "title": "国际原油期货结算价收跌超1%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881223017.html"
+      "url": "https://finance.eastmoney.com/a/202609233881627951.html"
     },
     {
-      "time": "37:53",
-      "title": "上海物贸：副总经理郑斌因工作变动离任",
+      "time": "30:14",
+      "title": "波兰称拦截一架俄罗斯侦察机 俄方暂无回应",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881223164.html"
-    },
-    {
-      "time": "37:44",
-      "title": "Muse大火 扎克伯格身价一日暴涨近1700亿元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881221939.html"
-    },
-    {
-      "time": "37:12",
-      "title": "美元兑日元连续第三个交易日上涨",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881221513.html"
-    },
-    {
-      "time": "33:54",
-      "title": "现货白银跌破65美元/盎司",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881219920.html"
-    },
-    {
-      "time": "32:55",
-      "title": "福建战新领航股权投资基金成立 出资额10亿元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881221062.html"
-    },
-    {
-      "time": "29:50",
-      "title": "Stifel维持甲骨文“买入”评级 Project Jupiter数据中心建设进度升至26%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881216066.html"
-    },
-    {
-      "time": "29:08",
-      "title": "南向资金净买入额达100亿港元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881215854.html"
-    },
-    {
-      "time": "28:08",
-      "title": "7万块英伟达芯片 亚美尼亚赫拉兹丹数据中心冲刺欧洲最大算力集群",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881214424.html"
-    },
-    {
-      "time": "28:03",
-      "title": "AI4S企业龙讯旷腾获亿元融资",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881215048.html"
-    },
-    {
-      "time": "28:03",
-      "title": "阿里云将扩大灵骏真武超节点算力服务范围",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881214811.html"
+      "url": "https://finance.eastmoney.com/a/202609233881627878.html"
     },
     {
       "time": "27:12",
-      "title": "比特币引领加密货币市值重回3万亿美元以上",
+      "title": "出清同质化管线 创新药行业破局“靶点内卷”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881214298.html"
+      "url": "https://finance.eastmoney.com/a/202609233881627229.html"
     },
     {
-      "time": "25:28",
-      "title": "外交部：中方一贯反对没有国际法依据、没有联合国安理会授权的非法单边制裁",
+      "time": "20:01",
+      "title": "自然资源部：2030年全国海洋生产总值将破13万亿",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881212315.html"
+      "url": "https://finance.eastmoney.com/a/202609233881626761.html"
     },
     {
-      "time": "24:34",
-      "title": "外交部：中方愿同美方一道 丰富中美建设性战略稳定关系内涵",
+      "time": "07:37",
+      "title": "特朗普：中期选举后美伊或达成协议",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881212037.html"
+      "url": "https://finance.eastmoney.com/a/202609233881626296.html"
     },
     {
-      "time": "24:02",
-      "title": "外交部：各方应该共同推动人工智能开放、包容、普惠、向善发展",
+      "time": "05:27",
+      "title": "OpenAI推出GPT-6 SOL与GPT-6 LUNA",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881211981.html"
+      "url": "https://finance.eastmoney.com/a/202609233881625849.html"
     },
     {
-      "time": "24:00",
-      "title": "首创住房租赁（北京）有限公司成立 注册资本30亿元",
+      "time": "04:31",
+      "title": "德黑兰飞往巴格达和马斯喀特的航班将取消",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881212640.html"
+      "url": "https://finance.eastmoney.com/a/202609233881625559.html"
     },
     {
-      "time": "23:59",
-      "title": "海关总署署长孙梅君会见巴西税务总局局长巴雷里尼亚斯",
+      "time": "58:03",
+      "title": "特朗普表示：近期将与伊朗举行会谈",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881212888.html"
+      "url": "https://finance.eastmoney.com/a/202609233881624246.html"
     },
     {
-      "time": "23:00",
-      "title": "超3.1亿元消费券 全国国庆文化和旅游消费月启动",
+      "time": "56:41",
+      "title": "特朗普称：美国团队今天早些时候与伊朗方面会面",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881210342.html"
+      "url": "https://finance.eastmoney.com/a/202609233881624072.html"
     },
     {
-      "time": "21:38",
-      "title": "前8个月熊猫债券累计发行已超2000亿元",
+      "time": "51:53",
+      "title": "斯洛伐克总理：欧盟未解决能源价格飙升问题 应召开紧急峰会",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609223881211710.html"
+      "url": "https://finance.eastmoney.com/a/202609233881623758.html"
+    },
+    {
+      "time": "51:46",
+      "title": "泽连斯基称：希望特朗普能帮助乌克兰在冬季前结束战争",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609233881623885.html"
+    },
+    {
+      "time": "50:12",
+      "title": "特朗普表示他认为乌克兰会达成协议",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609233881623685.html"
+    },
+    {
+      "time": "48:46",
+      "title": "美联储巴尔金称：不认为当前的生产力提升主要反映了人工智能的影响",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609233881623546.html"
+    },
+    {
+      "time": "44:39",
+      "title": "美团核心本地商业CEO王莆中：即时零售已跨过需求培养与网络铺设的最难阶段",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609233881616988.html"
+    },
+    {
+      "time": "30:55",
+      "title": "巴西下调2026年GDP预期至增长2% 之前料增2.3%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609233881621854.html"
+    },
+    {
+      "time": "30:31",
+      "title": "油价持续走高 法国马赛出现汽油车改装热潮",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609233881620830.html"
+    },
+    {
+      "time": "27:40",
+      "title": "公司内部帖子显示：Meta Platforms正在为其新的人工智能个人助手Muse测试一种“人工礼宾”模式",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609233881620788.html"
+    },
+    {
+      "time": "24:06",
+      "title": "美国一调查显示57%民众支持对华友好合作",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609233881620484.html"
+    },
+    {
+      "time": "17:06",
+      "title": "周二（9月22日） 美联储隔夜逆回购协议（RRP）使用规模为4.53亿美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609233881620060.html"
     },
     {
       "time": "06-05",
