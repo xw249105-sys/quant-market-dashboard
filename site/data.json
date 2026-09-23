@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23 07:01",
+  "updated_at": "2026-09-23 12:52",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -13,38 +13,38 @@
     },
     {
       "name": "纳斯达克",
-      "price": 27269.66,
-      "change": 0.54
-    },
-    {
-      "name": "恒生指数",
-      "price": 25087.75,
-      "change": 0.18
+      "price": 27244.28,
+      "change": 0.45
     },
     {
       "name": "标普500",
-      "price": 7775.46,
-      "change": 0.14
+      "price": 7764.64,
+      "change": 0.0
     },
     {
       "name": "上证指数",
-      "price": 3952.13,
-      "change": 0.06
-    },
-    {
-      "name": "创业板指",
-      "price": 3399.93,
-      "change": 0.01
-    },
-    {
-      "name": "深证成指",
-      "price": 13723.74,
-      "change": -0.05
+      "price": 3938.08,
+      "change": -0.36
     },
     {
       "name": "道琼斯",
-      "price": 51947.74,
-      "change": -0.19
+      "price": 51863.69,
+      "change": -0.36
+    },
+    {
+      "name": "创业板指",
+      "price": 3385.3,
+      "change": -0.43
+    },
+    {
+      "name": "深证成指",
+      "price": 13644.72,
+      "change": -0.58
+    },
+    {
+      "name": "恒生指数",
+      "price": 24896.04,
+      "change": -0.76
     }
   ],
   "sectors": {
@@ -9864,41 +9864,37 @@
   "assets": [
     {
       "symbol": "159915",
-      "date": "2026-09-22",
-      "price": 3.42,
-      "score": 75,
-      "signal": "分批买入观察",
-      "buy_low": 3.34,
-      "buy_high": 3.42,
-      "stop_loss": 3.261,
-      "target": 3.659,
+      "date": "2026-09-23",
+      "price": 3.405,
+      "score": 55,
+      "signal": "持有/等待确认",
+      "buy_low": 3.328,
+      "buy_high": 3.405,
+      "stop_loss": 3.25,
+      "target": 3.637,
       "risk": "中",
       "reasons": [
         "收盘价站上 MA20",
         "RSI 位于健康区间",
         "MACD 位于信号线上方",
-        "成交量高于 20 日均量",
-        "20 日动量为正",
         "近期波动可控"
       ],
       "name": "创业板ETF",
-      "action": "可在参考区间小仓分批观察，不宜一次满仓"
+      "action": "暂不追买，等待趋势与成交量进一步确认"
     },
     {
       "symbol": "159920",
-      "date": "2026-09-22",
-      "price": 1.473,
-      "score": 50,
-      "signal": "谨慎观望",
-      "buy_low": 1.455,
-      "buy_high": 1.473,
-      "stop_loss": 1.437,
-      "target": 1.527,
+      "date": "2026-09-23",
+      "price": 1.463,
+      "score": 25,
+      "signal": "回避/考虑减仓",
+      "buy_low": 1.445,
+      "buy_high": 1.463,
+      "stop_loss": 1.428,
+      "target": 1.516,
       "risk": "低",
       "reasons": [
-        "MA20 高于 MA60",
         "RSI 位于健康区间",
-        "成交量高于 20 日均量",
         "近期波动可控"
       ],
       "name": "恒生ETF",
@@ -9907,179 +9903,179 @@
   ],
   "news": [
     {
-      "time": "23:21",
-      "title": "台风“杜鹃”已致日本7人死亡",
+      "time": "50:30",
+      "title": "AI智能体Muse爆发式走红 业内判断：AI终端将从工具走向伙伴",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881650391.html"
+      "url": "https://finance.eastmoney.com/a/202609233882305652.html"
     },
     {
-      "time": "13:17",
-      "title": "产品布局持续拓宽 被动指数债基规模超过两万亿元",
+      "time": "48:30",
+      "title": "罗永浩回应：为避免连累嘉宾 节目暂时停更",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881624940.html"
+      "url": "https://finance.eastmoney.com/a/202609233882306991.html"
     },
     {
-      "time": "03:40",
-      "title": "美联储10月加息的概率为54.2%",
+      "time": "47:57",
+      "title": "印尼失事客轮已确认20人遇难",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881644947.html"
+      "url": "https://finance.eastmoney.com/a/202609233882307147.html"
     },
     {
-      "time": "01:05",
-      "title": "据美国航空航天局：NASA与SpaceX瞄准美东时间10月1日星期四上午11:10作为Crew-13任务的最早发射窗口",
+      "time": "47:50",
+      "title": "亨通光电副总裁屠建宾：AI比拼算力 算力比拼互联 互联的根基是光纤",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881644723.html"
+      "url": "https://finance.eastmoney.com/a/202609233882306864.html"
     },
     {
-      "time": "00:58",
-      "title": "周三你需要知道的隔夜全球要闻",
+      "time": "46:26",
+      "title": "日本开发圆筒形钙钛矿电池 有望延长寿命",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881644357.html"
+      "url": "https://finance.eastmoney.com/a/202609233882307073.html"
     },
     {
-      "time": "58:14",
-      "title": "美国、丹麦和格陵兰签协议扩大美军存在引担忧",
+      "time": "45:40",
+      "title": "国际绿色航运走廊联盟成立",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881643775.html"
+      "url": "https://finance.eastmoney.com/a/202609233882306752.html"
     },
     {
-      "time": "46:15",
-      "title": "自然资源部：将继续实施新一轮找矿突破战略行动",
+      "time": "42:03",
+      "title": "国内男装巨头卷向户外 要跟迪桑特抢中产生意",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881637054.html"
+      "url": "https://finance.eastmoney.com/a/202609233882304382.html"
     },
     {
-      "time": "38:19",
-      "title": "据伊朗方面消息：在伊朗格什姆岛附近传出爆炸声",
+      "time": "40:23",
+      "title": "中企在伊拉克投建的天然气处理装置投产",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881641895.html"
+      "url": "https://finance.eastmoney.com/a/202609233882306665.html"
     },
     {
-      "time": "30:06",
-      "title": "KMD BRANDS全年销售额10.5亿新西兰元 高于市场预期",
+      "time": "38:54",
+      "title": "中国央行在香港发行600亿元6个月期人民币央行票据",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881641437.html"
+      "url": "https://finance.eastmoney.com/a/202609233882306289.html"
     },
     {
-      "time": "25:23",
-      "title": "土耳其在对基金的调查中逮捕了Tera董事长Emre Tezmen",
+      "time": "37:02",
+      "title": "Pimco：几无证据显示AI发债会对美国国债产生直接排挤效应",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881641044.html"
+      "url": "https://finance.eastmoney.com/a/202609233882305881.html"
     },
     {
-      "time": "23:44",
-      "title": "比利时宣布和卢旺达恢复外交关系",
+      "time": "33:13",
+      "title": "港交所：陆续推出更多人民币计价贵金属等商品投资产品",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881640873.html"
+      "url": "https://finance.eastmoney.com/a/202609233882305384.html"
     },
     {
-      "time": "20:44",
-      "title": "巴西东南部遭强风暴袭击 已致2死3伤",
+      "time": "26:55",
+      "title": "杰富瑞将嘉年华目标价从35美元下调至33美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881640443.html"
+      "url": "https://finance.eastmoney.com/a/202609233882304217.html"
     },
     {
-      "time": "16:17",
-      "title": "富时A50期指连续夜盘收涨0.33% 报14703点",
+      "time": "20:22",
+      "title": "中国选手华天夺得亚运会马术三项赛个人金牌",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881640184.html"
+      "url": "https://finance.eastmoney.com/a/202609233882303772.html"
     },
     {
-      "time": "12:32",
-      "title": "离岸人民币兑美元较周一纽约尾盘跌59点",
+      "time": "18:00",
+      "title": "IDC：2026 Q2全球手持智能相机出货589万台",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881640343.html"
+      "url": "https://finance.eastmoney.com/a/202609233882302459.html"
     },
     {
-      "time": "06:49",
-      "title": "以正确相处之道推动中美关系行稳致远",
+      "time": "15:09",
+      "title": "解决房源不实等难题 郑州将推行存量房“一房一码”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881638766.html"
+      "url": "https://finance.eastmoney.com/a/202609233882302166.html"
     },
     {
-      "time": "03:25",
-      "title": "国际贵金属期货普遍收涨",
+      "time": "14:27",
+      "title": "瑞和数智：完成认购纳真科技股份 涉资3162.78万港元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881639379.html"
+      "url": "https://finance.eastmoney.com/a/202609233882302372.html"
     },
     {
-      "time": "57:49",
-      "title": "伊朗外长与美特使在纽约会晤 特朗普：美伊代表会谈“非常有建设性”",
+      "time": "10:18",
+      "title": "港股午评：恒生指数跌0.76% 恒生科技指数跌0.97%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881637937.html"
+      "url": "https://finance.eastmoney.com/a/202609233882300774.html"
     },
     {
-      "time": "50:23",
-      "title": "我国钢铁行业迈入提质升级新阶段",
+      "time": "04:14",
+      "title": "明阳智能等在海南成立新公司 注册资本2亿",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881633733.html"
+      "url": "https://finance.eastmoney.com/a/202609233882300454.html"
     },
     {
-      "time": "44:26",
-      "title": "美国至9月18日当周API原油库存增加178.6万桶 预期减少56.3万桶",
+      "time": "04:14",
+      "title": "天孚通信增资至10.9亿",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881634324.html"
+      "url": "https://finance.eastmoney.com/a/202609233882300086.html"
     },
     {
-      "time": "39:03",
-      "title": "古特雷斯联大最后讲话呼吁停火止战",
+      "time": "03:07",
+      "title": "诺和诺德据悉正考虑升级其纽约上市安排",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881633591.html"
+      "url": "https://finance.eastmoney.com/a/202609233882299879.html"
     },
     {
-      "time": "20:26",
-      "title": "KB Homes第三财季交付（住房）2732套 高于市场预期",
+      "time": "01:30",
+      "title": "9月23日午间新闻精选",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881631949.html"
+      "url": "https://finance.eastmoney.com/a/202609233882299943.html"
     },
     {
-      "time": "18:10",
-      "title": "量子计算概念股IonQ盘后涨超5%",
+      "time": "57:00",
+      "title": "招商银行：李云贵和霍达董事任职资格获核准，专委会成员调整",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881631874.html"
+      "url": "https://finance.eastmoney.com/a/202609233882299422.html"
     },
     {
-      "time": "15:29",
-      "title": "伊拉克石油部长表示，8月份出口的石油量达到7000万桶，伊拉克目前每天出口超过300万桶石油",
+      "time": "56:14",
+      "title": "比亚迪泰国工厂第10万辆新能源汽车下线",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881631649.html"
+      "url": "https://finance.eastmoney.com/a/202609233882299314.html"
     },
     {
-      "time": "15:11",
-      "title": "欧洲央行管委内格尔表示：正在实施货币政策 介于建设性模糊性和前瞻性指引之间",
+      "time": "43:41",
+      "title": "中金“三合一”落地 万亿券商航母迎整合下半场",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881631526.html"
+      "url": "https://finance.eastmoney.com/a/202609233882296032.html"
     },
     {
-      "time": "14:57",
-      "title": "欧盟宣布将对俄制裁延长三年",
+      "time": "41:21",
+      "title": "Muse大火之际 Meta Connect重磅来袭：AI+智能穿戴会否带来全新惊喜",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609233881631354.html"
+      "url": "https://finance.eastmoney.com/a/202609233882295680.html"
     },
     {
       "time": "06-05",
