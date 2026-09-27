@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28 03:48",
+  "updated_at": "2026-09-28 07:10",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -9884,181 +9884,6 @@
   ],
   "news": [
     {
-      "time": "35:07",
-      "title": "法国极右翼政党国民联盟称首次达到在参议院组建党团门槛",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609283884547217.html"
-    },
-    {
-      "time": "24:47",
-      "title": "Blick报道称多家大型银行表示有兴趣与瑞银合并",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609283884547095.html"
-    },
-    {
-      "time": "18:17",
-      "title": "据报道 以色列军队在加沙各地射杀四名巴勒斯坦人",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609283884546755.html"
-    },
-    {
-      "time": "11:29",
-      "title": "“实习生”成“新同事” AI加速嵌入基金投研全链条",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609283884545227.html"
-    },
-    {
-      "time": "53:19",
-      "title": "云南丽江市宁蒗县发生3.4级地震 震源深度8公里",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609283884544238.html"
-    },
-    {
-      "time": "30:39",
-      "title": "策略进入“优势时段” 多元配置型FOF供需两旺",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609283884542896.html"
-    },
-    {
-      "time": "06:50",
-      "title": "塞尔维亚总统武契奇宣布辞职",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609283884543946.html"
-    },
-    {
-      "time": "00:32",
-      "title": "以色列外交部表示：以色列已撤销荷兰驻拉姆安拉外交官的外交身份",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609283884543865.html"
-    },
-    {
-      "time": "40:44",
-      "title": "AI服务器液冷订单火爆 多家公司扩产",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609283884543310.html"
-    },
-    {
-      "time": "20:00",
-      "title": "三季度新增专项债发行提速",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609283884541647.html"
-    },
-    {
-      "time": "04:57",
-      "title": "青海海南州兴海县发生4.8级地震 震源深度10千米",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609283884542746.html"
-    },
-    {
-      "time": "50:00",
-      "title": "伊朗称在霍尔木兹海峡捕获美国无人潜航器",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609273884534673.html"
-    },
-    {
-      "time": "30:35",
-      "title": "瑞士公投否决更严格中立原则",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609273884535856.html"
-    },
-    {
-      "time": "25:21",
-      "title": "泽连斯基称俄罗斯袭击乌克兰数据中心",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609283884539996.html"
-    },
-    {
-      "time": "08:49",
-      "title": "尼泊尔强降雨引发灾情 已致21人死亡",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609283884539427.html"
-    },
-    {
-      "time": "44:45",
-      "title": "胡塞武装称击落沙特无人机",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609273884538834.html"
-    },
-    {
-      "time": "37:46",
-      "title": "尼泊尔发生雪崩 已发现2名遇难者遗体",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609273884538664.html"
-    },
-    {
-      "time": "37:35",
-      "title": "据报道：特朗普将邀请Anthropic首席执行官Dario Amodei共进晚餐",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609273884538597.html"
-    },
-    {
-      "time": "32:40",
-      "title": "国内首部AI院线电影正式定档",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609273884537830.html"
-    },
-    {
-      "time": "21:39",
-      "title": "克什米尔发生4.0级地震 震源深度10千米",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609273884536631.html"
-    },
-    {
-      "time": "17:09",
-      "title": "据报道：特朗普称他一直在考虑对伊朗发动打击",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609273884536557.html"
-    },
-    {
-      "time": "16:53",
-      "title": "据报道：卡塔尔正分别与伊朗和美国谈判代表进行磋商",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609273884536496.html"
-    },
-    {
-      "time": "01:40",
-      "title": "特朗普：预计美国谈判代表本周将与伊朗进行更多会谈",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609273884535073.html"
-    },
-    {
-      "time": "40:00",
-      "title": "历史性转向！爆买超6万亿！美债美股，惊现罕见一幕",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609273884532091.html"
-    },
-    {
-      "time": "27:24",
-      "title": "美国财长贝森特表示：伊朗感受到了压力 所以他们才想达成协议",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609273884529923.html"
-    },
-    {
       "time": "06-05",
       "title": "学习卡丨“人不负青山，青山定不负人”",
       "source": "人民网",
@@ -10232,6 +10057,111 @@
       "source": "人民网财经",
       "category": "财经",
       "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494874.html"
+    },
+    {
+      "time": "06-05",
+      "title": "我国认证认可检验检测行业发展质量实现整体提升",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494876.html"
+    },
+    {
+      "time": "06-05",
+      "title": "滴滴程维：将持续发挥稳就业、促消费作用",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494850.html"
+    },
+    {
+      "time": "06-05",
+      "title": "数说生态美 共赏美丽中国新画卷",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494620.html"
+    },
+    {
+      "time": "06-05",
+      "title": "商务部：中方反对美301关税的立场是明确的、一贯的",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494843.html"
+    },
+    {
+      "time": "06-05",
+      "title": "商务部回应美方提高钢铝关税：将严重扰乱全球产业链供应链稳定",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494835.html"
+    },
+    {
+      "time": "06-05",
+      "title": "防范自动驾驶技术风险 筑牢公共安全防护屏障",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494673.html"
+    },
+    {
+      "time": "06-05",
+      "title": "处置非法集资部际联席会议发布《关于加强防范非法集资宣传教育工作的意见》",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494740.html"
+    },
+    {
+      "time": "06-05",
+      "title": "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494737.html"
+    },
+    {
+      "time": "06-05",
+      "title": "防范和打击非法金融活动部际联席会议召开2025年全体（扩大）会议暨打击非法集资专项行动推进会议",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494726.html"
+    },
+    {
+      "time": "06-05",
+      "title": "宣讲防非打非 增强防范意识",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494708.html"
+    },
+    {
+      "time": "06-05",
+      "title": "山东广饶县开展防范非法集资宣传进养老机构活动",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494704.html"
+    },
+    {
+      "time": "06-05",
+      "title": "防范非法金融活动的指南请您查收",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494699.html"
+    },
+    {
+      "time": "06-05",
+      "title": "2025年防范非法金融活动宣传月正式启动",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494684.html"
+    },
+    {
+      "time": "06-05",
+      "title": "完善大语言模型治理体系 守护数智时代网络安全",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494670.html"
+    },
+    {
+      "time": "06-05",
+      "title": "把稳智能驾驶安全“方向盘” 筑牢物流配送无人车“生命线”",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494675.html"
     }
   ],
   "health": {
