@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28 07:10",
+  "updated_at": "2026-09-28 13:33",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -9864,25 +9864,199 @@
   "assets": [
     {
       "symbol": "159915",
-      "date": "2026-09-24",
-      "price": 3.312,
-      "score": 40,
-      "signal": "谨慎观望",
-      "buy_low": 3.235,
-      "buy_high": 3.312,
-      "stop_loss": 3.158,
-      "target": 3.543,
+      "date": "2026-09-28",
+      "price": 3.153,
+      "score": 23,
+      "signal": "回避/考虑减仓",
+      "buy_low": 3.073,
+      "buy_high": 3.153,
+      "stop_loss": 2.994,
+      "target": 3.392,
       "risk": "中",
       "reasons": [
-        "RSI 位于健康区间",
-        "MACD 位于信号线上方",
-        "近期波动可控"
+        "RSI 偏低，存在超跌特征",
+        "成交量高于 20 日均量"
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
+    {
+      "time": "29:59",
+      "title": "摩根大通：强劲PMI数据与能源因素或是近期债券抛售主因",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885100856.html"
+    },
+    {
+      "time": "26:20",
+      "title": "段永平发帖：买入3万股贵州茅台",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885093911.html"
+    },
+    {
+      "time": "20:34",
+      "title": "汇丰控股将摩根士丹利目标价从215美元上调至219美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885087453.html"
+    },
+    {
+      "time": "20:30",
+      "title": "日本2年期国债收益率逼近2% 市场加大押注央行升息",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885086781.html"
+    },
+    {
+      "time": "20:02",
+      "title": "纽约期银日内跌4%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885082257.html"
+    },
+    {
+      "time": "19:43",
+      "title": "汇丰控股将高盛目标价从995美元上调至1007美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885083012.html"
+    },
+    {
+      "time": "18:46",
+      "title": "汇丰控股将花旗集团目标价从161美元上调至164美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885084270.html"
+    },
+    {
+      "time": "15:48",
+      "title": "港股光通信板块持续走低 长飞光纤光缆跌超15%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885075989.html"
+    },
+    {
+      "time": "14:28",
+      "title": "国家税务总局曝光 骗取出口退税多人获刑",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885072443.html"
+    },
+    {
+      "time": "13:12",
+      "title": "摩根大通：维持看空美债久期 但看空倾向有所减弱",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885073776.html"
+    },
+    {
+      "time": "12:31",
+      "title": "韩国总统李在明：针对住房、就业和债务问题 将很快准备采取特别措施",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885073870.html"
+    },
+    {
+      "time": "09:47",
+      "title": "三菱日联摩根士丹利证券将其预测的日本央行加息时点提前",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885069890.html"
+    },
+    {
+      "time": "09:13",
+      "title": "美国政府拟大幅放松新车油耗标准",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885068958.html"
+    },
+    {
+      "time": "06:05",
+      "title": "法巴银行：美联储不太可能重演2022-2023年的加息周期",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885067634.html"
+    },
+    {
+      "time": "05:27",
+      "title": "江苏省推动体育产业五年上“万亿”",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885063640.html"
+    },
+    {
+      "time": "00:48",
+      "title": "智谱ZCode再公布新补偿方案：付费用户获8张重置卡 全体用户连续10天发放Token",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885061292.html"
+    },
+    {
+      "time": "59:56",
+      "title": "高盛恢复覆盖吉利汽车 给予买入评级",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885058914.html"
+    },
+    {
+      "time": "59:24",
+      "title": "贝伦贝格将欧莱雅目标价从442欧元上调至447欧元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885060178.html"
+    },
+    {
+      "time": "59:09",
+      "title": "今日国内金饰价格普遍回落",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885059688.html"
+    },
+    {
+      "time": "59:00",
+      "title": "山鹰国际等在苏州成立再生资源科技发展公司",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885064276.html"
+    },
+    {
+      "time": "53:08",
+      "title": "日本40年期国债收益率上涨1.5个基点至4.215%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885057090.html"
+    },
+    {
+      "time": "52:37",
+      "title": "印度NIFTY国有银行指数下跌2.2%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885056949.html"
+    },
+    {
+      "time": "52:26",
+      "title": "“电车买得起修不起”冲上热搜！平均维修费被指是油车1.7倍",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885056822.html"
+    },
+    {
+      "time": "50:49",
+      "title": "多人信用卡疑遭境外盗刷 知情人士：涉及客户均已联系到 资金都得到了保障",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885056790.html"
+    },
+    {
+      "time": "47:53",
+      "title": "双方交叉持股！吉利、蔚来达成战略合作 谋局“虚拟电厂”",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202609283885049684.html"
+    },
     {
       "time": "06-05",
       "title": "学习卡丨“人不负青山，青山定不负人”",
@@ -10057,111 +10231,6 @@
       "source": "人民网财经",
       "category": "财经",
       "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494874.html"
-    },
-    {
-      "time": "06-05",
-      "title": "我国认证认可检验检测行业发展质量实现整体提升",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494876.html"
-    },
-    {
-      "time": "06-05",
-      "title": "滴滴程维：将持续发挥稳就业、促消费作用",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494850.html"
-    },
-    {
-      "time": "06-05",
-      "title": "数说生态美 共赏美丽中国新画卷",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494620.html"
-    },
-    {
-      "time": "06-05",
-      "title": "商务部：中方反对美301关税的立场是明确的、一贯的",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494843.html"
-    },
-    {
-      "time": "06-05",
-      "title": "商务部回应美方提高钢铝关税：将严重扰乱全球产业链供应链稳定",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494835.html"
-    },
-    {
-      "time": "06-05",
-      "title": "防范自动驾驶技术风险 筑牢公共安全防护屏障",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494673.html"
-    },
-    {
-      "time": "06-05",
-      "title": "处置非法集资部际联席会议发布《关于加强防范非法集资宣传教育工作的意见》",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494740.html"
-    },
-    {
-      "time": "06-05",
-      "title": "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494737.html"
-    },
-    {
-      "time": "06-05",
-      "title": "防范和打击非法金融活动部际联席会议召开2025年全体（扩大）会议暨打击非法集资专项行动推进会议",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494726.html"
-    },
-    {
-      "time": "06-05",
-      "title": "宣讲防非打非 增强防范意识",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494708.html"
-    },
-    {
-      "time": "06-05",
-      "title": "山东广饶县开展防范非法集资宣传进养老机构活动",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494704.html"
-    },
-    {
-      "time": "06-05",
-      "title": "防范非法金融活动的指南请您查收",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494699.html"
-    },
-    {
-      "time": "06-05",
-      "title": "2025年防范非法金融活动宣传月正式启动",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494684.html"
-    },
-    {
-      "time": "06-05",
-      "title": "完善大语言模型治理体系 守护数智时代网络安全",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494670.html"
-    },
-    {
-      "time": "06-05",
-      "title": "把稳智能驾驶安全“方向盘” 筑牢物流配送无人车“生命线”",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494675.html"
     }
   ],
   "health": {
