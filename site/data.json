@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 06:08",
+  "updated_at": "2026-09-29 10:04",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -7,44 +7,14 @@
   },
   "indices": [
     {
-      "name": "日经225",
-      "price": 65018.95,
-      "change": 1.38
-    },
-    {
-      "name": "纳斯达克",
-      "price": 27244.28,
-      "change": 0.45
-    },
-    {
-      "name": "标普500",
-      "price": 7764.64,
-      "change": 0.0
-    },
-    {
       "name": "上证指数",
-      "price": 3938.08,
-      "change": -0.36
+      "price": 3813.42,
+      "change": -0.27
     },
     {
-      "name": "道琼斯",
-      "price": 51863.69,
-      "change": -0.36
-    },
-    {
-      "name": "创业板指",
-      "price": 3385.3,
-      "change": -0.43
-    },
-    {
-      "name": "深证成指",
-      "price": 13644.72,
-      "change": -0.58
-    },
-    {
-      "name": "恒生指数",
-      "price": 24896.04,
-      "change": -0.76
+      "name": "科创50",
+      "price": 1549.8,
+      "change": -0.4
     }
   ],
   "sectors": {
@@ -9883,179 +9853,179 @@
   ],
   "news": [
     {
-      "time": "02:34",
-      "title": "据报道：OpenAI因安全问题取消发布新的人工智能模型",
+      "time": "01:49",
+      "title": "房地产板块持续拉升 万科A冲击涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885619160.html"
+      "url": "https://finance.eastmoney.com/a/202609293886236857.html"
     },
     {
-      "time": "00:00",
-      "title": "周二你需要知道的隔夜全球要闻",
+      "time": "59:01",
+      "title": "美联储加息是错误？穆迪首席再发警告：已对经济造成损害！",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885617955.html"
+      "url": "https://finance.eastmoney.com/a/202609293886234676.html"
     },
     {
-      "time": "46:49",
-      "title": "常态化退市机制重塑A股市场生态",
+      "time": "57:53",
+      "title": "美计划让波音“星际客机”2028年重返载人飞行",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885602292.html"
+      "url": "https://finance.eastmoney.com/a/202609293886229915.html"
     },
     {
-      "time": "37:30",
-      "title": "特朗普：没有建议对伊朗实施制裁豁免",
+      "time": "57:43",
+      "title": "康方生物大涨逾11%领涨，恒生生物科技ETF易方达（159105）盘中涨2.83%，CXO订单端回暖",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885615253.html"
+      "url": "https://finance.eastmoney.com/a/202609293886225965.html"
     },
     {
-      "time": "28:38",
-      "title": "美国参议院Grassley表示：不相信总统特朗普会出柴油出口禁令",
+      "time": "57:40",
+      "title": "和黄医药新药申报美国上市、科济药业CAR-T完成首例输注，港股通创新药ETF易方达（159316）盘中涨3.12%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885614018.html"
+      "url": "https://finance.eastmoney.com/a/202609293886232070.html"
     },
     {
-      "time": "17:26",
-      "title": "富时A50期指连续夜盘收跌0.01% 报13923点",
+      "time": "57:18",
+      "title": "创新药出海授权总额突破1200亿美元，创新药ETF易方达（516080）盘中涨2.53%，十五五规划锚定20%年均增速",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885612857.html"
+      "url": "https://finance.eastmoney.com/a/202609293886229666.html"
     },
     {
-      "time": "15:37",
-      "title": "离岸人民币兑美元较上周五纽约尾盘涨100点",
+      "time": "54:48",
+      "title": "分散染料概念再度活跃 善水科技20cm2连板",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885612689.html"
+      "url": "https://finance.eastmoney.com/a/202609293886221353.html"
     },
     {
-      "time": "03:25",
-      "title": "国际贵金属期货普遍收跌 COMEX黄金期货跌4%",
+      "time": "53:53",
+      "title": "伊媒称格什姆岛传出警告射击声",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885611655.html"
+      "url": "https://finance.eastmoney.com/a/202609293886222753.html"
     },
     {
-      "time": "02:56",
-      "title": "Anthropic与英伟达就智能体安全问题展开合作",
+      "time": "53:32",
+      "title": "CRO概念表现活跃 百花医药涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885611155.html"
+      "url": "https://finance.eastmoney.com/a/202609293886216552.html"
     },
     {
-      "time": "50:01",
-      "title": "巴拿马运河将增加每日通航预约名额",
+      "time": "51:54",
+      "title": "政策与数据共振正在催化港股创新药，恒生创新药ETF华泰柏瑞涨超2.79%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885610178.html"
+      "url": "https://finance.eastmoney.com/a/202609293886210326.html"
     },
     {
-      "time": "46:38",
-      "title": "普京：高投票率证明俄国家杜马选举绝对合法",
+      "time": "51:53",
+      "title": "金饰克价下跌33元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885609390.html"
+      "url": "https://finance.eastmoney.com/a/202609293886217667.html"
     },
     {
-      "time": "38:25",
-      "title": "俄罗斯一烟花厂火灾致14人死亡 1人受伤",
+      "time": "51:35",
+      "title": "核药领域达成两笔重磅交易，行业整合与合作加速，港股创新药ETF博时(520690)跟踪指数高开涨近3%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885609084.html"
+      "url": "https://finance.eastmoney.com/a/202609293886208573.html"
     },
     {
-      "time": "32:26",
-      "title": "第81届联大一般性辩论闭幕",
+      "time": "50:08",
+      "title": "创新药概念震荡回升 近岸蛋白涨超6%续创历史新高",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885608437.html"
+      "url": "https://finance.eastmoney.com/a/202609293886194410.html"
     },
     {
-      "time": "12:05",
-      "title": "伊朗官员：核问题已经不再是谈判的核心或轴心 目前霍尔木兹海峡才是谈判的重点",
+      "time": "47:30",
+      "title": "康方生物涨11%创一个多月新高",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885607569.html"
+      "url": "https://finance.eastmoney.com/a/202609293886197379.html"
     },
     {
-      "time": "10:37",
-      "title": "特朗普首席经济顾问称“外部”因素或令经济增长和赤字目标受阻",
+      "time": "46:23",
+      "title": "东土科技等成立科技新公司 含AI软件开发业务",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885607749.html"
+      "url": "https://finance.eastmoney.com/a/202609293886168072.html"
     },
     {
-      "time": "07:21",
-      "title": "AMD同意收购AI初创公司World Labs 交易金额82亿美元",
+      "time": "44:50",
+      "title": "新股N安达涨345% 触发二次临停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885607397.html"
+      "url": "https://finance.eastmoney.com/a/202609293886159611.html"
     },
     {
-      "time": "00:38",
-      "title": "美股三大指数集体收跌 光通信、存储芯片板块跌幅居前",
+      "time": "43:30",
+      "title": "A股三大指数集体翻红",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885605253.html"
+      "url": "https://finance.eastmoney.com/a/202609293886152087.html"
     },
     {
-      "time": "58:06",
-      "title": "日本茨城县南部发生地震 东京震感明显",
+      "time": "43:01",
+      "title": "华为FreeBuds Neo发布 售价699元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885605112.html"
+      "url": "https://finance.eastmoney.com/a/202609293886162831.html"
     },
     {
-      "time": "54:14",
-      "title": "SpaceXAI称:SpaceXAI Team Bots已面向Teams和企业版用户开放公开测试",
+      "time": "42:14",
+      "title": "英伟达和Anthropic首席执行官将出席特朗普午餐会 探讨人工智能风险",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885605085.html"
+      "url": "https://finance.eastmoney.com/a/202609293886154991.html"
     },
     {
-      "time": "33:27",
-      "title": "伊朗官员否认有关“伊朗在核问题展现灵活性”的报道",
+      "time": "42:00",
+      "title": "黑猫股份在江西成立化工销售公司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885604654.html"
+      "url": "https://finance.eastmoney.com/a/202609293886181548.html"
     },
     {
-      "time": "26:30",
-      "title": "消息人士称:英伟达CEO黄仁勋预计将于当地时间周二出席在白宫举行的会议",
+      "time": "41:19",
+      "title": "电池概念持续走强 国轩高科涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885601734.html"
+      "url": "https://finance.eastmoney.com/a/202609293886138472.html"
     },
     {
-      "time": "19:35",
-      "title": "据报道:伊朗议员称议会正在考虑退出不扩散核武器条约的法案",
+      "time": "39:47",
+      "title": "阿为特在上海成立半导体科技公司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885601625.html"
+      "url": "https://finance.eastmoney.com/a/202609293886145613.html"
     },
     {
-      "time": "11:01",
-      "title": "据报道，阿联酋总统于周日会见了以色列总理内塔尼亚胡",
+      "time": "39:47",
+      "title": "网络安全概念震荡拉升 中新赛克5天3板",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885601330.html"
+      "url": "https://finance.eastmoney.com/a/202609293886128174.html"
     },
     {
-      "time": "09:36",
-      "title": "特朗普称;对伊朗的战争结束后 通胀将被“根除”",
+      "time": "38:07",
+      "title": "粮食概念板块走低 万向德农、金健米业双双跌停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885600998.html"
+      "url": "https://finance.eastmoney.com/a/202609293886122939.html"
     },
     {
-      "time": "07:50",
-      "title": "亚马逊云服务称，Claude SONNET 5.5 在亚马逊基石及AWS上线",
+      "time": "37:55",
+      "title": "PCB概念震荡反弹 依顿电子涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293885600872.html"
+      "url": "https://finance.eastmoney.com/a/202609293886116714.html"
     },
     {
       "time": "06-05",
