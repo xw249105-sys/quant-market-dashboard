@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 16:40",
+  "updated_at": "2026-09-30 04:53",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -9863,19 +9863,38 @@
   ],
   "assets": [
     {
-      "symbol": "159915",
-      "date": "2026-09-28",
-      "price": 3.153,
-      "score": 23,
+      "symbol": "600519",
+      "date": "2026-09-29",
+      "price": 1235.58,
+      "score": 28,
       "signal": "回避/考虑减仓",
-      "buy_low": 3.073,
-      "buy_high": 3.153,
-      "stop_loss": 2.994,
-      "target": 3.392,
+      "buy_low": 1218.721,
+      "buy_high": 1235.58,
+      "stop_loss": 1201.863,
+      "target": 1286.156,
+      "risk": "低",
+      "reasons": [
+        "RSI 偏低，存在超跌特征",
+        "成交量高于 20 日均量",
+        "近期波动可控"
+      ],
+      "name": "贵州茅台",
+      "action": "当前不建议新开仓，优先控制风险"
+    },
+    {
+      "symbol": "159915",
+      "date": "2026-09-29",
+      "price": 3.162,
+      "score": 18,
+      "signal": "回避/考虑减仓",
+      "buy_low": 3.084,
+      "buy_high": 3.162,
+      "stop_loss": 3.006,
+      "target": 3.396,
       "risk": "中",
       "reasons": [
         "RSI 偏低，存在超跌特征",
-        "成交量高于 20 日均量"
+        "近期波动可控"
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
@@ -9883,179 +9902,179 @@
   ],
   "news": [
     {
-      "time": "36:48",
-      "title": "印度对原产于或进口自中国的三聚氰胺作出反倾销肯定性终裁",
+      "time": "47:14",
+      "title": "派拉蒙天舞高评级债券发行获得1090亿美元认购需求",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886494775.html"
+      "url": "https://finance.eastmoney.com/a/202609303886863431.html"
     },
     {
-      "time": "34:49",
-      "title": "印度对原产于或进口自中国的壁纸作出反倾销肯定性终裁",
+      "time": "41:49",
+      "title": "美国至9月25日当周API原油库存增加101.9万桶，预期减少114万桶，前值增加178.6万桶",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886492228.html"
+      "url": "https://finance.eastmoney.com/a/202609303886863067.html"
     },
     {
-      "time": "34:48",
-      "title": "在岸人民币兑美元收盘报6.7037",
+      "time": "39:45",
+      "title": "西班牙国王呼吁欧盟成员国加强协作以保卫边界",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886492452.html"
+      "url": "https://finance.eastmoney.com/a/202609303886859592.html"
     },
     {
-      "time": "34:44",
-      "title": "国家外汇管理局：截至6月末 我国银行业对外金融资产21443亿美元 对外负债14726亿美元",
+      "time": "19:05",
+      "title": "Anthropic的Amodei认为有必要在人工智能安全方面开展合作",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886493366.html"
+      "url": "https://finance.eastmoney.com/a/202609303886861128.html"
     },
     {
-      "time": "34:27",
-      "title": "同飞股份：公司竞得液冷温控项目用地 成交价4263万元",
+      "time": "08:47",
+      "title": "美联储的威廉姆斯：预计通胀将下降",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886491584.html"
+      "url": "https://finance.eastmoney.com/a/202609303886859658.html"
     },
     {
-      "time": "34:05",
-      "title": "十二部门：优化铁路危险货物场站布局 支持扩大中长距离大宗危险货物铁路运输规模",
+      "time": "00:49",
+      "title": "纳斯达克中国金龙指数收跌1.55%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886491446.html"
+      "url": "https://finance.eastmoney.com/a/202609303886857156.html"
     },
     {
-      "time": "32:48",
-      "title": "印度对原产于或进口自中国的PTOP甲醛树脂启动反倾销调查",
+      "time": "00:35",
+      "title": "美股三大指数均小幅收跌 AI硬件股普涨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886490832.html"
+      "url": "https://finance.eastmoney.com/a/202609303886857570.html"
     },
     {
-      "time": "32:48",
-      "title": "印度对原产于或进口自中国的青霉素工业盐启动反倾销调查",
+      "time": "58:19",
+      "title": "消息人士称暂无确凿信息证明以色列将遭受重大袭击",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886490589.html"
+      "url": "https://finance.eastmoney.com/a/202609303886856858.html"
     },
     {
-      "time": "32:05",
-      "title": "十二部门：推广应用智能卡口、远程控制龙门吊、自动分拣以及智能集装箱等",
+      "time": "52:02",
+      "title": "英伟达的黄仁勋表示 人工智能创新与安全之间不存在冲突",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886490340.html"
+      "url": "https://finance.eastmoney.com/a/202609303886855917.html"
     },
     {
-      "time": "32:05",
-      "title": "十二部门：到2030年实现20个铁路装卸区与港口堆场共享",
+      "time": "46:49",
+      "title": "特朗普考虑成立10人组成的委员会来监督人工智能",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886490294.html"
+      "url": "https://finance.eastmoney.com/a/202609303886855840.html"
     },
     {
-      "time": "31:34",
-      "title": "韩国二季度海外直接投资同比增逾32% 连续四个季度保持增长",
+      "time": "44:32",
+      "title": "美国总统特朗普称 已签署一份人工智能文件 该文件具有一种保护措施",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886489644.html"
+      "url": "https://finance.eastmoney.com/a/202609303886855695.html"
     },
     {
-      "time": "30:58",
-      "title": "十二部门：聚焦煤炭、铁矿石、粮食等国家重点物资 强化综合货运大通道功能",
+      "time": "23:24",
+      "title": "多名代表称OPEC+可能会坚持石油产量配额的计划",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886489840.html"
+      "url": "https://finance.eastmoney.com/a/202609303886852431.html"
     },
     {
-      "time": "30:41",
-      "title": "十二部门：完善晋陕蒙新煤炭主产区“北煤南运”“西煤东运”等骨干通道布局",
+      "time": "05:49",
+      "title": "在岸人民币兑美元较周一夜盘收盘涨53点",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886489593.html"
+      "url": "https://finance.eastmoney.com/a/202609303886851669.html"
     },
     {
-      "time": "30:05",
-      "title": "十二部门：到2030年多式联运发展取得突破性进展 推动1000个左右主要货运节点提升多式联运功能",
+      "time": "03:25",
+      "title": "据报道 苹果公司将在印度推出Apple Pay",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886488544.html"
+      "url": "https://finance.eastmoney.com/a/202609303886851739.html"
     },
     {
-      "time": "28:48",
-      "title": "印度对原产于或进口自中国的手机壳作出反倾销肯定性终裁",
+      "time": "50:58",
+      "title": "交易员削减对美联储10月加息的押注",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886488061.html"
+      "url": "https://finance.eastmoney.com/a/202609303886851829.html"
     },
     {
-      "time": "28:43",
-      "title": "国邦医药：全资子公司获氟雷拉纳新兽药注册证书",
+      "time": "50:11",
+      "title": "美联储威廉姆斯：人工智能正在推高资产市场估值",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886489296.html"
+      "url": "https://finance.eastmoney.com/a/202609303886852034.html"
     },
     {
-      "time": "28:26",
-      "title": "日本总人口减至1.2297亿 老龄化率达29.4%创历史新高",
+      "time": "36:55",
+      "title": "特朗普称人工智能会议进行得非常好 非常有成效",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886488870.html"
+      "url": "https://finance.eastmoney.com/a/202609303886848078.html"
     },
     {
-      "time": "25:13",
-      "title": "默沙东PD-1抑制剂帕博利珠单抗注射液（皮下注射）在华获批",
+      "time": "33:58",
+      "title": "ANEC：预计巴西9月大豆出口量为724万吨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886484453.html"
+      "url": "https://finance.eastmoney.com/a/202609303886848159.html"
     },
     {
-      "time": "24:04",
-      "title": "随着俄乌战争升级 俄罗斯军费预算势将激增27%",
+      "time": "33:15",
+      "title": "美联储威廉姆斯：预计能源价格不会进一步大幅上涨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886484175.html"
+      "url": "https://finance.eastmoney.com/a/202609303886848268.html"
     },
     {
-      "time": "23:04",
-      "title": "“会飞的特斯拉”发布会因天气原因跳票 官方：这活动只能在户外办",
+      "time": "31:28",
+      "title": "国际原油期货结算价大幅收跌",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886484349.html"
+      "url": "https://finance.eastmoney.com/a/202609303886848349.html"
     },
     {
-      "time": "22:59",
-      "title": "鲁抗医药：注射用头孢呋辛钠获药品注册证书",
+      "time": "29:51",
+      "title": "欧盟拟加强边境管控 防范非法移民入境",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886483236.html"
+      "url": "https://finance.eastmoney.com/a/202609303886847814.html"
     },
     {
-      "time": "22:36",
-      "title": "博迈科：全资子公司签订16-21亿元FPSO上部模块建造合同",
+      "time": "29:01",
+      "title": "美联储穆萨莱姆表示 即使在最近一次加息之后 货币政策仍然略显宽松",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886482521.html"
+      "url": "https://finance.eastmoney.com/a/202609303886847928.html"
     },
     {
-      "time": "17:23",
-      "title": "中国保险行业协会保险资金运用专委会召开三季度交流会",
+      "time": "21:26",
+      "title": "巴克莱：若生产率增长持续加快 美国30年期国债收益率或升至6%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886478330.html"
+      "url": "https://finance.eastmoney.com/a/202609303886847745.html"
     },
     {
-      "time": "15:04",
-      "title": "美股芯片股盘前普涨",
+      "time": "15:57",
+      "title": "WTI原油期货价格跌3%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886476729.html"
+      "url": "https://finance.eastmoney.com/a/202609303886847686.html"
     },
     {
-      "time": "14:53",
-      "title": "“十五五”时期 我国将进一步促进国际科技创新合作",
+      "time": "04:57",
+      "title": "美国天然气期货日内跌幅达3%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609293886476555.html"
+      "url": "https://finance.eastmoney.com/a/202609303886847557.html"
     },
     {
       "time": "06-05",
