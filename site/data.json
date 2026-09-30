@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30 16:40",
+  "updated_at": "2026-10-01 04:52",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -9864,14 +9864,14 @@
   "assets": [
     {
       "symbol": "159915",
-      "date": "2026-09-29",
-      "price": 3.162,
+      "date": "2026-09-30",
+      "price": 3.154,
       "score": 18,
       "signal": "回避/考虑减仓",
-      "buy_low": 3.084,
-      "buy_high": 3.162,
-      "stop_loss": 3.006,
-      "target": 3.396,
+      "buy_low": 3.077,
+      "buy_high": 3.154,
+      "stop_loss": 3.001,
+      "target": 3.384,
       "risk": "中",
       "reasons": [
         "RSI 偏低，存在超跌特征",
@@ -9883,179 +9883,179 @@
   ],
   "news": [
     {
-      "time": "36:54",
-      "title": "3连板时代万恒：目前生产经营情况正常 均按订单组织生产",
+      "time": "42:15",
+      "title": "美国驻南非大使又因“非外交行为”被约见",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887725749.html"
+      "url": "https://finance.eastmoney.com/a/202610013887993571.html"
     },
     {
-      "time": "33:02",
-      "title": "在岸人民币兑美元收盘报6.7053",
+      "time": "18:41",
+      "title": "美光科技：预计2027财年和2028财年的内存及存储供需状况将比2026年紧张得多",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887724359.html"
+      "url": "https://finance.eastmoney.com/a/202610013887992350.html"
     },
     {
-      "time": "30:00",
-      "title": "伊朗称收到美针对卡塔尔提议的回复",
+      "time": "16:40",
+      "title": "新思科技预计全年营收110亿-112亿美元 未来数月将回购大约10亿美元股票",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887723165.html"
+      "url": "https://finance.eastmoney.com/a/202610013887991796.html"
     },
     {
-      "time": "27:38",
-      "title": "国家外汇管理局就《通过银行进行国际收支统计申报业务实施细则（征求意见稿）》 公开征求意见",
+      "time": "11:06",
+      "title": "谷歌推出Gemini 4 Argon",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887721431.html"
+      "url": "https://finance.eastmoney.com/a/202610013887991586.html"
     },
     {
-      "time": "26:13",
-      "title": "中国东航：拟投资33.95亿元建设浦东机场四期东航基地生产辅助区项目",
+      "time": "01:31",
+      "title": "美光科技第四季度经调整营收542.3亿美元 高于市场预期",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887721113.html"
+      "url": "https://finance.eastmoney.com/a/202610013887990366.html"
     },
     {
-      "time": "24:57",
-      "title": "中际旭创：协议受让中石科技10.47%股份完成过户登记",
+      "time": "00:57",
+      "title": "纳斯达克中国金龙指数收涨0.60%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887719246.html"
+      "url": "https://finance.eastmoney.com/a/202610013887990549.html"
     },
     {
-      "time": "23:00",
-      "title": "招商轮船：子公司签署6艘VLOC船舶25年长期运输协议 合同总金额预计不低于28亿美元",
+      "time": "00:39",
+      "title": "纳指、标普500指数三季度均涨逾2% 微软三季度大涨超37%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887713393.html"
+      "url": "https://finance.eastmoney.com/a/202610013887990450.html"
     },
     {
-      "time": "22:17",
-      "title": "赛轮轮胎：实控人之一致行动人拟无偿捐赠3786万股股份",
+      "time": "56:39",
+      "title": "以方称载有迪拜航空事故客机乘客的替代航班已抵达以色列",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887713953.html"
+      "url": "https://finance.eastmoney.com/a/202610013887989066.html"
     },
     {
-      "time": "13:57",
-      "title": "英国公用事业板块上涨2.8%",
+      "time": "50:12",
+      "title": "特朗普称 鲍威尔应该被迫辞去美联储理事职务",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887705527.html"
+      "url": "https://finance.eastmoney.com/a/202610013887988420.html"
     },
     {
-      "time": "13:06",
-      "title": "德国经济部发言人：政府将从2027年起建立战略天然气储备",
+      "time": "29:13",
+      "title": "美国法官签署命令 允许派拉蒙完成对华纳兄弟探索公司的收购交易",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887703985.html"
+      "url": "https://finance.eastmoney.com/a/202610013887988348.html"
     },
     {
-      "time": "12:51",
-      "title": "芯光界完成Pre-A和A轮两轮融资 累计金额近10亿元",
+      "time": "28:15",
+      "title": "美联储理事库克：通胀已经持续过高太久了 致力于让通胀回到2%的目标水平",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887702763.html"
+      "url": "https://finance.eastmoney.com/a/202610013887988541.html"
     },
     {
-      "time": "09:00",
-      "title": "新疆天业：拟8.65亿元收购四家矿业公司100%股权",
+      "time": "26:51",
+      "title": "美联储的库克称 能源成本对农村社区的影响可能更大",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887699817.html"
+      "url": "https://finance.eastmoney.com/a/202610013887988642.html"
     },
     {
-      "time": "09:00",
-      "title": "宇信科技：董事长兼总经理洪卫东逝世",
+      "time": "23:30",
+      "title": "美国弗吉尼亚州发生枪击案 致3死1伤",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887700062.html"
+      "url": "https://finance.eastmoney.com/a/202610013887988294.html"
     },
     {
-      "time": "07:50",
-      "title": "东芯股份：存算联融合芯片研发项目规划周期约42个月",
+      "time": "07:25",
+      "title": "在岸人民币兑美元较周四夜盘收盘涨15点",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887700385.html"
+      "url": "https://finance.eastmoney.com/a/202610013887988165.html"
     },
     {
-      "time": "06:15",
-      "title": "四部门开展2026年度享受增值税加计抵减政策的集成电路企业清单制定工作",
+      "time": "51:14",
+      "title": "哥伦比亚中央银行将贷款利率从12.00%上调至12.25%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887700161.html"
+      "url": "https://finance.eastmoney.com/a/202610013887987928.html"
     },
     {
-      "time": "04:23",
-      "title": "伦敦金属交易所镍仓单库存减少8,322吨",
+      "time": "40:35",
+      "title": "据报道 Sycamore Partners正与亿万富翁Weston家族洽谈收购英国连锁药妆店Boots的交易",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887697735.html"
+      "url": "https://finance.eastmoney.com/a/202610013887987618.html"
     },
     {
-      "time": "03:37",
-      "title": "智能眼镜声学性能测试规范10月2日起正式实施",
+      "time": "36:25",
+      "title": "OpenAI与新思科技将联合开发ChatGPT-Synopsys模型",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887696113.html"
+      "url": "https://finance.eastmoney.com/a/202610013887987523.html"
     },
     {
-      "time": "03:00",
-      "title": "德国政府已指示能源公司SEFE储存天然气",
+      "time": "31:25",
+      "title": "国际原油期货结算价收涨 三季度大涨超30%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887697522.html"
+      "url": "https://finance.eastmoney.com/a/202610013887987877.html"
     },
     {
-      "time": "03:00",
-      "title": "迪拜航空确认返航客机降落乘客安全",
+      "time": "25:17",
+      "title": "特朗普：最后一批美军正在撤离伊拉克",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887696616.html"
+      "url": "https://finance.eastmoney.com/a/202610013887987367.html"
     },
     {
-      "time": "02:59",
-      "title": "电影《欢迎来龙餐馆》总票房破23亿",
+      "time": "21:30",
+      "title": "美国参议院共和党成员正式提出加密货币税收法案",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887696449.html"
+      "url": "https://finance.eastmoney.com/a/202610013887987240.html"
     },
     {
-      "time": "00:22",
-      "title": "瑞士9月ZEW投资者信心指数为2.6",
+      "time": "03:08",
+      "title": "俄外交部召见丹麦大使 抗议丹麦直升机接近俄军舰",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887695018.html"
+      "url": "https://finance.eastmoney.com/a/202610013887985561.html"
     },
     {
-      "time": "59:49",
-      "title": "致尚科技：签订5亿美金光纤连接器(MPO光纤跳线等光通信产品)需求预测合作备忘录",
+      "time": "50:07",
+      "title": "特朗普：美国几乎完全控制霍尔木兹海峡",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887694720.html"
+      "url": "https://finance.eastmoney.com/a/202610013887984078.html"
     },
     {
-      "time": "58:32",
-      "title": "迈为股份等成立智芯半导体公司",
+      "time": "42:25",
+      "title": "美国贸易代表格里尔称 与加拿大同行保持相当频繁的联系 还有10项贸易协议即将达成",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887693772.html"
+      "url": "https://finance.eastmoney.com/a/202610013887982962.html"
     },
     {
-      "time": "57:25",
-      "title": "OPPO据悉寻求12亿美元等值银团贷款",
+      "time": "34:25",
+      "title": "美国10年期国债收益率触及5.305%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887693581.html"
+      "url": "https://finance.eastmoney.com/a/202610013887981566.html"
     },
     {
-      "time": "56:03",
-      "title": "摩根大通分析师：外国投资者正持续加大对北美人工智能计算基础设施的资金投入",
+      "time": "32:41",
+      "title": "Anthropic面向政府机构的Claude现已全面开放",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303887693258.html"
+      "url": "https://finance.eastmoney.com/a/202610013887981676.html"
     },
     {
       "time": "06-05",
