@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30 04:53",
+  "updated_at": "2026-09-30 09:24",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -9863,25 +9863,6 @@
   ],
   "assets": [
     {
-      "symbol": "600519",
-      "date": "2026-09-29",
-      "price": 1235.58,
-      "score": 28,
-      "signal": "回避/考虑减仓",
-      "buy_low": 1218.721,
-      "buy_high": 1235.58,
-      "stop_loss": 1201.863,
-      "target": 1286.156,
-      "risk": "低",
-      "reasons": [
-        "RSI 偏低，存在超跌特征",
-        "成交量高于 20 日均量",
-        "近期波动可控"
-      ],
-      "name": "贵州茅台",
-      "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
       "symbol": "159915",
       "date": "2026-09-29",
       "price": 3.162,
@@ -9902,179 +9883,179 @@
   ],
   "news": [
     {
-      "time": "47:14",
-      "title": "派拉蒙天舞高评级债券发行获得1090亿美元认购需求",
+      "time": "22:02",
+      "title": "央行开展8335亿元隔夜逆回购操作",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886863431.html"
+      "url": "https://finance.eastmoney.com/a/202609303887316453.html"
     },
     {
-      "time": "41:49",
-      "title": "美国至9月25日当周API原油库存增加101.9万桶，预期减少114万桶，前值增加178.6万桶",
+      "time": "21:24",
+      "title": "港股开盘：恒生指数低开0.53% 恒生科技指数低开0.41%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886863067.html"
+      "url": "https://finance.eastmoney.com/a/202609303887310455.html"
     },
     {
-      "time": "39:45",
-      "title": "西班牙国王呼吁欧盟成员国加强协作以保卫边界",
+      "time": "17:15",
+      "title": "中国第16次北冰洋考察取得多项重要进展",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886859592.html"
+      "url": "https://finance.eastmoney.com/a/202609303887288370.html"
     },
     {
-      "time": "19:05",
-      "title": "Anthropic的Amodei认为有必要在人工智能安全方面开展合作",
+      "time": "16:31",
+      "title": "特朗普将与商务部长卢特尼克共同宣布消息",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886861128.html"
+      "url": "https://finance.eastmoney.com/a/202609303887296227.html"
     },
     {
-      "time": "08:47",
-      "title": "美联储的威廉姆斯：预计通胀将下降",
+      "time": "16:24",
+      "title": "人民币对美元中间价调升60个基点 报6.7351",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886859658.html"
+      "url": "https://finance.eastmoney.com/a/202609303887274025.html"
     },
     {
-      "time": "00:49",
-      "title": "纳斯达克中国金龙指数收跌1.55%",
+      "time": "15:58",
+      "title": "2026全球开发者先锋大会将于10月23日至25日举办",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886857156.html"
+      "url": "https://finance.eastmoney.com/a/202609303887282829.html"
     },
     {
-      "time": "00:35",
-      "title": "美股三大指数均小幅收跌 AI硬件股普涨",
+      "time": "14:44",
+      "title": "欧盟相关成员国推动欧委会打造欧版“301”工具 中国商务部回应",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886857570.html"
+      "url": "https://finance.eastmoney.com/a/202609303887260872.html"
     },
     {
-      "time": "58:19",
-      "title": "消息人士称暂无确凿信息证明以色列将遭受重大袭击",
+      "time": "10:23",
+      "title": "华为智慧屏MateTV 2正式开售",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886856858.html"
+      "url": "https://finance.eastmoney.com/a/202609303887244242.html"
     },
     {
-      "time": "52:02",
-      "title": "英伟达的黄仁勋表示 人工智能创新与安全之间不存在冲突",
+      "time": "09:00",
+      "title": "光启技术：不存在重大订单取消或大客户流失",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886855917.html"
+      "url": "https://finance.eastmoney.com/a/202609303887242656.html"
     },
     {
-      "time": "46:49",
-      "title": "特朗普考虑成立10人组成的委员会来监督人工智能",
+      "time": "08:23",
+      "title": "杭州挂牌萧山区一宗涉宅地块 起始价近20亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886855840.html"
+      "url": "https://finance.eastmoney.com/a/202609303887243256.html"
     },
     {
-      "time": "44:32",
-      "title": "美国总统特朗普称 已签署一份人工智能文件 该文件具有一种保护措施",
+      "time": "05:31",
+      "title": "市场监管总局召开网络平台食品安全行政指导会",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886855695.html"
+      "url": "https://finance.eastmoney.com/a/202609303887206031.html"
     },
     {
-      "time": "23:24",
-      "title": "多名代表称OPEC+可能会坚持石油产量配额的计划",
+      "time": "04:59",
+      "title": "昆仑万维成立天工智枢科技新公司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886852431.html"
+      "url": "https://finance.eastmoney.com/a/202609303887198026.html"
     },
     {
-      "time": "05:49",
-      "title": "在岸人民币兑美元较周一夜盘收盘涨53点",
+      "time": "03:08",
+      "title": "今年我国快递业务量已超1500亿件",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886851669.html"
+      "url": "https://finance.eastmoney.com/a/202609303887194166.html"
     },
     {
-      "time": "03:25",
-      "title": "据报道 苹果公司将在印度推出Apple Pay",
+      "time": "01:20",
+      "title": "中国稀土集团创新科技有限公司与本末科技战略合作落地",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886851739.html"
+      "url": "https://finance.eastmoney.com/a/202609303887213372.html"
     },
     {
-      "time": "50:58",
-      "title": "交易员削减对美联储10月加息的押注",
+      "time": "00:40",
+      "title": "阶跃终端STEPX Neo智能体手机已获得工信部入网许可",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886851829.html"
+      "url": "https://finance.eastmoney.com/a/202609303887177789.html"
     },
     {
-      "time": "50:11",
-      "title": "美联储威廉姆斯：人工智能正在推高资产市场估值",
+      "time": "00:38",
+      "title": "富时中国A50指数期货盘初涨0.20%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886852034.html"
+      "url": "https://finance.eastmoney.com/a/202609303887170588.html"
     },
     {
-      "time": "36:55",
-      "title": "特朗普称人工智能会议进行得非常好 非常有成效",
+      "time": "00:05",
+      "title": "国内商品期货早盘开盘 主力合约涨多跌少",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886848078.html"
+      "url": "https://finance.eastmoney.com/a/202609303887164623.html"
     },
     {
-      "time": "33:58",
-      "title": "ANEC：预计巴西9月大豆出口量为724万吨",
+      "time": "00:01",
+      "title": "小长假倒计时1天！1天期逆回购已锁定8天利息，今天本金还能这么操作",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886848159.html"
+      "url": "https://finance.eastmoney.com/a/202609303887211832.html"
     },
     {
-      "time": "33:15",
-      "title": "美联储威廉姆斯：预计能源价格不会进一步大幅上涨",
+      "time": "59:38",
+      "title": "中国机器人闯欧洲：需求是真的 门槛也是真的",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886848268.html"
+      "url": "https://finance.eastmoney.com/a/202609293886731271.html"
     },
     {
-      "time": "31:28",
-      "title": "国际原油期货结算价大幅收跌",
+      "time": "57:30",
+      "title": "北京文化投资成立元启数字科技公司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886848349.html"
+      "url": "https://finance.eastmoney.com/a/202609303887148614.html"
     },
     {
-      "time": "29:51",
-      "title": "欧盟拟加强边境管控 防范非法移民入境",
+      "time": "55:53",
+      "title": "万里扬机器人公司通过核心客户PPAP审核 首条关节模组生产线具备量产能力",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886847814.html"
+      "url": "https://finance.eastmoney.com/a/202609303887138568.html"
     },
     {
-      "time": "29:01",
-      "title": "美联储穆萨莱姆表示 即使在最近一次加息之后 货币政策仍然略显宽松",
+      "time": "55:19",
+      "title": "旷达科技：电子布等项目目前处于研发、验证和小规模应用阶段",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886847928.html"
+      "url": "https://finance.eastmoney.com/a/202609303887135133.html"
     },
     {
-      "time": "21:26",
-      "title": "巴克莱：若生产率增长持续加快 美国30年期国债收益率或升至6%",
+      "time": "55:18",
+      "title": "美元势创6月以来最佳单月表现 美联储控通胀承诺带来提振",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886847745.html"
+      "url": "https://finance.eastmoney.com/a/202609303887153583.html"
     },
     {
-      "time": "15:57",
-      "title": "WTI原油期货价格跌3%",
+      "time": "54:54",
+      "title": "调查｜C端Token中转市场乱象：定价失序、计量“黑盒化”、供给鱼龙混杂 行业亟需第三方“公平秤”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886847686.html"
+      "url": "https://finance.eastmoney.com/a/202609293886769853.html"
     },
     {
-      "time": "04:57",
-      "title": "美国天然气期货日内跌幅达3%",
+      "time": "53:41",
+      "title": "消费贷“价格战”又起？记者走访北京多家银行：最低可达“1”字头 稳定客群优先享受低息",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202609303886847557.html"
+      "url": "https://finance.eastmoney.com/a/202609293886803131.html"
     },
     {
       "time": "06-05",
