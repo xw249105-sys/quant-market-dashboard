@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 13:51",
+  "updated_at": "2026-10-06 06:44",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -9882,24 +9882,6 @@
       "action": "当前不建议新开仓，优先控制风险"
     },
     {
-      "symbol": "159920",
-      "date": "2026-09-30",
-      "price": 1.445,
-      "score": 20,
-      "signal": "回避/考虑减仓",
-      "buy_low": 1.429,
-      "buy_high": 1.445,
-      "stop_loss": 1.413,
-      "target": 1.493,
-      "risk": "低",
-      "reasons": [
-        "中长期均线多头",
-        "近期波动可控"
-      ],
-      "name": "恒生ETF",
-      "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
       "symbol": "159915",
       "date": "2026-09-30",
       "price": 3.154,
@@ -9916,200 +9898,183 @@
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "300750",
-      "date": "2026-09-30",
-      "price": 291.11,
-      "score": 13,
-      "signal": "回避/考虑减仓",
-      "buy_low": 280.963,
-      "buy_high": 291.11,
-      "stop_loss": 270.816,
-      "target": 321.551,
-      "risk": "中",
-      "reasons": [
-        "RSI 偏低，存在超跌特征"
-      ],
-      "name": "宁德时代",
-      "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "42:42",
-      "title": "台交所加权股价指数收高2.55%",
+      "time": "33:02",
+      "title": "穆迪确认高通A2评级",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888618392.html"
+      "url": "https://finance.eastmoney.com/a/202610063888712124.html"
     },
     {
-      "time": "35:55",
-      "title": "受冷空气影响 浙江台州沿海10条客渡运航线停航",
+      "time": "30:18",
+      "title": "沙特首都利雅得接连传出爆炸声",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888617458.html"
+      "url": "https://finance.eastmoney.com/a/202610063888712033.html"
     },
     {
-      "time": "30:21",
-      "title": "汇丰银行将Marvell Technology目标价从325美元上调至450美元",
+      "time": "12:05",
+      "title": "周二你需要知道的隔夜全球要闻：纳指创下历史新高 SpaceX股价大涨超7%；也门胡塞武装称对沙特境内多个目标实施三轮军事行动",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888617192.html"
+      "url": "https://finance.eastmoney.com/a/202610063888711485.html"
     },
     {
-      "time": "22:16",
-      "title": "智谱股价涨超5% GLM-5.3海外走红",
+      "time": "06:41",
+      "title": "美联储10月维持利率不变的概率为77.3%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888617023.html"
+      "url": "https://finance.eastmoney.com/a/202610063888711271.html"
     },
     {
-      "time": "04:22",
-      "title": "伊朗石油部长因个人原因辞职",
+      "time": "54:41",
+      "title": "惠誉维持凯雷集团“A-”评级 展望稳定",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888614961.html"
+      "url": "https://finance.eastmoney.com/a/202610063888707649.html"
     },
     {
-      "time": "52:26",
-      "title": "澳大利亚调查迪拜航空副驾驶与澳关联",
+      "time": "38:12",
+      "title": "第77届国际宇航大会在土耳其安塔利亚开幕",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888614533.html"
+      "url": "https://finance.eastmoney.com/a/202610063888706956.html"
     },
     {
-      "time": "44:21",
-      "title": "国庆假期前四日 经港珠澳大桥珠海公路口岸出入境旅客超45万人次",
+      "time": "18:20",
+      "title": "富时A50期指连续夜盘收涨0.42%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888614143.html"
+      "url": "https://finance.eastmoney.com/a/202610063888706880.html"
     },
     {
-      "time": "30:24",
-      "title": "研究：使用化学改性砂可截留废水中近100%微塑料",
+      "time": "12:22",
+      "title": "也门胡塞武装警告国际航司停止运营经沙特领空航线",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888611722.html"
+      "url": "https://finance.eastmoney.com/a/202610063888706472.html"
     },
     {
-      "time": "10:29",
-      "title": "美“艾森豪威尔”号航母将返美接受事故调查",
+      "time": "11:44",
+      "title": "巴拿马型船闸将试行长期通航预约",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888610952.html"
+      "url": "https://finance.eastmoney.com/a/202610063888706316.html"
     },
     {
-      "time": "10:20",
-      "title": "港股午盘：恒生指数跌0.08% 恒生科技指数涨0.27%",
+      "time": "05:47",
+      "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888610783.html"
+      "url": "https://finance.eastmoney.com/a/202610063888705995.html"
     },
     {
-      "time": "51:53",
-      "title": "日本20年期国债收益率上升1个基点 至3.970%",
+      "time": "02:56",
+      "title": "国际贵金属期货收涨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888609990.html"
+      "url": "https://finance.eastmoney.com/a/202610063888705437.html"
     },
     {
-      "time": "31:58",
-      "title": "德国宣布向乌克兰提供10亿欧元军事援助",
+      "time": "00:45",
+      "title": "韩国9月外汇储备报4405.6亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888608371.html"
+      "url": "https://finance.eastmoney.com/a/202610063888705318.html"
     },
     {
-      "time": "22:37",
-      "title": "横琴口岸单日客流突破15万人次 创口岸启用以来新高",
+      "time": "57:47",
+      "title": "沙特主导的联军称在也门荷台达省实施军事行动",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888607457.html"
+      "url": "https://finance.eastmoney.com/a/202610063888705713.html"
     },
     {
-      "time": "14:21",
-      "title": "东盟与中日韩宏观经济研究办公室：区域整体仍表现稳健",
+      "time": "57:26",
+      "title": "美国纽约州宣布针对麻疹疫情进入灾难紧急状态",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888606514.html"
+      "url": "https://finance.eastmoney.com/a/202610063888705878.html"
     },
     {
-      "time": "03:45",
-      "title": "美国佐治亚州一街区派对突发枪击 致2死35伤",
+      "time": "54:00",
+      "title": "也门胡塞武装称对沙特境内多个目标实施三轮军事行动",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888606029.html"
+      "url": "https://finance.eastmoney.com/a/202610063888705633.html"
     },
     {
-      "time": "59:50",
-      "title": "天赐材料香港上市料筹资不超过5亿美元",
+      "time": "51:30",
+      "title": "OpenAI已与Thrive、Andreessen Horowitz进行融资谈判",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888605639.html"
+      "url": "https://finance.eastmoney.com/a/202610063888706074.html"
     },
     {
-      "time": "55:47",
-      "title": "长三角铁路返程客流增多 今日预计发送旅客超380万人次",
+      "time": "38:57",
+      "title": "土耳其一客机发现爆炸物威胁纸条 143人安全撤离",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888605079.html"
+      "url": "https://finance.eastmoney.com/a/202610063888705251.html"
     },
     {
-      "time": "48:15",
-      "title": "巴西总统选举第二轮角逐者发表讲话",
+      "time": "26:00",
+      "title": "巴西IBOVESPA股指涨7.85%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888604661.html"
+      "url": "https://finance.eastmoney.com/a/202610063888705198.html"
     },
     {
-      "time": "40:34",
-      "title": "也门政府军宣布反攻胡塞武装",
+      "time": "24:19",
+      "title": "Lucid Group第三财季交付3,806辆",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888603494.html"
+      "url": "https://finance.eastmoney.com/a/202610063888705090.html"
     },
     {
-      "time": "39:29",
-      "title": "港股PCB股走强 建滔积层板涨超7%",
+      "time": "21:28",
+      "title": "美国劳工部长表示 劳工统计局数据将改善",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888603914.html"
+      "url": "https://finance.eastmoney.com/a/202610063888704894.html"
     },
     {
-      "time": "39:00",
-      "title": "一汽丰田发布声明：“一汽丰田或将彻底退出历史舞台”“丰田大降价”等均为不实言论 将保留法律追责权利",
+      "time": "20:20",
+      "title": "特朗普称因威胁将轰炸机撤出英国",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888601367.html"
+      "url": "https://finance.eastmoney.com/a/202610063888704753.html"
     },
     {
-      "time": "34:32",
-      "title": "“罗斯福”号航母赴中东 美伊战略僵局难破 地区风险上升",
+      "time": "19:09",
+      "title": "俄罗斯计划到2030年将生物经济产品的产量增加96％",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888602235.html"
+      "url": "https://finance.eastmoney.com/a/202610063888704691.html"
     },
     {
-      "time": "22:15",
-      "title": "我国沙漠油田超深油气产量突破2600万吨",
+      "time": "16:27",
+      "title": "美国纽约联邦储备银行走访大型银行 将就总体风险敞口质询各大银行",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888601144.html"
+      "url": "https://finance.eastmoney.com/a/202610063888704583.html"
     },
     {
-      "time": "08:21",
-      "title": "WTI原油期货跌破90美元/桶 日内下跌1.31%",
+      "time": "01:41",
+      "title": "纳斯达克中国金龙指数收涨1.71%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888599886.html"
+      "url": "https://finance.eastmoney.com/a/202610063888703891.html"
     },
     {
-      "time": "05:24",
-      "title": "恒生科技指数转涨 此前一度跌超0.8%",
+      "time": "00:45",
+      "title": "美股三大指数集体收涨 纳指涨超1%创收盘新高",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610053888599472.html"
+      "url": "https://finance.eastmoney.com/a/202610063888703772.html"
     },
     {
       "time": "06-05",
