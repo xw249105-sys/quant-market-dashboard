@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 05:03",
+  "updated_at": "2026-10-07 09:38",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -7,14 +7,19 @@
   },
   "indices": [
     {
-      "name": "日经225",
-      "price": 66753.72,
-      "change": 1.94
+      "name": "标普500",
+      "price": 7818.93,
+      "change": 0.58
     },
     {
-      "name": "恒生指数",
-      "price": 24613.27,
-      "change": 0.37
+      "name": "道琼斯",
+      "price": 51521.28,
+      "change": 0.49
+    },
+    {
+      "name": "纳斯达克",
+      "price": 27599.89,
+      "change": 0.45
     },
     {
       "name": "上证指数",
@@ -22,19 +27,9 @@
       "change": 0.31
     },
     {
-      "name": "纳斯达克",
-      "price": 26797.54,
-      "change": -0.09
-    },
-    {
       "name": "深证成指",
       "price": 12887.62,
       "change": -0.11
-    },
-    {
-      "name": "标普500",
-      "price": 7670.84,
-      "change": -0.17
     },
     {
       "name": "创业板指",
@@ -42,9 +37,14 @@
       "change": -0.23
     },
     {
-      "name": "道琼斯",
-      "price": 51349.92,
-      "change": -0.26
+      "name": "日经225",
+      "price": 70370.61,
+      "change": -0.44
+    },
+    {
+      "name": "恒生指数",
+      "price": 24169.11,
+      "change": -0.46
     }
   ],
   "sectors": {
@@ -9863,218 +9863,198 @@
   ],
   "assets": [
     {
-      "symbol": "600519",
+      "symbol": "300750",
       "date": "2026-09-30",
-      "price": 1258.62,
-      "score": 35,
-      "signal": "谨慎观望",
-      "buy_low": 1241.061,
-      "buy_high": 1258.62,
-      "stop_loss": 1223.503,
-      "target": 1311.296,
-      "risk": "低",
-      "reasons": [
-        "RSI 位于健康区间",
-        "成交量高于 20 日均量",
-        "近期波动可控"
-      ],
-      "name": "贵州茅台",
-      "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "159915",
-      "date": "2026-09-30",
-      "price": 3.154,
-      "score": 18,
+      "price": 291.11,
+      "score": 13,
       "signal": "回避/考虑减仓",
-      "buy_low": 3.077,
-      "buy_high": 3.154,
-      "stop_loss": 3.001,
-      "target": 3.384,
+      "buy_low": 280.963,
+      "buy_high": 291.11,
+      "stop_loss": 270.816,
+      "target": 321.551,
       "risk": "中",
       "reasons": [
-        "RSI 偏低，存在超跌特征",
-        "近期波动可控"
+        "RSI 偏低，存在超跌特征"
       ],
-      "name": "创业板ETF",
+      "name": "宁德时代",
       "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "59:25",
-      "title": "委内瑞拉一炼油厂发生火灾后停产",
+      "time": "31:03",
+      "title": "Lambda拟在IPO前最后一轮融资中筹集最高40亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888830598.html"
+      "url": "https://finance.eastmoney.com/a/202610073888849173.html"
     },
     {
-      "time": "53:58",
-      "title": "富时罗素称将持续监控韩国市场的结算资金要求",
+      "time": "29:14",
+      "title": "中国团队全球首次构建水稻全生命周期三维时空细胞图谱",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888830486.html"
+      "url": "https://finance.eastmoney.com/a/202610073888848955.html"
     },
     {
-      "time": "53:21",
-      "title": "美国至10月2日当周API原油库存减少210万桶",
+      "time": "24:13",
+      "title": "香港恒生指数开盘下跌0.45%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888830382.html"
+      "url": "https://finance.eastmoney.com/a/202610073888848371.html"
     },
     {
-      "time": "45:59",
-      "title": "Anthropic扩大先进AI模型访问权限 允许特定机构开展网络安全测试",
+      "time": "21:21",
+      "title": "香港恒生指数开盘下跌0.45% 恒生科技指数跌0.33%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888830275.html"
+      "url": "https://finance.eastmoney.com/a/202610073888848411.html"
     },
     {
-      "time": "23:04",
-      "title": "捷蓝航空获得美国联邦航空管理局批准 将接管精神航空原有的22个拉瓜迪亚机场起降时刻",
+      "time": "09:23",
+      "title": "全国铁路今天预计发送旅客2415万人次",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888830138.html"
+      "url": "https://finance.eastmoney.com/a/202610073888847614.html"
     },
     {
-      "time": "21:54",
-      "title": "美国总统特朗普表示 俄乌冲突正越来越接近结束",
+      "time": "07:57",
+      "title": "港股股票回购一览：70只个股获公司回购",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888830073.html"
+      "url": "https://finance.eastmoney.com/a/202610073888847574.html"
     },
     {
-      "time": "18:51",
-      "title": "超威半导体今日宣布 将于2026年11月3日（周二）美股收盘后 正式公布2026财年第三季度财务业绩",
+      "time": "04:55",
+      "title": "WTI原油期货涨幅扩大至1% 报90.33美元/桶",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888829987.html"
+      "url": "https://finance.eastmoney.com/a/202610073888847435.html"
     },
     {
-      "time": "08:11",
-      "title": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂 以强化日本半导体供应链",
+      "time": "01:35",
+      "title": "日本30年期国债收益率下跌3.0个基点 至4.205%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888829587.html"
+      "url": "https://finance.eastmoney.com/a/202610073888847348.html"
     },
     {
-      "time": "01:50",
-      "title": "纳斯达克中国金龙指数收涨0.31%",
+      "time": "00:19",
+      "title": "富时中国A50指数期货在上一交易日夜盘收涨0.12%的基础上低开 现涨0.09%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888829498.html"
+      "url": "https://finance.eastmoney.com/a/202610073888847268.html"
     },
     {
-      "time": "00:40",
-      "title": "美股三大指数集体收涨 纳指、标普500指数创收盘新高",
+      "time": "59:09",
+      "title": "媒体：越南考虑股市午间不休市、扩大涨跌幅区间",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888829310.html"
+      "url": "https://finance.eastmoney.com/a/202610073888847163.html"
     },
     {
-      "time": "27:42",
-      "title": "美元指数6日下跌",
+      "time": "53:56",
+      "title": "中东部大部晴朗干燥持续 气温回升昼夜温差较大",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888829113.html"
+      "url": "https://finance.eastmoney.com/a/202610073888846955.html"
     },
     {
-      "time": "23:49",
-      "title": "俄国防部：俄军9月接收超1万件各型装备",
+      "time": "51:56",
+      "title": "厄瓜多尔遭强降雨袭击 超1.5万人受灾",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888829042.html"
+      "url": "https://finance.eastmoney.com/a/202610073888846830.html"
     },
     {
-      "time": "17:17",
-      "title": "美国总统特朗普表示 战争结束后，油价将会下跌",
+      "time": "51:56",
+      "title": "广西贵港一船舶发生闪爆事故 致1人死亡2人失联",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888828910.html"
+      "url": "https://finance.eastmoney.com/a/202610073888846744.html"
     },
     {
-      "time": "11:48",
-      "title": "花旗称 美国奢侈信用卡支出在九月份同比下降6%",
+      "time": "38:02",
+      "title": "基辅传出多次爆炸声",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888828178.html"
+      "url": "https://finance.eastmoney.com/a/202610073888845622.html"
     },
     {
-      "time": "01:15",
-      "title": "恒指期货夜盘收涨0.07%",
+      "time": "27:08",
+      "title": "三星表示 三星钱包现已支持部分通用汽车车型的数字钥匙功能 首批支持车型为部分2026和2027款凯迪拉克电动汽车",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888828283.html"
+      "url": "https://finance.eastmoney.com/a/202610073888844269.html"
     },
     {
-      "time": "58:26",
-      "title": "美国阿拉斯加州发生5.5级地震 震源深度80公里",
+      "time": "26:10",
+      "title": "布伦特原油期货涨幅扩大至1% 报101.58美元/桶",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888828833.html"
+      "url": "https://finance.eastmoney.com/a/202610073888844128.html"
     },
     {
-      "time": "58:21",
-      "title": "Anthropic扩大网络认证计划",
+      "time": "18:38",
+      "title": "日韩股市低开",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888828367.html"
+      "url": "https://finance.eastmoney.com/a/202610073888842658.html"
     },
     {
-      "time": "47:16",
-      "title": "伦敦股市6日上涨",
+      "time": "17:49",
+      "title": "10月1日至5日“港车北上”“澳车北上”创同期新高",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888829245.html"
+      "url": "https://finance.eastmoney.com/a/202610073888843090.html"
     },
     {
-      "time": "44:34",
-      "title": "黎真主党领导人：以军撤出是解决冲突前提",
+      "time": "14:09",
+      "title": "受燃油危机冲击 匈牙利货运经营面临挑战",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888828750.html"
+      "url": "https://finance.eastmoney.com/a/202610073888841835.html"
     },
     {
-      "time": "33:48",
-      "title": "胡塞武装称挫败沙特多次进攻",
+      "time": "13:19",
+      "title": "日本东证指数升破历史最高收盘水平",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888828650.html"
+      "url": "https://finance.eastmoney.com/a/202610073888841973.html"
     },
     {
-      "time": "32:42",
-      "title": "WTI原油期货结算价为89.44美元/桶",
+      "time": "11:14",
+      "title": "中方敦促国际社会持续助力非洲国家和平与发展",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888828553.html"
+      "url": "https://finance.eastmoney.com/a/202610073888841790.html"
     },
     {
-      "time": "25:37",
-      "title": "Sierra与 Meta Platforms联合沃尔玛百货等公司开发智能体协议",
+      "time": "07:24",
+      "title": "北部湾港成功开辟重庆铝土矿进口直达通道",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888827937.html"
+      "url": "https://finance.eastmoney.com/a/202610073888841597.html"
     },
     {
-      "time": "25:04",
-      "title": "花旗聘请摩根士丹利的迈克尔·泽扎斯（Michael Zezas）担任研究主管",
+      "time": "07:03",
+      "title": "韩国称将于当地时间中午12点25分发射“世界号”（Nuri）火箭",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888828080.html"
+      "url": "https://finance.eastmoney.com/a/202610073888841369.html"
     },
     {
-      "time": "19:45",
-      "title": "中国地震台网自动测定：10月07日02时15分在新疆吐鲁番市托克逊县附近发生4.8级左右地震 最终结果以正式速报为准",
+      "time": "01:32",
+      "title": "韩国KOSPI指数开盘下跌1.11%报6864.25点 日经225指数低开0.14%报70582.11点",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888827816.html"
+      "url": "https://finance.eastmoney.com/a/202610073888841274.html"
     },
     {
-      "time": "10:38",
-      "title": "一艘油轮在俄罗斯索契附近黑海海域起火",
+      "time": "01:12",
+      "title": "巴彦油田日产原油首次突破5000吨 创历史新高",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610073888827734.html"
+      "url": "https://finance.eastmoney.com/a/202610073888841131.html"
     },
     {
       "time": "06-05",
