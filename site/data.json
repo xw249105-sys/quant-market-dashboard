@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 10:03",
+  "updated_at": "2026-10-08 17:07",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -7,14 +7,44 @@
   },
   "indices": [
     {
-      "name": "上证指数",
-      "price": 3852.23,
-      "change": 0.26
+      "name": "标普500",
+      "price": 7801.77,
+      "change": -0.22
     },
     {
-      "name": "科创50",
-      "price": 1502.58,
-      "change": -1.79
+      "name": "纳斯达克",
+      "price": 27538.69,
+      "change": -0.22
+    },
+    {
+      "name": "道琼斯",
+      "price": 51179.87,
+      "change": -0.66
+    },
+    {
+      "name": "上证指数",
+      "price": 3811.9,
+      "change": -0.79
+    },
+    {
+      "name": "日经225",
+      "price": 69042.11,
+      "change": -1.42
+    },
+    {
+      "name": "恒生指数",
+      "price": 23785.79,
+      "change": -1.43
+    },
+    {
+      "name": "深证成指",
+      "price": 12620.9,
+      "change": -2.07
+    },
+    {
+      "name": "创业板指",
+      "price": 3036.66,
+      "change": -3.15
     }
   ],
   "sectors": {
@@ -9854,179 +9884,179 @@
   ],
   "news": [
     {
-      "time": "58:58",
-      "title": "上期所燃油主力合约暴涨16%",
+      "time": "04:27",
+      "title": "美国据悉将宣布成立东南地区AI计算联盟",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889244731.html"
+      "url": "https://finance.eastmoney.com/a/202610083889694483.html"
     },
     {
-      "time": "57:55",
-      "title": "SK海力士旗下Solidigm据悉已为明年美国IPO选定承销商",
+      "time": "04:13",
+      "title": "瑞银集团在快手-WH股的持股比例于10月2日从8.04%降至7.98%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889246177.html"
+      "url": "https://finance.eastmoney.com/a/202610083889694291.html"
     },
     {
-      "time": "55:15",
-      "title": "硕世生物控制权争夺再升级 上市公司为何接连上演“宫斗剧”",
+      "time": "03:52",
+      "title": "花旗集团在中金公司H股的持股比例于10月2日从5.90%升至6.00%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889208848.html"
+      "url": "https://finance.eastmoney.com/a/202610083889694122.html"
     },
     {
-      "time": "51:48",
-      "title": "油气股震荡上扬 博迈科涨停",
+      "time": "02:44",
+      "title": "康恩贝：子公司盐酸达泊西汀片获得药品注册证书",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889202421.html"
+      "url": "https://finance.eastmoney.com/a/202610083889693042.html"
     },
     {
-      "time": "51:44",
-      "title": "商业航天海内外共振，谷歌太空算力原型卫星成功入轨，卫星ETF永赢盘中涨超2%！",
+      "time": "01:44",
+      "title": "沙特据悉正就正式化霍尔木兹海峡穿梭运输进行谈判",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889214921.html"
+      "url": "https://finance.eastmoney.com/a/202610083889691556.html"
     },
     {
-      "time": "50:45",
-      "title": "港股医药股走低 百奥赛图跌超5%",
+      "time": "01:26",
+      "title": "鼎龙股份：预计2026年前三季度净利润同比增长62%-66%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889207526.html"
+      "url": "https://finance.eastmoney.com/a/202610083889692886.html"
     },
     {
-      "time": "49:10",
-      "title": "农业板块表现活跃 金健米业冲击涨停",
+      "time": "00:02",
+      "title": "联发科9月销售额554.0亿元台币",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889187081.html"
+      "url": "https://finance.eastmoney.com/a/202610083889691638.html"
     },
     {
-      "time": "47:54",
-      "title": "埃里森家族预计出资170亿美元参与华纳兄弟收购交易",
+      "time": "59:17",
+      "title": "东岳硅材：预计2026年前三季度归母净利润为5.47亿元-5.67亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889179916.html"
+      "url": "https://finance.eastmoney.com/a/202610083889689670.html"
     },
     {
-      "time": "47:29",
-      "title": "MLCC概念震荡走强 康达新材涨停",
+      "time": "59:07",
+      "title": "一汽、广汽声明：一汽丰田仍将作为独立运营主体存续",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889178721.html"
+      "url": "https://finance.eastmoney.com/a/202610083889690677.html"
     },
     {
-      "time": "45:54",
-      "title": "《全国重要饮用水水源地名录》印发",
+      "time": "57:17",
+      "title": "安德利：拟1.2亿元—1.8亿元回购公司股份",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889178221.html"
+      "url": "https://finance.eastmoney.com/a/202610083889688247.html"
     },
     {
-      "time": "43:37",
-      "title": "创业板指盘初涨超1%",
+      "time": "53:17",
+      "title": "1—8月我国软件业务收入超10万亿元 同比增长8.8%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889176033.html"
+      "url": "https://finance.eastmoney.com/a/202610083889682716.html"
     },
     {
-      "time": "43:14",
-      "title": "报道称美军获令做好再打伊朗准备",
+      "time": "52:54",
+      "title": "意大利总理梅洛尼将面临信任投票",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889176383.html"
+      "url": "https://finance.eastmoney.com/a/202610083889685867.html"
     },
     {
-      "time": "42:15",
-      "title": "房地产板块震荡拉升 深物业A、陆家嘴双双涨停",
+      "time": "52:36",
+      "title": "美的集团：截至9月30日累计回购金额达99.4亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889174369.html"
+      "url": "https://finance.eastmoney.com/a/202610083889688456.html"
     },
     {
-      "time": "40:45",
-      "title": "创新药板块走弱 艾力斯20cm跌停",
+      "time": "52:18",
+      "title": "黄坤明：深圳要举全市之力加速推进人工智能和机器人产业发展",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889171086.html"
+      "url": "https://finance.eastmoney.com/a/202610083889681965.html"
     },
     {
-      "time": "38:45",
-      "title": "固态电池概念表现活跃 传艺科技触及涨停",
+      "time": "51:52",
+      "title": "黄坤明：希望腾讯坚定不移在人工智能领域进行长周期投入 深度参与广东人工智能基础设施建设",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889156516.html"
+      "url": "https://finance.eastmoney.com/a/202610083889680957.html"
     },
     {
-      "time": "38:30",
-      "title": "日本首相高市早苗：财政稳定是政策的前提",
+      "time": "48:58",
+      "title": "恒瑞医药：氟唑帕利胶囊上市许可申请获EMA受理",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889173846.html"
+      "url": "https://finance.eastmoney.com/a/202610083889682394.html"
     },
     {
-      "time": "35:50",
-      "title": "PCB概念再度活跃 世名科技、东材科技双双涨停",
+      "time": "48:18",
+      "title": "巨星农牧：9月商品肥猪销售收入5.01亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889134949.html"
+      "url": "https://finance.eastmoney.com/a/202610083889678347.html"
     },
     {
-      "time": "33:34",
-      "title": "港口航运板块盘初拉升 中远海能涨停",
+      "time": "46:21",
+      "title": "东阳光药德谷门冬双胰岛素获批 成为该品种第二家国产企业",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889116754.html"
+      "url": "https://finance.eastmoney.com/a/202610083889676467.html"
     },
     {
-      "time": "32:53",
-      "title": "CPO概念盘初下挫 东山精密跌停",
+      "time": "45:39",
+      "title": "北京商报侃股：解禁不等于减持",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889110347.html"
+      "url": "https://finance.eastmoney.com/a/202610083889674211.html"
     },
     {
-      "time": "31:42",
-      "title": "源杰科技盘初大跌18%",
+      "time": "45:17",
+      "title": "阿斯利康：达卓优在华获批用于不适合接受PD-1/PD-L1抑制剂治疗的转移性三阴性乳腺癌",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889103592.html"
+      "url": "https://finance.eastmoney.com/a/202610083889676568.html"
     },
     {
-      "time": "31:35",
-      "title": "港股人工智能相关个股走弱 量化派跌近9%",
+      "time": "44:48",
+      "title": "险资前三季度举牌仅8次 数量退潮背后权益布局热情未减",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889123747.html"
+      "url": "https://finance.eastmoney.com/a/202610083889673497.html"
     },
     {
-      "time": "30:43",
-      "title": "财政部发行中央金融机构注资特别国债",
+      "time": "43:02",
+      "title": "售楼处限流、多楼盘销售破亿 北京新房迎最火“十一”假期",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889092386.html"
+      "url": "https://finance.eastmoney.com/a/202610083889670923.html"
     },
     {
-      "time": "30:02",
-      "title": "2只巴西ETF涨停",
+      "time": "41:34",
+      "title": "香港证监会：上市公司财报仅因持续经营问题而获“无法表示意见”个案增加引起监管关注",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889092059.html"
+      "url": "https://finance.eastmoney.com/a/202610083889672929.html"
     },
     {
-      "time": "28:25",
-      "title": "疫苗股大幅高开 蔚蓝生物2连板",
+      "time": "41:24",
+      "title": "粤万年青：澄清董事长欧先涛未涉东航航班冲突传闻 已报案处理",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889091238.html"
+      "url": "https://finance.eastmoney.com/a/202610083889672247.html"
     },
     {
-      "time": "27:02",
-      "title": "新华传媒涨停走出8连板",
+      "time": "40:00",
+      "title": "滴滴：“十一”期间异地打车需求较平日增长54%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889091577.html"
+      "url": "https://finance.eastmoney.com/a/202610083889674194.html"
     },
     {
       "time": "06-05",
