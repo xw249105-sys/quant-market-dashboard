@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 05:21",
+  "updated_at": "2026-10-08 10:03",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -7,44 +7,14 @@
   },
   "indices": [
     {
-      "name": "标普500",
-      "price": 7818.93,
-      "change": 0.58
-    },
-    {
-      "name": "道琼斯",
-      "price": 51521.28,
-      "change": 0.49
-    },
-    {
-      "name": "纳斯达克",
-      "price": 27599.89,
-      "change": 0.45
-    },
-    {
       "name": "上证指数",
-      "price": 3842.19,
-      "change": 0.31
+      "price": 3852.23,
+      "change": 0.26
     },
     {
-      "name": "深证成指",
-      "price": 12887.62,
-      "change": -0.11
-    },
-    {
-      "name": "创业板指",
-      "price": 3135.28,
-      "change": -0.23
-    },
-    {
-      "name": "日经225",
-      "price": 70370.61,
-      "change": -0.44
-    },
-    {
-      "name": "恒生指数",
-      "price": 24169.11,
-      "change": -0.46
+      "name": "科创50",
+      "price": 1502.58,
+      "change": -1.79
     }
   ],
   "sectors": {
@@ -9864,252 +9834,199 @@
   "assets": [
     {
       "symbol": "600519",
-      "date": "2026-09-30",
-      "price": 1258.62,
+      "date": "2026-10-08",
+      "price": 1246.0,
       "score": 35,
       "signal": "谨慎观望",
-      "buy_low": 1241.061,
-      "buy_high": 1258.62,
-      "stop_loss": 1223.503,
-      "target": 1311.296,
-      "risk": "低",
-      "reasons": [
-        "RSI 位于健康区间",
-        "成交量高于 20 日均量",
-        "近期波动可控"
-      ],
-      "name": "贵州茅台",
-      "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "159920",
-      "date": "2026-09-30",
-      "price": 1.445,
-      "score": 20,
-      "signal": "回避/考虑减仓",
-      "buy_low": 1.429,
-      "buy_high": 1.445,
-      "stop_loss": 1.413,
-      "target": 1.493,
+      "buy_low": 1228.182,
+      "buy_high": 1246.0,
+      "stop_loss": 1210.364,
+      "target": 1299.454,
       "risk": "低",
       "reasons": [
         "中长期均线多头",
+        "RSI 位于健康区间",
         "近期波动可控"
       ],
-      "name": "恒生ETF",
-      "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "159915",
-      "date": "2026-09-30",
-      "price": 3.154,
-      "score": 18,
-      "signal": "回避/考虑减仓",
-      "buy_low": 3.077,
-      "buy_high": 3.154,
-      "stop_loss": 3.001,
-      "target": 3.384,
-      "risk": "中",
-      "reasons": [
-        "RSI 偏低，存在超跌特征",
-        "近期波动可控"
-      ],
-      "name": "创业板ETF",
-      "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "300750",
-      "date": "2026-09-30",
-      "price": 291.11,
-      "score": 13,
-      "signal": "回避/考虑减仓",
-      "buy_low": 280.963,
-      "buy_high": 291.11,
-      "stop_loss": 270.816,
-      "target": 321.551,
-      "risk": "中",
-      "reasons": [
-        "RSI 偏低，存在超跌特征"
-      ],
-      "name": "宁德时代",
+      "name": "贵州茅台",
       "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "05:25",
-      "title": "博通据称为OpenAI定制AI芯片寻求逾500亿美元融资",
+      "time": "58:58",
+      "title": "上期所燃油主力合约暴涨16%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889028419.html"
+      "url": "https://finance.eastmoney.com/a/202610083889244731.html"
     },
     {
-      "time": "59:01",
-      "title": "美联储9月会议纪要：通胀水平仍处高位",
+      "time": "57:55",
+      "title": "SK海力士旗下Solidigm据悉已为明年美国IPO选定承销商",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889028164.html"
+      "url": "https://finance.eastmoney.com/a/202610083889246177.html"
     },
     {
-      "time": "45:09",
-      "title": "沙特主导联军称在也门萨那摧毁一处弹道导弹发射平台",
+      "time": "55:15",
+      "title": "硕世生物控制权争夺再升级 上市公司为何接连上演“宫斗剧”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889026163.html"
+      "url": "https://finance.eastmoney.com/a/202610083889208848.html"
     },
     {
-      "time": "26:07",
-      "title": "电动汽车公司Rivian从大众集团获得到期日为2036年10月7日的10亿美元贷款",
+      "time": "51:48",
+      "title": "油气股震荡上扬 博迈科涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889026046.html"
+      "url": "https://finance.eastmoney.com/a/202610083889202421.html"
     },
     {
-      "time": "22:26",
-      "title": "好市多9月同店销售总额增长11.4% 分析师预期增长9.9%",
+      "time": "51:44",
+      "title": "商业航天海内外共振，谷歌太空算力原型卫星成功入轨，卫星ETF永赢盘中涨超2%！",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889024944.html"
+      "url": "https://finance.eastmoney.com/a/202610083889214921.html"
     },
     {
-      "time": "21:46",
-      "title": "美国半导体公司Wolfspeed股价盘后上涨28% 此前宣布获得15亿美元贷款承诺",
+      "time": "50:45",
+      "title": "港股医药股走低 百奥赛图跌超5%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889024866.html"
+      "url": "https://finance.eastmoney.com/a/202610083889207526.html"
     },
     {
-      "time": "00:27",
-      "title": "美股三大指数集体收跌 热门科技股涨跌不一",
+      "time": "49:10",
+      "title": "农业板块表现活跃 金健米业冲击涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889023889.html"
+      "url": "https://finance.eastmoney.com/a/202610083889187081.html"
     },
     {
-      "time": "59:47",
-      "title": "杜克能源与北卡罗来纳州达成协议 协议包含针对大负荷客户的独立电价",
+      "time": "47:54",
+      "title": "埃里森家族预计出资170亿美元参与华纳兄弟收购交易",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889023772.html"
+      "url": "https://finance.eastmoney.com/a/202610083889179916.html"
     },
     {
-      "time": "50:58",
-      "title": "假日消费多点开花 多元场景释放活力",
+      "time": "47:29",
+      "title": "MLCC概念震荡走强 康达新材涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889022152.html"
+      "url": "https://finance.eastmoney.com/a/202610083889178721.html"
     },
     {
-      "time": "39:46",
-      "title": "美国海洋能源管理局称：墨西哥湾目前约25.08%的石油产量和16.37%的天然气产量已停产",
+      "time": "45:54",
+      "title": "《全国重要饮用水水源地名录》印发",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889023681.html"
+      "url": "https://finance.eastmoney.com/a/202610083889178221.html"
     },
     {
-      "time": "39:26",
-      "title": "巴基斯坦军队已在沙特开展多领域防务合作",
+      "time": "43:37",
+      "title": "创业板指盘初涨超1%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889023410.html"
+      "url": "https://finance.eastmoney.com/a/202610083889176033.html"
     },
     {
-      "time": "39:02",
-      "title": "美元指数7日上涨",
+      "time": "43:14",
+      "title": "报道称美军获令做好再打伊朗准备",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889023560.html"
+      "url": "https://finance.eastmoney.com/a/202610083889176383.html"
     },
     {
-      "time": "38:39",
-      "title": "日本千叶县东北部发生4.8级地震",
+      "time": "42:15",
+      "title": "房地产板块震荡拉升 深物业A、陆家嘴双双涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889023321.html"
+      "url": "https://finance.eastmoney.com/a/202610083889174369.html"
     },
     {
-      "time": "33:53",
-      "title": "法国将释放1000万桶柴油储备应对燃油价格上涨",
+      "time": "40:45",
+      "title": "创新药板块走弱 艾力斯20cm跌停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889023162.html"
+      "url": "https://finance.eastmoney.com/a/202610083889171086.html"
     },
     {
-      "time": "27:03",
-      "title": "OpenAI称面向全球所有免费及付费计划的ChatGPT用户推出GPT-6 替代原有的GPT-5.6 Sol与GPT-5.6 Luna",
+      "time": "38:45",
+      "title": "固态电池概念表现活跃 传艺科技触及涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889021957.html"
+      "url": "https://finance.eastmoney.com/a/202610083889156516.html"
     },
     {
-      "time": "17:39",
-      "title": "沙特两座机场遭袭致3死36伤",
+      "time": "38:30",
+      "title": "日本首相高市早苗：财政稳定是政策的前提",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889023098.html"
+      "url": "https://finance.eastmoney.com/a/202610083889173846.html"
     },
     {
-      "time": "01:09",
-      "title": "恒指期货夜盘收跌0.64% 报23962点",
+      "time": "35:50",
+      "title": "PCB概念再度活跃 世名科技、东材科技双双涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889022966.html"
+      "url": "https://finance.eastmoney.com/a/202610083889134949.html"
     },
     {
-      "time": "48:57",
-      "title": "英伟达与微软携手以RTX Spark及AI智能体开启Windows PC全新纪元",
+      "time": "33:34",
+      "title": "港口航运板块盘初拉升 中远海能涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889022861.html"
+      "url": "https://finance.eastmoney.com/a/202610083889116754.html"
     },
     {
-      "time": "47:33",
-      "title": "FOMC会议纪要显示 官员们敦促为市场压力制定预案",
+      "time": "32:53",
+      "title": "CPO概念盘初下挫 东山精密跌停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889021870.html"
+      "url": "https://finance.eastmoney.com/a/202610083889110347.html"
     },
     {
-      "time": "46:38",
-      "title": "突尼斯央行维持关键利率在8%不变",
+      "time": "31:42",
+      "title": "源杰科技盘初大跌18%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889021768.html"
+      "url": "https://finance.eastmoney.com/a/202610083889103592.html"
     },
     {
-      "time": "31:11",
-      "title": "WTI原油期货结算价为88.28美元/桶 下跌1.16美元",
+      "time": "31:35",
+      "title": "港股人工智能相关个股走弱 量化派跌近9%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889021697.html"
+      "url": "https://finance.eastmoney.com/a/202610083889123747.html"
     },
     {
-      "time": "26:07",
-      "title": "美“龙”飞船载4名宇航员脱离空间站 启程返回地球",
+      "time": "30:43",
+      "title": "财政部发行中央金融机构注资特别国债",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889021549.html"
+      "url": "https://finance.eastmoney.com/a/202610083889092386.html"
     },
     {
-      "time": "25:34",
-      "title": "SpaceX大规模举债引发市场担忧 信用风险飙升",
+      "time": "30:02",
+      "title": "2只巴西ETF涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889021493.html"
+      "url": "https://finance.eastmoney.com/a/202610083889092059.html"
     },
     {
-      "time": "22:51",
-      "title": "黄金储备“23连增”背后的深意",
+      "time": "28:25",
+      "title": "疫苗股大幅高开 蔚蓝生物2连板",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889016843.html"
+      "url": "https://finance.eastmoney.com/a/202610083889091238.html"
     },
     {
-      "time": "11:52",
-      "title": "Anthropic发布最新AI模型Claude Haiku 5.5",
+      "time": "27:02",
+      "title": "新华传媒涨停走出8连板",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610083889021287.html"
+      "url": "https://finance.eastmoney.com/a/202610083889091577.html"
     },
     {
       "time": "06-05",
