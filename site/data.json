@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 10:17",
+  "updated_at": "2026-10-09 17:13",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -9835,37 +9835,57 @@
     {
       "symbol": "600519",
       "date": "2026-10-09",
-      "price": 1263.95,
-      "score": 50,
-      "signal": "谨慎观望",
-      "buy_low": 1247.029,
-      "buy_high": 1263.95,
-      "stop_loss": 1230.109,
-      "target": 1314.712,
+      "price": 1263.0,
+      "score": 60,
+      "signal": "持有/等待确认",
+      "buy_low": 1244.936,
+      "buy_high": 1263.0,
+      "stop_loss": 1226.873,
+      "target": 1317.191,
       "risk": "低",
       "reasons": [
         "中长期均线多头",
         "RSI 位于健康区间",
         "MACD 位于信号线上方",
+        "成交量高于 20 日均量",
         "近期波动可控"
       ],
       "name": "贵州茅台",
+      "action": "暂不追买，等待趋势与成交量进一步确认"
+    },
+    {
+      "symbol": "300750",
+      "date": "2026-10-09",
+      "price": 297.75,
+      "score": 38,
+      "signal": "谨慎观望",
+      "buy_low": 287.395,
+      "buy_high": 297.75,
+      "stop_loss": 277.04,
+      "target": 328.815,
+      "risk": "中",
+      "reasons": [
+        "RSI 偏低，存在超跌特征",
+        "MACD 位于信号线上方",
+        "成交量高于 20 日均量"
+      ],
+      "name": "宁德时代",
       "action": "当前不建议新开仓，优先控制风险"
     },
     {
       "symbol": "159920",
       "date": "2026-10-09",
-      "price": 1.413,
-      "score": 28,
+      "price": 1.421,
+      "score": 30,
       "signal": "回避/考虑减仓",
-      "buy_low": 1.396,
-      "buy_high": 1.413,
-      "stop_loss": 1.379,
-      "target": 1.464,
+      "buy_low": 1.403,
+      "buy_high": 1.421,
+      "stop_loss": 1.386,
+      "target": 1.474,
       "risk": "低",
       "reasons": [
         "中长期均线多头",
-        "RSI 偏低，存在超跌特征",
+        "成交量高于 20 日均量",
         "近期波动可控"
       ],
       "name": "恒生ETF",
@@ -9874,213 +9894,197 @@
     {
       "symbol": "159915",
       "date": "2026-10-09",
-      "price": 2.971,
-      "score": 13,
+      "price": 3.064,
+      "score": 23,
       "signal": "回避/考虑减仓",
-      "buy_low": 2.887,
-      "buy_high": 2.971,
-      "stop_loss": 2.803,
-      "target": 3.223,
+      "buy_low": 2.978,
+      "buy_high": 3.064,
+      "stop_loss": 2.891,
+      "target": 3.324,
       "risk": "中",
       "reasons": [
-        "RSI 偏低，存在超跌特征"
+        "RSI 偏低，存在超跌特征",
+        "成交量高于 20 日均量"
       ],
       "name": "创业板ETF",
-      "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "300750",
-      "date": "2026-10-09",
-      "price": 290.74,
-      "score": 13,
-      "signal": "回避/考虑减仓",
-      "buy_low": 280.835,
-      "buy_high": 290.74,
-      "stop_loss": 270.93,
-      "target": 320.455,
-      "risk": "中",
-      "reasons": [
-        "RSI 偏低，存在超跌特征"
-      ],
-      "name": "宁德时代",
       "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "14:15",
-      "title": "国家邮政局：我国年人均快递使用量超140件",
+      "time": "05:18",
+      "title": "嵘泰股份：控股股东拟协议转让6%股份",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890784531.html"
+      "url": "https://finance.eastmoney.com/a/202610093891307868.html"
     },
     {
-      "time": "13:36",
-      "title": "速腾聚创三季度激光雷达总销量超59万台 创单季度历史新高",
+      "time": "04:55",
+      "title": "上交所终止企查查主板发行上市审核",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890792968.html"
+      "url": "https://finance.eastmoney.com/a/202610093891306859.html"
     },
     {
-      "time": "12:52",
-      "title": "岚图董事长卢放晒品牌刹车踏板：多层高强度钢板主梁",
+      "time": "04:26",
+      "title": "鸿富瀚：预计前三季度净利润同比增长108%-145% 液冷板模组产能逐步释放",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890789082.html"
+      "url": "https://finance.eastmoney.com/a/202610093891306656.html"
     },
     {
-      "time": "12:13",
-      "title": "“中国天眼”发现首例原生演化脉冲星三体系统",
+      "time": "04:13",
+      "title": "贝莱德在恒瑞医药H股的持股比例于10月6日从6.34%降至5.76%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890772197.html"
+      "url": "https://finance.eastmoney.com/a/202610093891305444.html"
     },
     {
-      "time": "11:31",
-      "title": "澳大利亚数据中心公司Firmus据悉考虑美国上市",
+      "time": "03:25",
+      "title": "豫光金铅：半导体光电新材料科创产业化基地项目目前处于前期筹备阶段",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890786916.html"
+      "url": "https://finance.eastmoney.com/a/202610093891305318.html"
     },
     {
-      "time": "09:40",
-      "title": "焦煤主力合约日内大涨4%",
+      "time": "02:44",
+      "title": "联合国机构：2026年全球经济增速预计放缓至2.6%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890754793.html"
+      "url": "https://finance.eastmoney.com/a/202610093891304924.html"
     },
     {
-      "time": "07:37",
-      "title": "亚康股份成立信息技术公司 含云计算设备业务",
+      "time": "01:57",
+      "title": "美国银行在金风科技H股的持股比例于10月6日从3.24%升至5.62%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890741537.html"
+      "url": "https://finance.eastmoney.com/a/202610093891305146.html"
     },
     {
-      "time": "06:12",
-      "title": "商务部公布2027年原油非国营贸易进口允许量总量、申请条件和申请程序",
+      "time": "55:38",
+      "title": "油价回落叠加AI乐观情绪 新兴市场股市终结两连跌",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890745123.html"
+      "url": "https://finance.eastmoney.com/a/202610093891300822.html"
     },
     {
-      "time": "04:33",
-      "title": "创业板指跌幅扩大至2% AI硬件股领跌",
+      "time": "55:13",
+      "title": "包钢股份：拟调整2026年第四季度稀土精矿关联交易价格至3.88万元/吨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890721795.html"
+      "url": "https://finance.eastmoney.com/a/202610093891301647.html"
     },
     {
-      "time": "03:53",
-      "title": "中际旭创港股跌5%",
+      "time": "53:46",
+      "title": "新五丰：2026年前三季度生猪销量同比增长22.58%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890728791.html"
+      "url": "https://finance.eastmoney.com/a/202610093891301739.html"
     },
     {
-      "time": "00:18",
-      "title": "MLCC概念股震荡走低 国瓷材料跌超10%",
+      "time": "53:43",
+      "title": "“俄版谷歌”Yandex：保持服务运行是首要任务 但十分困难",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890700212.html"
+      "url": "https://finance.eastmoney.com/a/202610093891301339.html"
     },
     {
-      "time": "58:29",
-      "title": "波兰央行目标将黄金储备提高至700吨，黄金ETF博时(159937)跟踪指数涨超1%",
+      "time": "52:57",
+      "title": "围海股份：中标苕溪防洪治理工程 金额1.62亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890688778.html"
+      "url": "https://finance.eastmoney.com/a/202610093891299378.html"
     },
     {
-      "time": "58:00",
-      "title": "股价低迷 国联民生控股股东触发承诺 拟增持至少8134万元！",
+      "time": "45:57",
+      "title": "OpenAI因符号错误撤回三篇数学论文 陶哲轩转发“停止与OpenAI合作”的倡议",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890615019.html"
+      "url": "https://finance.eastmoney.com/a/202610093891296439.html"
     },
     {
-      "time": "55:50",
-      "title": "俄远东马加丹州遭遇大雪 地面交通几近瘫痪",
+      "time": "44:33",
+      "title": "天士力：注射用吲哚菁绿获得药品注册证书",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890693264.html"
+      "url": "https://finance.eastmoney.com/a/202610093891296348.html"
     },
     {
-      "time": "55:44",
-      "title": "1—9月全国二手房交易网签面积同比增长10.7%",
+      "time": "44:09",
+      "title": "美国现券债市下周一休市",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890666121.html"
+      "url": "https://finance.eastmoney.com/a/202610093891296727.html"
     },
     {
-      "time": "54:59",
-      "title": "汽车整车板块震荡走弱 江淮汽车2连跌停",
+      "time": "42:56",
+      "title": "步长制药：获得盐酸托莫西汀口服溶液药品注册证书",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890671369.html"
+      "url": "https://finance.eastmoney.com/a/202610093891295397.html"
     },
     {
-      "time": "52:22",
-      "title": "港股光通信股走弱 海光芯正跌近7%",
+      "time": "42:10",
+      "title": "美元迈向连续第四周上涨 势创2025年初以来最长连涨纪录",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890655153.html"
+      "url": "https://finance.eastmoney.com/a/202610093891295255.html"
     },
     {
-      "time": "51:49",
-      "title": "LME伦铜涨幅扩大",
+      "time": "39:06",
+      "title": "中国巨石：预计前三季度净利润同比增长100%-110%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890659146.html"
+      "url": "https://finance.eastmoney.com/a/202610093891292744.html"
     },
     {
-      "time": "51:42",
-      "title": "农业概念股拉升 金健米业涨停",
+      "time": "37:47",
+      "title": "正邦科技：9月销售生猪收入5.41亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890642786.html"
+      "url": "https://finance.eastmoney.com/a/202610093891293360.html"
     },
     {
-      "time": "51:13",
-      "title": "高市早苗：利率和汇率由市场决定",
+      "time": "37:47",
+      "title": "金新农：9月生猪销售收入5302.32万元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890650337.html"
+      "url": "https://finance.eastmoney.com/a/202610093891293237.html"
     },
     {
-      "time": "47:49",
-      "title": "高盛：未对海外资产进行对冲的日本投资者并无将资金汇回国内的迹象",
+      "time": "36:52",
+      "title": "美股狂欢即将落幕？债券巨头警告：10年期美债收益率或升破6%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890631835.html"
+      "url": "https://finance.eastmoney.com/a/202610093891297277.html"
     },
     {
-      "time": "47:09",
-      "title": "港股恒生科技指数涨幅达2%",
+      "time": "34:01",
+      "title": "英特尔美股盘前涨2%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890612512.html"
+      "url": "https://finance.eastmoney.com/a/202610093891292621.html"
     },
     {
-      "time": "46:38",
-      "title": "用豆包可以付水、电、燃气费？回应：正在建设生活缴费等生活场景下办事能力",
+      "time": "32:39",
+      "title": "沃华医药：前三季度净利润同比增长44.78%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890616146.html"
+      "url": "https://finance.eastmoney.com/a/202610093891286685.html"
     },
     {
-      "time": "46:34",
-      "title": "港股港口运输走强 东方海外国际涨近4%",
+      "time": "30:58",
+      "title": "在岸人民币兑美元收盘报6.6921",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890619035.html"
+      "url": "https://finance.eastmoney.com/a/202610093891285512.html"
     },
     {
-      "time": "45:00",
-      "title": "CPO概念震荡回升 联特科技涨超10%",
+      "time": "28:10",
+      "title": "安杰思：拟以3500万元至7000万元回购公司股份",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610093890602240.html"
+      "url": "https://finance.eastmoney.com/a/202610093891282853.html"
     },
     {
       "time": "06-05",
