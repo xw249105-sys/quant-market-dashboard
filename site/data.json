@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 09:24",
+  "updated_at": "2026-10-12 17:22",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -9833,39 +9833,17 @@
   ],
   "assets": [
     {
-      "symbol": "600519",
-      "date": "2026-10-09",
-      "price": 1263.0,
-      "score": 60,
-      "signal": "持有/等待确认",
-      "buy_low": 1244.936,
-      "buy_high": 1263.0,
-      "stop_loss": 1226.873,
-      "target": 1317.191,
-      "risk": "低",
-      "reasons": [
-        "中长期均线多头",
-        "RSI 位于健康区间",
-        "MACD 位于信号线上方",
-        "成交量高于 20 日均量",
-        "近期波动可控"
-      ],
-      "name": "贵州茅台",
-      "action": "暂不追买，等待趋势与成交量进一步确认"
-    },
-    {
       "symbol": "300750",
-      "date": "2026-10-09",
-      "price": 297.75,
-      "score": 38,
-      "signal": "谨慎观望",
-      "buy_low": 287.395,
-      "buy_high": 297.75,
-      "stop_loss": 277.04,
-      "target": 328.815,
+      "date": "2026-10-12",
+      "price": 298.38,
+      "score": 30,
+      "signal": "回避/考虑减仓",
+      "buy_low": 288.179,
+      "buy_high": 298.38,
+      "stop_loss": 277.979,
+      "target": 328.982,
       "risk": "中",
       "reasons": [
-        "RSI 偏低，存在超跌特征",
         "MACD 位于信号线上方",
         "成交量高于 20 日均量"
       ],
@@ -9874,18 +9852,17 @@
     },
     {
       "symbol": "159915",
-      "date": "2026-10-09",
-      "price": 3.064,
-      "score": 23,
+      "date": "2026-10-12",
+      "price": 2.983,
+      "score": 13,
       "signal": "回避/考虑减仓",
-      "buy_low": 2.978,
-      "buy_high": 3.064,
-      "stop_loss": 2.891,
-      "target": 3.324,
+      "buy_low": 2.895,
+      "buy_high": 2.983,
+      "stop_loss": 2.807,
+      "target": 3.247,
       "risk": "中",
       "reasons": [
-        "RSI 偏低，存在超跌特征",
-        "成交量高于 20 日均量"
+        "RSI 偏低，存在超跌特征"
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
@@ -9893,179 +9870,179 @@
   ],
   "news": [
     {
-      "time": "21:30",
-      "title": "港股开盘：恒生指数高开0.92% 恒生科技指数高开1.03%",
+      "time": "20:00",
+      "title": "市场监管总局抽检食品13.1万批次 不合格率1.93%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892194555.html"
+      "url": "https://finance.eastmoney.com/a/202610123892746094.html"
     },
     {
-      "time": "21:15",
-      "title": "受美以伊战事影响 超大型油轮运费升至60年来最高水平",
+      "time": "16:43",
+      "title": "国机精工：预计2026年前三季度净利润同比下降53.91%-63.62%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892194910.html"
+      "url": "https://finance.eastmoney.com/a/202610123892746123.html"
     },
     {
-      "time": "20:55",
-      "title": "央行今日开展500亿元7天期逆回购操作",
+      "time": "16:29",
+      "title": "隆华新材：控股子公司拟增资控股北京科亦 后者将设立六氟化钨生产运营公司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892194715.html"
+      "url": "https://finance.eastmoney.com/a/202610123892745637.html"
     },
     {
-      "time": "19:54",
-      "title": "风华高科：目前产品订单充足 产能利用率保持在较高水平",
+      "time": "16:02",
+      "title": "冰轮环境：预计2026年前三季度净利润同比增长30%-50%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892192984.html"
+      "url": "https://finance.eastmoney.com/a/202610123892745528.html"
     },
     {
-      "time": "17:15",
-      "title": "模思智能完成超10亿元Pre-A轮融资",
+      "time": "14:18",
+      "title": "泽连斯基：若俄罗斯今冬拒绝达成“能源停火” 乌方将予以回应",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892194237.html"
+      "url": "https://finance.eastmoney.com/a/202610123892742234.html"
     },
     {
-      "time": "15:43",
-      "title": "人民币兑美元中间价报6.7313，上调17点",
+      "time": "13:29",
+      "title": "金域医学：终止对DRA公司1.5亿元投资",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892192581.html"
+      "url": "https://finance.eastmoney.com/a/202610123892742956.html"
     },
     {
-      "time": "13:25",
-      "title": "美军基地授权问题引发葡萄牙国内争议",
+      "time": "13:22",
+      "title": "自7月以来马斯克已向共和党团体捐出逾2.76亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892189696.html"
+      "url": "https://finance.eastmoney.com/a/202610123892744445.html"
     },
     {
-      "time": "11:37",
-      "title": "新疆乌鲁木齐综合保税区：国产汽车“出海”“回家”都方便",
+      "time": "11:16",
+      "title": "兆易创新：已累计回购271.78万股 金额达10.35亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892189313.html"
+      "url": "https://finance.eastmoney.com/a/202610123892744123.html"
     },
     {
-      "time": "10:55",
-      "title": "韩国央行行长：芯片强劲需求支撑经济增长超出预期",
+      "time": "10:23",
+      "title": "利元亨：向特定对象发行A股股票获证监会同意注册批复",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892190115.html"
+      "url": "https://finance.eastmoney.com/a/202610123892744273.html"
     },
     {
-      "time": "10:26",
-      "title": "重庆：数据资产“换”绿色贷款",
+      "time": "10:06",
+      "title": "两部门：自2027年4月1日起将新能源汽车的增值税出口退税率由13%下调至9%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892189158.html"
+      "url": "https://finance.eastmoney.com/a/202610123892740510.html"
     },
     {
-      "time": "07:15",
-      "title": "诺诚健华TL1A / IL-23p19双抗ICP-B161获批临床",
+      "time": "09:27",
+      "title": "金丹科技：乳酸系列产品销售价格上调8%预计不会对公司2026年度经营业绩产生重大影响",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892188721.html"
+      "url": "https://finance.eastmoney.com/a/202610123892743930.html"
     },
     {
-      "time": "02:30",
-      "title": "碳酸锂主力合约跌超5%",
+      "time": "09:14",
+      "title": "贝莱德在工商银行H股的持股比例于10月7日从5.11%降至4.97%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892186553.html"
+      "url": "https://finance.eastmoney.com/a/202610123892743180.html"
     },
     {
-      "time": "01:20",
-      "title": "美油、布油日内均跌超2% WTI原油期货向下跌破90美元/桶",
+      "time": "08:00",
+      "title": "北方稀土：预计前三季度净利润同比增长135%-139% 主要稀土产品价格整体呈高位震荡态势",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892187094.html"
+      "url": "https://finance.eastmoney.com/a/202610123892739646.html"
     },
     {
-      "time": "00:56",
-      "title": "韩元兑美元涨0.8%，至2024年10月以来最高水平",
+      "time": "06:58",
+      "title": "贝莱德在比亚迪股份H股的持股比例于10月7日从7.10%降至6.90%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892186049.html"
+      "url": "https://finance.eastmoney.com/a/202610123892740692.html"
     },
     {
-      "time": "00:39",
-      "title": "台交所加权股价指数下跌1.1%",
+      "time": "06:10",
+      "title": "江淮汽车回应尊界SUV给赛力斯做：这是不实消息",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892186889.html"
+      "url": "https://finance.eastmoney.com/a/202610123892736287.html"
     },
     {
-      "time": "00:15",
-      "title": "富时中国A50指数期货开涨0.03%",
+      "time": "05:48",
+      "title": "贝莱德在中兴通讯H股的持股比例于10月7日从5.96%升至6.29%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892185694.html"
+      "url": "https://finance.eastmoney.com/a/202610123892737018.html"
     },
     {
-      "time": "00:04",
-      "title": "国内商品期货早盘开盘 主力合约多数上涨",
+      "time": "05:26",
+      "title": "九安医疗：50亿元债务融资工具获准注册",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892184338.html"
+      "url": "https://finance.eastmoney.com/a/202610123892740769.html"
     },
     {
-      "time": "59:35",
-      "title": "浪潮信息到访宏景科技 共研下一代AI基础设施创新应用",
+      "time": "04:57",
+      "title": "贝莱德在长飞光纤光缆H股的持股比例于10月7日从6.05%降至5.72%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892184580.html"
+      "url": "https://finance.eastmoney.com/a/202610123892738557.html"
     },
     {
-      "time": "56:00",
-      "title": "预告：商务部定于10月15日下午3时举行新闻发布会",
+      "time": "03:47",
+      "title": "摩根大通在阿里巴巴-WH股的持股比例于10月6日从5.98%升至6.04%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892184036.html"
+      "url": "https://finance.eastmoney.com/a/202610123892737162.html"
     },
     {
-      "time": "55:34",
-      "title": "债市抛售潮带来“意外转机”：全球央行加息次数有望减少？",
+      "time": "03:07",
+      "title": "摩根大通在天齐锂业H股的持股比例于10月6日从12.62%升至13.05%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892181164.html"
+      "url": "https://finance.eastmoney.com/a/202610123892734622.html"
     },
     {
-      "time": "53:47",
-      "title": "北证50下探基点 V型反转后能否确立底部？",
+      "time": "02:12",
+      "title": "摩根大通在英矽智能H股的持股比例于10月6日从6.13%降至5.96%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610113892079447.html"
+      "url": "https://finance.eastmoney.com/a/202610123892731361.html"
     },
     {
-      "time": "52:00",
-      "title": "韩国KOSPI指数跌幅扩大至2%",
+      "time": "01:39",
+      "title": "伯恩斯坦：AI数据中心推动美国电力需求至2030年复合年增4%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892182338.html"
+      "url": "https://finance.eastmoney.com/a/202610123892732283.html"
     },
     {
-      "time": "51:14",
-      "title": "港迪技术等在上海成立国际商贸公司",
+      "time": "00:02",
+      "title": "布伦特原油日内涨幅扩大至1%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892182521.html"
+      "url": "https://finance.eastmoney.com/a/202610123892732469.html"
     },
     {
-      "time": "50:36",
-      "title": "亚通精工等在嘉兴成立创投合伙企业",
+      "time": "59:24",
+      "title": "康龙化成：股东询价转让定价38.89元/股",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892182495.html"
+      "url": "https://finance.eastmoney.com/a/202610123892731612.html"
     },
     {
-      "time": "48:37",
-      "title": "捷豹路虎中国CEO韩少帅：关于模仿 我会把它看作一种尊重",
+      "time": "59:09",
+      "title": "LG电子与苹果合作开发智能居家设备 部分产品将由现代HT越南工厂生产",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610113892125982.html"
+      "url": "https://finance.eastmoney.com/a/202610123892738381.html"
     },
     {
       "time": "06-05",
