@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 17:22",
+  "updated_at": "2026-10-13 07:03",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 11494,
@@ -7,14 +7,44 @@
   },
   "indices": [
     {
-      "name": "上证指数",
-      "price": 3771.23,
-      "change": -1.07
+      "name": "道琼斯",
+      "price": 51850.55,
+      "change": 0.38
     },
     {
-      "name": "科创50",
-      "price": 1407.84,
-      "change": -3.33
+      "name": "恒生指数",
+      "price": 24271.2,
+      "change": 0.25
+    },
+    {
+      "name": "日经225",
+      "price": 69030.92,
+      "change": -0.02
+    },
+    {
+      "name": "标普500",
+      "price": 7807.24,
+      "change": -0.06
+    },
+    {
+      "name": "上证指数",
+      "price": 3797.24,
+      "change": -0.43
+    },
+    {
+      "name": "纳斯达克",
+      "price": 27245.9,
+      "change": -0.44
+    },
+    {
+      "name": "深证成指",
+      "price": 12384.87,
+      "change": -2.03
+    },
+    {
+      "name": "创业板指",
+      "price": 2963.82,
+      "change": -2.61
     }
   ],
   "sectors": {
@@ -9870,179 +9900,179 @@
   ],
   "news": [
     {
-      "time": "20:00",
-      "title": "市场监管总局抽检食品13.1万批次 不合格率1.93%",
+      "time": "59:23",
+      "title": "朝鲜试射战术弹道导弹",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892746094.html"
+      "url": "https://finance.eastmoney.com/a/202610133893091064.html"
     },
     {
-      "time": "16:43",
-      "title": "国机精工：预计2026年前三季度净利润同比下降53.91%-63.62%",
+      "time": "57:41",
+      "title": "中国进出口银行今年前三季度投放外贸领域贷款近万亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892746123.html"
+      "url": "https://finance.eastmoney.com/a/202610133893089889.html"
     },
     {
-      "time": "16:29",
-      "title": "隆华新材：控股子公司拟增资控股北京科亦 后者将设立六氟化钨生产运营公司",
+      "time": "37:42",
+      "title": "伊朗称正在审议美方意见 重开海峡条件未变",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892745637.html"
+      "url": "https://finance.eastmoney.com/a/202610133893088910.html"
     },
     {
-      "time": "16:02",
-      "title": "冰轮环境：预计2026年前三季度净利润同比增长30%-50%",
+      "time": "37:25",
+      "title": "聚焦当期景气兑现 机构积极挖掘三季报投资线索",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892745528.html"
+      "url": "https://finance.eastmoney.com/a/202610133893088880.html"
     },
     {
-      "time": "14:18",
-      "title": "泽连斯基：若俄罗斯今冬拒绝达成“能源停火” 乌方将予以回应",
+      "time": "25:57",
+      "title": "A股并购重组市场热度持续攀升",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892742234.html"
+      "url": "https://finance.eastmoney.com/a/202610133893088480.html"
     },
     {
-      "time": "13:29",
-      "title": "金域医学：终止对DRA公司1.5亿元投资",
+      "time": "20:19",
+      "title": "奇瑞汽车、比亚迪、上汽集团等都在抓紧研发 固态电池“上车”提速",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892742956.html"
+      "url": "https://finance.eastmoney.com/a/202610133893050144.html"
     },
     {
-      "time": "13:22",
-      "title": "自7月以来马斯克已向共和党团体捐出逾2.76亿美元",
+      "time": "18:58",
+      "title": "多元资产配置打开新空间 今年以来FOF新发规模近1500亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892744445.html"
+      "url": "https://finance.eastmoney.com/a/202610133893051140.html"
     },
     {
-      "time": "11:16",
-      "title": "兆易创新：已累计回购271.78万股 金额达10.35亿元",
+      "time": "18:50",
+      "title": "年内资本投入或超500亿元 券商国际化抢滩中东中亚",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892744123.html"
+      "url": "https://finance.eastmoney.com/a/202610133893049146.html"
     },
     {
-      "time": "10:23",
-      "title": "利元亨：向特定对象发行A股股票获证监会同意注册批复",
+      "time": "16:34",
+      "title": "驭势科技在港交所公告 公司董事会主席吴甘沙增持公司股份12,000H股",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892744273.html"
+      "url": "https://finance.eastmoney.com/a/202610133893085662.html"
     },
     {
-      "time": "10:06",
-      "title": "两部门：自2027年4月1日起将新能源汽车的增值税出口退税率由13%下调至9%",
+      "time": "16:10",
+      "title": "控股权双向流动 交易结构密集创新 上市国企整合奏响“央地和鸣”新乐章",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892740510.html"
+      "url": "https://finance.eastmoney.com/a/202610133893049948.html"
     },
     {
-      "time": "09:27",
-      "title": "金丹科技：乳酸系列产品销售价格上调8%预计不会对公司2026年度经营业绩产生重大影响",
+      "time": "13:13",
+      "title": "英机构：6艘船舶同日在霍尔木兹海峡及附近海域遭袭",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892743930.html"
+      "url": "https://finance.eastmoney.com/a/202610133893084557.html"
     },
     {
-      "time": "09:14",
-      "title": "贝莱德在工商银行H股的持股比例于10月7日从5.11%降至4.97%",
+      "time": "12:22",
+      "title": "传音控股在港交所公告 于2026年10月13日 发售价已厘定为每股H股35.30港元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892743180.html"
+      "url": "https://finance.eastmoney.com/a/202610133893085086.html"
     },
     {
-      "time": "08:00",
-      "title": "北方稀土：预计前三季度净利润同比增长135%-139% 主要稀土产品价格整体呈高位震荡态势",
+      "time": "07:43",
+      "title": "周二你需要知道的隔夜全球要闻：美联储哈玛克称利率需要进一步上调；俄美已开始就柴油交易谈判；Meta推出具备“前沿级能力”的Muse Wonder AI模型",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892739646.html"
+      "url": "https://finance.eastmoney.com/a/202610133893082342.html"
     },
     {
-      "time": "06:58",
-      "title": "贝莱德在比亚迪股份H股的持股比例于10月7日从7.10%降至6.90%",
+      "time": "06:15",
+      "title": "美联储10月维持利率不变的概率为79.5%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892740692.html"
+      "url": "https://finance.eastmoney.com/a/202610133893081687.html"
     },
     {
-      "time": "06:10",
-      "title": "江淮汽车回应尊界SUV给赛力斯做：这是不实消息",
+      "time": "03:53",
+      "title": "中国地震台网自动测定：10月13日06时01分在四川宜宾市珙县附近（北纬28.18度，东经104.82度）发生3.3级左右地震",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892736287.html"
+      "url": "https://finance.eastmoney.com/a/202610133893079436.html"
     },
     {
-      "time": "05:48",
-      "title": "贝莱德在中兴通讯H股的持股比例于10月7日从5.96%升至6.29%",
+      "time": "01:56",
+      "title": "消费订单回暖 9月份中国电商物流指数小幅上行",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892737018.html"
+      "url": "https://finance.eastmoney.com/a/202610133893079165.html"
     },
     {
-      "time": "05:26",
-      "title": "九安医疗：50亿元债务融资工具获准注册",
+      "time": "47:44",
+      "title": "日本欧姆龙计划以约1000亿日元收购OnLogic公司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892740769.html"
+      "url": "https://finance.eastmoney.com/a/202610133893074392.html"
     },
     {
-      "time": "04:57",
-      "title": "贝莱德在长飞光纤光缆H股的持股比例于10月7日从6.05%降至5.72%",
+      "time": "36:48",
+      "title": "美联储哈马克表示 仍需进一步收紧货币政策 但对加息步伐保持开放态度",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892738557.html"
+      "url": "https://finance.eastmoney.com/a/202610133893073923.html"
     },
     {
-      "time": "03:47",
-      "title": "摩根大通在阿里巴巴-WH股的持股比例于10月6日从5.98%升至6.04%",
+      "time": "28:25",
+      "title": "谷歌与Planet合作 通过SpaceX Transporter-18发射“捕日者计划”（ProjectSuncatcher）原型卫星",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892737162.html"
+      "url": "https://finance.eastmoney.com/a/202610133893072982.html"
     },
     {
-      "time": "03:07",
-      "title": "摩根大通在天齐锂业H股的持股比例于10月6日从12.62%升至13.05%",
+      "time": "21:12",
+      "title": "也门政府军称打死近千名胡塞武装人员",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892734622.html"
+      "url": "https://finance.eastmoney.com/a/202610133893069649.html"
     },
     {
-      "time": "02:12",
-      "title": "摩根大通在英矽智能H股的持股比例于10月6日从6.13%降至5.96%",
+      "time": "16:57",
+      "title": "富时A50期指连续夜盘收跌0.15%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892731361.html"
+      "url": "https://finance.eastmoney.com/a/202610133893069388.html"
     },
     {
-      "time": "01:39",
-      "title": "伯恩斯坦：AI数据中心推动美国电力需求至2030年复合年增4%",
+      "time": "16:39",
+      "title": "芝商所集团称将比预期更早推出首个超低延迟交易的云端解决方案",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892732283.html"
+      "url": "https://finance.eastmoney.com/a/202610133893069469.html"
     },
     {
-      "time": "00:02",
-      "title": "布伦特原油日内涨幅扩大至1%",
+      "time": "16:21",
+      "title": "也门胡塞武装称沙特24小时内发动119次袭击",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892732469.html"
+      "url": "https://finance.eastmoney.com/a/202610133893069015.html"
     },
     {
-      "time": "59:24",
-      "title": "康龙化成：股东询价转让定价38.89元/股",
+      "time": "06:38",
+      "title": "COMEX黄金期货收跌0.48%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892731612.html"
+      "url": "https://finance.eastmoney.com/a/202610133893067180.html"
     },
     {
-      "time": "59:09",
-      "title": "LG电子与苹果合作开发智能居家设备 部分产品将由现代HT越南工厂生产",
+      "time": "54:00",
+      "title": "无视伊朗抗议 英国再次指认伊朗涉费尔福德基地事件",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610123892738381.html"
+      "url": "https://finance.eastmoney.com/a/202610133893064858.html"
     },
     {
       "time": "06-05",
