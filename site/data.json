@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 09:17",
+  "updated_at": "2026-10-14 15:46",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 8814,
@@ -7,34 +7,19 @@
   },
   "indices": [
     {
-      "name": "上证指数",
-      "price": 3800.86,
-      "change": 0.1
-    },
-    {
-      "name": "科创50",
-      "price": 1427.18,
-      "change": 0.03
-    },
-    {
-      "name": "创业板指",
-      "price": 2958.34,
-      "change": -0.18
-    },
-    {
-      "name": "深证成指",
-      "price": 12353.7,
-      "change": -0.25
-    },
-    {
-      "name": "恒生指数",
-      "price": 24345.22,
-      "change": 0.3
-    },
-    {
       "name": "标普500",
       "price": 7805.45,
       "change": -0.02
+    },
+    {
+      "name": "日经225",
+      "price": 67744.29,
+      "change": -0.05
+    },
+    {
+      "name": "恒生指数",
+      "price": 24313.43,
+      "change": -0.13
     },
     {
       "name": "纳斯达克",
@@ -47,9 +32,19 @@
       "change": -0.35
     },
     {
-      "name": "日经225",
-      "price": 67777.52,
-      "change": -1.82
+      "name": "上证指数",
+      "price": 3767.23,
+      "change": -0.88
+    },
+    {
+      "name": "深证成指",
+      "price": 12110.59,
+      "change": -1.97
+    },
+    {
+      "name": "创业板指",
+      "price": 2866.76,
+      "change": -3.1
     }
   ],
   "sectors": {
@@ -157097,55 +157092,35 @@
   "assets": [
     {
       "symbol": "600519",
-      "date": "2026-10-13",
-      "price": 1274.89,
-      "score": 75,
-      "signal": "分批买入观察",
-      "buy_low": 1255.471,
-      "buy_high": 1274.89,
-      "stop_loss": 1236.051,
-      "target": 1333.148,
+      "date": "2026-10-14",
+      "price": 1286.0,
+      "score": 65,
+      "signal": "持有/等待确认",
+      "buy_low": 1266.59,
+      "buy_high": 1286.0,
+      "stop_loss": 1247.18,
+      "target": 1344.23,
       "risk": "低",
       "reasons": [
         "收盘价站上 MA20",
         "中长期均线多头",
         "RSI 位于健康区间",
         "MACD 位于信号线上方",
-        "成交量高于 20 日均量",
         "近期波动可控"
       ],
       "name": "贵州茅台",
-      "action": "可在参考区间小仓分批观察，不宜一次满仓"
-    },
-    {
-      "symbol": "300750",
-      "date": "2026-10-13",
-      "price": 289.1,
-      "score": 38,
-      "signal": "谨慎观望",
-      "buy_low": 279.573,
-      "buy_high": 289.1,
-      "stop_loss": 270.046,
-      "target": 317.681,
-      "risk": "中",
-      "reasons": [
-        "RSI 偏低，存在超跌特征",
-        "MACD 位于信号线上方",
-        "成交量高于 20 日均量"
-      ],
-      "name": "宁德时代",
-      "action": "当前不建议新开仓，优先控制风险"
+      "action": "暂不追买，等待趋势与成交量进一步确认"
     },
     {
       "symbol": "159915",
-      "date": "2026-10-13",
-      "price": 2.974,
+      "date": "2026-10-14",
+      "price": 2.891,
       "score": 23,
       "signal": "回避/考虑减仓",
-      "buy_low": 2.881,
-      "buy_high": 2.974,
-      "stop_loss": 2.788,
-      "target": 3.252,
+      "buy_low": 2.798,
+      "buy_high": 2.891,
+      "stop_loss": 2.706,
+      "target": 3.169,
       "risk": "中",
       "reasons": [
         "RSI 偏低，存在超跌特征",
@@ -157153,201 +157128,183 @@
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "159920",
-      "date": "2026-10-13",
-      "price": 1.426,
-      "score": 20,
-      "signal": "回避/考虑减仓",
-      "buy_low": 1.408,
-      "buy_high": 1.426,
-      "stop_loss": 1.389,
-      "target": 1.481,
-      "risk": "低",
-      "reasons": [
-        "中长期均线多头",
-        "近期波动可控"
-      ],
-      "name": "恒生ETF",
-      "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "14:10",
-      "title": "美研究发现：用10分钟AI，人类专注力就打折",
+      "time": "38:06",
+      "title": "伊朗南部锡里克市附近海域发生无人机与渔船相撞事件",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894963963.html"
+      "url": "https://finance.eastmoney.com/a/202610143895446145.html"
     },
     {
-      "time": "13:34",
-      "title": "江苏首个市场化“整村光伏”项目并网",
+      "time": "37:32",
+      "title": "总投资20亿元 福耀集团安徽饰件及模具生产基地项目在合肥开工",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894956545.html"
+      "url": "https://finance.eastmoney.com/a/202610143895446731.html"
     },
     {
-      "time": "10:34",
-      "title": "智利首都大区进入红色警戒状态",
+      "time": "36:01",
+      "title": "3天2板松霖科技：预计2026年前三季度净利润同比增长22.91%-32.37%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894943853.html"
+      "url": "https://finance.eastmoney.com/a/202610143895446587.html"
     },
     {
-      "time": "10:23",
-      "title": "寻找抑通胀与防泡沫平衡点 美联储下一步政策路径高度依赖数据",
+      "time": "32:45",
+      "title": "原材料价格飙升 萨莉亚本月起将在日本涨价",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894937443.html"
+      "url": "https://finance.eastmoney.com/a/202610143895441886.html"
     },
     {
-      "time": "10:18",
-      "title": "Anthropic即将首次公开其第三季度营收数据",
+      "time": "32:45",
+      "title": "米哈游《原神》线下测试人员泄密至境外终被追责 被判赔偿50万",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894944962.html"
+      "url": "https://finance.eastmoney.com/a/202610143895441468.html"
     },
     {
-      "time": "10:07",
-      "title": "广合科技：截至目前公司不存在收购覆铜板企业或上游材料企业的安排",
+      "time": "32:10",
+      "title": "外交部：进博会今年将继续为最不发达国家提供免费展位",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894942312.html"
+      "url": "https://finance.eastmoney.com/a/202610143895440722.html"
     },
     {
-      "time": "10:05",
-      "title": "SK海力士推出以内存为中心的AI机架级系统MARS",
+      "time": "31:00",
+      "title": "杭州一套独栋别墅2.88亿元拍卖成交：溢价率71% 单价45.7万元/平米",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894949850.html"
+      "url": "https://finance.eastmoney.com/a/202610143895445210.html"
     },
     {
-      "time": "09:48",
-      "title": "重阳投资“举牌”思特威",
+      "time": "30:32",
+      "title": "每7天29元！短剧自动续费“收割”老年人",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894905012.html"
+      "url": "https://finance.eastmoney.com/a/202610143895441242.html"
     },
     {
-      "time": "09:28",
-      "title": "英伟达与京元电签订预付款协议 预留后者美国新厂测试产能",
+      "time": "30:00",
+      "title": "机构：全球智能手机出货量第三季度同比降20% 创14年来同期新低",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894952641.html"
+      "url": "https://finance.eastmoney.com/a/202610143895441551.html"
     },
     {
-      "time": "08:34",
-      "title": "农业农村部与海南省委省政府举行工作会谈",
+      "time": "26:45",
+      "title": "日本大米收成预计维持高水平 价格或继续回落",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894947978.html"
+      "url": "https://finance.eastmoney.com/a/202610143895439214.html"
     },
     {
-      "time": "08:03",
-      "title": "德国少女遭机器人“性骚扰”",
+      "time": "26:00",
+      "title": "机构：第三季度中国大陆智能手机出货量降至2013年以来同期最低",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894920475.html"
+      "url": "https://finance.eastmoney.com/a/202610143895438973.html"
     },
     {
-      "time": "06:00",
-      "title": "银轮股份：三季度液冷业务正常推进 部分客户小批量订单交付中",
+      "time": "25:55",
+      "title": "特斯拉Cybercab将在美国得州达拉斯投入运营",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894930351.html"
+      "url": "https://finance.eastmoney.com/a/202610143895438898.html"
     },
     {
-      "time": "05:56",
-      "title": "福龙马等成立城市环境服务新公司",
+      "time": "24:45",
+      "title": "Netflix在韩销售额首破1万亿韩元 逾八成流向美国总部",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894908522.html"
+      "url": "https://finance.eastmoney.com/a/202610143895438674.html"
     },
     {
-      "time": "02:36",
-      "title": "现代汽车计划到2032年在印度投资155亿美元",
+      "time": "24:45",
+      "title": "智元机器人在上海成立新公司 注册资本1000万",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894897278.html"
+      "url": "https://finance.eastmoney.com/a/202610143895438581.html"
     },
     {
-      "time": "02:03",
-      "title": "兑吧AI短剧业务三季度单月播放量环比增幅107% 连续三个月盈利",
+      "time": "24:42",
+      "title": "显盈科技等新设智能公司 含AI及机器人业务",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894895540.html"
+      "url": "https://finance.eastmoney.com/a/202610143895439098.html"
     },
     {
-      "time": "01:08",
-      "title": "电科思仪：公司部分产品可应用于光芯片、光模块测试场景 并不直接生产光模块产品",
+      "time": "23:00",
+      "title": "海格通信与六乙堂达成合作",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894891842.html"
+      "url": "https://finance.eastmoney.com/a/202610143895438723.html"
     },
     {
-      "time": "00:36",
-      "title": "富时中国A50指数期货开盘跌0.01%",
+      "time": "21:14",
+      "title": "习近平向第140届中国进出口商品交易会致贺信",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894866970.html"
+      "url": "https://finance.eastmoney.com/a/202610143895434068.html"
     },
     {
-      "time": "00:17",
-      "title": "真爱美家新设智算科技公司 含多项AI业务",
+      "time": "20:21",
+      "title": "AI视频造谣问界 播放量不到3000 赛力斯向网友索赔100万",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894874653.html"
+      "url": "https://finance.eastmoney.com/a/202610143895435975.html"
     },
     {
-      "time": "00:05",
-      "title": "国内商品期货早盘开盘 主力合约涨跌不一",
+      "time": "19:00",
+      "title": "国债期货收盘集体收涨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894861082.html"
+      "url": "https://finance.eastmoney.com/a/202610143895435231.html"
     },
     {
-      "time": "59:00",
-      "title": "岭南控股：公司商旅出行业务积极开发冰雪旅游线路 产品供给丰富",
+      "time": "18:45",
+      "title": "罗氏与大睿生物达成至多11.6亿美元授权协议",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894876079.html"
+      "url": "https://finance.eastmoney.com/a/202610143895433321.html"
     },
     {
-      "time": "58:16",
-      "title": "天阳科技：公司算力相关业务仍在努力推进中",
+      "time": "18:22",
+      "title": "油价还能再涨25美元？美中期选举后中东风险或成“达摩克利斯之剑”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894861127.html"
+      "url": "https://finance.eastmoney.com/a/202610143895433428.html"
     },
     {
-      "time": "57:46",
-      "title": "中国银河证券：超级厄尔尼诺已形成 预计近期豆粕等走势偏强",
+      "time": "17:39",
+      "title": "今年外资抛售三星电子、SK海力士合计176万亿韩元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894863617.html"
+      "url": "https://finance.eastmoney.com/a/202610143895435042.html"
     },
     {
-      "time": "57:01",
-      "title": "第十六届中国航展定档 火箭海上网系回收装置等将首秀",
+      "time": "14:25",
+      "title": "两部门印发《关于强化知识产权协同保护的意见》",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610133894343191.html"
+      "url": "https://finance.eastmoney.com/a/202610143895432021.html"
     },
     {
-      "time": "56:36",
-      "title": "高通称陪审团认定Arm违反许可协议",
+      "time": "13:53",
+      "title": "摩根士丹利预计韩国央行10月暂停加息",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610143894854681.html"
+      "url": "https://finance.eastmoney.com/a/202610143895432186.html"
     },
     {
-      "time": "56:17",
-      "title": "一家AI明星公司申请破产",
+      "time": "11:52",
+      "title": "丰田汽车公司召回30,978辆美国车辆",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610133894406278.html"
+      "url": "https://finance.eastmoney.com/a/202610143895431516.html"
     },
     {
       "time": "06-05",
@@ -157527,7 +157484,7 @@
   ],
   "health": {
     "partial_failures": [
-      "板块: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "板块: 502 Server Error: Bad Gateway for url: https://17.push2delay.eastmoney.com/api/qt/clist/get?pn=1&pz=100&po=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fs=m%3A90+t%3A2+f%3A%2150&fields=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6%2Cf7%2Cf8%2Cf9%2Cf10%2Cf12%2Cf13%2Cf14%2Cf15%2Cf16%2Cf17%2Cf18%2Cf20%2Cf21%2Cf23%2Cf24%2Cf25%2Cf26%2Cf22%2Cf33%2Cf11%2Cf62%2Cf128%2Cf136%2Cf115%2Cf152%2Cf124%2Cf107%2Cf104%2Cf105%2Cf140%2Cf141%2Cf207%2Cf208%2Cf209%2Cf222"
     ]
   }
 }
