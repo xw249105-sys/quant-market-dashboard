@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 04:15",
+  "updated_at": "2026-10-15 07:18",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 8814,
@@ -7,34 +7,34 @@
   },
   "indices": [
     {
-      "name": "标普500",
-      "price": 7805.45,
-      "change": -0.02
-    },
-    {
       "name": "日经225",
       "price": 67744.29,
       "change": -0.05
     },
     {
-      "name": "恒生指数",
-      "price": 24313.43,
-      "change": -0.13
-    },
-    {
-      "name": "纳斯达克",
-      "price": 27204.38,
-      "change": -0.15
-    },
-    {
       "name": "道琼斯",
-      "price": 51670.1,
-      "change": -0.35
+      "price": 51621.48,
+      "change": -0.09
+    },
+    {
+      "name": "恒生指数",
+      "price": 24314.17,
+      "change": -0.13
     },
     {
       "name": "上证指数",
       "price": 3767.23,
       "change": -0.88
+    },
+    {
+      "name": "标普500",
+      "price": 7718.94,
+      "change": -1.11
+    },
+    {
+      "name": "纳斯达克",
+      "price": 26692.87,
+      "change": -1.88
     },
     {
       "name": "深证成指",
@@ -157169,179 +157169,179 @@
   ],
   "news": [
     {
-      "time": "00:08",
-      "title": "美股三大指数集体收跌 热门科技股普跌",
+      "time": "14:18",
+      "title": "争夺终端定义权 智能体手机行业迎来新博弈",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895879552.html"
+      "url": "https://finance.eastmoney.com/a/202610153895865249.html"
     },
     {
-      "time": "56:43",
-      "title": "美中央司令部：美军在阿曼湾摧毁一艘与伊朗有关联帆船",
+      "time": "12:18",
+      "title": "央行发布前三季度金融统计数据 社融增量超27万亿元 直接融资占比上升",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895879386.html"
+      "url": "https://finance.eastmoney.com/a/202610153895865879.html"
     },
     {
-      "time": "45:51",
-      "title": "Perella Weinberg与Piper Sandler终止并购谈判",
+      "time": "12:03",
+      "title": "巴克莱：特斯拉-SpaceX合并消息可能在年度股东大会前公布",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895877166.html"
+      "url": "https://finance.eastmoney.com/a/202610153895914393.html"
     },
     {
-      "time": "25:05",
-      "title": "美联储古尔斯比表示：关税对价格的影响比预期更持久 美联储必须使通胀回归2%的轨道",
+      "time": "09:18",
+      "title": "北向资金三季度调仓 银行、医药板块持仓市值增幅显著",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895876911.html"
+      "url": "https://finance.eastmoney.com/a/202610153895865447.html"
     },
     {
-      "time": "20:38",
-      "title": "美元指数14日上涨",
+      "time": "08:03",
+      "title": "美联储观察：10月加息概率升至33.2%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895876789.html"
+      "url": "https://finance.eastmoney.com/a/202610153895912568.html"
     },
     {
-      "time": "17:45",
-      "title": "美联储古尔斯比表示：不希望预先锁定货币政策前景 束缚自身政策操作空间",
+      "time": "05:00",
+      "title": "跌27%→涨22% 这只港股坐上“过山车”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895876462.html"
+      "url": "https://finance.eastmoney.com/a/202610153895908034.html"
     },
     {
-      "time": "00:47",
-      "title": "恒指期货夜盘收跌1.06% 报24074点",
+      "time": "03:28",
+      "title": "三星和SK海力士在Nextrade盘前交易中均跌超6%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895876257.html"
+      "url": "https://finance.eastmoney.com/a/202610153895911475.html"
     },
     {
-      "time": "00:15",
-      "title": "资金再度青睐“确定性” 红利基金净值集体逼近新高",
+      "time": "55:16",
+      "title": "三则海外“小作文”砸出科技“黄金坑”？机构共识：实质影响有限，科技产业趋势未逆转",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895872934.html"
+      "url": "https://finance.eastmoney.com/a/202610143895842495.html"
     },
     {
-      "time": "50:55",
-      "title": "前三季港股IPO高歌猛进 监管层敦促保荐人尽职审查",
+      "time": "50:32",
+      "title": "俄称扩大在哈尔科夫的控制区 乌称在顿涅茨克发动大规模进攻",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895872333.html"
+      "url": "https://finance.eastmoney.com/a/202610153895907996.html"
     },
     {
-      "time": "38:32",
-      "title": "美联储巴尔金表示：CPI报告高于我的预期",
+      "time": "45:22",
+      "title": "标普500指数期货下跌0.3% 纳斯达克100指数期货下跌0.7%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895876147.html"
+      "url": "https://finance.eastmoney.com/a/202610153895905249.html"
     },
     {
-      "time": "34:39",
-      "title": "苹果诉OpenAI案法官称“大概率”将作出有利于苹果的裁决",
+      "time": "42:32",
+      "title": "微型机器人靶向心脏感染病灶精准送药",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895876030.html"
+      "url": "https://finance.eastmoney.com/a/202610153895905195.html"
     },
     {
-      "time": "31:34",
-      "title": "WTI原油期货结算价为95.09美元/桶，上涨95美分，涨幅1.01%，布伦特原油期货结算价为106.06美元/桶，上涨37美分，涨幅0.35%",
+      "time": "35:01",
+      "title": "三季报预告密集披露 基金锚定业绩确定性",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895874946.html"
+      "url": "https://finance.eastmoney.com/a/202610153895864013.html"
     },
     {
-      "time": "30:29",
-      "title": "上期所原油期货夜盘收跌2.95% 报733.9元/桶",
+      "time": "26:17",
+      "title": "证监会开出1.72亿元罚单！*ST清越涉欺诈发行、财务造假案",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895875050.html"
+      "url": "https://finance.eastmoney.com/a/202610143895715056.html"
     },
     {
-      "time": "29:32",
-      "title": "北约秘书长：暂无迹象表明北约领土面临迫在眉睫威胁",
+      "time": "20:22",
+      "title": "据报道：Anthropic三季度收入增长至168亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895874568.html"
+      "url": "https://finance.eastmoney.com/a/202610153895903215.html"
     },
     {
-      "time": "12:55",
-      "title": "胡塞武装称袭击沙特利雅得国际机场等目标",
+      "time": "18:09",
+      "title": "美银Q3净利润下降17% 营收不及预期股价跌逾7%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895871187.html"
+      "url": "https://finance.eastmoney.com/a/202610143895796974.html"
     },
     {
-      "time": "02:45",
-      "title": "胡塞武装称沙特主导的联军24小时内发动42次袭击",
+      "time": "15:52",
+      "title": "周四你需要知道的隔夜全球要闻",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895870991.html"
+      "url": "https://finance.eastmoney.com/a/202610153895899722.html"
     },
     {
-      "time": "02:01",
-      "title": "美联储褐皮书：能源成本上涨传导至供应链 半数辖区报告价格压力升温",
+      "time": "08:21",
+      "title": "美联储10月加息概率升至33.2%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895871045.html"
+      "url": "https://finance.eastmoney.com/a/202610153895898754.html"
     },
     {
-      "time": "53:59",
-      "title": "美股持续走低 纳指跌幅扩大至2%",
+      "time": "01:56",
+      "title": "温和上行 9月份中国公路物流运价指数环比回升",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895870890.html"
+      "url": "https://finance.eastmoney.com/a/202610153895895192.html"
     },
     {
-      "time": "51:56",
-      "title": "9月CPI同比上涨0.9% 居民消费价格继续温和回升",
+      "time": "01:52",
+      "title": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895869925.html"
+      "url": "https://finance.eastmoney.com/a/202610143895735585.html"
     },
     {
-      "time": "51:36",
-      "title": "Coreweave首席执行官认为股价下跌是由于市场“非理性”行为",
+      "time": "58:20",
+      "title": "美国9月CPI通胀再度升温 强化美联储加息预期 现货黄金一度跌破4100美元关口",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895870788.html"
+      "url": "https://finance.eastmoney.com/a/202610143895769615.html"
     },
     {
-      "time": "41:47",
-      "title": "必和必拓智利埃斯孔迪达矿的主管人员批准集体协议 避免罢工",
+      "time": "50:21",
+      "title": "长期资本“活水”加速涌入 公募年内逾545亿元加注定增市场",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895870666.html"
+      "url": "https://finance.eastmoney.com/a/202610153895877792.html"
     },
     {
-      "time": "36:08",
-      "title": "英伟达CEO黄仁勋称会对开发不安全AI软件的客户断供芯片",
+      "time": "41:49",
+      "title": "美联储戴利：可能需要加息 尚有充足时间审慎决策",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895870571.html"
+      "url": "https://finance.eastmoney.com/a/202610153895891797.html"
     },
     {
       "time": "34:50",
-      "title": "美国30年期国债收益率触及盘中低点 最新下跌3.2个基点至5.531%",
+      "title": "日本计划在2030年代初实现每年30次火箭发射",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895870411.html"
+      "url": "https://finance.eastmoney.com/a/202610153895889917.html"
     },
     {
-      "time": "30:17",
-      "title": "纳斯达克100指数跌幅扩大至2% 成分股CoreWeave目前跌超15%",
+      "time": "26:21",
+      "title": "胡塞武装称击中一架沙特“台风”战斗机",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895869252.html"
+      "url": "https://finance.eastmoney.com/a/202610153895890961.html"
     },
     {
-      "time": "17:55",
-      "title": "一名被也门胡塞武装关押两年的联合国员工获释",
+      "time": "24:53",
+      "title": "马自达通过改造线束产品适配机器人 将线束生产迁回本土",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153895867310.html"
+      "url": "https://finance.eastmoney.com/a/202610153895888517.html"
     },
     {
       "time": "06-05",
