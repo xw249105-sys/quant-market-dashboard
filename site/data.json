@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 12:50",
+  "updated_at": "2026-10-16 03:56",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 8814,
@@ -157091,73 +157091,15 @@
   ],
   "assets": [
     {
-      "symbol": "600519",
-      "date": "2026-10-14",
-      "price": 1286.0,
-      "score": 65,
-      "signal": "持有/等待确认",
-      "buy_low": 1266.59,
-      "buy_high": 1286.0,
-      "stop_loss": 1247.18,
-      "target": 1344.23,
-      "risk": "低",
-      "reasons": [
-        "收盘价站上 MA20",
-        "中长期均线多头",
-        "RSI 位于健康区间",
-        "MACD 位于信号线上方",
-        "近期波动可控"
-      ],
-      "name": "贵州茅台",
-      "action": "暂不追买，等待趋势与成交量进一步确认"
-    },
-    {
-      "symbol": "159920",
-      "date": "2026-10-14",
-      "price": 1.433,
-      "score": 35,
-      "signal": "谨慎观望",
-      "buy_low": 1.414,
-      "buy_high": 1.433,
-      "stop_loss": 1.395,
-      "target": 1.49,
-      "risk": "低",
-      "reasons": [
-        "中长期均线多头",
-        "RSI 位于健康区间",
-        "近期波动可控"
-      ],
-      "name": "恒生ETF",
-      "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "300750",
-      "date": "2026-10-14",
-      "price": 280.12,
-      "score": 28,
-      "signal": "回避/考虑减仓",
-      "buy_low": 271.064,
-      "buy_high": 280.12,
-      "stop_loss": 262.009,
-      "target": 307.287,
-      "risk": "中",
-      "reasons": [
-        "RSI 偏低，存在超跌特征",
-        "MACD 位于信号线上方"
-      ],
-      "name": "宁德时代",
-      "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
       "symbol": "159915",
-      "date": "2026-10-14",
-      "price": 2.891,
+      "date": "2026-10-15",
+      "price": 2.806,
       "score": 23,
       "signal": "回避/考虑减仓",
-      "buy_low": 2.798,
-      "buy_high": 2.891,
-      "stop_loss": 2.706,
-      "target": 3.169,
+      "buy_low": 2.709,
+      "buy_high": 2.806,
+      "stop_loss": 2.612,
+      "target": 3.098,
       "risk": "中",
       "reasons": [
         "RSI 偏低，存在超跌特征",
@@ -157169,179 +157111,172 @@
   ],
   "news": [
     {
-      "time": "47:00",
-      "title": "已超993亿元！资金连续8日净流入股票型ETF “越跌越买”双创板块",
+      "time": "46:14",
+      "title": "现货白银走高涨超3% 现报57.42美元/盎司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896668955.html"
+      "url": "https://finance.eastmoney.com/a/202610163897338941.html"
     },
     {
-      "time": "45:46",
-      "title": "GlobalFoundries根据美日协议获得210亿美元用于新建芯片工厂",
+      "time": "40:11",
+      "title": "美国投资公司协会数据显示：美国货币市场基金资产规模降至7.92万亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896669040.html"
+      "url": "https://finance.eastmoney.com/a/202610163897338863.html"
     },
     {
-      "time": "45:16",
-      "title": "苹果AI国内采用双合作伙伴：阿里提供模型能力 百度负责Siri和视觉智能",
+      "time": "27:14",
+      "title": "花旗称：短期对铝价维持中性看法 投资者正逐步忽略当前现货供应紧张局面",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896668886.html"
+      "url": "https://finance.eastmoney.com/a/202610163897338730.html"
     },
     {
-      "time": "41:00",
-      "title": "武汉2宗宅地2.65亿元底价成交",
+      "time": "26:35",
+      "title": "肯德基接近达成协议 在美国数千家餐厅开展百事可乐换购活动",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896668777.html"
+      "url": "https://finance.eastmoney.com/a/202610163897338688.html"
     },
     {
-      "time": "41:00",
-      "title": "天宸股份：储能业务正根据工厂现有产能落实和拓展订单",
+      "time": "13:37",
+      "title": "美元指数15日下跌",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896668647.html"
+      "url": "https://finance.eastmoney.com/a/202610163897338560.html"
     },
     {
-      "time": "40:00",
-      "title": "华银电力：下半年火电发电空间有望改善 但盈利水平仍受煤价等外部因素影响",
+      "time": "07:02",
+      "title": "恒指期货夜盘收涨0.88% 报24274点",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896668379.html"
+      "url": "https://finance.eastmoney.com/a/202610163897337559.html"
     },
     {
-      "time": "39:22",
-      "title": "九州通在宜昌成立智慧医疗科技公司",
+      "time": "00:07",
+      "title": "印度将汽油出口暴利税定为每升2.5卢比 将柴油出口暴利税定为每升8.5卢比",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896666586.html"
+      "url": "https://finance.eastmoney.com/a/202610163897337475.html"
     },
     {
-      "time": "38:00",
-      "title": "裕兴股份：暂未涉及溅射载体铜箔超平PET基膜相关产品",
+      "time": "45:00",
+      "title": "AI制药企业相继进入资本市场",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896666641.html"
+      "url": "https://finance.eastmoney.com/a/202610163897330533.html"
     },
     {
-      "time": "37:00",
-      "title": "消费贷贴息如何优化？东吴证券芦哲：可给生育养老等加成贴息",
+      "time": "33:55",
+      "title": "WTI原油期货结算价为97.97美元/桶 上涨2.88美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896661913.html"
+      "url": "https://finance.eastmoney.com/a/202610163897334839.html"
     },
     {
-      "time": "33:04",
-      "title": "国新办将于10月19日就2026年前三季度国民经济运行情况举行新闻发布会",
+      "time": "31:03",
+      "title": "上期所原油期货夜盘收涨0.11% 报726元/桶",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896663349.html"
+      "url": "https://finance.eastmoney.com/a/202610163897334766.html"
     },
     {
-      "time": "31:57",
-      "title": "日本8月工业产值终值同比增长2.7% 环比下降2.4%",
+      "time": "23:41",
+      "title": "大脑神经元有精密分工 我国科学家破解大脑灵活决策底层奥秘",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896663491.html"
+      "url": "https://finance.eastmoney.com/a/202610163897334498.html"
     },
     {
-      "time": "27:02",
-      "title": "凌霄泵业：使用2.2亿元闲置资金购买理财产品",
+      "time": "09:50",
+      "title": "必和必拓就智利斯彭斯铜矿两次“非法”停产事件起诉工会",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896660432.html"
+      "url": "https://finance.eastmoney.com/a/202610163897334320.html"
     },
     {
-      "time": "26:22",
-      "title": "杰富瑞将微软目标价从575美元上调至650美元",
+      "time": "08:37",
+      "title": "谷歌量子人工智能发布量子计算重大突破 Willow芯片项目突破关键资源瓶颈",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896660267.html"
+      "url": "https://finance.eastmoney.com/a/202610163897334230.html"
     },
     {
-      "time": "21:02",
-      "title": "东方电热：暂无进入服务器领域的计划",
+      "time": "58:24",
+      "title": "美军称伊朗控制霍尔木兹海峡等说法不实",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896657742.html"
+      "url": "https://finance.eastmoney.com/a/202610163897334146.html"
     },
     {
-      "time": "20:16",
-      "title": "美官员称美方考虑对伊朗使用“炸弹之母”",
+      "time": "54:15",
+      "title": "乌克兰军队“星链”服务已恢复",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896657935.html"
+      "url": "https://finance.eastmoney.com/a/202610163897333682.html"
     },
     {
-      "time": "16:16",
-      "title": "格陵兰岛官员否认美国即将上岛大规模勘探",
+      "time": "43:43",
+      "title": "裕信银行获得欧洲央行批准 将取得德国商业银行的控制权",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896657256.html"
+      "url": "https://finance.eastmoney.com/a/202610163897333853.html"
     },
     {
-      "time": "16:16",
-      "title": "信维通信：近期已开始为客户的智能驾驶出租车提供车载星链设备零部件",
+      "time": "41:50",
+      "title": "美货运“龙”飞船与国际空间站对接",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896656637.html"
+      "url": "https://finance.eastmoney.com/a/202610163897333763.html"
     },
     {
-      "time": "16:15",
-      "title": "香港旅发局：9月访港旅客录得约403万人次",
+      "time": "36:48",
+      "title": "欧盟据称已准备好加速推进对标SpaceX的卫星项目",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896657091.html"
+      "url": "https://finance.eastmoney.com/a/202610163897330797.html"
     },
     {
-      "time": "15:00",
-      "title": "园林股份：全力开展应收款项清收 加快资金回笼",
+      "time": "27:59",
+      "title": "Coreweave现涨1.6% 早前一度跌超9%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896656537.html"
+      "url": "https://finance.eastmoney.com/a/202610163897328551.html"
     },
     {
-      "time": "14:16",
-      "title": "国产客机C909今年已载客超814万",
+      "time": "22:21",
+      "title": "Anthropic计划发布其AI模型的风险评估结果，公司正与包括埃森哲、Faculty在内的独立评估机构合作，来测试诸多模型",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896656729.html"
+      "url": "https://finance.eastmoney.com/a/202610163897327448.html"
     },
     {
-      "time": "10:09",
-      "title": "港股午盘：恒指跌1.47% 联想集团领跌成分股",
+      "time": "20:02",
+      "title": "Perplexity将开源AI安全软件",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896653535.html"
+      "url": "https://finance.eastmoney.com/a/202610163897327216.html"
     },
     {
-      "time": "10:00",
-      "title": "信维通信：已为智能驾驶出租车提供车载星链设备零部件",
+      "time": "17:35",
+      "title": "美联储周四隔夜逆回购协议（RRP）使用规模为12.01亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896654766.html"
+      "url": "https://finance.eastmoney.com/a/202610163897327169.html"
     },
     {
-      "time": "08:16",
-      "title": "沪市ETF连续三日净流入超700亿元",
+      "time": "06:24",
+      "title": "富时罗素将Harworth Group从富时250指数中剔除被 将EnQuest纳入富时250指数",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896654316.html"
+      "url": "https://finance.eastmoney.com/a/202610163897322041.html"
     },
     {
-      "time": "06:02",
-      "title": "申万宏源等在苏州成立智医战新创投基金",
+      "time": "05:47",
+      "title": "哈佛大学捐赠基金在获得27%的年回报率后 规模跃升至创纪录的680亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896654658.html"
-    },
-    {
-      "time": "05:40",
-      "title": "宁德时代成功注册“宁的易购”商标",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610153896654572.html"
+      "url": "https://finance.eastmoney.com/a/202610163897321052.html"
     },
     {
       "time": "06-05",
@@ -157517,6 +157452,13 @@
       "source": "人民网财经",
       "category": "财经",
       "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494874.html"
+    },
+    {
+      "time": "06-05",
+      "title": "我国认证认可检验检测行业发展质量实现整体提升",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494876.html"
     }
   ],
   "health": {
