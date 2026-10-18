@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 02:42",
+  "updated_at": "2026-10-19 06:28",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 14865,
@@ -7,49 +7,44 @@
   },
   "indices": [
     {
-      "name": "科创50",
-      "price": 1381.85,
-      "change": 1.64
-    },
-    {
-      "name": "上证指数",
-      "price": 3742.66,
-      "change": 0.95
-    },
-    {
-      "name": "深证成指",
-      "price": 11957.07,
-      "change": 1.19
-    },
-    {
-      "name": "创业板指",
-      "price": 2809.9,
-      "change": 0.96
-    },
-    {
       "name": "日经225",
-      "price": 65679.56,
-      "change": 1.95
+      "price": 65324.29,
+      "change": 1.39
     },
     {
       "name": "恒生指数",
-      "price": 24353.69,
-      "change": 1.21
+      "price": 24186.83,
+      "change": 0.52
+    },
+    {
+      "name": "上证指数",
+      "price": 3716.28,
+      "change": 0.24
+    },
+    {
+      "name": "深证成指",
+      "price": 11802.46,
+      "change": -0.12
     },
     {
       "name": "道琼斯",
-      "price": 52177.69,
-      "change": 1.08
+      "price": 52002.41,
+      "change": -0.34
+    },
+    {
+      "name": "创业板指",
+      "price": 2772.38,
+      "change": -0.39
     },
     {
       "name": "标普500",
-      "price": 7744.06,
-      "change": 0.33
+      "price": 7659.44,
+      "change": -1.09
     },
     {
       "name": "纳斯达克",
-      "price": 26713.03,
-      "change": 0.08
+      "price": 26140.03,
+      "change": -2.15
     }
   ],
   "sectors": {
@@ -157252,56 +157247,15 @@
   ],
   "assets": [
     {
-      "symbol": "600519",
-      "date": "2026-10-16",
-      "price": 1316.8,
-      "score": 75,
-      "signal": "分批买入观察",
-      "buy_low": 1295.135,
-      "buy_high": 1316.8,
-      "stop_loss": 1273.47,
-      "target": 1381.795,
-      "risk": "低",
-      "reasons": [
-        "收盘价站上 MA20",
-        "中长期均线多头",
-        "RSI 位于健康区间",
-        "MACD 位于信号线上方",
-        "20 日动量为正",
-        "近期波动可控"
-      ],
-      "name": "贵州茅台",
-      "action": "可在参考区间小仓分批观察，不宜一次满仓"
-    },
-    {
-      "symbol": "159920",
-      "date": "2026-10-16",
-      "price": 1.427,
-      "score": 35,
-      "signal": "谨慎观望",
-      "buy_low": 1.407,
-      "buy_high": 1.427,
-      "stop_loss": 1.387,
-      "target": 1.487,
-      "risk": "低",
-      "reasons": [
-        "中长期均线多头",
-        "RSI 位于健康区间",
-        "近期波动可控"
-      ],
-      "name": "恒生ETF",
-      "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
       "symbol": "300750",
       "date": "2026-10-16",
-      "price": 277.95,
+      "price": 277.0,
       "score": 28,
       "signal": "回避/考虑减仓",
-      "buy_low": 268.781,
-      "buy_high": 277.95,
-      "stop_loss": 259.611,
-      "target": 305.458,
+      "buy_low": 267.728,
+      "buy_high": 277.0,
+      "stop_loss": 258.456,
+      "target": 304.816,
       "risk": "中",
       "reasons": [
         "RSI 偏低，存在超跌特征",
@@ -157313,22 +157267,177 @@
     {
       "symbol": "159915",
       "date": "2026-10-16",
-      "price": 2.827,
-      "score": 13,
+      "price": 2.789,
+      "score": 23,
       "signal": "回避/考虑减仓",
-      "buy_low": 2.733,
-      "buy_high": 2.827,
-      "stop_loss": 2.638,
-      "target": 3.11,
+      "buy_low": 2.693,
+      "buy_high": 2.789,
+      "stop_loss": 2.596,
+      "target": 3.078,
       "risk": "中",
       "reasons": [
-        "RSI 偏低，存在超跌特征"
+        "RSI 偏低，存在超跌特征",
+        "成交量高于 20 日均量"
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
+    {
+      "time": "20:27",
+      "title": "把握市场震荡中的“击球机会” 年内私募自购近16亿元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899220533.html"
+    },
+    {
+      "time": "19:23",
+      "title": "资金避险需求升温 债基扎堆限购",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899221085.html"
+    },
+    {
+      "time": "18:53",
+      "title": "首批基金2026年三季报披露 基金经理看好权益资产长期表现",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899216956.html"
+    },
+    {
+      "time": "17:45",
+      "title": "机构展望 | 机构：A股估值性价比进一步改善 建议均衡配置应对市场波动",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899216861.html"
+    },
+    {
+      "time": "17:05",
+      "title": "AI与涨价双轮驱动 逾130家A股公司三季报预喜",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899217062.html"
+    },
+    {
+      "time": "01:58",
+      "title": "现货白银开盘现跌0.7%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899229936.html"
+    },
+    {
+      "time": "56:59",
+      "title": "周一（10月19日）重点关注财经事件和经济数据",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899229393.html"
+    },
+    {
+      "time": "56:51",
+      "title": "美联储10月维持利率不变的概率为83.9%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899229274.html"
+    },
+    {
+      "time": "46:07",
+      "title": "新西兰9月进口84.4亿纽元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899229134.html"
+    },
+    {
+      "time": "34:27",
+      "title": "伊朗称一艘违规油轮在霍尔木兹海峡南部触雷爆炸起火",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899228910.html"
+    },
+    {
+      "time": "25:01",
+      "title": "事关国民经济运行与科技兴商 今天举办两场重要发布会",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899229050.html"
+    },
+    {
+      "time": "18:51",
+      "title": "AI云企业Nscale IPO估值遭遇投资者反对 投资者敦促Nscale下调300亿美元的IPO估值目标",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899227683.html"
+    },
+    {
+      "time": "04:21",
+      "title": "马克龙谴责法国抗议活动中的暴力行为",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899226898.html"
+    },
+    {
+      "time": "44:32",
+      "title": "乌克兰首都基辅响起强烈爆炸声",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899226668.html"
+    },
+    {
+      "time": "30:46",
+      "title": "在Anthropic宣布将5%股份注入新型公共利益基金后 埃隆·马斯克发文称 “我建议直接把股份分给公众”",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899226596.html"
+    },
+    {
+      "time": "20:56",
+      "title": "资金借道宽基ETF逆势布局 单周净流入超800亿元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899218550.html"
+    },
+    {
+      "time": "06:08",
+      "title": "抱团退潮冲击公募净值 回撤修复可聚焦三大维度",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899218695.html"
+    },
+    {
+      "time": "46:09",
+      "title": "奥地利航空公司据称从特拉维夫飞往维也纳的航班在飞机上发现可疑物体后改变航线 并降落在保加利亚索非亚",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899226426.html"
+    },
+    {
+      "time": "36:02",
+      "title": "黑山总理斯帕伊奇会见王毅",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899224240.html"
+    },
+    {
+      "time": "16:27",
+      "title": "肯尼亚新增一例埃博拉确诊病例",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899224115.html"
+    },
+    {
+      "time": "56:17",
+      "title": "泽连斯基与美特使通话 讨论外交解决乌克兰危机",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899224026.html"
+    },
+    {
+      "time": "36:14",
+      "title": "法国总统谴责该国多地发生的暴力事件",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610193899223933.html"
+    },
     {
       "time": "30:51",
       "title": "胡塞武装称沙特24小时内发动110次袭击",
@@ -157349,160 +157458,6 @@
       "source": "东方财富",
       "category": "财经",
       "url": "https://finance.eastmoney.com/a/202610193899218159.html"
-    },
-    {
-      "time": "42:42",
-      "title": "俄称打击乌军用设施 乌称袭击俄石油码头",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899219731.html"
-    },
-    {
-      "time": "22:52",
-      "title": "三菱重工计划重启位于日本西部的造船生产线",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899216435.html"
-    },
-    {
-      "time": "00:08",
-      "title": "伊拉克外长：正推动伊朗与海湾国家举行会谈",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899216336.html"
-    },
-    {
-      "time": "50:18",
-      "title": "加拿大总理：军事基地火灾致4名军人死亡 数十人重伤",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899215940.html"
-    },
-    {
-      "time": "32:00",
-      "title": "特朗普力挺内塔尼亚胡连任",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899210424.html"
-    },
-    {
-      "time": "19:03",
-      "title": "沙特称胡塞武装投射物落入居民区 致6人受伤",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899215455.html"
-    },
-    {
-      "time": "02:16",
-      "title": "中国车企开启欧洲本土化远征",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899205252.html"
-    },
-    {
-      "time": "48:31",
-      "title": "DRAM持续涨价 存储龙头业绩超预期？",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899210164.html"
-    },
-    {
-      "time": "43:41",
-      "title": "泽连斯基称与美方代表讨论下一步外交行动",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899211584.html"
-    },
-    {
-      "time": "20:15",
-      "title": "超3400亿元！年内不良贷款转让显著放量 这类银行成供应“主力军”",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899200493.html"
-    },
-    {
-      "time": "02:59",
-      "title": "俄副总理：俄柴油将在签署合同后15-20天进入美市场",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899204977.html"
-    },
-    {
-      "time": "56:54",
-      "title": "李强同塔吉克斯坦总理拉苏尔佐达会谈",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899204692.html"
-    },
-    {
-      "time": "46:09",
-      "title": "欧洲多国爆发示威活动 法国2000多人被捕",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899202316.html"
-    },
-    {
-      "time": "38:02",
-      "title": "海关总署发布风险警示：SWISSE部分产品被检出铅超标",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899201353.html"
-    },
-    {
-      "time": "31:18",
-      "title": "胡塞武装称沙特空袭也门北部致9死17伤",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899198187.html"
-    },
-    {
-      "time": "29:06",
-      "title": "加国防部：暂无迹象显示武装部队基地火灾与恐怖活动有关",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899196792.html"
-    },
-    {
-      "time": "16:12",
-      "title": "日本猪瘟疫情扩散 今年累计处置约2万头猪",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899191484.html"
-    },
-    {
-      "time": "03:49",
-      "title": "冲突加剧 沙特一地标建筑要求全员远程办公",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899186780.html"
-    },
-    {
-      "time": "02:48",
-      "title": "泽连斯基称正与威特科夫、库什纳讨论和平会议事宜",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899187554.html"
-    },
-    {
-      "time": "57:43",
-      "title": "希腊一架小型飞机坠毁 造成2人死亡",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899185739.html"
-    },
-    {
-      "time": "49:24",
-      "title": "美国财长贝森特表示：美国能源危机持续 战争结束后通胀将会放缓",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899182667.html"
-    },
-    {
-      "time": "46:09",
-      "title": "下周资本市场大事提醒： 金融街论坛明日开幕 潘功胜、丁向群、吴清、朱鹤新将作主题演讲",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610183899181216.html"
     },
     {
       "time": "06-05",
