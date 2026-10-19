@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 06:28",
+  "updated_at": "2026-10-19 12:51",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 14865,
@@ -7,24 +7,19 @@
   },
   "indices": [
     {
-      "name": "日经225",
-      "price": 65324.29,
-      "change": 1.39
-    },
-    {
       "name": "恒生指数",
       "price": 24186.83,
       "change": 0.52
     },
     {
       "name": "上证指数",
-      "price": 3716.28,
-      "change": 0.24
+      "price": 3722.2,
+      "change": 0.16
     },
     {
       "name": "深证成指",
-      "price": 11802.46,
-      "change": -0.12
+      "price": 11781.32,
+      "change": -0.18
     },
     {
       "name": "道琼斯",
@@ -32,9 +27,14 @@
       "change": -0.34
     },
     {
+      "name": "日经225",
+      "price": 64819.98,
+      "change": -0.77
+    },
+    {
       "name": "创业板指",
-      "price": 2772.38,
-      "change": -0.39
+      "price": 2742.7,
+      "change": -1.07
     },
     {
       "name": "标普500",
@@ -157285,179 +157285,179 @@
   ],
   "news": [
     {
-      "time": "20:27",
-      "title": "把握市场震荡中的“击球机会” 年内私募自购近16亿元",
+      "time": "50:22",
+      "title": "李逵还是李鬼？涉嫌港股IPO操纵的孙然及嘉实国际投资到底是谁",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899220533.html"
+      "url": "https://finance.eastmoney.com/a/202610193899742259.html"
     },
     {
-      "time": "19:23",
-      "title": "资金避险需求升温 债基扎堆限购",
+      "time": "48:12",
+      "title": "上海9月二手房价同比上涨0.8% 成为全国第一个同比转涨城市",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899221085.html"
+      "url": "https://finance.eastmoney.com/a/202610193899749790.html"
     },
     {
-      "time": "18:53",
-      "title": "首批基金2026年三季报披露 基金经理看好权益资产长期表现",
+      "time": "46:31",
+      "title": "印尼证券交易所领导层将于周一与明晟公司（MSCI）会面",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899216956.html"
+      "url": "https://finance.eastmoney.com/a/202610193899749813.html"
     },
     {
-      "time": "17:45",
-      "title": "机构展望 | 机构：A股估值性价比进一步改善 建议均衡配置应对市场波动",
+      "time": "46:00",
+      "title": "市场人士：理性看待长鑫科技10亿元至20亿元回购",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899216861.html"
+      "url": "https://finance.eastmoney.com/a/202610193899749693.html"
     },
     {
-      "time": "17:05",
-      "title": "AI与涨价双轮驱动 逾130家A股公司三季报预喜",
+      "time": "44:00",
+      "title": "云南锗业：4英寸磷化铟晶片正常批量交付 6英寸磷化铟晶片小批量供货",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899217062.html"
+      "url": "https://finance.eastmoney.com/a/202610193899749581.html"
     },
     {
-      "time": "01:58",
-      "title": "现货白银开盘现跌0.7%",
+      "time": "42:02",
+      "title": "突然！抄底资金涌入！万亿赛道大爆发",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899229936.html"
+      "url": "https://finance.eastmoney.com/a/202610193899748556.html"
     },
     {
-      "time": "56:59",
-      "title": "周一（10月19日）重点关注财经事件和经济数据",
+      "time": "41:00",
+      "title": "东方财富证券陈果：当前上证综指和沪深300股权风险溢价具备吸引力",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899229393.html"
+      "url": "https://finance.eastmoney.com/a/202610193899748618.html"
     },
     {
-      "time": "56:51",
-      "title": "美联储10月维持利率不变的概率为83.9%",
+      "time": "38:52",
+      "title": "全球芯片LOF(501225)将于2026年10月19日下午开市起停牌至当日收市",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899229274.html"
+      "url": "https://finance.eastmoney.com/a/202610193899749096.html"
     },
     {
-      "time": "46:07",
-      "title": "新西兰9月进口84.4亿纽元",
+      "time": "32:00",
+      "title": "全国新建商品房待售面积连续7个月下降",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899229134.html"
+      "url": "https://finance.eastmoney.com/a/202610193899748085.html"
     },
     {
-      "time": "34:27",
-      "title": "伊朗称一艘违规油轮在霍尔木兹海峡南部触雷爆炸起火",
+      "time": "30:00",
+      "title": "山石网科：将持续扩大ASIC安全产品市场覆盖，深耕高毛利重点行业",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899228910.html"
+      "url": "https://finance.eastmoney.com/a/202610193899747967.html"
     },
     {
-      "time": "25:01",
-      "title": "事关国民经济运行与科技兴商 今天举办两场重要发布会",
+      "time": "29:18",
+      "title": "内蒙古国资成立投资平台，出资额120亿",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899229050.html"
+      "url": "https://finance.eastmoney.com/a/202610193899748172.html"
     },
     {
-      "time": "18:51",
-      "title": "AI云企业Nscale IPO估值遭遇投资者反对 投资者敦促Nscale下调300亿美元的IPO估值目标",
+      "time": "24:09",
+      "title": "国内55%算力用于视频和短剧？豆包发言人辟谣：字节跳动仅10%算力用于视频生成模型",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899227683.html"
+      "url": "https://finance.eastmoney.com/a/202610193899747277.html"
     },
     {
-      "time": "04:21",
-      "title": "马克龙谴责法国抗议活动中的暴力行为",
+      "time": "24:09",
+      "title": "阿里达摩院孟建熠：玄铁芯片目前已经稳定出货超60亿颗",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899226898.html"
+      "url": "https://finance.eastmoney.com/a/202610193899747017.html"
     },
     {
-      "time": "44:32",
-      "title": "乌克兰首都基辅响起强烈爆炸声",
+      "time": "15:18",
+      "title": "杰富瑞将道达尔能源公司目标价从88欧元上调至90欧元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899226668.html"
+      "url": "https://finance.eastmoney.com/a/202610193899744641.html"
     },
     {
-      "time": "30:46",
-      "title": "在Anthropic宣布将5%股份注入新型公共利益基金后 埃隆·马斯克发文称 “我建议直接把股份分给公众”",
+      "time": "12:50",
+      "title": "国产卫星互联网首次实现地球三极联网通信",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899226596.html"
+      "url": "https://finance.eastmoney.com/a/202610193899743756.html"
     },
     {
-      "time": "20:56",
-      "title": "资金借道宽基ETF逆势布局 单周净流入超800亿元",
+      "time": "11:22",
+      "title": "投行道明考恩将安森美半导体目标价从95美元下调至75美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899218550.html"
+      "url": "https://finance.eastmoney.com/a/202610193899743966.html"
     },
     {
-      "time": "06:08",
-      "title": "抱团退潮冲击公募净值 回撤修复可聚焦三大维度",
+      "time": "11:22",
+      "title": "投行道明考恩将恩智浦半导体目标价从290美元下调至275美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899218695.html"
+      "url": "https://finance.eastmoney.com/a/202610193899743691.html"
     },
     {
-      "time": "46:09",
-      "title": "奥地利航空公司据称从特拉维夫飞往维也纳的航班在飞机上发现可疑物体后改变航线 并降落在保加利亚索非亚",
+      "time": "11:22",
+      "title": "日本政府正式批准台积电熊本二厂生产3nm芯片",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899226426.html"
+      "url": "https://finance.eastmoney.com/a/202610193899743351.html"
     },
     {
-      "time": "36:02",
-      "title": "黑山总理斯帕伊奇会见王毅",
+      "time": "10:52",
+      "title": "内蒙古国资成立投资平台 出资额120亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899224240.html"
+      "url": "https://finance.eastmoney.com/a/202610193899744047.html"
     },
     {
-      "time": "16:27",
-      "title": "肯尼亚新增一例埃博拉确诊病例",
+      "time": "09:22",
+      "title": "投行道明考恩将微芯科技目标价从90美元下调至75美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899224115.html"
+      "url": "https://finance.eastmoney.com/a/202610193899742722.html"
     },
     {
-      "time": "56:17",
-      "title": "泽连斯基与美特使通话 讨论外交解决乌克兰危机",
+      "time": "09:17",
+      "title": "投行道明考恩将意法半导体目标价从55美元下调至50美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899224026.html"
+      "url": "https://finance.eastmoney.com/a/202610193899743445.html"
     },
     {
-      "time": "36:14",
-      "title": "法国总统谴责该国多地发生的暴力事件",
+      "time": "09:08",
+      "title": "投行道明考恩将英飞凌科技目标价从72欧元下调至60欧元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899223933.html"
+      "url": "https://finance.eastmoney.com/a/202610193899742359.html"
     },
     {
-      "time": "30:51",
-      "title": "胡塞武装称沙特24小时内发动110次袭击",
+      "time": "08:53",
+      "title": "海马汽车等在郑州成立楚界汽车研发公司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899223735.html"
+      "url": "https://finance.eastmoney.com/a/202610193899742166.html"
     },
     {
-      "time": "10:16",
-      "title": "Anthropic计划将部分股份转入新型“公共利益”基金",
+      "time": "08:00",
+      "title": "前三季度深圳集成电路等人工智能相关零部件进出口规模居全国首位",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899223681.html"
+      "url": "https://finance.eastmoney.com/a/202610193899742580.html"
     },
     {
-      "time": "59:12",
-      "title": "两大约束“红线”松绑 基金“长不大”难题迎转机",
+      "time": "07:35",
+      "title": "国家发展改革委就《电力现货市场基本规则（公开征求意见稿）》向社会公开征求意见",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193899218159.html"
+      "url": "https://finance.eastmoney.com/a/202610193899743049.html"
     },
     {
       "time": "06-05",
