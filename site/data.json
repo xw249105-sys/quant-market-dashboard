@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 09:07",
+  "updated_at": "2026-10-20 15:42",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 14865,
@@ -17,24 +17,9 @@
       "change": 0.41
     },
     {
-      "name": "恒生指数",
-      "price": NaN,
-      "change": NaN
-    },
-    {
-      "name": "创业板指",
-      "price": 2746.29,
-      "change": 0.0
-    },
-    {
-      "name": "深证成指",
-      "price": 11817.42,
-      "change": 0.0
-    },
-    {
       "name": "上证指数",
-      "price": 3730.65,
-      "change": -0.01
+      "price": 3735.37,
+      "change": 0.12
     },
     {
       "name": "道琼斯",
@@ -42,9 +27,24 @@
       "change": -0.07
     },
     {
+      "name": "深证成指",
+      "price": 11801.29,
+      "change": -0.14
+    },
+    {
+      "name": "创业板指",
+      "price": 2739.2,
+      "change": -0.26
+    },
+    {
+      "name": "恒生指数",
+      "price": 23888.33,
+      "change": -1.23
+    },
+    {
       "name": "日经225",
-      "price": 64229.05,
-      "change": -1.06
+      "price": 64075.42,
+      "change": -1.3
     }
   ],
   "sectors": {
@@ -157290,179 +157290,179 @@
   ],
   "news": [
     {
-      "time": "05:13",
-      "title": "降价也止不住跌势 9月BBA没有一款车零售过万",
+      "time": "41:02",
+      "title": "联想集团港股跌超10%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193900016161.html"
+      "url": "https://finance.eastmoney.com/a/202610203901293360.html"
     },
     {
-      "time": "03:33",
-      "title": "美股牛市4岁了！未来一年能否躲过“熊出没”",
+      "time": "37:35",
+      "title": "伊朗外交部：不能因美国过往行径放弃外交",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900517433.html"
+      "url": "https://finance.eastmoney.com/a/202610203901293067.html"
     },
     {
-      "time": "03:30",
-      "title": "江苏省铁路集团成立数智科技公司 含AI业务",
+      "time": "36:45",
+      "title": "德力佳业绩快报：前三季度归母净利润6.31亿元 同比增长0.2%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900682274.html"
+      "url": "https://finance.eastmoney.com/a/202610203901293113.html"
     },
     {
-      "time": "01:29",
-      "title": "台交所加权股价指数低开0.2%",
+      "time": "34:00",
+      "title": "赣能股份：暂无算电协同、算力供电相关项目及落地规划",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900678036.html"
+      "url": "https://finance.eastmoney.com/a/202610203901292092.html"
     },
     {
-      "time": "01:06",
-      "title": "10月LPR不变：1年期3.0% 5年期以上3.5%",
+      "time": "34:00",
+      "title": "国际智能航运联盟成立",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900657344.html"
+      "url": "https://finance.eastmoney.com/a/202610203901291734.html"
     },
     {
-      "time": "00:47",
-      "title": "富时中国A50指数期货开盘跌0.26%",
+      "time": "33:14",
+      "title": "驻英国使馆提醒中国公民注意英方出入境检查",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900655937.html"
+      "url": "https://finance.eastmoney.com/a/202610203901291911.html"
     },
     {
-      "time": "00:05",
-      "title": "国内商品期货早盘开盘 主力合约多数下跌",
+      "time": "32:58",
+      "title": "贝莱德高管：中国的人工智能产业结构更均衡",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900649022.html"
+      "url": "https://finance.eastmoney.com/a/202610203901290319.html"
     },
     {
-      "time": "59:20",
-      "title": "标普：科技巨头AI相关负债或高于已知水平 但暂不影响评级",
+      "time": "32:44",
+      "title": "加快发展新一代智能制造 工信部明确四方面重点举措",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900658979.html"
+      "url": "https://finance.eastmoney.com/a/202610203901289631.html"
     },
     {
-      "time": "59:19",
-      "title": "马斯克万亿财富支柱：SpaceX 和特斯拉财报将亮相 合并传言会成真？",
+      "time": "31:14",
+      "title": "以色列总理证实下令推翻伊朗政权 大谈伊朗威胁为选举拉票",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900642635.html"
+      "url": "https://finance.eastmoney.com/a/202610203901290778.html"
     },
     {
-      "time": "57:33",
-      "title": "累计披露数百亿采购计划后 协创数据自去年来首次单独披露算力服务订单｜速读公告",
+      "time": "27:22",
+      "title": "工信部：9月底我国智能算力规模达2592EFLOPS 同比增长146%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900611853.html"
+      "url": "https://finance.eastmoney.com/a/202610203901291085.html"
     },
     {
-      "time": "55:57",
-      "title": "成熟制程晶圆代工涨价潮延续 联电、世界先进、力积电持续迎来价量齐扬盛况",
+      "time": "25:14",
+      "title": "英伟达完成创纪录104量子比特容错量子计算模拟",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900628920.html"
+      "url": "https://finance.eastmoney.com/a/202610203901288293.html"
     },
     {
-      "time": "55:57",
-      "title": "机构：预计明年首季8寸与12寸成熟制程晶圆代工价格将环比增长4%至8%",
+      "time": "25:14",
+      "title": "宋城演艺：目前没有从事AI短剧或AI电影业务的计划",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900625320.html"
+      "url": "https://finance.eastmoney.com/a/202610203901287954.html"
     },
     {
-      "time": "55:29",
-      "title": "大模型竞争进入下半场：高质量数据成AI领域硬通货",
+      "time": "25:03",
+      "title": "AI担忧卷土重来 韩国数据中心公司Elice上市首日大跌32%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900619566.html"
+      "url": "https://finance.eastmoney.com/a/202610203901288345.html"
     },
     {
-      "time": "52:47",
-      "title": "黑色星期一！法国遭遇“股债汇三杀”",
+      "time": "25:00",
+      "title": "四川：前三季度审批引进营业性演出8000余场 拉动经济效益200多亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900598841.html"
+      "url": "https://finance.eastmoney.com/a/202610203901288169.html"
     },
     {
-      "time": "51:39",
-      "title": "特朗普直白批评泽连斯基：应更换乌克兰谈判代表",
+      "time": "25:00",
+      "title": "工信部：加快设立国家中小企业发展基金二期",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900598759.html"
+      "url": "https://finance.eastmoney.com/a/202610203901287839.html"
     },
     {
-      "time": "47:24",
-      "title": "两市融资余额减少62.6亿元",
+      "time": "23:54",
+      "title": "工信部：前三季度汽车行业应付账款电子凭证支付比例明显下降",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900598654.html"
+      "url": "https://finance.eastmoney.com/a/202610203901287769.html"
     },
     {
-      "time": "47:12",
-      "title": "蛋白粉涨价就喝“蟑螂粉”？医生提醒",
+      "time": "23:09",
+      "title": "索辰科技等成立智能装备公司 含智能机器人的研发业务",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900597794.html"
+      "url": "https://finance.eastmoney.com/a/202610203901287387.html"
     },
     {
-      "time": "44:20",
-      "title": "韩国KOSPI指数跌幅扩大至3%",
+      "time": "20:42",
+      "title": "外交部：国际调解院已调解了国际商事争议案件 得到争端方的高度认可",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900596651.html"
+      "url": "https://finance.eastmoney.com/a/202610203901286075.html"
     },
     {
-      "time": "44:01",
-      "title": "欧盟：俄乌冲突结束前不会解除任何对俄制裁",
+      "time": "20:00",
+      "title": "国债期货收盘全线上涨 30年期主力合约涨0.63%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900597175.html"
+      "url": "https://finance.eastmoney.com/a/202610203901287212.html"
     },
     {
-      "time": "43:38",
-      "title": "信维通信：近期已为客户的智能驾驶出租车提供车载星链设备零部件",
+      "time": "19:10",
+      "title": "中国绿色船用燃料认证实现零的突破",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193900125616.html"
+      "url": "https://finance.eastmoney.com/a/202610203901286834.html"
     },
     {
-      "time": "41:42",
-      "title": "印尼证券交易所调整低价股跌停机制",
+      "time": "19:09",
+      "title": "中国铁建在广州成立智储储能科技公司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900596391.html"
+      "url": "https://finance.eastmoney.com/a/202610203901286941.html"
     },
     {
-      "time": "38:28",
-      "title": "智元机器人、华为哈勃入股具身智能数据公司乙太具身",
+      "time": "19:00",
+      "title": "四川：今年以来发放“蜀里安逸”汽车消费券7亿元 政策效果逐步显现",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900595017.html"
+      "url": "https://finance.eastmoney.com/a/202610203901286711.html"
     },
     {
-      "time": "38:00",
-      "title": "青岛两个码头项目开工 计划明年上半年竣工",
+      "time": "17:09",
+      "title": "特朗普称对中美俄三方会谈持积极态度 中方是否接受提议？外交部回应",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900595222.html"
+      "url": "https://finance.eastmoney.com/a/202610203901284579.html"
     },
     {
-      "time": "37:13",
-      "title": "港股银行巨头回撤15%后反弹",
+      "time": "17:00",
+      "title": "沪港签署战略合作备忘录 推动沪港航运高质量协同发展",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610193900051170.html"
+      "url": "https://finance.eastmoney.com/a/202610203901285721.html"
     },
     {
-      "time": "36:00",
-      "title": "中金：速冻食品行业迎来结构性增长机遇",
+      "time": "15:33",
+      "title": "美国政府指示各机构停用DeepSeek 外交部：反对将科技经贸问题政治化",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610203900593614.html"
+      "url": "https://finance.eastmoney.com/a/202610203901283251.html"
     },
     {
       "time": "06-05",
