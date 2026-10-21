@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 13:13",
+  "updated_at": "2026-10-22 04:14",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 7725,
@@ -157426,56 +157426,15 @@
   ],
   "assets": [
     {
-      "symbol": "600519",
-      "date": "2026-10-21",
-      "price": 1312.34,
-      "score": 75,
-      "signal": "分批买入观察",
-      "buy_low": 1288.617,
-      "buy_high": 1312.34,
-      "stop_loss": 1264.894,
-      "target": 1383.509,
-      "risk": "低",
-      "reasons": [
-        "收盘价站上 MA20",
-        "中长期均线多头",
-        "RSI 位于健康区间",
-        "MACD 位于信号线上方",
-        "20 日动量为正",
-        "近期波动可控"
-      ],
-      "name": "贵州茅台",
-      "action": "可在参考区间小仓分批观察，不宜一次满仓"
-    },
-    {
-      "symbol": "159920",
-      "date": "2026-10-21",
-      "price": 1.392,
-      "score": 28,
-      "signal": "回避/考虑减仓",
-      "buy_low": 1.372,
-      "buy_high": 1.392,
-      "stop_loss": 1.352,
-      "target": 1.452,
-      "risk": "低",
-      "reasons": [
-        "中长期均线多头",
-        "RSI 偏低，存在超跌特征",
-        "近期波动可控"
-      ],
-      "name": "恒生ETF",
-      "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
       "symbol": "159915",
       "date": "2026-10-21",
-      "price": 2.72,
+      "price": 2.713,
       "score": 23,
       "signal": "回避/考虑减仓",
-      "buy_low": 2.621,
-      "buy_high": 2.72,
-      "stop_loss": 2.523,
-      "target": 3.016,
+      "buy_low": 2.613,
+      "buy_high": 2.713,
+      "stop_loss": 2.513,
+      "target": 3.013,
       "risk": "中",
       "reasons": [
         "RSI 偏低，存在超跌特征",
@@ -157483,201 +157442,183 @@
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "300750",
-      "date": "2026-10-21",
-      "price": 230.39,
-      "score": 18,
-      "signal": "回避/考虑减仓",
-      "buy_low": 219.206,
-      "buy_high": 230.39,
-      "stop_loss": 208.021,
-      "target": 263.943,
-      "risk": "高",
-      "reasons": [
-        "RSI 偏低，存在超跌特征",
-        "成交量高于 20 日均量"
-      ],
-      "name": "宁德时代",
-      "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "11:15",
-      "title": "日本上半财年贸易逆差超2.8万亿日元",
+      "time": "10:43",
+      "title": "IBM第三季度营收171.0亿美元 同比增长4.7% 预估168.3亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902491746.html"
+      "url": "https://finance.eastmoney.com/a/202610223903060446.html"
     },
     {
-      "time": "09:29",
-      "title": "聚灿光电高压银镜产品量产 高端产品线再升级",
+      "time": "10:14",
+      "title": "IBM第三季度营收171.0亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902487671.html"
+      "url": "https://finance.eastmoney.com/a/202610223903061864.html"
     },
     {
-      "time": "09:17",
-      "title": "国民养老黄涛：不赌单边利率走势 围绕国家重大战略配置长期资金",
+      "time": "06:22",
+      "title": "德州仪器预计第四季度营收58亿至63亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902491075.html"
+      "url": "https://finance.eastmoney.com/a/202610223903059959.html"
     },
     {
-      "time": "04:12",
-      "title": "物理AI概念反复走强 利亚德20cm涨停",
+      "time": "04:30",
+      "title": "美国豁免红色柴油税务记录要求 以吸引买家",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902485654.html"
+      "url": "https://finance.eastmoney.com/a/202610223903059578.html"
     },
     {
-      "time": "02:18",
-      "title": "伊朗称三艘油轮在霍尔木兹触雷",
+      "time": "03:10",
+      "title": "特斯拉第三季度营收280.5亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902480796.html"
+      "url": "https://finance.eastmoney.com/a/202610223903058967.html"
+    },
+    {
+      "time": "02:26",
+      "title": "纳斯达克中国金龙指数收跌2.35%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610223903058751.html"
+    },
+    {
+      "time": "01:29",
+      "title": "Meta第三季度营收646.0亿美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610223903057958.html"
     },
     {
       "time": "00:48",
-      "title": "中国科学技术协会名誉主席万钢：预期2030年L3级自动驾驶渗透率将超过35%",
+      "title": "美股三大指数集体收涨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902475053.html"
+      "url": "https://finance.eastmoney.com/a/202610223903057664.html"
     },
     {
-      "time": "00:06",
-      "title": "瞄准IPO筹备企业炮制负面文章 上海警方捣毁一网络舆情敲诈团伙",
+      "time": "49:37",
+      "title": "美国务院要求非紧急美政府雇员撤离沙特",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902472979.html"
+      "url": "https://finance.eastmoney.com/a/202610223903055526.html"
     },
     {
-      "time": "57:08",
-      "title": "工行行长刘珺：主权货币要真正发挥作用就必须走向海外、走向国际市场",
+      "time": "47:39",
+      "title": "伊媒：伊朗南部锡里克县传出数次爆炸声",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902469263.html"
+      "url": "https://finance.eastmoney.com/a/202610223903055461.html"
     },
     {
-      "time": "56:16",
-      "title": "半年亏损超800亿美元 Anthropic的钱被谁赚走了？",
+      "time": "47:38",
+      "title": "国际油价21日涨跌不一",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902468572.html"
+      "url": "https://finance.eastmoney.com/a/202610223903055333.html"
     },
     {
-      "time": "55:28",
-      "title": "中国电信也做机器人？TeleAI孵化首家具身公司伽马智能落户上海",
+      "time": "47:36",
+      "title": "美元指数21日上涨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902472875.html"
+      "url": "https://finance.eastmoney.com/a/202610223903055223.html"
     },
     {
-      "time": "52:00",
-      "title": "这一行业爆单 订单排到2029年底！“下单意愿非常强烈”",
+      "time": "42:50",
+      "title": "Anthropic宣布 ClaudeDuet现已作为独立应用登陆iOS和安卓平台",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902467461.html"
+      "url": "https://finance.eastmoney.com/a/202610223903055722.html"
     },
     {
-      "time": "50:00",
-      "title": "深圳楼面价屡破10万/㎡ 有二手房业主加价150万",
+      "time": "39:17",
+      "title": "头部私募股权投资机构EQT据悉即将达成以每股46.50欧元收购检测企业凯杰的交易",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902461148.html"
+      "url": "https://finance.eastmoney.com/a/202610223903057294.html"
     },
     {
-      "time": "49:00",
-      "title": "广东脑机接口跻身全国第一梯队",
+      "time": "33:27",
+      "title": "OpenAI表示 将把前沿模型和Codex智能体工作流引入谷歌云的ModelGarden",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902472790.html"
+      "url": "https://finance.eastmoney.com/a/202610223903057336.html"
     },
     {
-      "time": "45:00",
-      "title": "信达投资跃升浦发银行第四大股东 股权“踩点”归集为哪般？",
+      "time": "21:10",
+      "title": "乌克兰基辅市区传出连续爆炸声",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902471872.html"
+      "url": "https://finance.eastmoney.com/a/202610223903052972.html"
     },
     {
-      "time": "43:58",
-      "title": "成都市教育局回应“取消中考”建议：完全取消尚不具备条件",
+      "time": "19:55",
+      "title": "Meta计划推出新的无投票权股票 考虑更多股票出售",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902472064.html"
+      "url": "https://finance.eastmoney.com/a/202610223903053037.html"
     },
     {
-      "time": "41:35",
-      "title": "特朗普称美援乌数千亿却一无所获：是时候达成俄乌协议了",
+      "time": "16:59",
+      "title": "OpenAI敦促建立AI安全事件强制上报机制",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902472626.html"
+      "url": "https://finance.eastmoney.com/a/202610223903052894.html"
     },
     {
-      "time": "40:18",
-      "title": "华润置地、厦门轨道、招商蛇口&象屿分食厦门6宗地 成交总金额108.7亿元",
+      "time": "09:58",
+      "title": "微软称在多家客户环境中监测到Storm-0940身份验证活动 暂未确认发生数据访问",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902471778.html"
+      "url": "https://finance.eastmoney.com/a/202610223903052764.html"
     },
     {
-      "time": "40:00",
-      "title": "阿里巴巴成为篮网队官方AI与云合作伙伴",
+      "time": "02:16",
+      "title": "恒指期货夜盘收跌0.22%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902471393.html"
+      "url": "https://finance.eastmoney.com/a/202610223903052653.html"
     },
     {
-      "time": "39:28",
-      "title": "摩根大通将通用汽车目标价从110美元下调至105美元",
+      "time": "44:40",
+      "title": "伊朗方面称锡里克地区传出数次爆炸声",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902471590.html"
+      "url": "https://finance.eastmoney.com/a/202610223903052372.html"
     },
     {
-      "time": "37:37",
-      "title": "日本央行副行长：基础通胀率已相当接近日本央行2%的目标",
+      "time": "33:28",
+      "title": "上期所原油期货夜盘收跌1.5%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902471062.html"
+      "url": "https://finance.eastmoney.com/a/202610223903052114.html"
     },
     {
-      "time": "34:00",
-      "title": "山东：前三季度进出口总值达2.75万亿元 同比增长4.8%",
+      "time": "32:40",
+      "title": "WTI原油期货结算价为97.15美元/桶",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902470948.html"
+      "url": "https://finance.eastmoney.com/a/202610223903052269.html"
     },
     {
-      "time": "31:16",
-      "title": "美大使承认在中东搞23次政变都失败",
+      "time": "30:49",
+      "title": "Meta因隐私及内容审核问题被判支付250亿美元罚款",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902470866.html"
+      "url": "https://finance.eastmoney.com/a/202610223903052052.html"
     },
     {
-      "time": "31:16",
-      "title": "豆包工作功能上新，本地Office编辑新增Word",
+      "time": "24:56",
+      "title": "ABB机器人：助力工业级物理AI走进真实场景",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902470517.html"
-    },
-    {
-      "time": "23:00",
-      "title": "船载碳捕集系统（OCCS）白皮书发布",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902469147.html"
-    },
-    {
-      "time": "19:47",
-      "title": "2026年亚太经合组织财长会在香港举行",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610213902468210.html"
+      "url": "https://finance.eastmoney.com/a/202610223903051991.html"
     },
     {
       "time": "06-05",
@@ -157856,6 +157797,8 @@
     }
   ],
   "health": {
-    "partial_failures": []
+    "partial_failures": [
+      "板块: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    ]
   }
 }
