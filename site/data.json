@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 13:00",
+  "updated_at": "2026-10-23 04:12",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 7725,
@@ -157426,41 +157426,20 @@
   ],
   "assets": [
     {
-      "symbol": "600519",
-      "date": "2026-10-22",
-      "price": 1309.02,
-      "score": 75,
-      "signal": "分批买入观察",
-      "buy_low": 1284.686,
-      "buy_high": 1309.02,
-      "stop_loss": 1260.351,
-      "target": 1382.023,
-      "risk": "低",
-      "reasons": [
-        "收盘价站上 MA20",
-        "中长期均线多头",
-        "RSI 位于健康区间",
-        "MACD 位于信号线上方",
-        "20 日动量为正",
-        "近期波动可控"
-      ],
-      "name": "贵州茅台",
-      "action": "可在参考区间小仓分批观察，不宜一次满仓"
-    },
-    {
       "symbol": "159920",
       "date": "2026-10-22",
-      "price": 1.348,
-      "score": 28,
-      "signal": "回避/考虑减仓",
-      "buy_low": 1.326,
-      "buy_high": 1.348,
-      "stop_loss": 1.303,
-      "target": 1.416,
+      "price": 1.345,
+      "score": 38,
+      "signal": "谨慎观望",
+      "buy_low": 1.322,
+      "buy_high": 1.345,
+      "stop_loss": 1.299,
+      "target": 1.414,
       "risk": "低",
       "reasons": [
         "中长期均线多头",
         "RSI 偏低，存在超跌特征",
+        "成交量高于 20 日均量",
         "近期波动可控"
       ],
       "name": "恒生ETF",
@@ -157469,13 +157448,13 @@
     {
       "symbol": "159915",
       "date": "2026-10-22",
-      "price": 2.63,
+      "price": 2.592,
       "score": 23,
       "signal": "回避/考虑减仓",
-      "buy_low": 2.53,
-      "buy_high": 2.63,
-      "stop_loss": 2.43,
-      "target": 2.93,
+      "buy_low": 2.49,
+      "buy_high": 2.592,
+      "stop_loss": 2.388,
+      "target": 2.898,
       "risk": "中",
       "reasons": [
         "RSI 偏低，存在超跌特征",
@@ -157487,13 +157466,13 @@
     {
       "symbol": "300750",
       "date": "2026-10-22",
-      "price": 221.83,
+      "price": 220.41,
       "score": 18,
       "signal": "回避/考虑减仓",
-      "buy_low": 210.567,
-      "buy_high": 221.83,
-      "stop_loss": 199.304,
-      "target": 255.619,
+      "buy_low": 208.958,
+      "buy_high": 220.41,
+      "stop_loss": 197.506,
+      "target": 254.766,
       "risk": "高",
       "reasons": [
         "RSI 偏低，存在超跌特征",
@@ -157505,179 +157484,172 @@
   ],
   "news": [
     {
-      "time": "56:00",
-      "title": "离岸信托补税大限已至！“校园贷鼻祖”刚被追税7.9亿元",
+      "time": "05:32",
+      "title": "西部数据第一财季净营收43.8亿美元 分析师预期41.5亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903862253.html"
+      "url": "https://finance.eastmoney.com/a/202610233904658471.html"
     },
     {
-      "time": "54:05",
-      "title": "宇树科技王兴兴：机器人现有产能远不足以支撑大规模普及，至少需年产千万台",
+      "time": "04:30",
+      "title": "纳指大跌2.6% 热门科技股纷纷下挫",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903863124.html"
+      "url": "https://finance.eastmoney.com/a/202610233904658237.html"
     },
     {
-      "time": "49:00",
-      "title": "“易中天”大跌！三季报“报喜”股成亮点",
+      "time": "00:39",
+      "title": "纳斯达克中国金龙指数收跌1.20%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903862886.html"
+      "url": "https://finance.eastmoney.com/a/202610233904657630.html"
     },
     {
-      "time": "48:21",
-      "title": "俄莫斯科地区遭大规模无人机袭击",
+      "time": "42:25",
+      "title": "据美国投资公司协会（ICI） 美国货币市场资产增加至7.94万亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903863058.html"
+      "url": "https://finance.eastmoney.com/a/202610233904656062.html"
     },
     {
-      "time": "46:45",
-      "title": "宇树科技启动宇创计划 将孵化优质生态企业超200家",
+      "time": "41:59",
+      "title": "OpenAI正式全面开放决策API 决策API输入定价为每百万Tokens0.10美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903862720.html"
+      "url": "https://finance.eastmoney.com/a/202610233904655995.html"
     },
     {
-      "time": "45:42",
-      "title": "长鑫押注4F 美光不跟：总裁称该方向“无实际收益”",
+      "time": "33:26",
+      "title": "巴黎局部宵禁延长至周日早晨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903862576.html"
+      "url": "https://finance.eastmoney.com/a/202610233904655114.html"
     },
     {
-      "time": "45:38",
-      "title": "汇丰将欧洲能源板块评级从减持上调至中性",
+      "time": "26:57",
+      "title": "国际油价22日上涨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903862966.html"
+      "url": "https://finance.eastmoney.com/a/202610233904654359.html"
     },
     {
-      "time": "42:39",
-      "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
+      "time": "26:26",
+      "title": "红十字国际委员会：近几周苏丹空袭事件致数百人死亡",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903859935.html"
+      "url": "https://finance.eastmoney.com/a/202610233904654244.html"
     },
     {
-      "time": "41:18",
-      "title": "埃及：“保卫沙特领土” 不会打击也门",
+      "time": "25:37",
+      "title": "西藏那曲市巴青县7.0级地震已致18人遇难",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903862449.html"
+      "url": "https://finance.eastmoney.com/a/202610233904654156.html"
     },
     {
-      "time": "38:00",
-      "title": "石头科技：目前G-Rover尚未进入量产安排",
+      "time": "09:53",
+      "title": "美元指数22日下跌",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903861527.html"
+      "url": "https://finance.eastmoney.com/a/202610233904653223.html"
     },
     {
-      "time": "36:36",
-      "title": "上市涨幅归“0”！MINIMAX自高点大跌88%",
+      "time": "02:41",
+      "title": "现货黄金失守4030美元/盎司 日内跌2.70%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903860163.html"
+      "url": "https://finance.eastmoney.com/a/202610233904652710.html"
     },
     {
-      "time": "35:15",
-      "title": "东京23区二手公寓均价连续4个月下跌",
+      "time": "01:36",
+      "title": "恒指期货夜盘收涨0.78% 报23133点 高水198点",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903861298.html"
+      "url": "https://finance.eastmoney.com/a/202610233904652640.html"
     },
     {
-      "time": "33:15",
-      "title": "应急管理领域4个项目入选首批标志性重大应用场景项目",
+      "time": "56:43",
+      "title": "惠誉确认秘鲁评级为“BBB” 展望稳定",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903861092.html"
+      "url": "https://finance.eastmoney.com/a/202610233904652380.html"
     },
     {
-      "time": "31:44",
-      "title": "巴克莱将耐克目标价从37美元上调至45美元",
+      "time": "45:41",
+      "title": "布伦特原油期货结算价为每桶 113.17 美元 上涨 4.35 美元 涨幅 4%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903861379.html"
+      "url": "https://finance.eastmoney.com/a/202610233904651040.html"
     },
     {
-      "time": "28:00",
-      "title": "Claude正在调查影响连接器的异常报错问题",
+      "time": "45:41",
+      "title": "普京：俄愿恢复俄美乌三方会谈",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903860445.html"
+      "url": "https://finance.eastmoney.com/a/202610233904650933.html"
     },
     {
-      "time": "27:06",
-      "title": "水利部针对4省市启动洪水防御Ⅳ级应急响应",
+      "time": "42:20",
+      "title": "特朗普要求马斯克解除对乌星链限速",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903859481.html"
+      "url": "https://finance.eastmoney.com/a/202610233904650339.html"
     },
     {
-      "time": "26:22",
-      "title": "LG Display第三季度销售额为6.28万亿韩元 低于市场预期的6.71万亿韩元",
+      "time": "41:30",
+      "title": "挪威国王：高度重视发展对华关系",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903860245.html"
+      "url": "https://finance.eastmoney.com/a/202610233904650288.html"
     },
     {
-      "time": "25:59",
-      "title": "消息人士称 埃隆·马斯克公开支持SpaceX与特斯拉合并 可能使交易谈判复杂化",
+      "time": "40:24",
+      "title": "美国或于明年开始扩建格陵兰岛军事设施",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903859510.html"
+      "url": "https://finance.eastmoney.com/a/202610233904649929.html"
     },
     {
-      "time": "25:20",
-      "title": "史上最强厄尔尼诺或成定局 基金经理称全球将没有可以“避风”之处",
+      "time": "37:14",
+      "title": "WTI原油期货结算价为99.47美元/桶 上涨2.32美元 涨幅2.39%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903859225.html"
+      "url": "https://finance.eastmoney.com/a/202610233904649214.html"
     },
     {
-      "time": "24:48",
-      "title": "法巴银行将通用汽车目标价从112美元下调至106美元",
+      "time": "35:43",
+      "title": "上期所原油期货夜盘收涨1.6% 报713.2元/桶",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903858867.html"
+      "url": "https://finance.eastmoney.com/a/202610233904649168.html"
     },
     {
-      "time": "21:14",
-      "title": "LME伦铜跌幅扩大 现跌1.02%",
+      "time": "35:41",
+      "title": "默克证实其莫德纳合作研发的黑色素瘤疫苗的数据遭到泄露",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903857618.html"
+      "url": "https://finance.eastmoney.com/a/202610233904649042.html"
     },
     {
-      "time": "19:08",
-      "title": "伊朗革命卫队海军称 海湾北部有四艘船只被击中并起火",
+      "time": "25:29",
+      "title": "宽基ETF逆势“吸金”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903856774.html"
+      "url": "https://finance.eastmoney.com/a/202610233904644440.html"
     },
     {
-      "time": "16:06",
-      "title": "美国长债收益率跌至一个月低点 AI交易疑虑再起推升避险需求",
+      "time": "10:14",
+      "title": "青海玉树州杂多县附近发生4.4级左右地震",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903856987.html"
+      "url": "https://finance.eastmoney.com/a/202610233904648523.html"
     },
     {
-      "time": "10:18",
-      "title": "港股午评：香港恒生指数跌2.87% 恒生科技指数跌4.64%",
+      "time": "06:41",
+      "title": "纳斯达克100指数跌幅扩大至3% 热门科技股纷纷下挫",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903854516.html"
-    },
-    {
-      "time": "06:16",
-      "title": "现货黄金日内跌1.24%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610223903854053.html"
+      "url": "https://finance.eastmoney.com/a/202610233904648684.html"
     },
     {
       "time": "06-05",
@@ -157853,6 +157825,13 @@
       "source": "人民网财经",
       "category": "财经",
       "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494874.html"
+    },
+    {
+      "time": "06-05",
+      "title": "我国认证认可检验检测行业发展质量实现整体提升",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494876.html"
     }
   ],
   "health": {
