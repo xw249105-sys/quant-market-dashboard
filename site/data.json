@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 04:12",
+  "updated_at": "2026-10-23 07:27",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 7725,
@@ -157484,172 +157484,179 @@
   ],
   "news": [
     {
-      "time": "05:32",
-      "title": "西部数据第一财季净营收43.8亿美元 分析师预期41.5亿美元",
+      "time": "25:32",
+      "title": "美国财政部拟限制大型机构投资者购买独栋住宅，相关规则将于2027年生效",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904658471.html"
-    },
-    {
-      "time": "04:30",
-      "title": "纳指大跌2.6% 热门科技股纷纷下挫",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904658237.html"
-    },
-    {
-      "time": "00:39",
-      "title": "纳斯达克中国金龙指数收跌1.20%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904657630.html"
-    },
-    {
-      "time": "42:25",
-      "title": "据美国投资公司协会（ICI） 美国货币市场资产增加至7.94万亿美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904656062.html"
-    },
-    {
-      "time": "41:59",
-      "title": "OpenAI正式全面开放决策API 决策API输入定价为每百万Tokens0.10美元",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904655995.html"
-    },
-    {
-      "time": "33:26",
-      "title": "巴黎局部宵禁延长至周日早晨",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904655114.html"
-    },
-    {
-      "time": "26:57",
-      "title": "国际油价22日上涨",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904654359.html"
-    },
-    {
-      "time": "26:26",
-      "title": "红十字国际委员会：近几周苏丹空袭事件致数百人死亡",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904654244.html"
-    },
-    {
-      "time": "25:37",
-      "title": "西藏那曲市巴青县7.0级地震已致18人遇难",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904654156.html"
-    },
-    {
-      "time": "09:53",
-      "title": "美元指数22日下跌",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904653223.html"
-    },
-    {
-      "time": "02:41",
-      "title": "现货黄金失守4030美元/盎司 日内跌2.70%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904652710.html"
-    },
-    {
-      "time": "01:36",
-      "title": "恒指期货夜盘收涨0.78% 报23133点 高水198点",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904652640.html"
-    },
-    {
-      "time": "56:43",
-      "title": "惠誉确认秘鲁评级为“BBB” 展望稳定",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904652380.html"
-    },
-    {
-      "time": "45:41",
-      "title": "布伦特原油期货结算价为每桶 113.17 美元 上涨 4.35 美元 涨幅 4%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904651040.html"
-    },
-    {
-      "time": "45:41",
-      "title": "普京：俄愿恢复俄美乌三方会谈",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904650933.html"
-    },
-    {
-      "time": "42:20",
-      "title": "特朗普要求马斯克解除对乌星链限速",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904650339.html"
-    },
-    {
-      "time": "41:30",
-      "title": "挪威国王：高度重视发展对华关系",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904650288.html"
-    },
-    {
-      "time": "40:24",
-      "title": "美国或于明年开始扩建格陵兰岛军事设施",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904649929.html"
-    },
-    {
-      "time": "37:14",
-      "title": "WTI原油期货结算价为99.47美元/桶 上涨2.32美元 涨幅2.39%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904649214.html"
-    },
-    {
-      "time": "35:43",
-      "title": "上期所原油期货夜盘收涨1.6% 报713.2元/桶",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904649168.html"
-    },
-    {
-      "time": "35:41",
-      "title": "默克证实其莫德纳合作研发的黑色素瘤疫苗的数据遭到泄露",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904649042.html"
+      "url": "https://finance.eastmoney.com/a/202610233904691242.html"
     },
     {
       "time": "25:29",
-      "title": "宽基ETF逆势“吸金”",
+      "title": "产业合纵重塑换电赛道：从独自建站走向资源协同",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904644440.html"
+      "url": "https://finance.eastmoney.com/a/202610233904684724.html"
     },
     {
-      "time": "10:14",
-      "title": "青海玉树州杂多县附近发生4.4级左右地震",
+      "time": "23:45",
+      "title": "四项举措强化制度供给 监管组合拳促进市场生态更规范健康",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904648523.html"
+      "url": "https://finance.eastmoney.com/a/202610233904681531.html"
     },
     {
-      "time": "06:41",
-      "title": "纳斯达克100指数跌幅扩大至3% 热门科技股纷纷下挫",
+      "time": "22:48",
+      "title": "香港新引进18家重点企业",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904648684.html"
+      "url": "https://finance.eastmoney.com/a/202610233904690970.html"
+    },
+    {
+      "time": "21:46",
+      "title": "地方AMC纾困实体再添工具 市场化债转股资质扩容进行时",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904681731.html"
+    },
+    {
+      "time": "20:49",
+      "title": "大模型加快上车 智能网联落地尚需打通堵点",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904680626.html"
+    },
+    {
+      "time": "20:05",
+      "title": "音乐出版商Reservoir起诉Suno和Anthropic，指控AI训练侵犯歌曲版权",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904690254.html"
+    },
+    {
+      "time": "19:52",
+      "title": "头部车企密集换帅结盟 组织资本双重构 车市进入深度博弈期",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904680715.html"
+    },
+    {
+      "time": "18:57",
+      "title": "行业维持高景气 船企生产交付忙",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904681211.html"
+    },
+    {
+      "time": "16:09",
+      "title": "A股AI叙事迎产业验证窗口 业绩超预期标的值得关注",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904681019.html"
+    },
+    {
+      "time": "14:38",
+      "title": "SpaceX洽谈租用美国8万座通信站点，拟打造第四大全国性无线运营商",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904689021.html"
+    },
+    {
+      "time": "13:43",
+      "title": "AI会带来什么？在外滩年会全球央行热议最大未知变量",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904644186.html"
+    },
+    {
+      "time": "12:38",
+      "title": "OpenAI宣布全面开放决策API",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904688449.html"
+    },
+    {
+      "time": "11:44",
+      "title": "境外资产配置成“卖点” 保险业“开门红”换新打法",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904643868.html"
+    },
+    {
+      "time": "10:44",
+      "title": "谁在制造词元消耗对立",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904643058.html"
+    },
+    {
+      "time": "08:38",
+      "title": "OpenAI据报正洽谈最高300亿美元融资，估值达1.25万亿美元",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904686535.html"
+    },
+    {
+      "time": "07:52",
+      "title": "海内外利好共振 人形机器人赛道热度攀升",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904643585.html"
+    },
+    {
+      "time": "06:38",
+      "title": "SK海力士旗下闪存业务Solidigm放弃IPO计划",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904686078.html"
+    },
+    {
+      "time": "05:31",
+      "title": "三星和SK海力士在NEXTRADE盘前交易中下跌至少2.9%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904685679.html"
+    },
+    {
+      "time": "04:37",
+      "title": "全球超八成新船订单涌向中国",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904686419.html"
+    },
+    {
+      "time": "04:06",
+      "title": "英国10月Gfk消费者信心指数-24 预期-15 前值-13",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904684039.html"
+    },
+    {
+      "time": "53:31",
+      "title": "大豆废料转化为可3D打印生物活性材料",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904680284.html"
+    },
+    {
+      "time": "52:59",
+      "title": "新研究首次阐述“平均”人类基因组预期特征",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904680114.html"
+    },
+    {
+      "time": "31:38",
+      "title": "上市公司“红包雨”密集落地",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904677933.html"
+    },
+    {
+      "time": "29:01",
+      "title": "多因素共振驱动煤炭板块走强",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610233904677519.html"
     },
     {
       "time": "06-05",
@@ -157825,13 +157832,6 @@
       "source": "人民网财经",
       "category": "财经",
       "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494874.html"
-    },
-    {
-      "time": "06-05",
-      "title": "我国认证认可检验检测行业发展质量实现整体提升",
-      "source": "人民网财经",
-      "category": "财经",
-      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494876.html"
     }
   ],
   "health": {
