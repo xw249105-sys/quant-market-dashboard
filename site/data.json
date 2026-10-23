@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 07:27",
+  "updated_at": "2026-10-23 13:01",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 7725,
@@ -7,49 +7,44 @@
   },
   "indices": [
     {
-      "name": "科创50",
-      "price": 1345.45,
-      "change": 0.23
-    },
-    {
-      "name": "上证指数",
-      "price": 3719.26,
-      "change": -0.43
-    },
-    {
-      "name": "深证成指",
-      "price": 11740.46,
-      "change": -0.52
-    },
-    {
-      "name": "创业板指",
-      "price": 2703.61,
-      "change": -1.3
+      "name": "恒生指数",
+      "price": 23061.85,
+      "change": 0.55
     },
     {
       "name": "道琼斯",
-      "price": 52495.88,
-      "change": 1.02
+      "price": 52867.98,
+      "change": 0.02
+    },
+    {
+      "name": "创业板指",
+      "price": 2560.93,
+      "change": -0.62
     },
     {
       "name": "日经225",
-      "price": 64630.66,
-      "change": 0.87
+      "price": 62515.04,
+      "change": -0.62
+    },
+    {
+      "name": "深证成指",
+      "price": 11286.21,
+      "change": -0.63
+    },
+    {
+      "name": "上证指数",
+      "price": 3628.67,
+      "change": -0.8
     },
     {
       "name": "标普500",
-      "price": 7712.57,
-      "change": 0.28
+      "price": 7663.43,
+      "change": -1.21
     },
     {
       "name": "纳斯达克",
-      "price": 26424.82,
-      "change": -0.02
-    },
-    {
-      "name": "恒生指数",
-      "price": 23748.85,
-      "change": -0.5
+      "price": 26008.86,
+      "change": -2.6
     }
   ],
   "sectors": {
@@ -157484,179 +157479,179 @@
   ],
   "news": [
     {
-      "time": "25:32",
-      "title": "美国财政部拟限制大型机构投资者购买独栋住宅，相关规则将于2027年生效",
+      "time": "56:36",
+      "title": "中际旭创、新易盛、天孚通信齐发公告：在手订单充足",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904691242.html"
+      "url": "https://finance.eastmoney.com/a/202610233905849268.html"
     },
     {
-      "time": "25:29",
-      "title": "产业合纵重塑换电赛道：从独自建站走向资源协同",
+      "time": "53:00",
+      "title": "联讯仪器公告披露近期生产经营情况：生产经营、订单交付及生产扩建等均正常开展",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904684724.html"
+      "url": "https://finance.eastmoney.com/a/202610233905849190.html"
     },
     {
-      "time": "23:45",
-      "title": "四项举措强化制度供给 监管组合拳促进市场生态更规范健康",
+      "time": "51:12",
+      "title": "多只主动ETF半日募集超10亿元 有望一日结募",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904681531.html"
+      "url": "https://finance.eastmoney.com/a/202610233905848917.html"
     },
     {
-      "time": "22:48",
-      "title": "香港新引进18家重点企业",
+      "time": "51:11",
+      "title": "日本电信运营商KDDI就引发蒙古国大火道歉",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904690970.html"
+      "url": "https://finance.eastmoney.com/a/202610233905849071.html"
     },
     {
-      "time": "21:46",
-      "title": "地方AMC纾困实体再添工具 市场化债转股资质扩容进行时",
+      "time": "47:29",
+      "title": "南京一具身智能公司被曝欠薪数月 CEO称联系不上实控人！此前宣称拿下近10亿元订单",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904681731.html"
+      "url": "https://finance.eastmoney.com/a/202610233905846042.html"
     },
     {
-      "time": "20:49",
-      "title": "大模型加快上车 智能网联落地尚需打通堵点",
+      "time": "46:00",
+      "title": "中国贸促会副会长李兴乾会见德国默克集团执行董事会成员兼医药健康业务首席执行官丹卓航",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904680626.html"
+      "url": "https://finance.eastmoney.com/a/202610233905848831.html"
     },
     {
-      "time": "20:05",
-      "title": "音乐出版商Reservoir起诉Suno和Anthropic，指控AI训练侵犯歌曲版权",
+      "time": "46:00",
+      "title": "“车路云一体化”产业链初成 比亚迪、小米、丰田等22家车企入局",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904690254.html"
+      "url": "https://finance.eastmoney.com/a/202610233905841920.html"
     },
     {
-      "time": "19:52",
-      "title": "头部车企密集换帅结盟 组织资本双重构 车市进入深度博弈期",
+      "time": "45:17",
+      "title": "从65亿港元跌至27亿港元 香港“第二大酒店”由世茂债权人主导变现",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904680715.html"
+      "url": "https://finance.eastmoney.com/a/202610233905842063.html"
     },
     {
-      "time": "18:57",
-      "title": "行业维持高景气 船企生产交付忙",
+      "time": "40:19",
+      "title": "源杰科技：公司产能扩充正按业务需求推进",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904681211.html"
+      "url": "https://finance.eastmoney.com/a/202610233905848557.html"
     },
     {
-      "time": "16:09",
-      "title": "A股AI叙事迎产业验证窗口 业绩超预期标的值得关注",
+      "time": "37:30",
+      "title": "小马智行联手inDrive在哈萨克斯坦率先试点Robotaxi",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904681019.html"
+      "url": "https://finance.eastmoney.com/a/202610233905848389.html"
     },
     {
-      "time": "14:38",
-      "title": "SpaceX洽谈租用美国8万座通信站点，拟打造第四大全国性无线运营商",
+      "time": "36:56",
+      "title": "天孚通信公告披露近期生产经营情况：主营业务开展情况正常 在手订单充足",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904689021.html"
+      "url": "https://finance.eastmoney.com/a/202610233905848464.html"
     },
     {
-      "time": "13:43",
-      "title": "AI会带来什么？在外滩年会全球央行热议最大未知变量",
+      "time": "35:35",
+      "title": "中际旭创公告披露近期生产经营情况：在手订单饱满 产品价格体系健康",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904644186.html"
+      "url": "https://finance.eastmoney.com/a/202610233905848274.html"
     },
     {
-      "time": "12:38",
-      "title": "OpenAI宣布全面开放决策API",
+      "time": "30:06",
+      "title": "国家发展改革委紧急安排3000万元中央预算内投资 支持灾区基础设施和公共服务设施等灾后应急恢复建设",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904688449.html"
+      "url": "https://finance.eastmoney.com/a/202610233905846983.html"
     },
     {
-      "time": "11:44",
-      "title": "境外资产配置成“卖点” 保险业“开门红”换新打法",
+      "time": "29:30",
+      "title": "西藏巴青7.0级地震 截至今日12时记录余震501次",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904643868.html"
+      "url": "https://finance.eastmoney.com/a/202610233905845869.html"
     },
     {
-      "time": "10:44",
-      "title": "谁在制造词元消耗对立",
+      "time": "24:18",
+      "title": "上海多区发布台风蓝色预警 今傍晚至明天暴雨 局部大暴雨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904643058.html"
+      "url": "https://finance.eastmoney.com/a/202610233905844872.html"
     },
     {
-      "time": "08:38",
-      "title": "OpenAI据报正洽谈最高300亿美元融资，估值达1.25万亿美元",
+      "time": "23:14",
+      "title": "随着人工智能涨势放缓 美国养老金巨头CalPERS减持大型科技股",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904686535.html"
+      "url": "https://finance.eastmoney.com/a/202610233905844488.html"
     },
     {
-      "time": "07:52",
-      "title": "海内外利好共振 人形机器人赛道热度攀升",
+      "time": "22:16",
+      "title": "iPhone Duo沪广两地二手回收价高开低走 版本分化明显",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904643585.html"
+      "url": "https://finance.eastmoney.com/a/202610233905844577.html"
     },
     {
-      "time": "06:38",
-      "title": "SK海力士旗下闪存业务Solidigm放弃IPO计划",
+      "time": "21:38",
+      "title": "汇丰上线首枚稳定币RedCoin 年内可用于认购代币化投资产品",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904686078.html"
+      "url": "https://finance.eastmoney.com/a/202610233905844719.html"
     },
     {
-      "time": "05:31",
-      "title": "三星和SK海力士在NEXTRADE盘前交易中下跌至少2.9%",
+      "time": "19:04",
+      "title": "新易盛：拟8亿-10亿元回购A股股份 价格不超500元/股",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904685679.html"
+      "url": "https://finance.eastmoney.com/a/202610233905843368.html"
     },
     {
-      "time": "04:37",
-      "title": "全球超八成新船订单涌向中国",
+      "time": "16:18",
+      "title": "刘海星会见法国驻华大使白玉堂",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904686419.html"
+      "url": "https://finance.eastmoney.com/a/202610233905843046.html"
     },
     {
-      "time": "04:06",
-      "title": "英国10月Gfk消费者信心指数-24 预期-15 前值-13",
+      "time": "14:07",
+      "title": "摩根大通将纳斯达克目标价从120美元上调至122美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904684039.html"
+      "url": "https://finance.eastmoney.com/a/202610233905843159.html"
     },
     {
-      "time": "53:31",
-      "title": "大豆废料转化为可3D打印生物活性材料",
+      "time": "14:00",
+      "title": "光迅科技：生产交付秩序正常 在手订单储备充足",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904680284.html"
+      "url": "https://finance.eastmoney.com/a/202610233905842891.html"
     },
     {
-      "time": "52:59",
-      "title": "新研究首次阐述“平均”人类基因组预期特征",
+      "time": "10:11",
+      "title": "港股午评：恒生指数涨0.58% 恒生科技指数涨0.86%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904680114.html"
+      "url": "https://finance.eastmoney.com/a/202610233905840942.html"
     },
     {
-      "time": "31:38",
-      "title": "上市公司“红包雨”密集落地",
+      "time": "10:08",
+      "title": "罗尔斯·罗伊斯即将获得英国高达2亿英镑的补贴",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904677933.html"
+      "url": "https://finance.eastmoney.com/a/202610233905841849.html"
     },
     {
-      "time": "29:01",
-      "title": "多因素共振驱动煤炭板块走强",
+      "time": "08:24",
+      "title": "光迅科技公告披露近期生产经营情况：生产交付秩序正常 在手订单储备充足",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233904677519.html"
+      "url": "https://finance.eastmoney.com/a/202610233905841718.html"
     },
     {
       "time": "06-05",
