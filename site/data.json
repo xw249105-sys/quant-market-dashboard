@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 13:01",
+  "updated_at": "2026-10-26 03:07",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 7725,
@@ -7,44 +7,44 @@
   },
   "indices": [
     {
-      "name": "恒生指数",
-      "price": 23061.85,
-      "change": 0.55
-    },
-    {
-      "name": "道琼斯",
-      "price": 52867.98,
-      "change": 0.02
-    },
-    {
       "name": "创业板指",
-      "price": 2560.93,
-      "change": -0.62
-    },
-    {
-      "name": "日经225",
-      "price": 62515.04,
-      "change": -0.62
+      "price": 2684.1,
+      "change": 4.16
     },
     {
       "name": "深证成指",
-      "price": 11286.21,
-      "change": -0.63
+      "price": 11673.83,
+      "change": 2.79
     },
     {
       "name": "上证指数",
-      "price": 3628.67,
-      "change": -0.8
+      "price": 3690.48,
+      "change": 0.89
     },
     {
-      "name": "标普500",
-      "price": 7663.43,
-      "change": -1.21
+      "name": "恒生指数",
+      "price": 23093.37,
+      "change": 0.69
     },
     {
       "name": "纳斯达克",
-      "price": 26008.86,
-      "change": -2.6
+      "price": 25955.34,
+      "change": -0.21
+    },
+    {
+      "name": "日经225",
+      "price": 62693.16,
+      "change": -0.34
+    },
+    {
+      "name": "标普500",
+      "price": 7623.68,
+      "change": -0.52
+    },
+    {
+      "name": "道琼斯",
+      "price": 52215.16,
+      "change": -1.23
     }
   ],
   "sectors": {
@@ -157421,35 +157421,15 @@
   ],
   "assets": [
     {
-      "symbol": "159920",
-      "date": "2026-10-22",
-      "price": 1.345,
-      "score": 38,
-      "signal": "谨慎观望",
-      "buy_low": 1.322,
-      "buy_high": 1.345,
-      "stop_loss": 1.299,
-      "target": 1.414,
-      "risk": "低",
-      "reasons": [
-        "中长期均线多头",
-        "RSI 偏低，存在超跌特征",
-        "成交量高于 20 日均量",
-        "近期波动可控"
-      ],
-      "name": "恒生ETF",
-      "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
       "symbol": "159915",
-      "date": "2026-10-22",
-      "price": 2.592,
+      "date": "2026-10-23",
+      "price": 2.702,
       "score": 23,
       "signal": "回避/考虑减仓",
-      "buy_low": 2.49,
-      "buy_high": 2.592,
-      "stop_loss": 2.388,
-      "target": 2.898,
+      "buy_low": 2.597,
+      "buy_high": 2.702,
+      "stop_loss": 2.493,
+      "target": 3.016,
       "risk": "中",
       "reasons": [
         "RSI 偏低，存在超跌特征",
@@ -157457,201 +157437,183 @@
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "300750",
-      "date": "2026-10-22",
-      "price": 220.41,
-      "score": 18,
-      "signal": "回避/考虑减仓",
-      "buy_low": 208.958,
-      "buy_high": 220.41,
-      "stop_loss": 197.506,
-      "target": 254.766,
-      "risk": "高",
-      "reasons": [
-        "RSI 偏低，存在超跌特征",
-        "成交量高于 20 日均量"
-      ],
-      "name": "宁德时代",
-      "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "56:36",
-      "title": "中际旭创、新易盛、天孚通信齐发公告：在手订单充足",
+      "time": "52:55",
+      "title": "乌克兰总统泽连斯基表示 星盾服务的运行速度已恢复至最高420公里/小时",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905849268.html"
+      "url": "https://finance.eastmoney.com/a/202610263907382457.html"
     },
     {
-      "time": "53:00",
-      "title": "联讯仪器公告披露近期生产经营情况：生产经营、订单交付及生产扩建等均正常开展",
+      "time": "45:24",
+      "title": "卢拉竞选团队要求在巴西全国范围内延长投票时间",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905849190.html"
+      "url": "https://finance.eastmoney.com/a/202610263907381853.html"
     },
     {
-      "time": "51:12",
-      "title": "多只主动ETF半日募集超10亿元 有望一日结募",
+      "time": "30:02",
+      "title": "富时世界国债指数中国权重升至11.9% 人民币债券配置价值凸显",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905848917.html"
+      "url": "https://finance.eastmoney.com/a/202610263907379651.html"
     },
     {
-      "time": "51:11",
-      "title": "日本电信运营商KDDI就引发蒙古国大火道歉",
+      "time": "28:35",
+      "title": "强生公布数据称 其药物Rybrevant Faspro在头颈部鳞状细胞癌（HNSCC）的一线治疗中取得了77%的客观缓解率（ORR）",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905849071.html"
+      "url": "https://finance.eastmoney.com/a/202610263907381146.html"
     },
     {
-      "time": "47:29",
-      "title": "南京一具身智能公司被曝欠薪数月 CEO称联系不上实控人！此前宣称拿下近10亿元订单",
+      "time": "17:23",
+      "title": "日本鹿儿岛县火山喷发 烟雾最高至1800米",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905846042.html"
+      "url": "https://finance.eastmoney.com/a/202610263907380918.html"
     },
     {
-      "time": "46:00",
-      "title": "中国贸促会副会长李兴乾会见德国默克集团执行董事会成员兼医药健康业务首席执行官丹卓航",
+      "time": "57:31",
+      "title": "英国与加拿大重申了加强国防融资的承诺",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905848831.html"
+      "url": "https://finance.eastmoney.com/a/202610263907378434.html"
     },
     {
-      "time": "46:00",
-      "title": "“车路云一体化”产业链初成 比亚迪、小米、丰田等22家车企入局",
+      "time": "51:52",
+      "title": "胡塞武装称沙特联军24小时内对也门多地发动数十次空袭",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905841920.html"
+      "url": "https://finance.eastmoney.com/a/202610263907378256.html"
     },
     {
-      "time": "45:17",
-      "title": "从65亿港元跌至27亿港元 香港“第二大酒店”由世茂债权人主导变现",
+      "time": "32:38",
+      "title": "挪威天然气运输系统运营商Gassco宣布 Troll气田在10月25日至26日期间发生非计划停运",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905842063.html"
+      "url": "https://finance.eastmoney.com/a/202610263907376287.html"
     },
     {
-      "time": "40:19",
-      "title": "源杰科技：公司产能扩充正按业务需求推进",
+      "time": "20:55",
+      "title": "软银据悉计划在马来西亚投资500亿美元建设AI基础设施",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905848557.html"
+      "url": "https://finance.eastmoney.com/a/202610263907375898.html"
     },
     {
-      "time": "37:30",
-      "title": "小马智行联手inDrive在哈萨克斯坦率先试点Robotaxi",
+      "time": "10:01",
+      "title": "阿斯利康试验数据：Tagrisso联合疗法将特定肺癌进展或死亡风险降低45%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905848389.html"
+      "url": "https://finance.eastmoney.com/a/202610263907375724.html"
     },
     {
-      "time": "36:56",
-      "title": "天孚通信公告披露近期生产经营情况：主营业务开展情况正常 在手订单充足",
+      "time": "06:03",
+      "title": "沙特称拦截胡塞武装导弹 碎片坠落致2人受伤",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905848464.html"
+      "url": "https://finance.eastmoney.com/a/202610263907375628.html"
     },
     {
-      "time": "35:35",
-      "title": "中际旭创公告披露近期生产经营情况：在手订单饱满 产品价格体系健康",
+      "time": "46:45",
+      "title": "美国中央司令部表示 霍尔木兹海峡的过境航线已清除伊朗水雷",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905848274.html"
+      "url": "https://finance.eastmoney.com/a/202610263907375519.html"
     },
     {
-      "time": "30:06",
-      "title": "国家发展改革委紧急安排3000万元中央预算内投资 支持灾区基础设施和公共服务设施等灾后应急恢复建设",
+      "time": "43:54",
+      "title": "特朗普：美俄乌三方会谈“很快”就会举行",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905846983.html"
+      "url": "https://finance.eastmoney.com/a/202610263907372220.html"
     },
     {
-      "time": "29:30",
-      "title": "西藏巴青7.0级地震 截至今日12时记录余震501次",
+      "time": "27:37",
+      "title": "两场风暴接连袭击欧洲北部 多国电力中断",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905845869.html"
+      "url": "https://finance.eastmoney.com/a/202610263907374364.html"
     },
     {
-      "time": "24:18",
-      "title": "上海多区发布台风蓝色预警 今傍晚至明天暴雨 局部大暴雨",
+      "time": "24:23",
+      "title": "美驻沙特大使馆发布安全警报 要求非紧急政府人员撤离",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905844872.html"
+      "url": "https://finance.eastmoney.com/a/202610263907375365.html"
     },
     {
-      "time": "23:14",
-      "title": "随着人工智能涨势放缓 美国养老金巨头CalPERS减持大型科技股",
+      "time": "04:24",
+      "title": "特朗普谈伊朗时表示 “今天”不会发动袭击",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905844488.html"
+      "url": "https://finance.eastmoney.com/a/202610263907370880.html"
     },
     {
-      "time": "22:16",
-      "title": "iPhone Duo沪广两地二手回收价高开低走 版本分化明显",
+      "time": "55:42",
+      "title": "加蓬近海一钻井平台沉没 5人失踪",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905844577.html"
+      "url": "https://finance.eastmoney.com/a/202610253907370385.html"
     },
     {
-      "time": "21:38",
-      "title": "汇丰上线首枚稳定币RedCoin 年内可用于认购代币化投资产品",
+      "time": "35:13",
+      "title": "美国命令使馆非紧急工作人员离开沙特阿拉伯",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905844719.html"
+      "url": "https://finance.eastmoney.com/a/202610253907367071.html"
     },
     {
-      "time": "19:04",
-      "title": "新易盛：拟8亿-10亿元回购A股股份 价格不超500元/股",
+      "time": "16:26",
+      "title": "白宫国家经济委员会主任凯文·哈塞特表示 与加拿大的贸易谈判已经加快 美国商务部长卢特尼克正在参与相关讨论",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905843368.html"
+      "url": "https://finance.eastmoney.com/a/202610253907358875.html"
     },
     {
-      "time": "16:18",
-      "title": "刘海星会见法国驻华大使白玉堂",
+      "time": "11:43",
+      "title": "津巴布韦总统呼吁西方国家无条件解除制裁",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905843046.html"
+      "url": "https://finance.eastmoney.com/a/202610253907356127.html"
     },
     {
-      "time": "14:07",
-      "title": "摩根大通将纳斯达克目标价从120美元上调至122美元",
+      "time": "56:07",
+      "title": "秘鲁政府延长首都等地紧急状态60天",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905843159.html"
+      "url": "https://finance.eastmoney.com/a/202610253907349555.html"
     },
     {
-      "time": "14:00",
-      "title": "光迅科技：生产交付秩序正常 在手订单储备充足",
+      "time": "36:52",
+      "title": "受地区局势影响 2027年达喀尔拉力赛将改地举办",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905842891.html"
+      "url": "https://finance.eastmoney.com/a/202610253907349764.html"
     },
     {
-      "time": "10:11",
-      "title": "港股午评：恒生指数涨0.58% 恒生科技指数涨0.86%",
+      "time": "27:28",
+      "title": "特朗普谈及美国经济时表示 还有很多消息要宣布",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905840942.html"
+      "url": "https://finance.eastmoney.com/a/202610253907340315.html"
     },
     {
-      "time": "10:08",
-      "title": "罗尔斯·罗伊斯即将获得英国高达2亿英镑的补贴",
+      "time": "14:20",
+      "title": "据报道 内塔尼亚胡三天内与特朗普通话两次以寻求“更多支持”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905841849.html"
+      "url": "https://finance.eastmoney.com/a/202610253907319990.html"
     },
     {
-      "time": "08:24",
-      "title": "光迅科技公告披露近期生产经营情况：生产交付秩序正常 在手订单储备充足",
+      "time": "10:16",
+      "title": "以色列空袭加沙多地致至少7人死亡",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610233905841718.html"
+      "url": "https://finance.eastmoney.com/a/202610253907320433.html"
     },
     {
       "time": "06-05",
