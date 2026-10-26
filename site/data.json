@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 13:06",
+  "updated_at": "2026-10-27 05:05",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 7725,
@@ -74111,15 +74111,37 @@
   ],
   "assets": [
     {
+      "symbol": "600519",
+      "date": "2026-10-26",
+      "price": 1349.98,
+      "score": 70,
+      "signal": "持有/等待确认",
+      "buy_low": 1323.632,
+      "buy_high": 1349.98,
+      "stop_loss": 1297.284,
+      "target": 1429.024,
+      "risk": "低",
+      "reasons": [
+        "收盘价站上 MA20",
+        "中长期均线多头",
+        "MACD 位于信号线上方",
+        "成交量高于 20 日均量",
+        "20 日动量为正",
+        "近期波动可控"
+      ],
+      "name": "贵州茅台",
+      "action": "暂不追买，等待趋势与成交量进一步确认"
+    },
+    {
       "symbol": "159915",
       "date": "2026-10-26",
-      "price": 2.676,
+      "price": 2.651,
       "score": 18,
       "signal": "回避/考虑减仓",
-      "buy_low": 2.568,
-      "buy_high": 2.676,
-      "stop_loss": 2.461,
-      "target": 2.999,
+      "buy_low": 2.543,
+      "buy_high": 2.651,
+      "stop_loss": 2.436,
+      "target": 2.974,
       "risk": "高",
       "reasons": [
         "RSI 偏低，存在超跌特征",
@@ -74131,179 +74153,179 @@
   ],
   "news": [
     {
-      "time": "02:25",
-      "title": "日本8月领先指标月率终值报0.4% 前值0.4%",
+      "time": "57:15",
+      "title": "诺和诺德在针对礼来减肥药广告的法庭裁决中败诉",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907840272.html"
+      "url": "https://finance.eastmoney.com/a/202610273908718793.html"
     },
     {
-      "time": "02:04",
-      "title": "创2008年以来新高！中国石油股价4个月大涨56％",
+      "time": "48:48",
+      "title": "环球音乐集团与收购公司讨论私有化事宜",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907832429.html"
+      "url": "https://finance.eastmoney.com/a/202610273908718172.html"
     },
     {
-      "time": "01:57",
-      "title": "新加坡9月工业产出年率报3.4% 前值15.40%",
+      "time": "42:37",
+      "title": "伊拉克否认按美方指令关闭对伊朗边境口岸",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907841091.html"
+      "url": "https://finance.eastmoney.com/a/202610273908717722.html"
     },
     {
-      "time": "00:45",
-      "title": "蓝思科技：对未来几个季度及明年经营改善保持乐观",
+      "time": "39:57",
+      "title": "加拿大总理卡尼表示 不愿意签署美国在8月提出的贸易条款",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907833169.html"
+      "url": "https://finance.eastmoney.com/a/202610273908716510.html"
     },
     {
-      "time": "00:00",
-      "title": "杰瑞股份：目前公司中东项目仍有交付并验收",
+      "time": "37:01",
+      "title": "古巴常驻联合国代表：联大将审议要求美结束对古封锁的决议草案",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907833560.html"
+      "url": "https://finance.eastmoney.com/a/202610273908716445.html"
     },
     {
-      "time": "58:12",
-      "title": "4天接连投资两家芯片公司！米哈游千亿押注AI",
+      "time": "37:00",
+      "title": "应用材料加码投资荷兰封装设备商 Besi 持股提升至约 20%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907827173.html"
+      "url": "https://finance.eastmoney.com/a/202610273908716264.html"
     },
     {
-      "time": "56:46",
-      "title": "议会选举在即 内塔尼亚胡渲染伊朗威胁？",
+      "time": "37:00",
+      "title": "英特尔据悉将以色列量子软件公司Classiq",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907827016.html"
+      "url": "https://finance.eastmoney.com/a/202610273908716168.html"
     },
     {
-      "time": "56:03",
-      "title": "日本前首相福田康夫去世",
+      "time": "31:08",
+      "title": "墨西哥总统称多次拒绝美方入境开展缉毒行动的要求",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907826918.html"
+      "url": "https://finance.eastmoney.com/a/202610273908715845.html"
     },
     {
-      "time": "55:00",
-      "title": "融创房地产集团等新增被执行12.6亿",
+      "time": "19:20",
+      "title": "巴西主要股指收跌13.9% 创下自2020年以来最差单日表现",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907827335.html"
+      "url": "https://finance.eastmoney.com/a/202610273908714226.html"
     },
     {
-      "time": "55:00",
-      "title": "物理AI催化这回“轮”到家庭机器人",
+      "time": "19:18",
+      "title": "博通与多家银行合作进行630亿美元AI融资",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907819046.html"
+      "url": "https://finance.eastmoney.com/a/202610273908714359.html"
     },
     {
-      "time": "54:16",
-      "title": "2000亿医疗器械龙头，9连阳",
+      "time": "16:45",
+      "title": "捷蓝航空第三季度调整后每股亏损60美分 市场预期每股亏损55美分",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907823453.html"
+      "url": "https://finance.eastmoney.com/a/202610273908713894.html"
     },
     {
-      "time": "54:00",
-      "title": "康师傅重庆公司新增发电业务等",
+      "time": "09:04",
+      "title": "惠而浦第三季度净销售额36.8亿美元 预期39.1亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907827280.html"
+      "url": "https://finance.eastmoney.com/a/202610273908712325.html"
     },
     {
-      "time": "52:44",
-      "title": "蜂助手：算力服务器采购成本不会受市场价格波动影响",
+      "time": "06:46",
+      "title": "铿腾电子第三季度调整后每股收益为2.11美元 高于预期",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907826795.html"
+      "url": "https://finance.eastmoney.com/a/202610273908710853.html"
     },
     {
-      "time": "52:00",
-      "title": "线控转向测试新规是否会造成客户定点车型SOP延后？ 浙江世宝回应",
+      "time": "03:30",
+      "title": "纳指收涨0.8% 存储、光通信板块走强",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907826886.html"
+      "url": "https://finance.eastmoney.com/a/202610273908710423.html"
     },
     {
-      "time": "50:00",
-      "title": "市盈率仅为3倍！韩国券商：“存储双雄”股价遭低估程度堪比金融危机时期",
+      "time": "01:26",
+      "title": "纳斯达克中国金龙指数收涨0.59%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907810356.html"
+      "url": "https://finance.eastmoney.com/a/202610273908710035.html"
     },
     {
-      "time": "48:00",
-      "title": "DeepSeek一款大模型单周调用量登顶全球第一",
+      "time": "43:12",
+      "title": "美元指数26日上涨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907825214.html"
+      "url": "https://finance.eastmoney.com/a/202610273908709467.html"
     },
     {
-      "time": "42:57",
-      "title": "日本开始第25轮核污染水排海",
+      "time": "42:48",
+      "title": "伊沙土巴四国同意磋商加强地区和平与安全领域合作",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907826343.html"
+      "url": "https://finance.eastmoney.com/a/202610273908709371.html"
     },
     {
-      "time": "41:57",
-      "title": "长鑫科技旗下芯聚股权投资公司增资至约63.8亿元",
+      "time": "41:55",
+      "title": "国际油价26日下跌",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907826462.html"
+      "url": "https://finance.eastmoney.com/a/202610273908709241.html"
     },
     {
-      "time": "41:25",
-      "title": "AI行情降温 海力士相关杠杆基金将在美国退市",
+      "time": "28:08",
+      "title": "美国、加拿大据悉正致力于达成一项放宽美国对加拿大钢铁和汽车进口关税的协议",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907826596.html"
+      "url": "https://finance.eastmoney.com/a/202610273908708975.html"
     },
     {
-      "time": "41:00",
-      "title": "中航成飞：公司将参加今年珠海航展",
+      "time": "26:33",
+      "title": "美国外卖配送巨头DoorDash据悉正就收购杂货配送平台Instacart进行深入谈判",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907826674.html"
+      "url": "https://finance.eastmoney.com/a/202610273908708810.html"
     },
     {
-      "time": "39:00",
-      "title": "恒辉安防：机器人柔性织物防护件等业务按计划持续迭代推进",
+      "time": "25:21",
+      "title": "Anthropic七位创始人身家均超130亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907826215.html"
+      "url": "https://finance.eastmoney.com/a/202610273908709054.html"
     },
     {
-      "time": "37:31",
-      "title": "长川科技：目前客户需求旺盛 产品订单充裕",
+      "time": "24:01",
+      "title": "巴西财政部发布声明称 已回购27.1万份2030年到期的债券",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907824923.html"
+      "url": "https://finance.eastmoney.com/a/202610273908709160.html"
     },
     {
-      "time": "37:18",
-      "title": "万科前高管入局 王石新公司首发公开信：回应成立原因",
+      "time": "17:02",
+      "title": "人工智能交易规模惊人 城堡证券称到了“没有容错空间”的地步",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907825038.html"
+      "url": "https://finance.eastmoney.com/a/202610273908708674.html"
     },
     {
-      "time": "32:41",
-      "title": "新易盛：三季度产量环比增长 高速率产品放量提速",
+      "time": "16:29",
+      "title": "恒生指数主连夜盘收跌0.01%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907826033.html"
+      "url": "https://finance.eastmoney.com/a/202610273908708569.html"
     },
     {
-      "time": "30:00",
-      "title": "秦安股份：未布局一体化压铸产能，也未开展相关产线建设",
+      "time": "07:41",
+      "title": "美国高评级债券发行量预计将达到1.76万亿美元的纪录",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610263907825438.html"
+      "url": "https://finance.eastmoney.com/a/202610273908708214.html"
     },
     {
       "time": "06-05",
