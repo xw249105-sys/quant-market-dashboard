@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 04:46",
+  "updated_at": "2026-10-28 09:28",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 7725,
@@ -74111,198 +74111,238 @@
   ],
   "assets": [
     {
-      "symbol": "159915",
-      "date": "2026-10-27",
-      "price": 2.675,
-      "score": 13,
+      "symbol": "600519",
+      "date": "2026-10-28",
+      "price": 1354.98,
+      "score": 60,
+      "signal": "持有/等待确认",
+      "buy_low": 1330.713,
+      "buy_high": 1354.98,
+      "stop_loss": 1306.446,
+      "target": 1427.781,
+      "risk": "低",
+      "reasons": [
+        "收盘价站上 MA20",
+        "中长期均线多头",
+        "MACD 位于信号线上方",
+        "20 日动量为正",
+        "近期波动可控"
+      ],
+      "name": "贵州茅台",
+      "action": "暂不追买，等待趋势与成交量进一步确认"
+    },
+    {
+      "symbol": "159920",
+      "date": "2026-10-28",
+      "price": 1.35,
+      "score": 28,
       "signal": "回避/考虑减仓",
-      "buy_low": 2.568,
-      "buy_high": 2.675,
-      "stop_loss": 2.461,
-      "target": 2.996,
-      "risk": "中",
+      "buy_low": 1.329,
+      "buy_high": 1.35,
+      "stop_loss": 1.308,
+      "target": 1.413,
+      "risk": "低",
+      "reasons": [
+        "中长期均线多头",
+        "RSI 偏低，存在超跌特征",
+        "近期波动可控"
+      ],
+      "name": "恒生ETF",
+      "action": "当前不建议新开仓，优先控制风险"
+    },
+    {
+      "symbol": "300750",
+      "date": "2026-10-28",
+      "price": 233.34,
+      "score": 8,
+      "signal": "回避/考虑减仓",
+      "buy_low": 221.14,
+      "buy_high": 233.34,
+      "stop_loss": 208.94,
+      "target": 269.94,
+      "risk": "高",
       "reasons": [
         "RSI 偏低，存在超跌特征"
       ],
-      "name": "创业板ETF",
+      "name": "宁德时代",
       "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "31:15",
-      "title": "网红券商Robinhood三季度基于交易的收入8.67亿美元",
+      "time": "27:07",
+      "title": "PCB概念开盘活跃 金安国纪涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910650414.html"
+      "url": "https://finance.eastmoney.com/a/202610283911138266.html"
     },
     {
-      "time": "28:47",
-      "title": "博通安排金融合作伙伴购买基于定制AI加速器的AI机架",
+      "time": "25:58",
+      "title": "A股开盘：三大指数集体高开",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910650388.html"
+      "url": "https://finance.eastmoney.com/a/202610283911130516.html"
     },
     {
-      "time": "27:01",
-      "title": "恩智浦盘后跌超7%",
+      "time": "24:04",
+      "title": "世界气象组织称地球大气温室气体浓度再创新高",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910650132.html"
+      "url": "https://finance.eastmoney.com/a/202610283911132611.html"
     },
     {
-      "time": "22:52",
-      "title": "希捷科技盘后跌超7%",
+      "time": "23:20",
+      "title": "央行今日开展1510亿元7天期逆回购操作",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910649413.html"
+      "url": "https://finance.eastmoney.com/a/202610283911126853.html"
     },
     {
-      "time": "17:28",
-      "title": "恩智浦预计第四季度调整后每股收益4.14至4.58美元 市场预期4.36美元",
+      "time": "23:20",
+      "title": "新西兰联储维持基准利率在2.75% 称未来可能需要收紧货币政策",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910648327.html"
+      "url": "https://finance.eastmoney.com/a/202610283911126745.html"
+    },
+    {
+      "time": "21:12",
+      "title": "港股开盘：恒生指数涨0.19% 恒生科技指数涨0.78%",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610283911123729.html"
+    },
+    {
+      "time": "20:39",
+      "title": "甲骨文携手Cerebras，计划2027年在云平台提供高速AI推理服务",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610283911125976.html"
+    },
+    {
+      "time": "20:00",
+      "title": "中工国际：推动三大业务板块逐步形成“三个三分之一”利润贡献格局",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610283911126175.html"
+    },
+    {
+      "time": "19:00",
+      "title": "国轩高科储能BMS通过IEC三项国际认证",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610283911124017.html"
+    },
+    {
+      "time": "18:39",
+      "title": "甲骨文携手OpenAI推出企业AI产品套件，覆盖办公、开发与网络安全",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610283911118244.html"
+    },
+    {
+      "time": "17:02",
+      "title": "人民币兑美元中间价报6.7165 上调6点",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610283911115843.html"
+    },
+    {
+      "time": "14:09",
+      "title": "诚志股份：第三季度主要原材料甲醇价格大幅上涨 产品盈利空间被压缩",
+      "source": "东方财富",
+      "category": "财经",
+      "url": "https://finance.eastmoney.com/a/202610283911099570.html"
     },
     {
       "time": "13:56",
-      "title": "希捷科技预计全年营收48亿美元",
+      "title": "纽元兑澳元下跌近2%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910648165.html"
+      "url": "https://finance.eastmoney.com/a/202610283911098484.html"
     },
     {
-      "time": "07:52",
-      "title": "希捷科技第一财季调整后每股收益7.68美元 高于预期",
+      "time": "12:39",
+      "title": "菲高科技启动北交所IPO辅导",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910647574.html"
+      "url": "https://finance.eastmoney.com/a/202610283911073766.html"
     },
     {
-      "time": "07:28",
-      "title": "Visa第四季度净营收121.4亿美元 同比增长13%",
+      "time": "11:27",
+      "title": "长鑫科技已被纳入上证综合指数 位列第一大权重股",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910647238.html"
+      "url": "https://finance.eastmoney.com/a/202610283911066181.html"
     },
     {
-      "time": "03:12",
-      "title": "出口民调显示内塔尼亚胡阵营未获议会多数席位",
+      "time": "09:19",
+      "title": "SK海力士表示，将充分利用现有6F2技术",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910645376.html"
+      "url": "https://finance.eastmoney.com/a/202610283911068414.html"
     },
     {
-      "time": "02:29",
-      "title": "纳斯达克中国金龙指数收跌0.11%",
+      "time": "08:46",
+      "title": "天齐锂业：年产50吨硫化锂中试项目预计于2026年下半年竣工",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910646073.html"
+      "url": "https://finance.eastmoney.com/a/202610283911071190.html"
     },
     {
-      "time": "01:20",
-      "title": "纳指收涨1.18% 存储、光通信板块继续走强",
+      "time": "08:39",
+      "title": "美国联邦通信委员会批准亚马逊Leo收购Globalstar部分卫星频谱",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910645262.html"
+      "url": "https://finance.eastmoney.com/a/202610283911070351.html"
     },
     {
-      "time": "54:02",
-      "title": "天然气出口国论坛第八次峰会发表《莫斯科宣言》",
+      "time": "06:26",
+      "title": "拉卡拉成立青橙云数智科技公司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910650973.html"
+      "url": "https://finance.eastmoney.com/a/202610283911031141.html"
     },
     {
-      "time": "50:38",
-      "title": "特朗普重申石油正从霍尔木兹海峡流出",
+      "time": "05:58",
+      "title": "AI Native生物制药公司百奥几何完成1亿美元A轮系列融资",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910644484.html"
+      "url": "https://finance.eastmoney.com/a/202610283911026691.html"
     },
     {
-      "time": "48:16",
-      "title": "Anthropic推出面向财务顾问的Claude",
+      "time": "05:16",
+      "title": "算力“烧钱”、回款滞后，AI短剧靠什么拿到银行贷款？",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910644042.html"
+      "url": "https://finance.eastmoney.com/a/202610283910626718.html"
     },
     {
-      "time": "47:58",
-      "title": "费城半导体指数涨4%",
+      "time": "04:48",
+      "title": "英杰电气：2026年光伏业务订单实现大幅增长 相关收入将在后续周期逐步确认",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910643866.html"
+      "url": "https://finance.eastmoney.com/a/202610283911034175.html"
     },
     {
-      "time": "47:15",
-      "title": "特朗普暗示委内瑞拉可能成为美国的一个州",
+      "time": "03:01",
+      "title": "Rokid双线出击：“百镜大战”迎“全彩”变量 AI眼镜的“iPhone时刻”还在等一个杀手级应用",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910644124.html"
+      "url": "https://finance.eastmoney.com/a/202610283910629678.html"
     },
     {
-      "time": "43:11",
-      "title": "机器人基础模型公司Physical Intelligence据悉正在就新一轮融资进行谈判",
+      "time": "01:36",
+      "title": "台交所加权股价指数上涨1.4%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910643528.html"
+      "url": "https://finance.eastmoney.com/a/202610283911006179.html"
     },
     {
-      "time": "39:39",
-      "title": "乌克兰外长：乌方已准备好参加乌美俄三方会谈",
+      "time": "01:19",
+      "title": "MSCI亚太指数上涨1.1%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910644865.html"
-    },
-    {
-      "time": "33:10",
-      "title": "甲骨文表示 计划将多云AI数据库服务扩展至美国政府",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910643373.html"
-    },
-    {
-      "time": "25:02",
-      "title": "美元指数27日上涨",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910643162.html"
-    },
-    {
-      "time": "24:47",
-      "title": "国际油价27日下跌",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910643223.html"
-    },
-    {
-      "time": "18:10",
-      "title": "美国和俄罗斯据悉已提出一项可能的方案 让美俄石油巨头在俄罗斯远东地区的萨哈林岛近海成立一家合资企业",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910643045.html"
-    },
-    {
-      "time": "15:44",
-      "title": "青海玉树州杂多县发生4.9级地震 震源深度10公里",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910642923.html"
-    },
-    {
-      "time": "04:19",
-      "title": "恒生指数主连夜盘收涨0.29%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910639529.html"
-    },
-    {
-      "time": "49:52",
-      "title": "Anthropic研究表明分析师在86%的情况下会听从Ai智能体的意见",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610283910639473.html"
+      "url": "https://finance.eastmoney.com/a/202610283911009322.html"
     },
     {
       "time": "06-05",
