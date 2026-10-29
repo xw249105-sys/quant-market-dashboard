@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 16:38",
+  "updated_at": "2026-10-30 05:13",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 7725,
@@ -74111,29 +74111,6 @@
   ],
   "assets": [
     {
-      "symbol": "600519",
-      "date": "2026-10-29",
-      "price": 1354.0,
-      "score": 85,
-      "signal": "分批买入观察",
-      "buy_low": 1327.462,
-      "buy_high": 1354.0,
-      "stop_loss": 1300.924,
-      "target": 1433.614,
-      "risk": "低",
-      "reasons": [
-        "收盘价站上 MA20",
-        "中长期均线多头",
-        "RSI 位于健康区间",
-        "MACD 位于信号线上方",
-        "成交量高于 20 日均量",
-        "20 日动量为正",
-        "近期波动可控"
-      ],
-      "name": "贵州茅台",
-      "action": "可在参考区间小仓分批观察，不宜一次满仓"
-    },
-    {
       "symbol": "159915",
       "date": "2026-10-29",
       "price": 2.535,
@@ -74150,183 +74127,201 @@
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
+    },
+    {
+      "symbol": "159920",
+      "date": "2026-10-29",
+      "price": 1.346,
+      "score": 18,
+      "signal": "回避/考虑减仓",
+      "buy_low": 1.325,
+      "buy_high": 1.346,
+      "stop_loss": 1.304,
+      "target": 1.409,
+      "risk": "低",
+      "reasons": [
+        "RSI 偏低，存在超跌特征",
+        "近期波动可控"
+      ],
+      "name": "恒生ETF",
+      "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "35:47",
-      "title": "中国贸促会副会长李兴乾会见德国联邦议院前副议长、德国东部经济国际合作委员会主席弗里德里希",
+      "time": "55:49",
+      "title": "乌克兰基辅遭弹道导弹袭击 传出爆炸声",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914181130.html"
+      "url": "https://finance.eastmoney.com/a/202610303915110877.html"
     },
     {
-      "time": "34:46",
-      "title": "东鹏饮料：前三季度净利润同比增长10.21%",
+      "time": "55:43",
+      "title": "在发生袭击事件后 哥伦比亚向库库塔增派了额外部队",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914181359.html"
+      "url": "https://finance.eastmoney.com/a/202610303915111049.html"
     },
     {
-      "time": "33:47",
-      "title": "株冶集团：第三季度归母净利润3.77亿元 同比增长38.37%",
+      "time": "50:31",
+      "title": "印尼马鲁古省附近海域发生5.3级地震",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914179684.html"
+      "url": "https://finance.eastmoney.com/a/202610303915110524.html"
     },
     {
-      "time": "32:31",
-      "title": "科创板10月以来已有17家半导体企业推出新一期回购方案 金额上限达61亿元",
+      "time": "37:51",
+      "title": "美股PC股盘后走低 戴尔跌4.6%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914180626.html"
+      "url": "https://finance.eastmoney.com/a/202610303915107977.html"
     },
     {
-      "time": "31:48",
-      "title": "美国知名投资人质疑美联储利率决议",
+      "time": "33:36",
+      "title": "亚马逊盘后跌幅收窄至不足5% 此前一度跌超12%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914174395.html"
+      "url": "https://finance.eastmoney.com/a/202610303915106139.html"
     },
     {
-      "time": "31:47",
-      "title": "在岸人民币兑美元收盘报6.6621",
+      "time": "11:35",
+      "title": "第一太阳能第三季度每股收益5.30美元 市场预计4.60美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914174939.html"
+      "url": "https://finance.eastmoney.com/a/202610303915099443.html"
     },
     {
-      "time": "29:11",
-      "title": "华润微：前三季度净利润同比增长85.95%",
+      "time": "10:53",
+      "title": "吉利德第三季度调整后每股收益为2.55美元 市场预期为2.22美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914165519.html"
+      "url": "https://finance.eastmoney.com/a/202610303915099636.html"
     },
     {
-      "time": "27:47",
-      "title": "宁波银行：第三季度归母净利润85.87亿元 同比增长11.91%",
+      "time": "09:59",
+      "title": "Rivian第三季度营收为21.6亿美元 市场预计为20.2亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914161679.html"
+      "url": "https://finance.eastmoney.com/a/202610303915100273.html"
     },
     {
-      "time": "27:11",
-      "title": "中联重科：第三季度净利润同比下降25.66%",
+      "time": "08:57",
+      "title": "星巴克第四财季同店销售超过预估",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914162819.html"
+      "url": "https://finance.eastmoney.com/a/202610303915100773.html"
     },
     {
-      "time": "27:00",
-      "title": "迎驾贡酒：前三季度净利润15.75亿元 同比增长4.25%",
+      "time": "08:47",
+      "title": "ROBLOX第四季度预订量为18.9亿至20亿美元 预计为19.9亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914165791.html"
+      "url": "https://finance.eastmoney.com/a/202610303915100047.html"
     },
     {
-      "time": "26:36",
-      "title": "九州通：与昭衍新药等签订战略合作协议",
+      "time": "07:42",
+      "title": "Reddit第三季度收入为8.95亿美元 市场预计为8.696亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914160735.html"
+      "url": "https://finance.eastmoney.com/a/202610303915097142.html"
     },
     {
-      "time": "24:24",
-      "title": "牧原股份：前三季度净亏损93.19亿元",
+      "time": "07:29",
+      "title": "Coinbase第三季度总收入为12.2亿美元 市场预计为12.2亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914149898.html"
+      "url": "https://finance.eastmoney.com/a/202610303915096388.html"
     },
     {
-      "time": "23:35",
-      "title": "中电港：前三季度净利润同比增长359.77% Q3净利润环比增长89%",
+      "time": "06:49",
+      "title": "闪迪预计第二财季营收为122亿至126亿美元 市场预估为121亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914148295.html"
+      "url": "https://finance.eastmoney.com/a/202610303915095959.html"
     },
     {
-      "time": "20:57",
-      "title": "崇达技术：第三季度净利润同比增长441% 环比增长315%",
+      "time": "05:20",
+      "title": "英特尔盘后暴跌超20% 因其营收预测不及分析师预估",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914139822.html"
+      "url": "https://finance.eastmoney.com/a/202610303915096725.html"
     },
     {
-      "time": "20:16",
-      "title": "招商蛇口：第三季度净利润同比下降92.78% 环比下降84%",
+      "time": "05:00",
+      "title": "亚马逊第三财季物业及设备支出远超预期 盘后大跌12%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914138864.html"
+      "url": "https://finance.eastmoney.com/a/202610303915096990.html"
     },
     {
-      "time": "19:36",
-      "title": "9月我国核发绿色电力证书3.26亿个",
+      "time": "04:23",
+      "title": "亚马逊第三季度AWS净销售额459.8亿美元 高于预期",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914154984.html"
+      "url": "https://finance.eastmoney.com/a/202610303915094788.html"
     },
     {
-      "time": "19:00",
-      "title": "吉林敖东：前三季度净利润28.58亿元 同比增长26.42%",
+      "time": "04:08",
+      "title": "英特尔公司第四季度营收预期低于市场预期",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914136874.html"
+      "url": "https://finance.eastmoney.com/a/202610303915095349.html"
     },
     {
-      "time": "18:00",
-      "title": "海油工程：前三季度净利润16.80亿元 同比增长4.66%",
+      "time": "00:00",
+      "title": "纳指收跌1.4% 谷歌大跌12%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914130324.html"
+      "url": "https://finance.eastmoney.com/a/202610303915092973.html"
     },
     {
-      "time": "17:47",
-      "title": "晓程科技：第三季度归母净利润1002.73万元 同比下降70.81%",
+      "time": "49:15",
+      "title": "美元指数29日下跌",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914133451.html"
+      "url": "https://finance.eastmoney.com/a/202610303915092489.html"
     },
     {
-      "time": "17:19",
-      "title": "三一重工：第三季度净利润同比增长20.62%",
+      "time": "47:22",
+      "title": "国际油价29日微跌",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914121523.html"
+      "url": "https://finance.eastmoney.com/a/202610303915091823.html"
     },
     {
-      "time": "17:06",
-      "title": "步长制药：第三季度归母净利润2.87亿元 同比增长19.18%",
+      "time": "44:45",
+      "title": "花旗将芒果超媒评级下调至卖出 目标价16元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914117074.html"
+      "url": "https://finance.eastmoney.com/a/202610303915091731.html"
     },
     {
-      "time": "14:41",
-      "title": "华虹宏力：董事会主席兼总裁提议回购3亿至5亿元股份",
+      "time": "37:14",
+      "title": "欧元区领导人将于11月26日至27日开会讨论欧洲央行行长人选",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914116085.html"
+      "url": "https://finance.eastmoney.com/a/202610303915091688.html"
     },
     {
-      "time": "14:30",
-      "title": "特发信息：前三季度净利润同比增长1487.24%",
+      "time": "36:24",
+      "title": "美国一名高级将领遭解职",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914114158.html"
+      "url": "https://finance.eastmoney.com/a/202610303915091554.html"
     },
     {
-      "time": "14:15",
-      "title": "正邦科技：前三季度净亏损10.90亿元",
+      "time": "21:00",
+      "title": "在达成算力交易后 Anthropic成为SpaceX的最大客户",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914115590.html"
+      "url": "https://finance.eastmoney.com/a/202610303915091143.html"
     },
     {
-      "time": "12:26",
-      "title": "森马服饰：第三季度归母净利润2.12亿元 同比增长0.14%",
+      "time": "19:56",
+      "title": "美国海军高级将领据悉就攻击伊朗的选项对特朗普做了汇报",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293914112346.html"
+      "url": "https://finance.eastmoney.com/a/202610303915091381.html"
     },
     {
       "time": "06-05",
