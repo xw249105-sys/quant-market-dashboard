@@ -1,11 +1,16 @@
 {
-  "updated_at": "2026-10-29 09:53",
+  "updated_at": "2026-10-29 16:38",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 7725,
     "down": 8477
   },
   "indices": [
+    {
+      "name": "日经225",
+      "price": 64659.47,
+      "change": 1.1
+    },
     {
       "name": "标普500",
       "price": 7743.98,
@@ -17,34 +22,29 @@
       "change": 0.27
     },
     {
-      "name": "恒生指数",
-      "price": 23143.05,
-      "change": 0.21
-    },
-    {
       "name": "道琼斯",
       "price": 52475.1,
       "change": 0.19
     },
     {
-      "name": "日经225",
-      "price": 63922.48,
-      "change": -0.05
+      "name": "恒生指数",
+      "price": 22958.65,
+      "change": -0.59
     },
     {
       "name": "上证指数",
-      "price": 3649.44,
-      "change": -0.87
+      "price": 3651.43,
+      "change": -0.82
     },
     {
       "name": "深证成指",
-      "price": 11212.68,
-      "change": -2.27
+      "price": 11138.2,
+      "change": -2.92
     },
     {
       "name": "创业板指",
-      "price": 2546.44,
-      "change": -3.35
+      "price": 2517.59,
+      "change": -4.45
     }
   ],
   "sectors": {
@@ -74111,15 +74111,38 @@
   ],
   "assets": [
     {
+      "symbol": "600519",
+      "date": "2026-10-29",
+      "price": 1354.0,
+      "score": 85,
+      "signal": "分批买入观察",
+      "buy_low": 1327.462,
+      "buy_high": 1354.0,
+      "stop_loss": 1300.924,
+      "target": 1433.614,
+      "risk": "低",
+      "reasons": [
+        "收盘价站上 MA20",
+        "中长期均线多头",
+        "RSI 位于健康区间",
+        "MACD 位于信号线上方",
+        "成交量高于 20 日均量",
+        "20 日动量为正",
+        "近期波动可控"
+      ],
+      "name": "贵州茅台",
+      "action": "可在参考区间小仓分批观察，不宜一次满仓"
+    },
+    {
       "symbol": "159915",
-      "date": "2026-10-28",
-      "price": 2.649,
+      "date": "2026-10-29",
+      "price": 2.535,
       "score": 18,
       "signal": "回避/考虑减仓",
-      "buy_low": 2.54,
-      "buy_high": 2.649,
-      "stop_loss": 2.431,
-      "target": 2.977,
+      "buy_low": 2.426,
+      "buy_high": 2.535,
+      "stop_loss": 2.317,
+      "target": 2.861,
       "risk": "高",
       "reasons": [
         "RSI 偏低，存在超跌特征",
@@ -74127,200 +74150,183 @@
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "300750",
-      "date": "2026-10-28",
-      "price": 229.14,
-      "score": 8,
-      "signal": "回避/考虑减仓",
-      "buy_low": 216.579,
-      "buy_high": 229.14,
-      "stop_loss": 204.017,
-      "target": 266.824,
-      "risk": "高",
-      "reasons": [
-        "RSI 偏低，存在超跌特征"
-      ],
-      "name": "宁德时代",
-      "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "51:40",
-      "title": "智能驾驶概念表现活跃 大众交通直线涨停",
+      "time": "35:47",
+      "title": "中国贸促会副会长李兴乾会见德国联邦议院前副议长、德国东部经济国际合作委员会主席弗里德里希",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913413513.html"
+      "url": "https://finance.eastmoney.com/a/202610293914181130.html"
     },
     {
-      "time": "49:07",
-      "title": "韩国KOSPI指数跌幅扩大至3% 三星电子跌超5%",
+      "time": "34:46",
+      "title": "东鹏饮料：前三季度净利润同比增长10.21%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913390085.html"
+      "url": "https://finance.eastmoney.com/a/202610293914181359.html"
     },
     {
-      "time": "47:46",
-      "title": "三星电子：已与10家大客户签署长期供货协议（LTA）",
+      "time": "33:47",
+      "title": "株冶集团：第三季度归母净利润3.77亿元 同比增长38.37%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913402386.html"
+      "url": "https://finance.eastmoney.com/a/202610293914179684.html"
     },
     {
-      "time": "45:53",
-      "title": "上海：拟依法有序推动自动驾驶技术在出租汽车行业的应用",
+      "time": "32:31",
+      "title": "科创板10月以来已有17家半导体企业推出新一期回购方案 金额上限达61亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913367928.html"
+      "url": "https://finance.eastmoney.com/a/202610293914180626.html"
     },
     {
-      "time": "45:52",
-      "title": "煤炭板块逆势拉升 开滦股份涨停",
+      "time": "31:48",
+      "title": "美国知名投资人质疑美联储利率决议",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913369894.html"
+      "url": "https://finance.eastmoney.com/a/202610293914174395.html"
     },
     {
-      "time": "45:00",
-      "title": "中信证券A股策略：回购增持密集披露彰显市场信心",
+      "time": "31:47",
+      "title": "在岸人民币兑美元收盘报6.6621",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913382418.html"
+      "url": "https://finance.eastmoney.com/a/202610293914174939.html"
     },
     {
-      "time": "44:28",
-      "title": "港股光通信股集体走弱 罗博特科跌超8%",
+      "time": "29:11",
+      "title": "华润微：前三季度净利润同比增长85.95%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913376758.html"
+      "url": "https://finance.eastmoney.com/a/202610293914165519.html"
     },
     {
-      "time": "44:00",
-      "title": "CRO概念再度活跃 近岸蛋白涨超8%",
+      "time": "27:47",
+      "title": "宁波银行：第三季度归母净利润85.87亿元 同比增长11.91%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913389097.html"
+      "url": "https://finance.eastmoney.com/a/202610293914161679.html"
     },
     {
-      "time": "41:37",
-      "title": "人形机器人概念局部回暖 万里扬等多股涨停",
+      "time": "27:11",
+      "title": "中联重科：第三季度净利润同比下降25.66%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913337064.html"
+      "url": "https://finance.eastmoney.com/a/202610293914162819.html"
     },
     {
-      "time": "41:00",
-      "title": "银行股震荡走强 青岛银行、成都银行涨超4%",
+      "time": "27:00",
+      "title": "迎驾贡酒：前三季度净利润15.75亿元 同比增长4.25%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913347149.html"
+      "url": "https://finance.eastmoney.com/a/202610293914165791.html"
     },
     {
-      "time": "38:46",
-      "title": "CPO概念震荡下挫 天孚通信跌超10%",
+      "time": "26:36",
+      "title": "九州通：与昭衍新药等签订战略合作协议",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913316458.html"
+      "url": "https://finance.eastmoney.com/a/202610293914160735.html"
     },
     {
-      "time": "38:22",
-      "title": "腾讯汤道生：开放伙伴和开发者数量超5万家 用户留存使用时长等指标表现“非常好”",
+      "time": "24:24",
+      "title": "牧原股份：前三季度净亏损93.19亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913341148.html"
+      "url": "https://finance.eastmoney.com/a/202610293914149898.html"
     },
     {
-      "time": "37:20",
-      "title": "培育钻石概念表现活跃 惠丰钻石涨近10%",
+      "time": "23:35",
+      "title": "中电港：前三季度净利润同比增长359.77% Q3净利润环比增长89%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913309170.html"
+      "url": "https://finance.eastmoney.com/a/202610293914148295.html"
     },
     {
-      "time": "36:20",
-      "title": "AI漫剧概念震荡回升 文投控股7天4板",
+      "time": "20:57",
+      "title": "崇达技术：第三季度净利润同比增长441% 环比增长315%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913304729.html"
+      "url": "https://finance.eastmoney.com/a/202610293914139822.html"
     },
     {
-      "time": "35:32",
-      "title": "创业板指跌2%",
+      "time": "20:16",
+      "title": "招商蛇口：第三季度净利润同比下降92.78% 环比下降84%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913298719.html"
+      "url": "https://finance.eastmoney.com/a/202610293914138864.html"
     },
     {
-      "time": "34:23",
-      "title": "紫金矿业业绩说明会释放三大信号",
+      "time": "19:36",
+      "title": "9月我国核发绿色电力证书3.26亿个",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913322178.html"
+      "url": "https://finance.eastmoney.com/a/202610293914154984.html"
     },
     {
-      "time": "33:37",
-      "title": "台交所加权股价指数下跌1.1%",
+      "time": "19:00",
+      "title": "吉林敖东：前三季度净利润28.58亿元 同比增长26.42%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913288523.html"
+      "url": "https://finance.eastmoney.com/a/202610293914136874.html"
     },
     {
-      "time": "32:02",
-      "title": "美格智能与万象智维达成战略合作",
+      "time": "18:00",
+      "title": "海油工程：前三季度净利润16.80亿元 同比增长4.66%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913284194.html"
+      "url": "https://finance.eastmoney.com/a/202610293914130324.html"
     },
     {
-      "time": "30:28",
-      "title": "国内最长地铁环线全线开通",
+      "time": "17:47",
+      "title": "晓程科技：第三季度归母净利润1002.73万元 同比下降70.81%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913272576.html"
+      "url": "https://finance.eastmoney.com/a/202610293914133451.html"
     },
     {
-      "time": "29:25",
-      "title": "存储芯片板块低开 佰维存储跌超11%",
+      "time": "17:19",
+      "title": "三一重工：第三季度净利润同比增长20.62%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913265673.html"
+      "url": "https://finance.eastmoney.com/a/202610293914121523.html"
     },
     {
-      "time": "26:57",
-      "title": "三星电子：将加速引入人工智能代理",
+      "time": "17:06",
+      "title": "步长制药：第三季度归母净利润2.87亿元 同比增长19.18%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913264397.html"
+      "url": "https://finance.eastmoney.com/a/202610293914117074.html"
     },
     {
-      "time": "25:57",
-      "title": "三星电子计划2027年上半年开始量产HBM4E",
+      "time": "14:41",
+      "title": "华虹宏力：董事会主席兼总裁提议回购3亿至5亿元股份",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913264527.html"
+      "url": "https://finance.eastmoney.com/a/202610293914116085.html"
     },
     {
-      "time": "25:47",
-      "title": "A股开盘：三大指数集体低开",
+      "time": "14:30",
+      "title": "特发信息：前三季度净利润同比增长1487.24%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913251271.html"
+      "url": "https://finance.eastmoney.com/a/202610293914114158.html"
     },
     {
-      "time": "24:57",
-      "title": "智元机器人在绍兴成立科技新公司",
+      "time": "14:15",
+      "title": "正邦科技：前三季度净亏损10.90亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913255744.html"
+      "url": "https://finance.eastmoney.com/a/202610293914115590.html"
     },
     {
-      "time": "23:42",
-      "title": "央行今日开展1150亿元7天期逆回购操作",
+      "time": "12:26",
+      "title": "森马服饰：第三季度归母净利润2.12亿元 同比增长0.14%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293913257733.html"
+      "url": "https://finance.eastmoney.com/a/202610293914112346.html"
     },
     {
       "time": "06-05",
