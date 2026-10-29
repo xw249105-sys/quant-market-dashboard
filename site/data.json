@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 05:10",
+  "updated_at": "2026-10-29 09:53",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 7725,
@@ -7,44 +7,44 @@
   },
   "indices": [
     {
-      "name": "创业板指",
-      "price": 2634.76,
-      "change": 3.4
-    },
-    {
-      "name": "深证成指",
-      "price": 11473.18,
-      "change": 2.02
+      "name": "标普500",
+      "price": 7743.98,
+      "change": 0.28
     },
     {
       "name": "纳斯达克",
-      "price": 26477.81,
-      "change": 1.18
-    },
-    {
-      "name": "日经225",
-      "price": 63954.19,
-      "change": 1.08
-    },
-    {
-      "name": "上证指数",
-      "price": 3681.47,
-      "change": 0.91
-    },
-    {
-      "name": "标普500",
-      "price": 7722.6,
-      "change": 0.6
+      "price": 26549.85,
+      "change": 0.27
     },
     {
       "name": "恒生指数",
-      "price": 23094.83,
-      "change": 0.23
+      "price": 23143.05,
+      "change": 0.21
     },
     {
       "name": "道琼斯",
-      "price": 52377.57,
-      "change": 0.03
+      "price": 52475.1,
+      "change": 0.19
+    },
+    {
+      "name": "日经225",
+      "price": 63922.48,
+      "change": -0.05
+    },
+    {
+      "name": "上证指数",
+      "price": 3649.44,
+      "change": -0.87
+    },
+    {
+      "name": "深证成指",
+      "price": 11212.68,
+      "change": -2.27
+    },
+    {
+      "name": "创业板指",
+      "price": 2546.44,
+      "change": -3.35
     }
   ],
   "sectors": {
@@ -74148,179 +74148,179 @@
   ],
   "news": [
     {
-      "time": "04:55",
-      "title": "谷歌母公司Alphabet高管表示：公司仍预计财年资本支出在1950亿至2050亿美元之间 市场预估2022.1亿美元",
+      "time": "51:40",
+      "title": "智能驾驶概念表现活跃 大众交通直线涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912786986.html"
+      "url": "https://finance.eastmoney.com/a/202610293913413513.html"
     },
     {
-      "time": "00:49",
-      "title": "美国总统特朗普表示：允许博索纳罗入境",
+      "time": "49:07",
+      "title": "韩国KOSPI指数跌幅扩大至3% 三星电子跌超5%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912785035.html"
+      "url": "https://finance.eastmoney.com/a/202610293913390085.html"
     },
     {
-      "time": "53:34",
-      "title": "仍在交易中的纳指期货在美股收盘后转跌",
+      "time": "47:46",
+      "title": "三星电子：已与10家大客户签署长期供货协议（LTA）",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912784448.html"
+      "url": "https://finance.eastmoney.com/a/202610293913402386.html"
     },
     {
-      "time": "52:05",
-      "title": "谷歌母公司Alphabet首席执行官Pichai表示：Waymo自动驾驶里程已超过3亿英里",
+      "time": "45:53",
+      "title": "上海：拟依法有序推动自动驾驶技术在出租汽车行业的应用",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912784345.html"
+      "url": "https://finance.eastmoney.com/a/202610293913367928.html"
     },
     {
-      "time": "50:07",
-      "title": "西班牙高铁事故关键录音曝光：调度员违规下令列车“恢复全速”",
+      "time": "45:52",
+      "title": "煤炭板块逆势拉升 开滦股份涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912783591.html"
+      "url": "https://finance.eastmoney.com/a/202610293913369894.html"
     },
     {
-      "time": "39:48",
-      "title": "飞塔信息预计第四季度营收为21.6亿至22.5亿美元 盘后大跌22%",
+      "time": "45:00",
+      "title": "中信证券A股策略：回购增持密集披露彰显市场信心",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912782368.html"
+      "url": "https://finance.eastmoney.com/a/202610293913382418.html"
     },
     {
-      "time": "38:12",
-      "title": "谷歌CEO皮查伊表示：新AI模型Carbon的性能优于Gemini 4 Argon",
+      "time": "44:28",
+      "title": "港股光通信股集体走弱 罗博特科跌超8%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912782285.html"
+      "url": "https://finance.eastmoney.com/a/202610293913376758.html"
     },
     {
-      "time": "36:27",
-      "title": "Alphabet第三季度营收与利润不及预期 股价盘后跌幅扩大至8.5%",
+      "time": "44:00",
+      "title": "CRO概念再度活跃 近岸蛋白涨超8%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912782170.html"
+      "url": "https://finance.eastmoney.com/a/202610293913389097.html"
     },
     {
-      "time": "33:52",
-      "title": "微软Azure云业务营收增长48%超预期",
+      "time": "41:37",
+      "title": "人形机器人概念局部回暖 万里扬等多股涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912781487.html"
+      "url": "https://finance.eastmoney.com/a/202610293913337064.html"
     },
     {
-      "time": "32:07",
-      "title": "微软披露：来自OpenAI投资的每股收益影响为负0.03美元",
+      "time": "41:00",
+      "title": "银行股震荡走强 青岛银行、成都银行涨超4%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912780859.html"
+      "url": "https://finance.eastmoney.com/a/202610293913347149.html"
     },
     {
-      "time": "30:23",
-      "title": "ServiceNow盘后大跌16%",
+      "time": "38:46",
+      "title": "CPO概念震荡下挫 天孚通信跌超10%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912780529.html"
+      "url": "https://finance.eastmoney.com/a/202610293913316458.html"
     },
     {
-      "time": "29:28",
-      "title": "福特汽车预计：2027年将因大宗商品、芯片和航运因素面临20亿美元的逆风",
+      "time": "38:22",
+      "title": "腾讯汤道生：开放伙伴和开发者数量超5万家 用户留存使用时长等指标表现“非常好”",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912780677.html"
+      "url": "https://finance.eastmoney.com/a/202610293913341148.html"
     },
     {
-      "time": "29:01",
-      "title": "Alphabet表示：AI投资正推动整体搜索查询增长 搜索查询同比增速为五年来最高",
+      "time": "37:20",
+      "title": "培育钻石概念表现活跃 惠丰钻石涨近10%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912780487.html"
+      "url": "https://finance.eastmoney.com/a/202610293913309170.html"
     },
     {
-      "time": "26:41",
-      "title": "科磊预计第二财季营收为45亿至49亿美元 市场预估为45.2亿美元",
+      "time": "36:20",
+      "title": "AI漫剧概念震荡回升 文投控股7天4板",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912780031.html"
+      "url": "https://finance.eastmoney.com/a/202610293913304729.html"
     },
     {
-      "time": "19:26",
-      "title": "美国副总统万斯据悉已致信伊朗最高国家安全委员会秘书雷扎伊 试图重启和平谈判",
+      "time": "35:32",
+      "title": "创业板指跌2%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912779816.html"
+      "url": "https://finance.eastmoney.com/a/202610293913298719.html"
     },
     {
-      "time": "18:29",
-      "title": "Raymond James第四季度净营收为42.7亿美元 高于预估的42.2亿美元",
+      "time": "34:23",
+      "title": "紫金矿业业绩说明会释放三大信号",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912779976.html"
+      "url": "https://finance.eastmoney.com/a/202610293913322178.html"
     },
     {
-      "time": "17:06",
-      "title": "全球债券发行规模达到6.61万亿美元的年度纪录",
+      "time": "33:37",
+      "title": "台交所加权股价指数下跌1.1%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912780364.html"
+      "url": "https://finance.eastmoney.com/a/202610293913288523.html"
     },
     {
-      "time": "15:06",
-      "title": "美高梅国际酒店第三季度净营收42.1亿美元 预估42.3亿美元",
+      "time": "32:02",
+      "title": "美格智能与万象智维达成战略合作",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912780282.html"
+      "url": "https://finance.eastmoney.com/a/202610293913284194.html"
     },
     {
-      "time": "14:54",
-      "title": "霍尼韦尔航空航天第三季度调整后息税前利润为11.6亿美元 高于预估的10.7亿美元",
+      "time": "30:28",
+      "title": "国内最长地铁环线全线开通",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912779732.html"
+      "url": "https://finance.eastmoney.com/a/202610293913272576.html"
     },
     {
-      "time": "13:43",
-      "title": "T-Mobile第三季度每股收益为3.22美元 高于预估的2.93美元",
+      "time": "29:25",
+      "title": "存储芯片板块低开 佰维存储跌超11%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912779629.html"
+      "url": "https://finance.eastmoney.com/a/202610293913265673.html"
     },
     {
-      "time": "13:02",
-      "title": "ServiceNow第三季度营收为41.1亿美元 高于预估的41亿美元",
+      "time": "26:57",
+      "title": "三星电子：将加速引入人工智能代理",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912776585.html"
+      "url": "https://finance.eastmoney.com/a/202610293913264397.html"
     },
     {
-      "time": "12:38",
-      "title": "墨式烧烤第三季度调整后每股收益为27美分 低于预估的29美分",
+      "time": "25:57",
+      "title": "三星电子计划2027年上半年开始量产HBM4E",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912776363.html"
+      "url": "https://finance.eastmoney.com/a/202610293913264527.html"
     },
     {
-      "time": "12:09",
-      "title": "美国财长贝森特表示：特朗普对沃什应对使命“充满信心”",
+      "time": "25:47",
+      "title": "A股开盘：三大指数集体低开",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912776285.html"
+      "url": "https://finance.eastmoney.com/a/202610293913251271.html"
     },
     {
-      "time": "11:47",
-      "title": "联邦快递第三季度营收为229亿美元",
+      "time": "24:57",
+      "title": "智元机器人在绍兴成立科技新公司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912776140.html"
+      "url": "https://finance.eastmoney.com/a/202610293913255744.html"
     },
     {
-      "time": "11:04",
-      "title": "谷歌盘后跌7.9% 公司第三财季不含流量获取成本的营收不及预期",
+      "time": "23:42",
+      "title": "央行今日开展1150亿元7天期逆回购操作",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610293912774832.html"
+      "url": "https://finance.eastmoney.com/a/202610293913257733.html"
     },
     {
       "time": "06-05",
