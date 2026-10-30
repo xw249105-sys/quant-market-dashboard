@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 05:13",
+  "updated_at": "2026-10-30 10:01",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 7725,
@@ -7,44 +7,44 @@
   },
   "indices": [
     {
-      "name": "日经225",
-      "price": 64659.47,
-      "change": 1.1
-    },
-    {
-      "name": "标普500",
-      "price": 7743.98,
-      "change": 0.28
-    },
-    {
-      "name": "纳斯达克",
-      "price": 26549.85,
-      "change": 0.27
+      "name": "恒生指数",
+      "price": 23247.5,
+      "change": 1.26
     },
     {
       "name": "道琼斯",
-      "price": 52475.1,
-      "change": 0.19
+      "price": 52342.56,
+      "change": -0.25
     },
     {
-      "name": "恒生指数",
-      "price": 22958.65,
-      "change": -0.59
+      "name": "标普500",
+      "price": 7720.39,
+      "change": -0.3
     },
     {
       "name": "上证指数",
-      "price": 3651.43,
-      "change": -0.82
+      "price": 3618.12,
+      "change": -0.91
+    },
+    {
+      "name": "纳斯达克",
+      "price": 26184.72,
+      "change": -1.38
     },
     {
       "name": "深证成指",
-      "price": 11138.2,
-      "change": -2.92
+      "price": 10976.73,
+      "change": -1.45
     },
     {
       "name": "创业板指",
-      "price": 2517.59,
-      "change": -4.45
+      "price": 2461.42,
+      "change": -2.23
+    },
+    {
+      "name": "日经225",
+      "price": 62853.19,
+      "change": -2.79
     }
   ],
   "sectors": {
@@ -74111,33 +74111,37 @@
   ],
   "assets": [
     {
-      "symbol": "159915",
-      "date": "2026-10-29",
-      "price": 2.535,
-      "score": 18,
-      "signal": "回避/考虑减仓",
-      "buy_low": 2.426,
-      "buy_high": 2.535,
-      "stop_loss": 2.317,
-      "target": 2.861,
-      "risk": "高",
+      "symbol": "600519",
+      "date": "2026-10-30",
+      "price": 1370.18,
+      "score": 75,
+      "signal": "分批买入观察",
+      "buy_low": 1343.962,
+      "buy_high": 1370.18,
+      "stop_loss": 1317.744,
+      "target": 1448.834,
+      "risk": "低",
       "reasons": [
-        "RSI 偏低，存在超跌特征",
-        "成交量高于 20 日均量"
+        "收盘价站上 MA20",
+        "MA20 高于 MA60",
+        "中长期均线多头",
+        "MACD 位于信号线上方",
+        "20 日动量为正",
+        "近期波动可控"
       ],
-      "name": "创业板ETF",
-      "action": "当前不建议新开仓，优先控制风险"
+      "name": "贵州茅台",
+      "action": "可在参考区间小仓分批观察，不宜一次满仓"
     },
     {
       "symbol": "159920",
-      "date": "2026-10-29",
-      "price": 1.346,
+      "date": "2026-10-30",
+      "price": 1.358,
       "score": 18,
       "signal": "回避/考虑减仓",
-      "buy_low": 1.325,
-      "buy_high": 1.346,
-      "stop_loss": 1.304,
-      "target": 1.409,
+      "buy_low": 1.337,
+      "buy_high": 1.358,
+      "stop_loss": 1.316,
+      "target": 1.421,
       "risk": "低",
       "reasons": [
         "RSI 偏低，存在超跌特征",
@@ -74145,183 +74149,217 @@
       ],
       "name": "恒生ETF",
       "action": "当前不建议新开仓，优先控制风险"
+    },
+    {
+      "symbol": "159915",
+      "date": "2026-10-30",
+      "price": 2.474,
+      "score": 8,
+      "signal": "回避/考虑减仓",
+      "buy_low": 2.365,
+      "buy_high": 2.474,
+      "stop_loss": 2.256,
+      "target": 2.802,
+      "risk": "高",
+      "reasons": [
+        "RSI 偏低，存在超跌特征"
+      ],
+      "name": "创业板ETF",
+      "action": "当前不建议新开仓，优先控制风险"
+    },
+    {
+      "symbol": "300750",
+      "date": "2026-10-30",
+      "price": 233.68,
+      "score": 8,
+      "signal": "回避/考虑减仓",
+      "buy_low": 221.827,
+      "buy_high": 233.68,
+      "stop_loss": 209.974,
+      "target": 269.239,
+      "risk": "高",
+      "reasons": [
+        "RSI 偏低，存在超跌特征"
+      ],
+      "name": "宁德时代",
+      "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "55:49",
-      "title": "乌克兰基辅遭弹道导弹袭击 传出爆炸声",
+      "time": "58:00",
+      "title": "诺德股份等投资成立能源科技公司 含蓄电池租赁业务",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915110877.html"
+      "url": "https://finance.eastmoney.com/a/202610303915776883.html"
     },
     {
-      "time": "55:43",
-      "title": "在发生袭击事件后 哥伦比亚向库库塔增派了额外部队",
+      "time": "56:31",
+      "title": "沪深两市成交额突破5000亿元 较上一日此时放量超200亿元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915111049.html"
+      "url": "https://finance.eastmoney.com/a/202610303915761883.html"
     },
     {
-      "time": "50:31",
-      "title": "印尼马鲁古省附近海域发生5.3级地震",
+      "time": "54:00",
+      "title": "润达医疗：拟携手智元机器人共探医疗具身智能应用",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915110524.html"
+      "url": "https://finance.eastmoney.com/a/202610303915752489.html"
     },
     {
-      "time": "37:51",
-      "title": "美股PC股盘后走低 戴尔跌4.6%",
+      "time": "54:00",
+      "title": "日经225指数跌幅扩大至3%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915107977.html"
+      "url": "https://finance.eastmoney.com/a/202610303915741417.html"
     },
     {
-      "time": "33:36",
-      "title": "亚马逊盘后跌幅收窄至不足5% 此前一度跌超12%",
+      "time": "52:19",
+      "title": "液冷服务器概念集体走弱 大元泵业跌停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915106139.html"
+      "url": "https://finance.eastmoney.com/a/202610303915753766.html"
     },
     {
-      "time": "11:35",
-      "title": "第一太阳能第三季度每股收益5.30美元 市场预计4.60美元",
+      "time": "50:03",
+      "title": "多晶硅主力合约日内跌超5%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915099443.html"
+      "url": "https://finance.eastmoney.com/a/202610303915727623.html"
     },
     {
-      "time": "10:53",
-      "title": "吉利德第三季度调整后每股收益为2.55美元 市场预期为2.22美元",
+      "time": "49:00",
+      "title": "中国天楹：辽源项目取得TUV RFNBO产品合规认证书",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915099636.html"
+      "url": "https://finance.eastmoney.com/a/202610303915732590.html"
     },
     {
-      "time": "09:59",
-      "title": "Rivian第三季度营收为21.6亿美元 市场预计为20.2亿美元",
+      "time": "47:27",
+      "title": "白酒板块再度拉升 迎驾贡酒涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915100273.html"
+      "url": "https://finance.eastmoney.com/a/202610303915703241.html"
     },
     {
-      "time": "08:57",
-      "title": "星巴克第四财季同店销售超过预估",
+      "time": "47:20",
+      "title": "泉阳泉在北京投资成立仓储服务公司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915100773.html"
+      "url": "https://finance.eastmoney.com/a/202610303915715640.html"
     },
     {
-      "time": "08:47",
-      "title": "ROBLOX第四季度预订量为18.9亿至20亿美元 预计为19.9亿美元",
+      "time": "46:29",
+      "title": "恒生科技指数涨超1%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915100047.html"
+      "url": "https://finance.eastmoney.com/a/202610303915713918.html"
     },
     {
-      "time": "07:42",
-      "title": "Reddit第三季度收入为8.95亿美元 市场预计为8.696亿美元",
+      "time": "43:00",
+      "title": "物理AI概念震荡走强 华阳智能涨超7%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915097142.html"
+      "url": "https://finance.eastmoney.com/a/202610303915692237.html"
     },
     {
-      "time": "07:29",
-      "title": "Coinbase第三季度总收入为12.2亿美元 市场预计为12.2亿美元",
+      "time": "42:56",
+      "title": "食品饮料概念表现活跃 青岛食品5连板",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915096388.html"
+      "url": "https://finance.eastmoney.com/a/202610303915671695.html"
     },
     {
-      "time": "06:49",
-      "title": "闪迪预计第二财季营收为122亿至126亿美元 市场预估为121亿美元",
+      "time": "41:56",
+      "title": "港股港口运输股走强 中远海控涨超6%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915095959.html"
+      "url": "https://finance.eastmoney.com/a/202610303915679030.html"
     },
     {
-      "time": "05:20",
-      "title": "英特尔盘后暴跌超20% 因其营收预测不及分析师预估",
+      "time": "41:19",
+      "title": "酿酒板块震荡拉升 迎驾贡酒涨超8%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915096725.html"
+      "url": "https://finance.eastmoney.com/a/202610303915676919.html"
     },
     {
-      "time": "05:00",
-      "title": "亚马逊第三财季物业及设备支出远超预期 盘后大跌12%",
+      "time": "40:46",
+      "title": "MLCC板块震荡走弱 鸿远电子跌停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915096990.html"
+      "url": "https://finance.eastmoney.com/a/202610303915656947.html"
     },
     {
-      "time": "04:23",
-      "title": "亚马逊第三季度AWS净销售额459.8亿美元 高于预期",
+      "time": "40:04",
+      "title": "减速器板块走高 巨轮智能涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915094788.html"
+      "url": "https://finance.eastmoney.com/a/202610303915664110.html"
     },
     {
-      "time": "04:08",
-      "title": "英特尔公司第四季度营收预期低于市场预期",
+      "time": "38:26",
+      "title": "沪指盘中失守3600点整数关口",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915095349.html"
+      "url": "https://finance.eastmoney.com/a/202610303915647061.html"
     },
     {
-      "time": "00:00",
-      "title": "纳指收跌1.4% 谷歌大跌12%",
+      "time": "37:44",
+      "title": "半导体板块局部走高 必易微20cm涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915092973.html"
+      "url": "https://finance.eastmoney.com/a/202610303915640929.html"
     },
     {
-      "time": "49:15",
-      "title": "美元指数29日下跌",
+      "time": "36:30",
+      "title": "航运板块逆势拉升 锦江航运涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915092489.html"
+      "url": "https://finance.eastmoney.com/a/202610303915635993.html"
     },
     {
-      "time": "47:22",
-      "title": "国际油价29日微跌",
+      "time": "35:23",
+      "title": "影视院线板块下挫 横店影视触及跌停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915091823.html"
+      "url": "https://finance.eastmoney.com/a/202610303915629585.html"
     },
     {
-      "time": "44:45",
-      "title": "花旗将芒果超媒评级下调至卖出 目标价16元",
+      "time": "34:48",
+      "title": "中药板块逆势活跃 羚锐制药涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915091731.html"
+      "url": "https://finance.eastmoney.com/a/202610303915624660.html"
     },
     {
-      "time": "37:14",
-      "title": "欧元区领导人将于11月26日至27日开会讨论欧洲央行行长人选",
+      "time": "34:27",
+      "title": "国家统计局：前三季度全国规上文化企业营业收入同比增长4.3%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915091688.html"
+      "url": "https://finance.eastmoney.com/a/202610303915627135.html"
     },
     {
-      "time": "36:24",
-      "title": "美国一名高级将领遭解职",
+      "time": "30:15",
+      "title": "英伟达将于下周完成对Naver的10亿美元投资 成为第三大股东",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915091554.html"
+      "url": "https://finance.eastmoney.com/a/202610303915604794.html"
     },
     {
-      "time": "21:00",
-      "title": "在达成算力交易后 Anthropic成为SpaceX的最大客户",
+      "time": "30:00",
+      "title": "帝科股份：目前公司已率先实现银包铜浆料的量产应用",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915091143.html"
+      "url": "https://finance.eastmoney.com/a/202610303915611440.html"
     },
     {
-      "time": "19:56",
-      "title": "美国海军高级将领据悉就攻击伊朗的选项对特朗普做了汇报",
+      "time": "29:57",
+      "title": "甘李药业陈伟：公司正从胰岛素企业成长为内分泌代谢领域创新药企",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202610303915091381.html"
+      "url": "https://finance.eastmoney.com/a/202610303915610018.html"
     },
     {
       "time": "06-05",
