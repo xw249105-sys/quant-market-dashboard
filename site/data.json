@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 05:49",
+  "updated_at": "2026-11-04 10:25",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 6456,
@@ -7,49 +7,44 @@
   },
   "indices": [
     {
-      "name": "上证指数",
-      "price": 3608.1,
-      "change": -0.82
-    },
-    {
-      "name": "科创50",
-      "price": 1151.28,
-      "change": -3.81
-    },
-    {
-      "name": "深证成指",
-      "price": 10876.99,
-      "change": -1.21
+      "name": "纳斯达克",
+      "price": 25372.01,
+      "change": 0.83
     },
     {
       "name": "创业板指",
-      "price": 2391.65,
-      "change": -2.73
-    },
-    {
-      "name": "道琼斯",
-      "price": 51983.98,
-      "change": 0.41
-    },
-    {
-      "name": "恒生指数",
-      "price": 23438.99,
-      "change": 0.2
-    },
-    {
-      "name": "日经225",
-      "price": 63081.86,
-      "change": -0.33
+      "price": 2401.87,
+      "change": 0.43
     },
     {
       "name": "标普500",
-      "price": 7541.4,
-      "change": -0.51
+      "price": 7568.92,
+      "change": 0.36
     },
     {
-      "name": "纳斯达克",
-      "price": 25164.36,
-      "change": -1.07
+      "name": "深证成指",
+      "price": 10916.36,
+      "change": 0.36
+    },
+    {
+      "name": "上证指数",
+      "price": 3603.08,
+      "change": -0.14
+    },
+    {
+      "name": "道琼斯",
+      "price": 51786.72,
+      "change": -0.38
+    },
+    {
+      "name": "恒生指数",
+      "price": 23414.03,
+      "change": -0.48
+    },
+    {
+      "name": "日经225",
+      "price": 60868.43,
+      "change": -3.51
     }
   ],
   "sectors": {
@@ -157591,179 +157586,179 @@
   ],
   "news": [
     {
-      "time": "48:30",
-      "title": "吉尔吉斯斯坦发生5.0级地震",
+      "time": "24:03",
+      "title": "卫星导航板块短线拉升 上海沪工涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920687569.html"
+      "url": "https://finance.eastmoney.com/a/202611043921412843.html"
     },
     {
-      "time": "47:50",
-      "title": "以媒：以方对美国将结束安全援助“感到担忧”",
+      "time": "22:00",
+      "title": "山东印发行动计划加快现代海洋产业发展",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920687478.html"
+      "url": "https://finance.eastmoney.com/a/202611043921411664.html"
     },
     {
-      "time": "43:16",
-      "title": "阿曼附近海域一艘油轮遭两枚不明弹体击中",
+      "time": "20:17",
+      "title": "工业大麻板块盘中拉升 顺灏股份涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920686898.html"
+      "url": "https://finance.eastmoney.com/a/202611043921409778.html"
     },
     {
-      "time": "42:41",
-      "title": "保德信金融第三季度净利润13.88亿美元、每股3.96美元",
+      "time": "17:03",
+      "title": "美国媒体预计民主党将夺回众议院多数席位",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920686790.html"
+      "url": "https://finance.eastmoney.com/a/202611043921400285.html"
     },
     {
-      "time": "38:04",
-      "title": "周三（11月4日）重点关注财经事件和经济数据",
+      "time": "16:30",
+      "title": "巴西财政部：最低工资每提1元 将增4.05亿雷亚尔负担",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920686481.html"
+      "url": "https://finance.eastmoney.com/a/202611043921400985.html"
     },
     {
-      "time": "22:45",
-      "title": "AMD营收展望超预期 盘后涨超7%",
+      "time": "16:21",
+      "title": "端侧AI概念震荡走高 龙迅股份、乐鑫科技涨超10%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920683412.html"
+      "url": "https://finance.eastmoney.com/a/202611043921400115.html"
     },
     {
-      "time": "17:53",
-      "title": "Block第三财季调整后每股收益1.13美元 高于预期",
+      "time": "16:11",
+      "title": "印尼基准股指日内跌幅扩大至1.6%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920682727.html"
+      "url": "https://finance.eastmoney.com/a/202611043921403431.html"
     },
     {
-      "time": "17:52",
-      "title": "多邻国第三季度每股收益0.54美元",
+      "time": "14:37",
+      "title": "巴西财政部：政府债务占GDP比重将于2030年见顶",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920682428.html"
+      "url": "https://finance.eastmoney.com/a/202611043921398319.html"
     },
     {
-      "time": "16:41",
-      "title": "AMD第三季度调整后每股收益2.09美元 高于预期",
+      "time": "13:37",
+      "title": "贵州省人民政府：推荐陈光虎为贵州银行副行长人选，建议安鹏不再担任该行副行长职务",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920683586.html"
+      "url": "https://finance.eastmoney.com/a/202611043921399242.html"
     },
     {
-      "time": "09:35",
-      "title": "超微电脑盘后涨幅扩大至6%",
+      "time": "13:21",
+      "title": "华是科技等成立奇游网络信息公司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920680668.html"
+      "url": "https://finance.eastmoney.com/a/202611043921399480.html"
     },
     {
-      "time": "07:45",
-      "title": "超微电脑上调全财年营收展望",
+      "time": "13:00",
+      "title": "希格生科完成国寿股权领投的数亿元A+轮融资首关",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920680351.html"
+      "url": "https://finance.eastmoney.com/a/202611043921379429.html"
     },
     {
-      "time": "04:22",
-      "title": "Booking第三季度调整后每股收益为4.66美元 去年同期为99.50美元",
+      "time": "11:31",
+      "title": "华商基金张永志：科技产业下一步真正要跟踪的是订单、毛利率、现金流与资本开支的匹配",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920678925.html"
+      "url": "https://finance.eastmoney.com/a/202611043921397626.html"
     },
     {
-      "time": "03:36",
-      "title": "安进第三季度调整后每股收益为6.45美元 高于预估的5.77美元",
+      "time": "08:55",
+      "title": "物理AI概念震荡反弹 福莱新材涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920678753.html"
+      "url": "https://finance.eastmoney.com/a/202611043921377144.html"
     },
     {
-      "time": "02:22",
-      "title": "纳斯达克中国金龙指数收涨0.21%",
+      "time": "07:56",
+      "title": "港股创新药概念持续走强 药明康德、百济神州均涨超5%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920677750.html"
+      "url": "https://finance.eastmoney.com/a/202611043921371121.html"
     },
     {
-      "time": "01:08",
-      "title": "纳指收涨0.8% 费城半导体指数涨2.6%",
+      "time": "04:12",
+      "title": "2026年世界互联网大会蓝皮书发布",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920677241.html"
+      "url": "https://finance.eastmoney.com/a/202611043921343921.html"
     },
     {
-      "time": "54:45",
-      "title": "一年内发生两次重大高铁事故 西班牙交通大臣宣布辞职",
+      "time": "04:02",
+      "title": "昇兴股份投资成立智能科技子公司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920675886.html"
+      "url": "https://finance.eastmoney.com/a/202611043921355570.html"
     },
     {
-      "time": "45:38",
-      "title": "拉脱维亚政府集体辞职",
+      "time": "03:42",
+      "title": "快手系芯片公司凌川科技完成10亿元B轮融资",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920674623.html"
+      "url": "https://finance.eastmoney.com/a/202611043921359388.html"
     },
     {
-      "time": "44:57",
-      "title": "国际油价3日微跌",
+      "time": "03:28",
+      "title": "国家统计局：10月下旬生猪(外三元)价格环比下降5.1%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920674594.html"
+      "url": "https://finance.eastmoney.com/a/202611043921351378.html"
     },
     {
-      "time": "31:55",
-      "title": "新疆昌吉州呼图壁县发生4.3级地震",
+      "time": "01:37",
+      "title": "日本芯片股大幅下挫 铠侠股价跌13%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920674347.html"
+      "url": "https://finance.eastmoney.com/a/202611043921333813.html"
     },
     {
-      "time": "29:38",
-      "title": "美元指数3日上涨",
+      "time": "01:25",
+      "title": "今年国内已有超30款肿瘤创新药获批，港股通创新药ETF鹏华、恒生生物科技ETF鹏华均涨超2%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920674163.html"
+      "url": "https://finance.eastmoney.com/a/202611043921338078.html"
     },
     {
-      "time": "25:42",
-      "title": "美国参议院商务委员会将于11月10日就联邦通信委员会委员提名人图曼举行确认听证会",
+      "time": "00:14",
+      "title": "半导体设备逆势拉升，科创半导体设备ETF华泰柏瑞涨超3%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920674019.html"
+      "url": "https://finance.eastmoney.com/a/202611043921325435.html"
     },
     {
-      "time": "17:06",
-      "title": "汇丰将南方航空A股评级下调至减持 目标价3.40元",
+      "time": "59:53",
+      "title": "股票ETF昨日净流入838亿元 924行情以来第三高",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920673959.html"
+      "url": "https://finance.eastmoney.com/a/202611043921356379.html"
     },
     {
-      "time": "10:29",
-      "title": "格陵兰岛自治政府议会批准与美国达成的安全协议",
+      "time": "58:50",
+      "title": "CrowdStrike出手对付失控智能体 推出“AI终止开关”切断权限！",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920673874.html"
+      "url": "https://finance.eastmoney.com/a/202611043921289844.html"
     },
     {
-      "time": "01:57",
-      "title": "Anthropic宣布推出FlashProve 该工具允许开发者验证某一响应是否由特定AI模型生成",
+      "time": "58:03",
+      "title": "新加坡股市较9月高点下跌10%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920673741.html"
+      "url": "https://finance.eastmoney.com/a/202611043921350086.html"
     },
     {
-      "time": "47:37",
-      "title": "据Skydance的一份备忘录 在派拉蒙与华纳兄弟探索公司合并后 将有八名高管离职",
+      "time": "57:01",
+      "title": "国家统计局公布10月下旬流通领域重要生产资料市场价格变动情况",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611043920673545.html"
+      "url": "https://finance.eastmoney.com/a/202611043921302542.html"
     },
     {
       "time": "06-05",
