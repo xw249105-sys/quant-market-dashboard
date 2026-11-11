@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11 17:45",
+  "updated_at": "2026-11-12 06:45",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 10716,
@@ -157629,26 +157629,6 @@
       "action": "可在参考区间小仓分批观察，不宜一次满仓"
     },
     {
-      "symbol": "159920",
-      "date": "2026-11-11",
-      "price": 1.431,
-      "score": 55,
-      "signal": "持有/等待确认",
-      "buy_low": 1.41,
-      "buy_high": 1.431,
-      "stop_loss": 1.39,
-      "target": 1.493,
-      "risk": "低",
-      "reasons": [
-        "收盘价站上 MA20",
-        "RSI 位于健康区间",
-        "MACD 位于信号线上方",
-        "近期波动可控"
-      ],
-      "name": "恒生ETF",
-      "action": "暂不追买，等待趋势与成交量进一步确认"
-    },
-    {
       "symbol": "159915",
       "date": "2026-11-11",
       "price": 2.59,
@@ -157665,201 +157645,183 @@
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "300750",
-      "date": "2026-11-11",
-      "price": 246.66,
-      "score": 30,
-      "signal": "回避/考虑减仓",
-      "buy_low": 235.504,
-      "buy_high": 246.66,
-      "stop_loss": 224.349,
-      "target": 280.127,
-      "risk": "高",
-      "reasons": [
-        "RSI 位于健康区间",
-        "MACD 位于信号线上方"
-      ],
-      "name": "宁德时代",
-      "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "39:11",
-      "title": "韩国金融委将于13日举行座谈会 讨论资本市场相关问题",
+      "time": "31:54",
+      "title": "据报道，英伟达准备罢免首席执行官黄仁勋，英伟达董事会准备最早于今日召开会议",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928491454.html"
+      "url": "https://finance.eastmoney.com/a/202611123928836371.html"
     },
     {
-      "time": "35:55",
-      "title": "伊朗官员：结束地区各战线战事是伊方根本条件之一",
+      "time": "29:45",
+      "title": "英伟达股价盘后跌幅扩大至9%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928485760.html"
+      "url": "https://finance.eastmoney.com/a/202611123928836068.html"
     },
     {
-      "time": "35:37",
-      "title": "摩根士丹利大幅下调三星、海力士长期盈利预期 目标价大降",
+      "time": "22:40",
+      "title": "英伟达股价盘后跌幅扩大至4%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928486836.html"
+      "url": "https://finance.eastmoney.com/a/202611123928834726.html"
     },
     {
-      "time": "34:09",
-      "title": "泽连斯基：虽说可能不礼貌 但我的工作不是哄特朗普开心",
+      "time": "10:06",
+      "title": "美联储12月加息50个基点的概率为10.4%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928484879.html"
+      "url": "https://finance.eastmoney.com/a/202611123928833856.html"
     },
     {
-      "time": "34:00",
-      "title": "国联民生证券完成第三批互换便利操作 标的覆盖沪深北交易所",
+      "time": "07:32",
+      "title": "博通股价盘后拉升上涨至1.3%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928489274.html"
+      "url": "https://finance.eastmoney.com/a/202611123928831985.html"
     },
     {
-      "time": "32:40",
-      "title": "瑞芯微今日大宗交易平价成交29.14万股 成交额6848.19万元",
+      "time": "03:03",
+      "title": "MSCI宣布将Strategy Inc从其全球标准指数中剔除",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928483558.html"
+      "url": "https://finance.eastmoney.com/a/202611123928830244.html"
     },
     {
-      "time": "32:38",
-      "title": "翱捷科技今日大宗交易平价成交60.44万股 成交额6691.18万元",
+      "time": "01:52",
+      "title": "英伟达盘后跳水跌超3% 有消息称黄仁勋曾与英伟达高管有染",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928485433.html"
+      "url": "https://finance.eastmoney.com/a/202611123928828668.html"
     },
     {
-      "time": "32:21",
-      "title": "诺和诺德承诺10年内出资2亿美元支持世界糖尿病基金会",
+      "time": "50:23",
+      "title": "微牛盘后上涨6.5%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928485262.html"
+      "url": "https://finance.eastmoney.com/a/202611123928823988.html"
     },
     {
-      "time": "32:00",
-      "title": "中伟新材：控股股东拟5亿元—10亿元增持公司股份",
+      "time": "45:11",
+      "title": "西班牙发生全国性罢工 超50人被捕多地交通受阻",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928485167.html"
+      "url": "https://finance.eastmoney.com/a/202611123928823385.html"
     },
     {
-      "time": "28:38",
-      "title": "纬创9个月累计营业利润1,112.6亿元台币",
+      "time": "35:49",
+      "title": "辉瑞与黑石将共同出资最高15亿美元支持肥胖症项目",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928482829.html"
+      "url": "https://finance.eastmoney.com/a/202611123928822648.html"
     },
     {
-      "time": "28:12",
-      "title": "钯金期货日内涨5%",
+      "time": "25:41",
+      "title": "新一代通信网：以空天地海数字神经 开启万亿新周期",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928482332.html"
+      "url": "https://finance.eastmoney.com/a/202611123928812427.html"
     },
     {
-      "time": "27:34",
-      "title": "伊朗波斯湾海峡管理局称对违规船只展开法律行动",
+      "time": "18:18",
+      "title": "惠誉可能下调巴拉圭的BB+主权信用评级",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928479313.html"
+      "url": "https://finance.eastmoney.com/a/202611123928820588.html"
     },
     {
-      "time": "26:37",
-      "title": "证监会：支持相关市场机构、人员按照相关规定主动实施先行赔付",
+      "time": "15:34",
+      "title": "富时中国A50指数期货夜盘收涨0.07%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928480498.html"
+      "url": "https://finance.eastmoney.com/a/202611123928820087.html"
     },
     {
-      "time": "26:18",
-      "title": "伊朗外长致信联合国要求谴责美国悬赏征集伊核情报",
+      "time": "07:06",
+      "title": "国际油价11日微涨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928478636.html"
+      "url": "https://finance.eastmoney.com/a/202611123928819819.html"
     },
     {
-      "time": "25:32",
-      "title": "亚振家居今日大宗交易折价成交102.5万股 成交额5205.98万元",
+      "time": "06:03",
+      "title": "美元指数11日上涨",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928481839.html"
+      "url": "https://finance.eastmoney.com/a/202611123928819751.html"
     },
     {
-      "time": "25:31",
-      "title": "华勤技术今日大宗交易折价成交121.5万股 成交额8360.42万元",
+      "time": "00:05",
+      "title": "AI交易热情重燃 纳斯达克100指数收涨超2%并在盘中收复中期选举以来全部跌幅",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928480928.html"
+      "url": "https://finance.eastmoney.com/a/202611123928818128.html"
     },
     {
-      "time": "25:30",
-      "title": "寒武纪今日大宗交易平价成交6.56万股 成交额5905.08万元",
+      "time": "49:46",
+      "title": "泽连斯基称已抵达都柏林 将与美方代表会晤",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928480816.html"
+      "url": "https://finance.eastmoney.com/a/202611123928818023.html"
     },
     {
-      "time": "25:27",
-      "title": "无锡银行今日大宗交易折价成交4083.16万股 成交额2.32亿元",
+      "time": "34:22",
+      "title": "iHeart表示：它没有出售播客部门的计划",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928480793.html"
+      "url": "https://finance.eastmoney.com/a/202611123928815268.html"
     },
     {
-      "time": "25:13",
-      "title": "关于东方通证券虚假陈述责任纠纷等案件 证监会有关部门负责人答记者问",
+      "time": "28:28",
+      "title": "摩根士丹利将中国国航A股评级下调至低配 目标价4.30元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928478247.html"
+      "url": "https://finance.eastmoney.com/a/202611123928814993.html"
     },
     {
-      "time": "24:53",
-      "title": "江西铜业：拟3亿元-5亿元回购公司股份",
+      "time": "28:15",
+      "title": "Anthropic的承销商正考虑将此次IPO的估值目标上调至最低1.5万亿美元",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928478927.html"
+      "url": "https://finance.eastmoney.com/a/202611123928815043.html"
     },
     {
-      "time": "24:26",
-      "title": "中原内配：拟在美国设立全资孙公司",
+      "time": "24:28",
+      "title": "白宫警告民主党其国会调查计划或涉嫌犯罪",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928479590.html"
+      "url": "https://finance.eastmoney.com/a/202611123928814834.html"
     },
     {
-      "time": "21:04",
-      "title": "WTI原油期货涨幅扩大至1%",
+      "time": "03:34",
+      "title": "伊朗军方高官称目前波斯湾内没有美军存在",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928470149.html"
+      "url": "https://finance.eastmoney.com/a/202611123928813855.html"
     },
     {
-      "time": "20:53",
-      "title": "山西炼焦煤矿停产数量增至43座 产能共计4735万吨",
+      "time": "58:18",
+      "title": "中国气象智能预警方案“妈祖”一体机向全球发布",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928474966.html"
+      "url": "https://finance.eastmoney.com/a/202611123928813758.html"
     },
     {
-      "time": "20:50",
-      "title": "西班牙开始全国大罢工",
+      "time": "45:36",
+      "title": "俄外交部：俄中合作对亚太乃至全球稳定安全至关重要",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928473376.html"
+      "url": "https://finance.eastmoney.com/a/202611123928813643.html"
     },
     {
-      "time": "20:50",
-      "title": "长芯博创：控股股东长飞光纤11月9日至10日增持公司总股本1.22% 持股比例上升至20%并拟继续增持不低于2000万元",
+      "time": "33:50",
+      "title": "胡塞武装称过去24小时内沙特联军发动93次空袭",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611113928471755.html"
+      "url": "https://finance.eastmoney.com/a/202611123928813361.html"
     },
     {
       "time": "06-05",
@@ -158038,6 +158000,8 @@
     }
   ],
   "health": {
-    "partial_failures": []
+    "partial_failures": [
+      "板块: 东方财富 push2 行情服务器断开了连接，通常是短时间内请求过多，当前 IP 被临时限流。首次限流一般约 5 分钟后恢复，反复触发后可能需要 40 分钟以上；等待期间不要重复调用东方财富的行情接口，否则会延长限流。"
+    ]
   }
 }
