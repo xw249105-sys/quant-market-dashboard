@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 15:22",
+  "updated_at": "2026-11-13 10:41",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 10716,
@@ -157606,15 +157606,37 @@
   ],
   "assets": [
     {
+      "symbol": "600519",
+      "date": "2026-11-13",
+      "price": 1428.6,
+      "score": 75,
+      "signal": "分批买入观察",
+      "buy_low": 1396.411,
+      "buy_high": 1428.6,
+      "stop_loss": 1364.221,
+      "target": 1525.168,
+      "risk": "中",
+      "reasons": [
+        "收盘价站上 MA20",
+        "MA20 高于 MA60",
+        "中长期均线多头",
+        "RSI 位于健康区间",
+        "20 日动量为正",
+        "近期波动可控"
+      ],
+      "name": "贵州茅台",
+      "action": "可在参考区间小仓分批观察，不宜一次满仓"
+    },
+    {
       "symbol": "159920",
-      "date": "2026-11-12",
-      "price": 1.409,
+      "date": "2026-11-13",
+      "price": 1.401,
       "score": 55,
       "signal": "持有/等待确认",
-      "buy_low": 1.388,
-      "buy_high": 1.409,
-      "stop_loss": 1.368,
-      "target": 1.471,
+      "buy_low": 1.381,
+      "buy_high": 1.401,
+      "stop_loss": 1.361,
+      "target": 1.462,
       "risk": "低",
       "reasons": [
         "收盘价站上 MA20",
@@ -157626,215 +157648,215 @@
       "action": "暂不追买，等待趋势与成交量进一步确认"
     },
     {
+      "symbol": "300750",
+      "date": "2026-11-13",
+      "price": 241.68,
+      "score": 20,
+      "signal": "回避/考虑减仓",
+      "buy_low": 232.065,
+      "buy_high": 241.68,
+      "stop_loss": 222.45,
+      "target": 270.525,
+      "risk": "中",
+      "reasons": [
+        "MACD 位于信号线上方"
+      ],
+      "name": "宁德时代",
+      "action": "当前不建议新开仓，优先控制风险"
+    },
+    {
       "symbol": "159915",
-      "date": "2026-11-12",
-      "price": 2.524,
+      "date": "2026-11-13",
+      "price": 2.504,
       "score": 15,
       "signal": "回避/考虑减仓",
-      "buy_low": 2.416,
-      "buy_high": 2.524,
-      "stop_loss": 2.309,
-      "target": 2.847,
+      "buy_low": 2.398,
+      "buy_high": 2.504,
+      "stop_loss": 2.293,
+      "target": 2.821,
       "risk": "高",
       "reasons": [
         "MACD 位于信号线上方"
       ],
       "name": "创业板ETF",
       "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
-      "symbol": "300750",
-      "date": "2026-11-12",
-      "price": 240.0,
-      "score": 15,
-      "signal": "回避/考虑减仓",
-      "buy_low": 229.904,
-      "buy_high": 240.0,
-      "stop_loss": 219.807,
-      "target": 270.289,
-      "risk": "高",
-      "reasons": [
-        "MACD 位于信号线上方"
-      ],
-      "name": "宁德时代",
-      "action": "当前不建议新开仓，优先控制风险"
     }
   ],
   "news": [
     {
-      "time": "18:12",
-      "title": "鸿海：预计全年业绩将超出此前预期 向好趋势将延续至明年",
+      "time": "39:12",
+      "title": "碳酸锂主力合约日内涨幅达4%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929448111.html"
+      "url": "https://finance.eastmoney.com/a/202611133930569312.html"
     },
     {
-      "time": "17:09",
-      "title": "国债期货收盘多数上涨 30年期主力合约跌0.08%",
+      "time": "36:31",
+      "title": "业内人士：四季度金价大概率维持低位震荡",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929448444.html"
+      "url": "https://finance.eastmoney.com/a/202611133930569142.html"
     },
     {
-      "time": "17:00",
-      "title": "商务部：中欧医疗器械专场贸易对接会达成100余项合作意向",
+      "time": "35:41",
+      "title": "新华传媒跌停 公司再度提示交易风险",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929448691.html"
+      "url": "https://finance.eastmoney.com/a/202611133930569417.html"
     },
     {
-      "time": "16:51",
-      "title": "伊朗称两艘油轮在霍尔木兹海峡发生爆炸",
+      "time": "34:00",
+      "title": "天津市工业控制系统创新生态联盟揭牌",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929446464.html"
+      "url": "https://finance.eastmoney.com/a/202611133930569272.html"
     },
     {
-      "time": "15:40",
-      "title": "日本内阁官房长官木原稔：日元被低估是一个问题",
+      "time": "32:46",
+      "title": "段永平、但斌谈黄仁勋离职：短期对英伟达影响有限 长期看竞争情况",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929447472.html"
+      "url": "https://finance.eastmoney.com/a/202611133930558234.html"
     },
     {
-      "time": "14:43",
-      "title": "现货黄金失守3960美元/盎司",
+      "time": "32:12",
+      "title": "创梦天地：拟向腾讯集团提供AI模型调用、Token及其他云技术服务",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929446286.html"
+      "url": "https://finance.eastmoney.com/a/202611133930568536.html"
     },
     {
-      "time": "13:58",
-      "title": "德意志银行下调英飞凌目标价",
+      "time": "31:32",
+      "title": "余承东曝光华为Mate X8真机",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929446993.html"
+      "url": "https://finance.eastmoney.com/a/202611133930567571.html"
     },
     {
-      "time": "12:38",
-      "title": "匈牙利制药公司吉利德与礼来签署女性健康药物许可协议",
+      "time": "31:13",
+      "title": "银行板块大面积回暖 江苏银行、南京银行双双创历史新高",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929446845.html"
+      "url": "https://finance.eastmoney.com/a/202611133930567670.html"
     },
     {
-      "time": "12:26",
-      "title": "现货白银日内跌超1%",
+      "time": "30:56",
+      "title": "中芯国际研判行业趋势，AI需求有望拉长半导体上行周期，半导体ETF博时(159582)跟踪指数一度涨近4%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929446056.html"
+      "url": "https://finance.eastmoney.com/a/202611133930568484.html"
     },
     {
-      "time": "09:23",
-      "title": "商务部：中美正就降税、贸易、投资等问题保持密切沟通",
+      "time": "28:12",
+      "title": "物理AI产业化提速，2030年市场规模有望达4500亿美元，工业软件ETF博时(159108)跟踪指数盘中最高涨超2%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929442489.html"
+      "url": "https://finance.eastmoney.com/a/202611133930567085.html"
     },
     {
-      "time": "07:08",
-      "title": "美国对涉华聚四亚甲基醚乙二醇作出反倾销初裁",
+      "time": "26:58",
+      "title": "董明珠首次回应格力技校热点问题：办学不是“要赚钱”，每年需投入1亿元补贴，想让孩子拥有一技之长，能够自立，活得有尊严",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929443446.html"
+      "url": "https://finance.eastmoney.com/a/202611133930566598.html"
     },
     {
-      "time": "06:47",
-      "title": "商务部回应欧盟有关国家禁用中国企业设备",
+      "time": "26:53",
+      "title": "生猪价格二次探底，产能去化再加速，养殖ETF鹏华涨超2%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929440736.html"
+      "url": "https://finance.eastmoney.com/a/202611133930566954.html"
     },
     {
-      "time": "06:32",
-      "title": "国内首个口服GLP-1类减肥药获批上市",
+      "time": "24:01",
+      "title": "猪肉概念盘中异动拉升 金新农、天邦食品涨停",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929441932.html"
+      "url": "https://finance.eastmoney.com/a/202611133930565249.html"
     },
     {
-      "time": "06:20",
-      "title": "Anthropic CEO惊人预言：AI或在十年内攻克癌症、心脏病和精神疾病！",
+      "time": "23:46",
+      "title": "乌克兰总统：欧洲代表将参加下一轮谈判",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929442291.html"
+      "url": "https://finance.eastmoney.com/a/202611133930566385.html"
     },
     {
-      "time": "05:12",
-      "title": "ETF两市成交额4457.93亿 同比减少477.07亿",
+      "time": "22:57",
+      "title": "艾伯维乌帕替尼缓释片非节段型白癜风新适应症在华获批",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929442351.html"
+      "url": "https://finance.eastmoney.com/a/202611133930564624.html"
     },
     {
-      "time": "02:59",
-      "title": "博柏利第二财季零售同店销售增长4%",
+      "time": "21:46",
+      "title": "河北南网“风光”新能源装机容量占比超60%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929439550.html"
+      "url": "https://finance.eastmoney.com/a/202611133930564115.html"
     },
     {
-      "time": "02:48",
-      "title": "韩国外长赵显将访华",
+      "time": "21:32",
+      "title": "伊朗革命卫队称摧毁美军在巴林的预警雷达",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929439263.html"
+      "url": "https://finance.eastmoney.com/a/202611133930563110.html"
     },
     {
-      "time": "01:34",
-      "title": "张一鸣再发声谈字节AI：追平OpenAI与Anthropic“最早2029年或2030年”",
+      "time": "20:32",
+      "title": "大摩上调产量预期！人形机器人板块有望持续修复",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929440546.html"
+      "url": "https://finance.eastmoney.com/a/202611133930566729.html"
     },
     {
-      "time": "01:33",
-      "title": "国家发改委：11月12日24时起国内汽、柴油价格每吨分别下调645元、625元",
+      "time": "18:40",
+      "title": "第六届国际新材料产业大会在蚌埠开幕",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929437071.html"
+      "url": "https://finance.eastmoney.com/a/202611133930562693.html"
     },
     {
-      "time": "00:45",
-      "title": "国内商品期货收盘 主力合约多数上涨",
+      "time": "18:19",
+      "title": "中芯国际赵海军：AI算力供不应求，2027年半导体代工产能将非常紧缺",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929436710.html"
+      "url": "https://finance.eastmoney.com/a/202611133930562966.html"
     },
     {
-      "time": "00:29",
-      "title": "A股三大指数收跌 成交额超1.9万亿 地面兵装板块逆市走强",
+      "time": "17:45",
+      "title": "通鼎互联在江苏成立光电技术子公司",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929437342.html"
+      "url": "https://finance.eastmoney.com/a/202611133930562759.html"
     },
     {
-      "time": "00:28",
-      "title": "英国第三季度经济环比增长0.7%",
+      "time": "16:00",
+      "title": "海外算力巨头突发换帅 天数智芯和壁仞科技均涨超6%",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929438745.html"
+      "url": "https://finance.eastmoney.com/a/202611133930561065.html"
     },
     {
-      "time": "00:05",
-      "title": "报道：日本央行官员浅田对加息并非100%反对",
+      "time": "15:07",
+      "title": "内、外双催化来袭！寒武纪领涨，芯片设计概念延续走强",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929439166.html"
+      "url": "https://finance.eastmoney.com/a/202611133930566696.html"
     },
     {
-      "time": "58:55",
-      "title": "台积电回应“6.9GB员工资料外泄”",
+      "time": "14:35",
+      "title": "中国石油集团召开碳达峰碳中和、新兴产业领导小组会议",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929436489.html"
+      "url": "https://finance.eastmoney.com/a/202611133930559578.html"
     },
     {
-      "time": "58:52",
-      "title": "中韩半导体ETF华泰柏瑞成交额超250亿",
+      "time": "14:22",
+      "title": "国务院安委会办公室对11个市级政府开展安全生产约谈",
       "source": "东方财富",
       "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611123929436197.html"
+      "url": "https://finance.eastmoney.com/a/202611133930562875.html"
     },
     {
       "time": "06-05",
