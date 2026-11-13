@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 10:41",
+  "updated_at": "2026-11-13 20:19",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 10716,
@@ -157608,13 +157608,13 @@
     {
       "symbol": "600519",
       "date": "2026-11-13",
-      "price": 1428.6,
+      "price": 1435.26,
       "score": 75,
       "signal": "分批买入观察",
-      "buy_low": 1396.411,
-      "buy_high": 1428.6,
-      "stop_loss": 1364.221,
-      "target": 1525.168,
+      "buy_low": 1402.425,
+      "buy_high": 1435.26,
+      "stop_loss": 1369.59,
+      "target": 1533.765,
       "risk": "中",
       "reasons": [
         "收盘价站上 MA20",
@@ -157628,52 +157628,15 @@
       "action": "可在参考区间小仓分批观察，不宜一次满仓"
     },
     {
-      "symbol": "159920",
-      "date": "2026-11-13",
-      "price": 1.401,
-      "score": 55,
-      "signal": "持有/等待确认",
-      "buy_low": 1.381,
-      "buy_high": 1.401,
-      "stop_loss": 1.361,
-      "target": 1.462,
-      "risk": "低",
-      "reasons": [
-        "收盘价站上 MA20",
-        "RSI 位于健康区间",
-        "MACD 位于信号线上方",
-        "近期波动可控"
-      ],
-      "name": "恒生ETF",
-      "action": "暂不追买，等待趋势与成交量进一步确认"
-    },
-    {
-      "symbol": "300750",
-      "date": "2026-11-13",
-      "price": 241.68,
-      "score": 20,
-      "signal": "回避/考虑减仓",
-      "buy_low": 232.065,
-      "buy_high": 241.68,
-      "stop_loss": 222.45,
-      "target": 270.525,
-      "risk": "中",
-      "reasons": [
-        "MACD 位于信号线上方"
-      ],
-      "name": "宁德时代",
-      "action": "当前不建议新开仓，优先控制风险"
-    },
-    {
       "symbol": "159915",
       "date": "2026-11-13",
-      "price": 2.504,
+      "price": 2.442,
       "score": 15,
       "signal": "回避/考虑减仓",
-      "buy_low": 2.398,
-      "buy_high": 2.504,
-      "stop_loss": 2.293,
-      "target": 2.821,
+      "buy_low": 2.332,
+      "buy_high": 2.442,
+      "stop_loss": 2.223,
+      "target": 2.771,
       "risk": "高",
       "reasons": [
         "MACD 位于信号线上方"
@@ -157683,181 +157646,6 @@
     }
   ],
   "news": [
-    {
-      "time": "39:12",
-      "title": "碳酸锂主力合约日内涨幅达4%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930569312.html"
-    },
-    {
-      "time": "36:31",
-      "title": "业内人士：四季度金价大概率维持低位震荡",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930569142.html"
-    },
-    {
-      "time": "35:41",
-      "title": "新华传媒跌停 公司再度提示交易风险",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930569417.html"
-    },
-    {
-      "time": "34:00",
-      "title": "天津市工业控制系统创新生态联盟揭牌",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930569272.html"
-    },
-    {
-      "time": "32:46",
-      "title": "段永平、但斌谈黄仁勋离职：短期对英伟达影响有限 长期看竞争情况",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930558234.html"
-    },
-    {
-      "time": "32:12",
-      "title": "创梦天地：拟向腾讯集团提供AI模型调用、Token及其他云技术服务",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930568536.html"
-    },
-    {
-      "time": "31:32",
-      "title": "余承东曝光华为Mate X8真机",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930567571.html"
-    },
-    {
-      "time": "31:13",
-      "title": "银行板块大面积回暖 江苏银行、南京银行双双创历史新高",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930567670.html"
-    },
-    {
-      "time": "30:56",
-      "title": "中芯国际研判行业趋势，AI需求有望拉长半导体上行周期，半导体ETF博时(159582)跟踪指数一度涨近4%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930568484.html"
-    },
-    {
-      "time": "28:12",
-      "title": "物理AI产业化提速，2030年市场规模有望达4500亿美元，工业软件ETF博时(159108)跟踪指数盘中最高涨超2%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930567085.html"
-    },
-    {
-      "time": "26:58",
-      "title": "董明珠首次回应格力技校热点问题：办学不是“要赚钱”，每年需投入1亿元补贴，想让孩子拥有一技之长，能够自立，活得有尊严",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930566598.html"
-    },
-    {
-      "time": "26:53",
-      "title": "生猪价格二次探底，产能去化再加速，养殖ETF鹏华涨超2%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930566954.html"
-    },
-    {
-      "time": "24:01",
-      "title": "猪肉概念盘中异动拉升 金新农、天邦食品涨停",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930565249.html"
-    },
-    {
-      "time": "23:46",
-      "title": "乌克兰总统：欧洲代表将参加下一轮谈判",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930566385.html"
-    },
-    {
-      "time": "22:57",
-      "title": "艾伯维乌帕替尼缓释片非节段型白癜风新适应症在华获批",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930564624.html"
-    },
-    {
-      "time": "21:46",
-      "title": "河北南网“风光”新能源装机容量占比超60%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930564115.html"
-    },
-    {
-      "time": "21:32",
-      "title": "伊朗革命卫队称摧毁美军在巴林的预警雷达",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930563110.html"
-    },
-    {
-      "time": "20:32",
-      "title": "大摩上调产量预期！人形机器人板块有望持续修复",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930566729.html"
-    },
-    {
-      "time": "18:40",
-      "title": "第六届国际新材料产业大会在蚌埠开幕",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930562693.html"
-    },
-    {
-      "time": "18:19",
-      "title": "中芯国际赵海军：AI算力供不应求，2027年半导体代工产能将非常紧缺",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930562966.html"
-    },
-    {
-      "time": "17:45",
-      "title": "通鼎互联在江苏成立光电技术子公司",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930562759.html"
-    },
-    {
-      "time": "16:00",
-      "title": "海外算力巨头突发换帅 天数智芯和壁仞科技均涨超6%",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930561065.html"
-    },
-    {
-      "time": "15:07",
-      "title": "内、外双催化来袭！寒武纪领涨，芯片设计概念延续走强",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930566696.html"
-    },
-    {
-      "time": "14:35",
-      "title": "中国石油集团召开碳达峰碳中和、新兴产业领导小组会议",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930559578.html"
-    },
-    {
-      "time": "14:22",
-      "title": "国务院安委会办公室对11个市级政府开展安全生产约谈",
-      "source": "东方财富",
-      "category": "财经",
-      "url": "https://finance.eastmoney.com/a/202611133930562875.html"
-    },
     {
       "time": "06-05",
       "title": "学习卡丨“人不负青山，青山定不负人”",
@@ -158032,6 +157820,111 @@
       "source": "人民网财经",
       "category": "财经",
       "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494874.html"
+    },
+    {
+      "time": "06-05",
+      "title": "我国认证认可检验检测行业发展质量实现整体提升",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494876.html"
+    },
+    {
+      "time": "06-05",
+      "title": "滴滴程维：将持续发挥稳就业、促消费作用",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494850.html"
+    },
+    {
+      "time": "06-05",
+      "title": "数说生态美 共赏美丽中国新画卷",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494620.html"
+    },
+    {
+      "time": "06-05",
+      "title": "商务部：中方反对美301关税的立场是明确的、一贯的",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494843.html"
+    },
+    {
+      "time": "06-05",
+      "title": "商务部回应美方提高钢铝关税：将严重扰乱全球产业链供应链稳定",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494835.html"
+    },
+    {
+      "time": "06-05",
+      "title": "防范自动驾驶技术风险 筑牢公共安全防护屏障",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494673.html"
+    },
+    {
+      "time": "06-05",
+      "title": "处置非法集资部际联席会议发布《关于加强防范非法集资宣传教育工作的意见》",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494740.html"
+    },
+    {
+      "time": "06-05",
+      "title": "最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494737.html"
+    },
+    {
+      "time": "06-05",
+      "title": "防范和打击非法金融活动部际联席会议召开2025年全体（扩大）会议暨打击非法集资专项行动推进会议",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494726.html"
+    },
+    {
+      "time": "06-05",
+      "title": "宣讲防非打非 增强防范意识",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494708.html"
+    },
+    {
+      "time": "06-05",
+      "title": "山东广饶县开展防范非法集资宣传进养老机构活动",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494704.html"
+    },
+    {
+      "time": "06-05",
+      "title": "防范非法金融活动的指南请您查收",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494699.html"
+    },
+    {
+      "time": "06-05",
+      "title": "2025年防范非法金融活动宣传月正式启动",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c460498-40494684.html"
+    },
+    {
+      "time": "06-05",
+      "title": "完善大语言模型治理体系 守护数智时代网络安全",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494670.html"
+    },
+    {
+      "time": "06-05",
+      "title": "把稳智能驾驶安全“方向盘” 筑牢物流配送无人车“生命线”",
+      "source": "人民网财经",
+      "category": "财经",
+      "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494675.html"
     }
   ],
   "health": {
