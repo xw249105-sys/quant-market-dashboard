@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 08:50",
+  "updated_at": "2026-11-25 19:26",
   "market_status": "公开数据源，可能延迟",
   "breadth": {
     "up": 951,
@@ -7,44 +7,44 @@
   },
   "indices": [
     {
-      "name": "日经225",
-      "price": 58644.63,
-      "change": 3.91
-    },
-    {
       "name": "道琼斯",
-      "price": 49792.33,
-      "change": 0.4
-    },
-    {
-      "name": "上证指数",
-      "price": 3548.37,
-      "change": 0.27
-    },
-    {
-      "name": "创业板指",
-      "price": 2278.99,
-      "change": -0.05
-    },
-    {
-      "name": "深证成指",
-      "price": 10423.6,
-      "change": -0.29
+      "price": 50018.7,
+      "change": 0.85
     },
     {
       "name": "标普500",
-      "price": 7199.15,
-      "change": -0.53
+      "price": 7201.09,
+      "change": -0.5
     },
     {
       "name": "恒生指数",
-      "price": 22219.65,
-      "change": -0.73
+      "price": 21966.01,
+      "change": -1.14
     },
     {
       "name": "纳斯达克",
-      "price": 23775.41,
-      "change": -1.3
+      "price": 23733.54,
+      "change": -1.48
+    },
+    {
+      "name": "上证指数",
+      "price": 3476.47,
+      "change": -2.03
+    },
+    {
+      "name": "日经225",
+      "price": 57011.62,
+      "change": -2.78
+    },
+    {
+      "name": "深证成指",
+      "price": 10086.36,
+      "change": -3.24
+    },
+    {
+      "name": "创业板指",
+      "price": 2183.58,
+      "change": -4.19
     }
   ],
   "sectors": {
